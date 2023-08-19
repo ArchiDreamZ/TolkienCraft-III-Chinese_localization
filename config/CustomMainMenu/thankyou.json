@@ -37,7 +37,7 @@
     {		
         "mainmenu":
         {
-            "text" : "Main Menu",
+            "text" : "主菜单",
                         "texture" : "textures:tolkiencraft/buttons/buttontemplate3.png",
             "posX" : -75,
             "posY" : 150,
@@ -66,7 +66,7 @@
 			"imageWidth" : 50,
 			"imageHeight" : 50,
             "alignment" : "bottom_left",
-			"tooltip" : "Choose your Settings",
+			"tooltip" : "选择您的设置",
              "action" :
             {
                 "type" : "openGui",
@@ -85,7 +85,7 @@
 			"imageWidth" : 50,
 			"imageHeight" : 50,
             "alignment" : "bottom_left",
-			"tooltip" : "Default keyboard layout",
+			"tooltip" : "默认按键布局",
              "action" :
             {
                 "type" : "openGui",
@@ -104,7 +104,7 @@
 			"imageWidth" : 50,
 			"imageHeight" : 50,
             "alignment" : "bottom_left",
-			"tooltip" : "Adventure another day.",
+			"tooltip" : "他日再战.",
             "action" :
             {
                 "type" : "quit"
@@ -122,7 +122,7 @@
 			"imageWidth" : 50,
 			"imageHeight" : 50,
             "alignment" : "bottom_left",
-			"tooltip" : "How shall I address thee?",
+			"tooltip" : "吾应以何称呼汝?",
             "action" :
             {
                 "type" : "openGui",
@@ -167,7 +167,7 @@
             "posY" : 56,
             "color" : 14329120,
             "alignment" : "center",
-			"hoverText" : "Download his music!",
+			"hoverText" : "下载这个音乐！",
 			"action" :
                         {
                 "type" : "openLink",
@@ -182,7 +182,7 @@
             "posY" : 66,
             "color" : 14329120,
             "alignment" : "center",
-			"hoverText" : "Download his music!",
+			"hoverText" : "下载这个音乐！",
 			"action" :
                         {
                 "type" : "openLink",
@@ -197,7 +197,7 @@
             "posY" : 116,
             "color" : 14329120,
             "alignment" : "center",
-			"hoverText" : "Thank you for your inspiration!"
+			"hoverText" : "感谢您的启发！"
 		},
         		
 	"sn0w":
@@ -207,7 +207,7 @@
             "posY" : 76,
             "color" : 14329120,
             "alignment" : "center",
-			"hoverText" : "Download her music!",
+			"hoverText" : "下载她的音乐！",
 			"action" :
                         {
                 "type" : "openLink",
@@ -271,7 +271,7 @@
             "posY" : 120,
             "color" : 13055,
             "alignment" : "top_center",
-			"texts" : "Adventure\nOne ring to build them all\nand in the darkness mine them\nRoads Go Ever On\nHome is behind\nthe world ahead\nDug too deep\nDarker and fouler things\nPipe weed\nelevensies\nsecond breakfast\nRiddle Game\nSo our path is laid\nNo living man am I!\nMany dark places\nCaras Galadhon\nKazad Dum\nBarad Dur\nCirith Ungol\nMinas Tirith\nEdoras\nEsgaroth\nErebor\nWeathertop\nIsengard\nArgonath\nHobbiton\nBrandybuck\nBeorn\nHelm’s Deep\nDale\nWaterworks\nOsgiliath\nRivendell\nThranduil\nLand of Bree\nMinas Morgul\nShelob\nThe Black Gates\nMount Doom"
+			"texts" : "冒险\n只要一枚戒指，就能造出一切\n然后在黑暗中，开采它们\n路漫漫其修远兮\n家乡在身后\n世界在眼前\n挖掘得太深了\n更黑暗，更肮脏的东西\n烟斗草\n十几岁\n二早餐\n字谜游戏\n所以，我们的道路已经展开\n但我并非男子！\n许多黑暗的地方\n卡拉斯·加拉松\n加拉兹·督姆\n巴拉·督尔\n奇立斯·乌苟\n米那斯·提力斯\n埃多拉斯\n埃斯加罗斯\n埃瑞博山\n风云顶\n艾森加德\n阿刚那斯\n霍比屯\n雄鹿镇\n贝奥恩\n圣盔谷\n河谷城\n墨瑞亚水利工程\n欧斯吉利亚斯\n瑞文戴尔\n瑟兰杜伊\n布理之地\n米那斯魔古尔\n尸罗\n黑门\n末日山"
         },
 		
         "panorama":
