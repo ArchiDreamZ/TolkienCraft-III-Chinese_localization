@@ -36,11 +36,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Esgaroth",
+          "name:8": "长湖镇",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -95,7 +95,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Rivendell waypoint unlocked!",
+          "name:8": "幽谷路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -139,11 +139,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Lothlorien",
+          "name:8": "洛丝罗瑞恩",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -198,7 +198,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Minas Morgul waypoint unlocked!",
+          "name:8": "米那斯魔古尔路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -217,7 +217,7 @@
           "posY:3": 43,
           "posZ:3": 13656,
           "biome:8": "",
-          "name:8": "Minas Morgul",
+          "name:8": "米那斯魔古尔",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -259,11 +259,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dol Guldur",
+          "name:8": "多古尔都",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -318,11 +318,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Rhosgobel",
+          "name:8": "罗斯戈贝尔",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -377,11 +377,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Beorn\u0027s Hall",
+          "name:8": "贝奥恩大厅",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -436,11 +436,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Thranduil\u0027s Halls",
+          "name:8": "精灵国王的宫殿",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -495,11 +495,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dale",
+          "name:8": "河谷邦",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -554,11 +554,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Erebor",
+          "name:8": "埃瑞博山",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -617,7 +617,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -672,7 +672,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Carn Dum waypoint unlocked!",
+          "name:8": "卡恩督姆路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -691,7 +691,7 @@
           "posY:3": 39,
           "posZ:3": 2957,
           "biome:8": "",
-          "name:8": "Carn Dum",
+          "name:8": "卡恩督姆",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -733,7 +733,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Forochel waypoint unlocked!",
+          "name:8": "佛洛赫尔 路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -752,7 +752,7 @@
           "posY:3": 41,
           "posZ:3": 1834,
           "biome:8": "",
-          "name:8": "Forochel",
+          "name:8": "佛洛赫尔",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -794,11 +794,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Moria:West Gate",
+          "name:8": "墨瑞亚:西门",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -853,11 +853,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Moria:East Gate",
+          "name:8": "墨瑞亚:东门",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -912,11 +912,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Amon Hen",
+          "name:8": "阿蒙汉",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -971,11 +971,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Amon Lhaw",
+          "name:8": "阿蒙肖",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -1030,11 +1030,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Argonath",
+          "name:8": "阿刚那斯",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -1089,7 +1089,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Black Gates waypoint unlocked!",
+          "name:8": "黑门路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -1108,7 +1108,7 @@
           "posY:3": 69,
           "posZ:3": 12272,
           "biome:8": "",
-          "name:8": "Black Gates",
+          "name:8": "黑门",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -1150,11 +1150,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Isengard",
+          "name:8": "艾森加德",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -1209,11 +1209,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Helm\u0027s Deep",
+          "name:8": "海尔姆深谷",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -1268,11 +1268,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dunharrow",
+          "name:8": "黑蛮祠",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -1327,11 +1327,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Edoras",
+          "name:8": "埃多拉斯",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -1386,11 +1386,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Minas Tirith",
+          "name:8": "米那斯提力斯",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -1445,11 +1445,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Black Gates",
+          "name:8": "黑门",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -1504,11 +1504,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Minas Morgul",
+          "name:8": "米那斯魔古尔",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -1563,11 +1563,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Mount Doom",
+          "name:8": "末日山",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -1622,7 +1622,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Frogmorton waypoint unlocked!",
+          "name:8": "蛙泽屯路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -1641,7 +1641,7 @@
           "posY:3": 39,
           "posZ:3": 6685,
           "biome:8": "",
-          "name:8": "Frogmorton",
+          "name:8": "蛙泽屯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -1683,7 +1683,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Bree waypoint unlocked!",
+          "name:8": "布理路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -1702,7 +1702,7 @@
           "posY:3": 52,
           "posZ:3": 7892,
           "biome:8": "",
-          "name:8": "Bree",
+          "name:8": "布理",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -1744,7 +1744,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Bucklebury waypoint unlocked!",
+          "name:8": "雄鹿镇路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
@@ -1763,7 +1763,7 @@
           "posY:3": 41,
           "posZ:3": 6741,
           "biome:8": "",
-          "name:8": "Bucklebury",
+          "name:8": "雄鹿镇",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -1805,7 +1805,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Hobbiton waypoint unlocked!",
+          "name:8": "霍比屯路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -1824,7 +1824,7 @@
           "posY:3": 40,
           "posZ:3": 8066,
           "biome:8": "",
-          "name:8": "Hobbiton",
+          "name:8": "霍比屯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -1866,7 +1866,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Gray Havens waypoint unlocked!",
+          "name:8": "灰港路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -1885,7 +1885,7 @@
           "posY:3": 43,
           "posZ:3": 7074,
           "biome:8": "",
-          "name:8": "Gray Havens",
+          "name:8": "灰港",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -1927,11 +1927,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Belegost",
+          "name:8": "贝烈戈斯特",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -1986,7 +1986,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Weathertop waypoint unlocked!",
+          "name:8": "风云顶路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -2005,7 +2005,7 @@
           "posY:3": 40,
           "posZ:3": 5572,
           "biome:8": "",
-          "name:8": "Weathertop",
+          "name:8": "风云顶",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -2047,7 +2047,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Mount Gundabad waypoint unlocked!",
+          "name:8": "贡达巴德山路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -2066,7 +2066,7 @@
           "posY:3": 41,
           "posZ:3": 3223,
           "biome:8": "",
-          "name:8": "Mount Gundabad",
+          "name:8": "贡达巴德山",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -2108,7 +2108,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Rhudar waypoint unlocked!",
+          "name:8": "鲁道尔路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -2127,7 +2127,7 @@
           "posY:3": 40,
           "posZ:3": 4078,
           "biome:8": "",
-          "name:8": "High Fells of Rhudar",
+          "name:8": "鲁道尔高地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -2169,11 +2169,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Umbar",
+          "name:8": "乌姆巴尔",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2228,11 +2228,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Umbar:Havens",
+          "name:8": "乌姆巴尔:港口",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2287,11 +2287,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Osgiliath",
+          "name:8": "欧斯吉利亚斯",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2346,7 +2346,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Pelargir waypoint unlocked!",
+          "name:8": "佩拉基尔路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -2365,7 +2365,7 @@
           "posY:3": 42,
           "posZ:3": 15627,
           "biome:8": "",
-          "name:8": "Pelargir",
+          "name:8": "佩拉基尔",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -2407,11 +2407,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Forochel",
+          "name:8": "佛洛赫尔",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2466,11 +2466,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Rivendell",
+          "name:8": "幽谷",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2525,11 +2525,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Carn Dum",
+          "name:8": "卡恩督姆",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2584,11 +2584,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Mount Gundabad",
+          "name:8": "贡达巴德山",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 1,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2643,11 +2643,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "High Fells of Rhudar",
+          "name:8": "鲁道尔高地",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 1,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2702,11 +2702,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Weathertop",
+          "name:8": "风云顶",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2761,11 +2761,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Bucklebury",
+          "name:8": "雄鹿镇",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2820,11 +2820,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Frogmorton",
+          "name:8": "蛙泽屯",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2879,11 +2879,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Bree",
+          "name:8": "布理",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2938,11 +2938,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Hobbiton",
+          "name:8": "霍比屯",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -2997,11 +2997,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Gray Havens",
+          "name:8": "灰港",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -3056,7 +3056,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Belegost waypoint unlocked!",
+          "name:8": "贝烈戈斯特路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3075,7 +3075,7 @@
           "posY:3": 75,
           "posZ:3": 5094,
           "biome:8": "",
-          "name:8": "Belegost",
+          "name:8": "贝烈戈斯特",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3117,7 +3117,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Beorn\u0027s waypoint unlocked!",
+          "name:8": "贝奥恩大厅路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3136,7 +3136,7 @@
           "posY:3": 45,
           "posZ:3": 5816,
           "biome:8": "",
-          "name:8": "Beorn\u0027s Hall",
+          "name:8": "贝奥恩大厅",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3178,7 +3178,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Thranduil\u0027s waypoint unlocked!",
+          "name:8": "精灵国王的宫殿路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3197,7 +3197,7 @@
           "posY:3": 54,
           "posZ:3": 4710,
           "biome:8": "",
-          "name:8": "Thranduil\u0027s Halls",
+          "name:8": "精灵国王的宫殿",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3239,7 +3239,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Erebor waypoint unlocked!",
+          "name:8": "埃瑞博山路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3258,7 +3258,7 @@
           "posY:3": 41,
           "posZ:3": 3809,
           "biome:8": "",
-          "name:8": "Erebor",
+          "name:8": "埃瑞博山",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3300,7 +3300,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dale waypoint unlocked!",
+          "name:8": "河谷邦路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3319,7 +3319,7 @@
           "posY:3": 54,
           "posZ:3": 4679,
           "biome:8": "",
-          "name:8": "Dale",
+          "name:8": "河谷邦",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3361,7 +3361,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Esgaroth waypoint unlocked!",
+          "name:8": "长湖镇路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3380,7 +3380,7 @@
           "posY:3": 42,
           "posZ:3": 5363,
           "biome:8": "",
-          "name:8": "Esgaroth",
+          "name:8": "长湖镇",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3422,7 +3422,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Rhosgobel waypoint unlocked!",
+          "name:8": "罗斯戈贝尔路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3441,7 +3441,7 @@
           "posY:3": 89,
           "posZ:3": 6038,
           "biome:8": "",
-          "name:8": "Rhosgobel",
+          "name:8": "罗斯戈贝尔",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3483,7 +3483,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Stoneyford waypoint unlocked!",
+          "name:8": "Stoneyford路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3544,7 +3544,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dol Guldur waypoint unlocked!",
+          "name:8": "多古尔都路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3563,7 +3563,7 @@
           "posY:3": 72,
           "posZ:3": 8257,
           "biome:8": "",
-          "name:8": "Dol Guldur",
+          "name:8": "多古尔都",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3605,7 +3605,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Lothlorien waypoint unlocked!",
+          "name:8": "洛丝罗瑞恩路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3624,7 +3624,7 @@
           "posY:3": 45,
           "posZ:3": 8849,
           "biome:8": "",
-          "name:8": "Lothlorien",
+          "name:8": "洛丝罗瑞恩",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3666,7 +3666,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Moria:East Gate waypoint unlocked!",
+          "name:8": "墨瑞亚:东门路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3685,7 +3685,7 @@
           "posY:3": 41,
           "posZ:3": 9393,
           "biome:8": "",
-          "name:8": "Moria:East Gate",
+          "name:8": "墨瑞亚:东门",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3727,7 +3727,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Moria:West Gate waypoint unlocked!",
+          "name:8": "墨瑞亚:西门路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3746,7 +3746,7 @@
           "posY:3": 44,
           "posZ:3": 9309,
           "biome:8": "",
-          "name:8": "Moria:West Gate",
+          "name:8": "墨瑞亚:西门",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3788,7 +3788,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Isengard waypoint unlocked!",
+          "name:8": "艾森加德路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3807,7 +3807,7 @@
           "posY:3": 49,
           "posZ:3": 10829,
           "biome:8": "",
-          "name:8": "Isengard",
+          "name:8": "艾森加德",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3849,7 +3849,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Helm\u0027s Deep waypoint unlocked!",
+          "name:8": "海尔姆深谷路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3868,7 +3868,7 @@
           "posY:3": 41,
           "posZ:3": 12151,
           "biome:8": "",
-          "name:8": "Helm\u0027s Deep",
+          "name:8": "海尔姆深谷",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3910,7 +3910,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dunharrow waypoint unlocked!",
+          "name:8": "黑蛮祠路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3929,7 +3929,7 @@
           "posY:3": 50,
           "posZ:3": 12327,
           "biome:8": "",
-          "name:8": "Dunharrow",
+          "name:8": "黑蛮祠",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3971,7 +3971,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Edoras waypoint unlocked!",
+          "name:8": "埃多拉斯路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3990,7 +3990,7 @@
           "posY:3": 51,
           "posZ:3": 12306,
           "biome:8": "",
-          "name:8": "Edoras",
+          "name:8": "埃多拉斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4032,7 +4032,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Amon Hen waypoint unlocked!",
+          "name:8": "阿蒙汉路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4051,7 +4051,7 @@
           "posY:3": 89,
           "posZ:3": 11929,
           "biome:8": "",
-          "name:8": "Amon Hen",
+          "name:8": "阿蒙汉",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4093,7 +4093,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Argonath waypoint unlocked!",
+          "name:8": "阿刚那斯路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4112,7 +4112,7 @@
           "posY:3": 40,
           "posZ:3": 11544,
           "biome:8": "",
-          "name:8": "Argonath",
+          "name:8": "阿刚那斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4154,7 +4154,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Amon Lhaw waypoint unlocked!",
+          "name:8": "阿蒙肖路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4173,7 +4173,7 @@
           "posY:3": 106,
           "posZ:3": 12019,
           "biome:8": "",
-          "name:8": "Amon Lhaw",
+          "name:8": "阿蒙肖",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4215,11 +4215,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Trollshaws",
+          "name:8": "食人妖森林",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -4274,7 +4274,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Trollshaws waypoint unlocked!",
+          "name:8": "食人妖森林路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4293,7 +4293,7 @@
           "posY:3": 42,
           "posZ:3": 6283,
           "biome:8": "",
-          "name:8": "Trollshaws",
+          "name:8": "食人妖森林",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4335,7 +4335,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Minas Tirith waypoint unlocked!",
+          "name:8": "米那斯提力斯路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4354,7 +4354,7 @@
           "posY:3": 39,
           "posZ:3": 13649,
           "biome:8": "",
-          "name:8": "Minas Tirith",
+          "name:8": "米那斯提力斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4396,7 +4396,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Osgiliath waypoint unlocked!",
+          "name:8": "欧斯吉利亚斯路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4415,7 +4415,7 @@
           "posY:3": 40,
           "posZ:3": 14390,
           "biome:8": "",
-          "name:8": "Osgiliath",
+          "name:8": "欧斯吉利亚斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4457,11 +4457,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Pelargir",
+          "name:8": "佩拉基尔",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -4516,11 +4516,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Barad Dur",
+          "name:8": "巴拉督尔",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -4575,7 +4575,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Mount Doom waypoint unlocked!",
+          "name:8": "末日山路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4594,7 +4594,7 @@
           "posY:3": 47,
           "posZ:3": 13397,
           "biome:8": "",
-          "name:8": "Mount Doom",
+          "name:8": "末日山",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4636,7 +4636,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Barad Dur waypoint unlocked!",
+          "name:8": "巴拉督尔路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4655,7 +4655,7 @@
           "posY:3": 39,
           "posZ:3": 13598,
           "biome:8": "",
-          "name:8": "Barad Dur",
+          "name:8": "巴拉督尔",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4697,11 +4697,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Cirith Ungol",
+          "name:8": "奇立斯乌苟",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -4756,7 +4756,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Cirith Ungol waypoint unlocked!",
+          "name:8": "奇立斯乌苟路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4775,7 +4775,7 @@
           "posY:3": 168,
           "posZ:3": 13412,
           "biome:8": "",
-          "name:8": "Cirith Ungol",
+          "name:8": "奇立斯乌苟",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4817,7 +4817,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Umbar waypoint unlocked!",
+          "name:8": "乌姆巴尔路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4836,7 +4836,7 @@
           "posY:3": 40,
           "posZ:3": 19929,
           "biome:8": "",
-          "name:8": "Umbar",
+          "name:8": "乌姆巴尔",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4878,7 +4878,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Umbar:Havens waypoint unlocked!",
+          "name:8": "乌姆巴尔:港口路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4897,7 +4897,7 @@
           "posY:3": 38,
           "posZ:3": 21150,
           "biome:8": "",
-          "name:8": "Umbar:Havens",
+          "name:8": "乌姆巴尔:港口",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4939,11 +4939,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "High Pass",
+          "name:8": "高隘口",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -4998,7 +4998,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "High Pass waypoint unlocked!",
+          "name:8": "高隘口路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -5017,7 +5017,7 @@
           "posY:3": 41,
           "posZ:3": 5904,
           "biome:8": "",
-          "name:8": "High Pass",
+          "name:8": "高隘口",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -5059,11 +5059,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Front Porch",
+          "name:8": "前门厅",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -5118,7 +5118,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Front Porch waypoint unlocked!",
+          "name:8": "前门厅路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -5137,7 +5137,7 @@
           "posY:3": 119,
           "posZ:3": 5617,
           "biome:8": "",
-          "name:8": "Front Porch",
+          "name:8": "前门厅",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -5179,11 +5179,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Player Housing",
+          "name:8": "玩家居所",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "One of the new aspects in Middle-earth is player housing.  Now new and improved over previous version!\n\nJust speak to any of the Real Estate agents to learn more.  There are three, one near Rivendell, one near Edoras and the third inside Minas Tirith."
+          "desc:8": "中土世界的一个新内容是玩家居所。  与前一版本相比，现在有了新的改进！\n\n如需了解更多信息，请向任何一位地产商人咨询。  有三处地点，一个在幽谷附近，一个在埃多拉斯附近，第三个在米那斯提力斯里面。"
         }
       },
       "tasks:9": {
@@ -5243,11 +5243,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "Eriador",
+          "name:8": "埃利阿多",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Work available in the Eriador region"
+          "desc:8": "埃利阿多地区可提供的工作"
         }
       },
       "tasks:9": {
@@ -5262,7 +5262,7 @@
           "posY:3": 55,
           "posZ:3": 7828,
           "biome:8": "",
-          "name:8": "Bree",
+          "name:8": "布理",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -5308,7 +5308,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The key will need to be reforged. It will take no skill, but certainly time, to reforge the key.\n\nTo get the fragments you will need to find and defeat the Wight-lords Tahrub \u0026 Burhat as well as the Guant-man Ranler."
+          "desc:8": "钥匙需要重新锻造。重新锻造钥匙并不需要技术，但需要时间。\n\n想要获得钥匙的碎片，你需要找到并击败the Wight-lords Tahrub & Burhat as well as the Guant-man Ranler."
         }
       },
       "tasks:9": {
@@ -5463,7 +5463,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Throughout Middle-earth there are various factions, who may reward you if you gain sufficient standing in their eyes.\n\nFaction may be gained by completing quests, defeating specific mobs, or turning in specific mob-drop items.\n\n~~~~~~~~~~~~~~~~~~~~\n\nAt this point the Men of Middle-earth have heard of you and know your name."
+          "desc:8": "在整个中土世界中，有各种各样的派别。如果您在他们心目中赢得了足够的地位，你会获得他们的奖励。\n\n派系声望可以通过完成任务、击杀特定生物或上交特定的生物掉落物来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n此时，中土世界的人们已经听说过你，并知道你的鼎鼎大名。"
         }
       },
       "tasks:9": {
@@ -5515,7 +5515,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "A small band of adventurers have made camp outside the Great Barrows and one named Falsir is looking for some help."
+          "desc:8": "一小队冒险者在大古冢Great Barrow外扎营，其中一个名叫法尔西尔Falsir的冒险者正在寻求帮助。"
         }
       },
       "tasks:9": {
@@ -5582,7 +5582,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Henry has a buyer for Zombie Flesh and is looking for anyone willing to make a quick bit of coin and help out the Men of Middle-earth."
+          "desc:8": "亨利Henry为Zombie Flesh找到了一个买家，并且正在寻找任何愿意赚点小钱和帮助中土人类的人。"
         }
       },
       "tasks:9": {
@@ -5597,7 +5597,7 @@
           "posY:3": 64,
           "posZ:3": 7727,
           "biome:8": "",
-          "name:8": "The Prancing Pony",
+          "name:8": "跃马客栈",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -5650,11 +5650,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "A Cauldron of Iron",
+          "name:8": "一口大铁锅",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The Captain of the Guard, Riplette, at the West Gate of Bree, is looking for some help collecting supplies for a cauldron.  Go see if you can help."
+          "desc:8": "布理西门的卫兵队长里普莱特Riplette正在寻求帮助，收集大锅cauldron所需的物资。 去看看你能不能帮上忙。"
         }
       },
       "tasks:9": {
@@ -5669,7 +5669,7 @@
           "posY:3": 56,
           "posZ:3": 7862,
           "biome:8": "",
-          "name:8": "Western Gate of Bree",
+          "name:8": "布理西门",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -5727,7 +5727,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Reeve Guibe reforged the key to the Great Barrow. You should return to Falsir for further instruction.\n"
+          "desc:8": "里夫-吉贝Reeve Guibe重新锻造了大古冢Great Barrow的钥匙。你应该回到法尔西尔Falsir那里，接受进一步的指导。\n"
         }
       },
       "tasks:9": {
@@ -5831,7 +5831,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Wargs have gotten out of control near Erech.  Aeschreas has put out a call for help to try to bring them under control."
+          "desc:8": "埃瑞赫附近的座狼已经失去控制。 埃斯赫雷斯Aeschreas已发出求救信号，试图让它们重新归于掌控。"
         }
       },
       "tasks:9": {
@@ -5903,7 +5903,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Reeve Guibe is in Blacksmith\u0027s Row, west of The Prancing Pony and south-west of the stables.\n\nFalsir told you to bring the key fragments to Reeve Guibe, a blacksmith who has had a recent run of bad luck."
+          "desc:8": "里夫-吉贝Reeve Guibe住在铁匠街，在跃马客栈的西面，马厩的西南面。\n\n法尔西尔Falsir让你把钥匙碎片带给最近运气不太好的铁匠里夫-吉贝Reeve Guibe。"
         }
       },
       "tasks:9": {
@@ -5918,7 +5918,7 @@
           "posY:3": 52,
           "posZ:3": 7705,
           "biome:8": "",
-          "name:8": "Reeve Guibe\u0027s Forge",
+          "name:8": "Reeve Guibe's Forge",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -5970,7 +5970,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Zombies have gotten out of control near The Forsaken Inn.  Divina has put out a call for help to try to bring them under control."
+          "desc:8": "遗忘客栈附近的僵尸zombie已经失去控制。 迪维娜Divina已发出求救信号，试图让它们重新归于掌控。"
         }
       },
       "tasks:9": {
@@ -5985,7 +5985,7 @@
           "posY:3": 51,
           "posZ:3": 8564,
           "biome:8": "",
-          "name:8": "Forsaken Inn",
+          "name:8": "遗忘客栈",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -6042,7 +6042,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You must defeat the wight-lord Zaemrohn then speak to Falsir."
+          "desc:8": "您必须击败the wight-lord Zaemrohn，然后与法尔西尔Falsir对话。"
         }
       },
       "tasks:9": {
@@ -6062,7 +6062,7 @@
           "posY:3": 52,
           "posZ:3": 8318,
           "biome:8": "",
-          "name:8": "The Camp",
+          "name:8": "营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -6402,11 +6402,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Monk of the Maze",
+          "name:8": "迷宫中的僧侣",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Seek out the wise monk of the maze in the player housing area near the Temple for information about getting around faster.\n\nOnce you have you will be granted access to the temple itself and all of it\u0027s secrets!"
+          "desc:8": "在神庙附近的玩家居住区，寻找迷宫中的智慧僧侣，以获得如何快速出行的信息。\n\n一旦您完成了这项任务，您就可以进入神庙内部，了解神庙的所有秘密！"
         }
       },
       "tasks:9": {
@@ -6520,11 +6520,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "In Need of Supplies",
+          "name:8": "物资需求",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Reinfridus has a buyer for Mumakil HIde and is looking for anyone willing to make a quick bit of coin and help out Pelargrir"
+          "desc:8": "莱因弗里德斯Reinfridus为穆马基尔-海德Mumakil HIde找到了一个买家，并且正在寻找愿意快速赚点小钱和帮助佩拉基尔的人。"
         }
       },
       "tasks:9": {
@@ -6539,7 +6539,7 @@
           "posY:3": 44,
           "posZ:3": 16079,
           "biome:8": "",
-          "name:8": "Pelargrir Docks",
+          "name:8": "佩拉基尔码头",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -6592,11 +6592,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Money Changer",
+          "name:8": "货币兑换商",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Some important people handle all the monies of Middle-earth, perhaps you should speak with the Money Changer?"
+          "desc:8": "中土世界的所有钱财都由一些重要人物掌管，也许你应该找货币兑换商谈一谈？"
         }
       },
       "tasks:9": {
@@ -6654,11 +6654,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "Getting Started",
+          "name:8": "开始旅程",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "Seek out and talk to Aragorn as he has much to say before you can get started."
+          "desc:8": "找到阿拉贡并与他交谈，因为在你开始旅程之前他有很多话要说。"
         }
       },
       "tasks:9": {
@@ -6673,7 +6673,7 @@
           "posY:3": 142,
           "posZ:3": 6074,
           "biome:8": "",
-          "name:8": "Aragorn",
+          "name:8": "阿拉贡",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -6721,11 +6721,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Research \u0026 Help",
+          "name:8": "Research & Help",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "There are some who study the history of Middle-earth and as a result have a keen insight into what goes on.  Speak to the NPC to find out what he can do for you."
+          "desc:8": "有些人研究中土世界的历史，因此他们能敏锐地洞察到发生了什么。  与 NPC 交谈，了解他能为您做什么。"
         }
       },
       "tasks:9": {
@@ -6796,11 +6796,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Getting Around",
+          "name:8": "交通",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "There are multiple ways to move swiftly in Middle-earth, talk to the stable master for more information."
+          "desc:8": "在中土世界有多种快速移动的方法，详情请咨询马厩的主人。"
         }
       },
       "tasks:9": {
@@ -6815,7 +6815,7 @@
           "posY:3": 46,
           "posZ:3": 6297,
           "biome:8": "",
-          "name:8": "Fast Travel Stable",
+          "name:8": "马厩的快速旅行",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -6874,11 +6874,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Full of knowledge",
+          "name:8": "知识渊博",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Task complete! Time to go back to speak with Aragorn again."
+          "desc:8": "任务完成！是时候回去再和阿拉贡谈谈了。"
         }
       },
       "tasks:9": {
@@ -6893,7 +6893,7 @@
           "posY:3": 142,
           "posZ:3": 6073,
           "biome:8": "",
-          "name:8": "The Last Homely House",
+          "name:8": "最后的温馨小屋",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -6953,7 +6953,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Erech waypoint unlocked!",
+          "name:8": "埃瑞赫路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -6972,7 +6972,7 @@
           "posY:3": 39,
           "posZ:3": 14993,
           "biome:8": "",
-          "name:8": "Erech",
+          "name:8": "埃瑞赫",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -7014,11 +7014,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Erech",
+          "name:8": "埃瑞赫",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -7079,11 +7079,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "Troubles of Rivendell",
+          "name:8": "Troubles of 幽谷",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "It has been many years, but you find yourself back at Rivendell, facing Aragorn. He has a dour look upon his brow as if he has many things weighing on him.\n\nReach out to him, see what has transpired since last you two spoke."
+          "desc:8": "许多年过去了，你发现自己又回到了幽谷，遇见了阿拉贡。他眉头紧锁，似乎有很多事情压在心头。\n\n与他对话，看看你们上次通话后发生了什么。"
         }
       },
       "tasks:9": {
@@ -7098,7 +7098,7 @@
           "posY:3": 142,
           "posZ:3": 6073,
           "biome:8": "",
-          "name:8": "Aragorn",
+          "name:8": "阿拉贡",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -7185,11 +7185,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Wisdom of Lord Glorfindel II",
+          "name:8": "格罗芬德尔领主的智慧 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Take the gem Lord Glorfindel bestowed upon you and see what you can find out."
+          "desc:8": "拿起格罗芬德尔领主赐予你的宝石，看看你能发现什么。"
         }
       },
       "tasks:9": {
@@ -7204,7 +7204,7 @@
           "posY:3": 38,
           "posZ:3": 6403,
           "biome:8": "",
-          "name:8": "Ford of Bruinen",
+          "name:8": "布茹伊能渡口",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -7270,11 +7270,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "Welcome to Middle-earth",
+          "name:8": "欢迎来到中土世界",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "Quest created to completed at player load for the scoreboards that will be in place to fix a UUID error with non-zero scores."
+          "desc:8": "任务的创建将在玩家载入时完成，用于修复记分板在分数不为零时出现的 UUID 错误。"
         }
       },
       "tasks:9": {
@@ -7390,11 +7390,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "You have new Quests!",
+          "name:8": "你有新的任务！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "Time to seek out the trolls"
+          "desc:8": "是时候寻找食人妖了"
         }
       },
       "tasks:9": {
@@ -7491,11 +7491,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Where is the Horse \u0026 Rider?",
+          "name:8": "骏马与骑士在哪里呢？",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Now that you are situated, time to heed Aragon\u0027s wish and go speak to Lord Elrond in the library north of Aragorn."
+          "desc:8": "现在你已经准备好了，是时候听从阿拉贡的吩咐，前往位于阿拉贡北面的图书馆，找埃尔隆德领主谈一谈了。"
         }
       },
       "tasks:9": {
@@ -7510,7 +7510,7 @@
           "posY:3": 143,
           "posZ:3": 5962,
           "biome:8": "",
-          "name:8": "Elrond\u0027s Library",
+          "name:8": "埃尔隆德的图书馆",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -7558,11 +7558,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Hiding in the Dark - Bandrith",
+          "name:8": "隐于黑暗 - Bandrith",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Elladan has determined that the missing Rider may be hiding in one of the many caves near the Black Steed in the Trollshaws and wants you to search several of them with Glorfindel\u0027s beryl."
+          "desc:8": "埃尔拉丹已经确定，失踪的骑士可能藏身于食人妖森林，在黑骏马Black Steed附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿宝石beryl搜索其中的几个洞穴。"
         }
       },
       "tasks:9": {
@@ -7648,11 +7648,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Hiding in the Dark - Hoklond",
+          "name:8": "隐于黑暗 - Hoklond",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Elladan has determined that the missing Rider may be hiding in one of the many caves near the Black Steed in the Trollshaws and wants you to search several of them with Glorfindel\u0027s beryl."
+          "desc:8": "埃尔拉丹已经确定，失踪的骑士可能藏身于食人妖森林，在黑骏马Black Steed附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿宝石beryl搜索其中的几个洞穴。"
         }
       },
       "tasks:9": {
@@ -7738,11 +7738,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Hiding in the Dark - Sholdroth",
+          "name:8": "隐于黑暗 - Sholdroth",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Elladan has determined that the missing Rider may be hiding in one of the many caves near the Black Steed in the Trollshaws and wants you to search several of them with Glorfindel\u0027s beryl."
+          "desc:8": "埃尔拉丹已经确定，失踪的骑士可能藏身于食人妖森林，在黑骏马Black Steed附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿宝石beryl搜索其中的几个洞穴。"
         }
       },
       "tasks:9": {
@@ -7829,11 +7829,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Aid of Mirkwood III",
+          "name:8": "Aid of 黑森林 III",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Legolas recognized the creature you described as a Wood-troll and has agreed to show you where to track the rest down."
+          "desc:8": "莱戈拉斯认出了你所描述的造物是木头食人妖，并同意带你找到其余剩下的食人妖。"
         }
       },
       "tasks:9": {
@@ -7864,7 +7864,7 @@
           "posY:3": 39,
           "posZ:3": 6808,
           "biome:8": "",
-          "name:8": "Matuna\u0027s Cave",
+          "name:8": "Matuna's Cave",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8039,7 +8039,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Now that you have seen what Lord Glorindel\u0027s gem does, time to take it back."
+          "desc:8": "既然你已经看到了格罗芬德尔领主的宝石的作用，那么是时候收回它了。"
         }
       },
       "tasks:9": {
@@ -8054,7 +8054,7 @@
           "posY:3": 205,
           "posZ:3": 5999,
           "biome:8": "",
-          "name:8": "Imladris Waterfall",
+          "name:8": "幽谷瀑布",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8117,11 +8117,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Knowledge of the Giants I",
+          "name:8": "巨人的知识 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Now that you have searched the caves, return to Elledan to what to do next."
+          "desc:8": "现在你已经搜索完了洞穴，请返回埃尔拉丹那里，看看下一步该怎么做。"
         }
       },
       "tasks:9": {
@@ -8136,7 +8136,7 @@
           "posY:3": 42,
           "posZ:3": 6283,
           "biome:8": "",
-          "name:8": "Elledan\u0027s Camp",
+          "name:8": "埃尔拉丹的营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8192,11 +8192,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Missing Rider",
+          "name:8": "失踪的骑士",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "That the elves have not found the missing rider is worrisome.  Hopefully you will be able to lend a hand to Elrond\u0027s son, Elledan."
+          "desc:8": "精灵们还没有找到失踪的骑士，这令人担忧。 希望你能向埃尔隆德的儿子——埃尔拉丹伸出援手。"
         }
       },
       "tasks:9": {
@@ -8211,7 +8211,7 @@
           "posY:3": 41,
           "posZ:3": 6284,
           "biome:8": "",
-          "name:8": "Elledan\u0027s Camp",
+          "name:8": "埃尔拉丹的营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8282,11 +8282,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Wisdom of Lord Glorfindel I",
+          "name:8": "格罗芬德尔领主的智慧 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Elledan seems to have a solution based on what you found.  Seek out lord Glorfindel at the Imladris Waterfall."
+          "desc:8": "根据你的发现，埃尔拉丹似乎得到了一个解决方案。 去幽谷瀑布寻找格罗芬德尔领主。"
         }
       },
       "tasks:9": {
@@ -8301,7 +8301,7 @@
           "posY:3": 205,
           "posZ:3": 5999,
           "biome:8": "",
-          "name:8": "Imladris Waterfall",
+          "name:8": "幽谷瀑布",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8361,11 +8361,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Aid of Mirkwood",
+          "name:8": "黑森林的援助",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "After speaking to Barachen it is time to hunt down the Giant and hopefully get more information about the Nazgul."
+          "desc:8": "与巴拉肯巴拉钦Barachen交谈后，是时候去追捕巨人了，希望能得到更多关于戒灵的信息。"
         }
       },
       "tasks:9": {
@@ -8380,7 +8380,7 @@
           "posY:3": 41,
           "posZ:3": 7778,
           "biome:8": "",
-          "name:8": "Location of Giant",
+          "name:8": "巨人的位置",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8396,7 +8396,7 @@
           "posY:3": 42,
           "posZ:3": 6283,
           "biome:8": "",
-          "name:8": "Elledan\u0027s Camp",
+          "name:8": "埃尔拉丹的营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8444,11 +8444,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Aid of Mirkwood II",
+          "name:8": "黑森林的援助 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Elladan seems to think it important to speak with his father, Elrond, as he is the one to grant a meeting with the elves of Mirkwood to gain what knowledge you can from them regarding what you have seen so far in the Trollshaws."
+          "desc:8": "埃尔拉丹认为似乎有必要与他的父亲埃尔隆德谈一谈，因为他是同意与黑森林精灵会面的人，以便从他们那里获得知识，有关于目前为止你在食人妖森林的所见所闻。"
         }
       },
       "tasks:9": {
@@ -8463,7 +8463,7 @@
           "posY:3": 143,
           "posZ:3": 5955,
           "biome:8": "",
-          "name:8": "Elrond\u0027s Library",
+          "name:8": "埃尔隆德的图书馆",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8515,7 +8515,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "With everything that has happened, Legolas can no longer be delayed and asks that you report your findings to Lord Elrond and see where things will go from here."
+          "desc:8": "发生了这么多事，莱戈拉斯不能再拖延了，他要求你向埃尔隆德领主报告你的发现，看看事情将会如何发展。"
         }
       },
       "tasks:9": {
@@ -8530,7 +8530,7 @@
           "posY:3": 143,
           "posZ:3": 5955,
           "biome:8": "",
-          "name:8": "Elrond\u0027s Library",
+          "name:8": "埃尔隆德的图书馆",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8581,7 +8581,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You were able to thwart the designs of the Nazgûl but he escaped, time to report to Elrond."
+          "desc:8": "你们挫败了戒灵的阴谋，但他逃脱了，是时候向埃尔隆德报告了。"
         }
       },
       "tasks:9": {
@@ -8596,7 +8596,7 @@
           "posY:3": 143,
           "posZ:3": 5962,
           "biome:8": "",
-          "name:8": "Lord Elrond",
+          "name:8": "Lord 埃尔隆德",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8656,7 +8656,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Elves of Rivendell: Known",
+          "name:8": "幽谷的精灵: Known",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -8709,11 +8709,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "Received Glorfindel\u0027s Beryl",
+          "name:8": "得到格罗芬德尔的绿宝石",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "Quest to bestow beryl"
+          "desc:8": "寻求赐予绿宝石"
         }
       },
       "tasks:9": {
@@ -8773,11 +8773,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Hiding in the Dark",
+          "name:8": "隐于黑暗",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Go back to Elledan and see what new information he may have as well in the search for the Nazgul."
+          "desc:8": "回到埃尔拉丹那里，看看他在寻找戒灵的过程中还会有什么新发现。"
         }
       },
       "tasks:9": {
@@ -8792,7 +8792,7 @@
           "posY:3": 42,
           "posZ:3": 6283,
           "biome:8": "",
-          "name:8": "Elledan\u0027s Camp",
+          "name:8": "埃尔拉丹的营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8840,11 +8840,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Knowledge of the Giants II",
+          "name:8": "巨人的知识 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Time to go see what information this scout, Barachen, has uncovered."
+          "desc:8": "是时候去看看这位名叫巴拉钦Barachen的侦察员发现了什么信息了。"
         }
       },
       "tasks:9": {
@@ -8859,7 +8859,7 @@
           "posY:3": 41,
           "posZ:3": 6701,
           "biome:8": "",
-          "name:8": "Barachen\u0027s Camp",
+          "name:8": "巴拉钦Barachen的营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8911,11 +8911,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Troublesome Goblins II",
+          "name:8": "Troublesome 奥克 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Glóin is at his camp north of Rivendell.\n\nIn defeating Ulmug, you find him accompanied by hostile Dourhand dwarves. Glóin should be made known of this development immediately"
+          "desc:8": "格罗因在幽谷北面的营地。\n\n在击败Ulmug的过程中，您发现他身边还跟着敌对的Dourhand矮人。应立即让格罗因知道这一进展。"
         }
       },
       "tasks:9": {
@@ -8946,7 +8946,7 @@
           "posY:3": 119,
           "posZ:3": 5617,
           "biome:8": "",
-          "name:8": "Goblin Caves",
+          "name:8": "奥克地穴",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -9050,7 +9050,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "With the Key-stone in hand, you can now enter the dwarf-keep in Gundabad, the last refuge of the Dourhands and confront both the Nazgûl and Dugorim."
+          "desc:8": "With the Key-stone in hand, you can now enter the dwarf-keep in Gundabad, the last refuge of the Dourhands and confront both the 戒灵 and Dugorim."
         }
       },
       "tasks:9": {
@@ -9065,7 +9065,7 @@
           "posY:3": 37,
           "posZ:3": 5651,
           "biome:8": "",
-          "name:8": "Return to Glóin",
+          "name:8": "Return to 格罗因",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -9198,7 +9198,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Carn Dûm is far to the north-west of Rivendell.\n\nElrond fears the body of the dragon left to rot so long ago in Carn Dûm may now be used by the Gaunt-lord to create a terrible fell-creature called a Dragon Wight and he wants you to go and attempt to stop it from happening."
+          "desc:8": "Carn Dûm is far to the north-west of 幽谷.\n\n埃尔隆德 fears the body of the dragon left to rot so long ago in Carn Dûm may now be used by the Gaunt-lord to create a terrible fell-creature called a Dragon Wight and he wants you to go and attempt to stop it from happening."
         }
       },
       "tasks:9": {
@@ -9300,7 +9300,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dwarves of Erebor: Known",
+          "name:8": "Dwarves of 埃瑞博山: Known",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -9509,11 +9509,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Troublesome Goblins I",
+          "name:8": "Troublesome 奥克 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Elrond has suggested speaking to Glóin to further your search for the Nazgûl."
+          "desc:8": "埃尔隆德 has suggested speaking to 格罗因 to further your search for the 戒灵."
         }
       },
       "tasks:9": {
@@ -9575,11 +9575,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "Baggin\u0027s Birthday I",
+          "name:8": "Baggin's Birthday I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Frodo Baggins is looking for an adventurer to help in a birthday surprise for his uncle Bilbo! Travel to Rivendell to find out how you can be of assistance."
+          "desc:8": "Frodo Baggins is looking for an adventurer to help in a birthday surprise for his uncle Bilbo! Travel to 幽谷 to find out how you can be of assistance."
         }
       },
       "tasks:9": {
@@ -9772,7 +9772,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The Gaffer seems to know a lot about the goings-on in Hobbiton, Frodo has asked you to speak with him and try to get some stories from various hobbits about what they say at Bilbo\u0027s last party before leaving the shire."
+          "desc:8": "The Gaffer seems to know a lot about the goings-on in 霍比屯, Frodo has asked you to speak with him and try to get some stories from various hobbits about what they say at Bilbo's last party before leaving the shire."
         }
       },
       "tasks:9": {
@@ -9787,7 +9787,7 @@
           "posY:3": 42,
           "posZ:3": 7833,
           "biome:8": "",
-          "name:8": "Gaffer Gamgee\u0027s House",
+          "name:8": "Gaffer Gamgee's House",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -9982,7 +9982,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Baggin\u0027s Birthday II",
+          "name:8": "Baggin's Birthday II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -10251,7 +10251,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You\u0027ve collected all of the stories, go see the Gaffer again to see if he has anything else to say."
+          "desc:8": "You've collected all of the stories, go see the Gaffer again to see if he has anything else to say."
         }
       },
       "tasks:9": {
@@ -10266,7 +10266,7 @@
           "posY:3": 42,
           "posZ:3": 7833,
           "biome:8": "",
-          "name:8": "Gaffer Gamgee\u0027s House",
+          "name:8": "Gaffer Gamgee's House",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10313,11 +10313,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Bilbo\u0027s Present",
+          "name:8": "Bilbo's Present",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You\u0027ve collected the stories and the Gaffer even made them into a book specially for him.  Take it back and present the presant to Bilbo."
+          "desc:8": "You've collected the stories and the Gaffer even made them into a book specially for him.  Take it back and present the presant to Bilbo."
         }
       },
       "tasks:9": {
@@ -10729,7 +10729,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The Captain of the Guard, Guillame Brion, at Minas Tirith, is looking for some help collecting supplies for a cauldron.  Go see if you can help."
+          "desc:8": "The Captain of the Guard, Guillame Brion, at 米那斯提力斯, is looking for some help collecting supplies for a cauldron.  Go see if you can help."
         }
       },
       "tasks:9": {
@@ -10744,7 +10744,7 @@
           "posY:3": 72,
           "posZ:3": 13637,
           "biome:8": "",
-          "name:8": "Minas Tirith",
+          "name:8": "米那斯提力斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10797,7 +10797,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Mitheithel waypoint unlocked!",
+          "name:8": "Mitheithel 路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -10862,7 +10862,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -10921,7 +10921,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Glóin told you that the Nazgûl you are pursuing can be found in the old dwarf-fortress of Gundabad, in the company of Dugorim Dourhand. The two entered the nearly impregnable inner keep of the fortress. Glóin believes the only way to enter the inner keep is to learn its secret entrance."
+          "desc:8": "格罗因 told you that the 戒灵 you are pursuing can be found in the old dwarf-fortress of Gundabad, in the company of Dugorim Dourhand. The two entered the nearly impregnable inner keep of the fortress. 格罗因 believes the only way to enter the inner keep is to learn its secret entrance."
         }
       },
       "tasks:9": {
@@ -10988,7 +10988,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Glóin has asked you to retrieve a key-stone from an old dwarf-vault. The key-stone will allow you entry into the Dourhand-occupied dwarf-keep."
+          "desc:8": "格罗因 has asked you to retrieve a key-stone from an old dwarf-vault. The key-stone will allow you entry into the Dourhand-occupied dwarf-keep."
         }
       },
       "tasks:9": {
@@ -11054,7 +11054,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "With the Key-stone found, you can now enter the dwarf-keep in Gundabad, the last refuge of the Dourhands and confront both the Nazgûl and Dugorim.\n\nGimli is located near the secret entrance to Gundabad, follow the compass in your journal to find him to gain entrance to Gundabad."
+          "desc:8": "With the Key-stone found, you can now enter the dwarf-keep in Gundabad, the last refuge of the Dourhands and confront both the 戒灵 and Dugorim.\n\nGimli is located near the secret entrance to Gundabad, follow the compass in your journal to find him to gain entrance to Gundabad."
         }
       },
       "tasks:9": {
@@ -11069,7 +11069,7 @@
           "posY:3": 37,
           "posZ:3": 5651,
           "biome:8": "",
-          "name:8": "Return to Glóin",
+          "name:8": "Return to 格罗因",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -11136,7 +11136,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Upon hearing that the Nazgûl fled to Carn Dûm, Glóin told you some of the tale of that ancient fortress."
+          "desc:8": "Upon hearing that the 戒灵 fled to Carn Dûm, 格罗因 told you some of the tale of that ancient fortress."
         }
       },
       "tasks:9": {
@@ -11203,7 +11203,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Near one of the entrances to Carn Dûm you encountered wights.\n\nAfter killing a few you found a §5Dark Sigil§r so you should return to Glóin and see what he thinks."
+          "desc:8": "Near one of the entrances to Carn Dûm you encountered wights.\n\nAfter killing a few you found a §5Dark Sigil§r so you should return to 格罗因 and see what he thinks."
         }
       },
       "tasks:9": {
@@ -11218,7 +11218,7 @@
           "posY:3": 37,
           "posZ:3": 5651,
           "biome:8": "",
-          "name:8": "Return to Glóin",
+          "name:8": "Return to 格罗因",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -11269,7 +11269,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The threat in Carn Dûm has been dealt with and now Elrond wants to discuss other matters with you.\n\nSpeak with him in Rivendell."
+          "desc:8": "The threat in Carn Dûm has been dealt with and now 埃尔隆德 wants to discuss other matters with you.\n\nSpeak with him in 幽谷."
         }
       },
       "tasks:9": {
@@ -11284,7 +11284,7 @@
           "posY:3": 143,
           "posZ:3": 5962,
           "biome:8": "",
-          "name:8": "Speak with Lord Elrond",
+          "name:8": "Speak with Lord 埃尔隆德",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -11406,7 +11406,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Looks like someone near the Forsaken Inn is looking for help after a recent expedition went bad.\n\nLook for a man named Munce to see what he needs."
+          "desc:8": "Looks like someone near the 遗忘客栈 is looking for help after a recent expedition went bad.\n\nLook for a man named Munce to see what he needs."
         }
       },
       "tasks:9": {
@@ -11421,7 +11421,7 @@
           "posY:3": 49,
           "posZ:3": 8582,
           "biome:8": "",
-          "name:8": "Forsaken Inn",
+          "name:8": "遗忘客栈",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -11540,7 +11540,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You found Ayduin, she\u0027s badly injured but mobile.  Lead her to the western Arch and to safety!"
+          "desc:8": "You found Ayduin, she's badly injured but mobile.  Lead her to the western Arch and to safety!"
         }
       },
       "tasks:9": {
@@ -11571,7 +11571,7 @@
           "posY:3": 49,
           "posZ:3": 8582,
           "biome:8": "",
-          "name:8": "Forsaken Inn",
+          "name:8": "遗忘客栈",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -11822,7 +11822,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "Gloin\u0027s men found this along the mountain pass."
+          "desc:8": "Gloin's men found this along the mountain pass."
         }
       },
       "tasks:9": {
@@ -12028,7 +12028,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Increase your faction standing with the Dwarves of Erebor by submitting special tokens.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nThis quest will repeat so you can continue to submit as often as you want."
+          "desc:8": "Increase your faction standing with the Dwarves of 埃瑞博山 by submitting special tokens.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nThis quest will repeat so you can continue to submit as often as you want."
         }
       },
       "tasks:9": {
@@ -12332,7 +12332,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Elves of Rivendell: Friend",
+          "name:8": "Elves of 幽谷: Friend",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -12407,7 +12407,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Increase your faction standing with the Dwarves of Erebor by submitting special tokens.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nThis quest will repeat so you can continue to submit as often as you want."
+          "desc:8": "Increase your faction standing with the Dwarves of 埃瑞博山 by submitting special tokens.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nThis quest will repeat so you can continue to submit as often as you want."
         }
       },
       "tasks:9": {
@@ -12475,7 +12475,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Elves of Rivendell: Kindred",
+          "name:8": "Elves of 幽谷: Kindred",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -12612,11 +12612,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dwarves of Erebor: Acquaintance",
+          "name:8": "Dwarves of 埃瑞博山: Acquaintance",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Throughout Middle-earth there are various factions, who may reward you if you gain sufficient standing in their eyes.\n\nFaction may be gained by completing quests, defeating specific mobs, or turning in specific mob-drop items.\n\n~~~~~~~~~~~~~~~~~~~~\n\nYou can now speak to the Faction seller in Moria (Khazad-dum) to help get better known."
+          "desc:8": "Throughout Middle-earth there are various factions, who may reward you if you gain sufficient standing in their eyes.\n\nFaction may be gained by completing quests, defeating specific mobs, or turning in specific mob-drop items.\n\n~~~~~~~~~~~~~~~~~~~~\n\nYou can now speak to the Faction seller in 墨瑞亚 (Khazad-dum) to help get better known."
         }
       },
       "tasks:9": {
@@ -12687,7 +12687,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Increase your faction standing with the Dwarves of Erebor by submitting special tokens.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nThis quest will repeat so you can continue to submit as often as you want."
+          "desc:8": "Increase your faction standing with the Dwarves of 埃瑞博山 by submitting special tokens.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nThis quest will repeat so you can continue to submit as often as you want."
         }
       },
       "tasks:9": {
@@ -12755,7 +12755,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dwarves of Erebor: Kindred",
+          "name:8": "Dwarves of 埃瑞博山: Kindred",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -13026,7 +13026,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Increase your faction standing with the Dwarves of Erebor by submitting special tokens.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nThis quest will repeat so you can continue to submit as often as you want."
+          "desc:8": "Increase your faction standing with the Dwarves of 埃瑞博山 by submitting special tokens.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nThis quest will repeat so you can continue to submit as often as you want."
         }
       },
       "tasks:9": {
@@ -13247,11 +13247,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Cromhes and Moria",
+          "name:8": "Cromhes and 墨瑞亚",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "A trained falcon arrived at Rivendell, bearing a troubling message from the hidden Ranger-camp at Mitheithel for Aragorn, Chieftain of the Rangers."
+          "desc:8": "A trained falcon arrived at 幽谷, bearing a troubling message from the hidden Ranger-camp at Mitheithel for 阿拉贡, Chieftain of the Rangers."
         }
       },
       "tasks:9": {
@@ -13317,7 +13317,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Guthwine told you of how a wounded falcon arrived, bearing a message from Manwyn, a Ranger from the company of Cromhes, who defied Aragorn\u0027s commands and passed into Khazad-dûm, believing that a shadow had come again there."
+          "desc:8": "Guthwine told you of how a wounded falcon arrived, bearing a message from Manwyn, a Ranger from the company of Cromhes, who defied 阿拉贡's commands and passed into Khazad-dûm, believing that a shadow had come again there."
         }
       },
       "tasks:9": {
@@ -13526,7 +13526,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "While the stone-heart you found was cracked and useless, another path still remains open. Corunir has learned of a ritual taking place at the fortress of Dol Guldur, which may yield a whole heart if interrupted."
+          "desc:8": "While the stone-heart you found was cracked and useless, another path still remains open. Corunir has learned of a ritual taking place at the fortress of 多古尔都, which may yield a whole heart if interrupted."
         }
       },
       "tasks:9": {
@@ -13983,7 +13983,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Aragorn waits in the main house in Rivendell along the road that winds up the southern slope of the Vale of Imladris.\n\nElrond warned you of a growing evil within Angmar and asked you to speak with Aragorn."
+          "desc:8": "阿拉贡 waits in the main house in 幽谷 along the road that winds up the southern slope of the Vale of 幽谷.\n\n埃尔隆德 warned you of a growing evil within Angmar and asked you to speak with 阿拉贡."
         }
       },
       "tasks:9": {
@@ -13998,7 +13998,7 @@
           "posY:3": 142,
           "posZ:3": 6073,
           "biome:8": "",
-          "name:8": "Speak to Aragorn",
+          "name:8": "Speak to 阿拉贡",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -14426,7 +14426,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Throughout Middle-earth there are various factions, who may reward you if you gain sufficient standing in their eyes.\n\nFaction may be gained by completing quests, defeating specific mobs, or turning in specific mob-drop items.\n\n~~~~~~~~~~~~~~~~~~~~\n\nThe people are now seeing your value and worth, at this level you can now access the faction seller in Bree to help you get better known."
+          "desc:8": "Throughout Middle-earth there are various factions, who may reward you if you gain sufficient standing in their eyes.\n\nFaction may be gained by completing quests, defeating specific mobs, or turning in specific mob-drop items.\n\n~~~~~~~~~~~~~~~~~~~~\n\nThe people are now seeing your value and worth, at this level you can now access the faction seller in 布理 to help you get better known."
         }
       },
       "tasks:9": {
@@ -14493,11 +14493,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Elves of Rivendell: Acquaintance",
+          "name:8": "Elves of 幽谷: Acquaintance",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Throughout Middle-earth there are various factions, who may reward you if you gain sufficient standing in their eyes.\n\nFaction may be gained by completing quests, defeating specific mobs, or turning in specific mob-drop items.\n\n~~~~~~~~~~~~~~~~~~~~\n\nYou can now access the Faction Seller in Rivendell to help you get better known."
+          "desc:8": "Throughout Middle-earth there are various factions, who may reward you if you gain sufficient standing in their eyes.\n\nFaction may be gained by completing quests, defeating specific mobs, or turning in specific mob-drop items.\n\n~~~~~~~~~~~~~~~~~~~~\n\nYou can now access the Faction Seller in 幽谷 to help you get better known."
         }
       },
       "tasks:9": {
@@ -14564,7 +14564,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Elves of Rivendell: Ally",
+          "name:8": "Elves of 幽谷: Ally",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -14771,7 +14771,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dwarves of Erebor: Friend",
+          "name:8": "Dwarves of 埃瑞博山: Friend",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -14842,7 +14842,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dwarves of Erebor: Ally",
+          "name:8": "Dwarves of 埃瑞博山: Ally",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -15119,7 +15119,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Thrór\u0027s Hammer I",
+          "name:8": "Thrór's Hammer I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -15246,7 +15246,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "Brimigak\u0027s Retreat",
+          "name:8": "Brimigak's Retreat",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -15336,7 +15336,7 @@
           "posY:3": 4,
           "posZ:3": 8415,
           "biome:8": "",
-          "name:8": "Cromhes\u0027 Tent",
+          "name:8": "Cromhes' Tent",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -15499,7 +15499,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You have been tasked with locating the other rangers deeper within Moria in the area known as the Flaming Deeps."
+          "desc:8": "You have been tasked with locating the other rangers deeper within 墨瑞亚 in the area known as the Flaming Deeps."
         }
       },
       "tasks:9": {
@@ -15580,7 +15580,7 @@
           "posY:3": 4,
           "posZ:3": 8415,
           "biome:8": "",
-          "name:8": "Layles\u0027 Tent",
+          "name:8": "Layles' Tent",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -15712,7 +15712,7 @@
           "posY:3": 4,
           "posZ:3": 8415,
           "biome:8": "",
-          "name:8": "Layles\u0027 Tent",
+          "name:8": "Layles' Tent",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -15829,7 +15829,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Thurdan has sent you to speak to Elrond who he says should have no trouble translating the scroll you found to unlock its secrets."
+          "desc:8": "Thurdan has sent you to speak to 埃尔隆德 who he says should have no trouble translating the scroll you found to unlock its secrets."
         }
       },
       "tasks:9": {
@@ -15844,7 +15844,7 @@
           "posY:3": 143,
           "posZ:3": 5953,
           "biome:8": "",
-          "name:8": "Elrond Half-elven",
+          "name:8": "埃尔隆德 Half-elven",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -15896,7 +15896,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "Elrond has given you a translated scroll."
+          "desc:8": "埃尔隆德 has given you a translated scroll."
         }
       },
       "tasks:9": {
@@ -15961,7 +15961,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You have received a translated version of the scroll and Elrond has tasked you with going to speak to Lord Dáin II Ironfoot to see if his dwarves can create the key needed."
+          "desc:8": "You have received a translated version of the scroll and 埃尔隆德 has tasked you with going to speak to Lord Dáin II Ironfoot to see if his dwarves can create the key needed."
         }
       },
       "tasks:9": {
@@ -16027,7 +16027,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
-          "desc:8": "Bilbo apparently kept a souvenier from his early exploits and may have left it at home when he travelled to Rivendell not realizing what it truly was."
+          "desc:8": "Bilbo apparently kept a souvenier from his early exploits and may have left it at home when he travelled to 幽谷 not realizing what it truly was."
         }
       },
       "tasks:9": {
@@ -16185,7 +16185,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Thrór\u0027s Hammer",
+          "name:8": "Thrór's Hammer",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -16204,7 +16204,7 @@
           "posY:3": 41,
           "posZ:3": 4086,
           "biome:8": "",
-          "name:8": "Khedgroick\u0027s Tomb",
+          "name:8": "Khedgroick's Tomb",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16255,7 +16255,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "After some grueling tasks you have retrieved the key, time to return to Layles and see what\u0027s next."
+          "desc:8": "After some grueling tasks you have retrieved the key, time to return to Layles and see what's next."
         }
       },
       "tasks:9": {
@@ -16270,7 +16270,7 @@
           "posY:3": 5,
           "posZ:3": 8415,
           "biome:8": "",
-          "name:8": "Layles\u0027 Tent",
+          "name:8": "Layles' Tent",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16317,7 +16317,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Khedgroick\u0027s Tomb",
+          "name:8": "Khedgroick's Tomb",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -16336,7 +16336,7 @@
           "posY:3": 41,
           "posZ:3": 3866,
           "biome:8": "",
-          "name:8": "Khedgroick\u0027s Tomb",
+          "name:8": "Khedgroick's Tomb",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16830,7 +16830,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The assault on the dungeon in Moria saw the freedom of the Ranger Cromhes, but proved fruitless as Layles perished, and Brimigak, the Steward of Angmar, withdrew behind a fortified area of the dungeon."
+          "desc:8": "The assault on the dungeon in 墨瑞亚 saw the freedom of the Ranger Cromhes, but proved fruitless as Layles perished, and Brimigak, the Steward of Angmar, withdrew behind a fortified area of the dungeon."
         }
       },
       "tasks:9": {
@@ -16911,7 +16911,7 @@
           "posY:3": 54,
           "posZ:3": 8193,
           "biome:8": "",
-          "name:8": "Heudebrand\u0027s Farm",
+          "name:8": "Heudebrand's Farm",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16959,7 +16959,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Betan\u0027s Rescue",
+          "name:8": "Betan's Rescue",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -16994,7 +16994,7 @@
           "posY:3": 54,
           "posZ:3": 8193,
           "biome:8": "",
-          "name:8": "Heudebrand\u0027s Farm",
+          "name:8": "Heudebrand's Farm",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17043,7 +17043,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Betan\u0027s Revenge",
+          "name:8": "Betan's Revenge",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -17162,7 +17162,7 @@
           "posY:3": 37,
           "posZ:3": 13673,
           "biome:8": "",
-          "name:8": "Minas Tirith",
+          "name:8": "米那斯提力斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17223,7 +17223,7 @@
           "posY:3": 55,
           "posZ:3": 4200,
           "biome:8": "",
-          "name:8": "City of Dale",
+          "name:8": "City of 河谷邦",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17284,7 +17284,7 @@
           "posY:3": 51,
           "posZ:3": 12282,
           "biome:8": "",
-          "name:8": "Edoras",
+          "name:8": "埃多拉斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17402,7 +17402,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The Captain of the Guard, Aeridstan, at Edoras, is looking for some help collecting supplies for a cauldron.  Go see if you can help."
+          "desc:8": "The Captain of the Guard, Aeridstan, at 埃多拉斯, is looking for some help collecting supplies for a cauldron.  Go see if you can help."
         }
       },
       "tasks:9": {
@@ -17417,7 +17417,7 @@
           "posY:3": 57,
           "posZ:3": 12271,
           "biome:8": "",
-          "name:8": "Edoras",
+          "name:8": "埃多拉斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17546,7 +17546,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Wargs have gotten out of control near Dale.  Bard, King of Dale, has put out a call for help to try to bring them under control."
+          "desc:8": "Wargs have gotten out of control near 河谷邦.  Bard, King of 河谷邦, has put out a call for help to try to bring them under control."
         }
       },
       "tasks:9": {
@@ -17561,7 +17561,7 @@
           "posY:3": 71,
           "posZ:3": 4145,
           "biome:8": "",
-          "name:8": "Bard, King of Dale",
+          "name:8": "Bard, King of 河谷邦",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17618,7 +17618,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The Captain of the Guard, Archestratidas, at Dale, is looking for some help collecting supplies for a cauldron.  Go see if you can help."
+          "desc:8": "The Captain of the Guard, Archestratidas, at 河谷邦, is looking for some help collecting supplies for a cauldron.  Go see if you can help."
         }
       },
       "tasks:9": {
@@ -17633,7 +17633,7 @@
           "posY:3": 107,
           "posZ:3": 4180,
           "biome:8": "",
-          "name:8": "Dale",
+          "name:8": "河谷邦",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17867,7 +17867,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Seems one of the blacksmiths in Dale is looking for help tracking down who did it."
+          "desc:8": "Seems one of the blacksmiths in 河谷邦 is looking for help tracking down who did it."
         }
       },
       "tasks:9": {
@@ -18389,7 +18389,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You\u0027ve collected the items for Thurdan, time to head back."
+          "desc:8": "You've collected the items for Thurdan, time to head back."
         }
       },
       "tasks:9": {
@@ -18630,7 +18630,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Brimigak\u0027s Fall-Start",
+          "name:8": "Brimigak's Fall-Start",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -18710,7 +18710,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Brimigak\u0027s Fall-Finale",
+          "name:8": "Brimigak's Fall-Finale",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -18785,7 +18785,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You managed to recover Cromhes\u0027 equipment, but as Thurdan pointed out to you, the gear was corroded and decayed beyond use.\n\nYou must seek out a way to restore his equipment to bring back the light to him."
+          "desc:8": "You managed to recover Cromhes' equipment, but as Thurdan pointed out to you, the gear was corroded and decayed beyond use.\n\nYou must seek out a way to restore his equipment to bring back the light to him."
         }
       },
       "tasks:9": {
@@ -18852,7 +18852,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You managed to recover Cromhes\u0027 equipment, but as Thurdan pointed out to you, the gear was corroded and decayed beyond use.You must seek out a way to restore his equipment to bring back the light to him."
+          "desc:8": "You managed to recover Cromhes' equipment, but as Thurdan pointed out to you, the gear was corroded and decayed beyond use.You must seek out a way to restore his equipment to bring back the light to him."
         }
       },
       "tasks:9": {
@@ -18923,7 +18923,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The emmisaries of the enemy have retreated to outposts far to the south, go, retrieve Cromhes\u0027 items!"
+          "desc:8": "The emmisaries of the enemy have retreated to outposts far to the south, go, retrieve Cromhes' items!"
         }
       },
       "tasks:9": {
@@ -18989,7 +18989,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The emmisaries of the enemy have retreated to outposts far to the south, go, retrieve Cromhes\u0027 items!"
+          "desc:8": "The emmisaries of the enemy have retreated to outposts far to the south, go, retrieve Cromhes' items!"
         }
       },
       "tasks:9": {
@@ -19055,7 +19055,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The emmisaries of the enemy have retreated to outposts far to the south, go, retrieve Cromhes\u0027 items!"
+          "desc:8": "The emmisaries of the enemy have retreated to outposts far to the south, go, retrieve Cromhes' items!"
         }
       },
       "tasks:9": {
@@ -19122,7 +19122,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You managed to recover Cromhes\u0027 equipment, but as Thurdan pointed out to you, the gear was corroded and decayed beyond use.You must seek out a way to restore his equipment to bring back the light to him."
+          "desc:8": "You managed to recover Cromhes' equipment, but as Thurdan pointed out to you, the gear was corroded and decayed beyond use.You must seek out a way to restore his equipment to bring back the light to him."
         }
       },
       "tasks:9": {
@@ -19188,7 +19188,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The Rangers of Mitheithel were able to repair Cromhes\u0027 shield and armor, but the sword was of Elf-craft beyond their skill.\n\nElrond is at Rivendell."
+          "desc:8": "The Rangers of Mitheithel were able to repair Cromhes' shield and armor, but the sword was of Elf-craft beyond their skill.\n\n埃尔隆德 is at 幽谷."
         }
       },
       "tasks:9": {
@@ -19203,7 +19203,7 @@
           "posY:3": 143,
           "posZ:3": 5960,
           "biome:8": "",
-          "name:8": "Elrond",
+          "name:8": "埃尔隆德",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -19376,7 +19376,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The Rangers of Mitheithel were able to repair Cromhes\u0027 shield and armor, but the sword was of Elf-craft beyond their skill."
+          "desc:8": "The Rangers of Mitheithel were able to repair Cromhes' shield and armor, but the sword was of Elf-craft beyond their skill."
         }
       },
       "tasks:9": {
@@ -19391,7 +19391,7 @@
           "posY:3": 121,
           "posZ:3": 5998,
           "biome:8": "",
-          "name:8": "Rivendell Forge",
+          "name:8": "幽谷 Forge",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -19449,7 +19449,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "With the sword reforged, return to Elrond to have him inspect it."
+          "desc:8": "With the sword reforged, return to 埃尔隆德 to have him inspect it."
         }
       },
       "tasks:9": {
@@ -19464,7 +19464,7 @@
           "posY:3": 143,
           "posZ:3": 5961,
           "biome:8": "",
-          "name:8": "Elrond",
+          "name:8": "埃尔隆德",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -19517,7 +19517,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Elrond renamed Cromhes’ sword Apostle, Hope of Vengence, and prophesied that it would one day avenge the death of Layles, Cromhes’ daughter."
+          "desc:8": "埃尔隆德 renamed Cromhes’ sword Apostle, Hope of Vengence, and prophesied that it would one day avenge the death of Layles, Cromhes’ daughter."
         }
       },
       "tasks:9": {
@@ -19600,7 +19600,7 @@
           "posY:3": 4,
           "posZ:3": 8416,
           "biome:8": "",
-          "name:8": "Cromhes\u0027 Tent",
+          "name:8": "Cromhes' Tent",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -19649,11 +19649,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Brimigak\u0027s Fall I",
+          "name:8": "Brimigak's Fall I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You have travelled deep into the Moria Dungeons with Cromhes, into the very sanctuary of this False-king himself. Here Cromhes hopes to confront Brimigak and shatter the Iron Crown forever.\n\nHe has provided you a means to meet with him outside Brimigak\u0027s Throne Room."
+          "desc:8": "You have travelled deep into the 墨瑞亚 Dungeons with Cromhes, into the very sanctuary of this False-king himself. Here Cromhes hopes to confront Brimigak and shatter the Iron Crown forever.\n\nHe has provided you a means to meet with him outside Brimigak's Throne Room."
         }
       },
       "tasks:9": {
@@ -19668,7 +19668,7 @@
           "posY:3": 4,
           "posZ:3": 8412,
           "biome:8": "",
-          "name:8": "Cromhes\u0027 Tent",
+          "name:8": "Cromhes' Tent",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -19728,7 +19728,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Brimigak\u0027s Fall II",
+          "name:8": "Brimigak's Fall II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -19796,7 +19796,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Brimigak\u0027s Fall III",
+          "name:8": "Brimigak's Fall III",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -19867,7 +19867,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Cromhes has asked that you report everything you\u0027ve seen to Aragon back in Rivendell."
+          "desc:8": "Cromhes has asked that you report everything you've seen to Aragon back in 幽谷."
         }
       },
       "tasks:9": {
@@ -19934,7 +19934,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Aragorn was concerned at what you told him and has asked that you speak to Gandalf as he is busy with preparations for a secret mission that is about to happen."
+          "desc:8": "阿拉贡 was concerned at what you told him and has asked that you speak to Gandalf as he is busy with preparations for a secret mission that is about to happen."
         }
       },
       "tasks:9": {
@@ -20121,7 +20121,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The folk of Pelargir pay tribute to the river Gilrain for the bounty it has granted its people and to honour the fabled Heroes from the Land of Draconis."
+          "desc:8": "The folk of 佩拉基尔 pay tribute to the river Gilrain for the bounty it has granted its people and to honour the fabled Heroes from the Land of Draconis."
         }
       },
       "tasks:9": {
@@ -20136,7 +20136,7 @@
           "posY:3": 43,
           "posZ:3": 15706,
           "biome:8": "",
-          "name:8": "Pelargir - Mathena",
+          "name:8": "佩拉基尔 - Mathena",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -20182,7 +20182,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The folk of Pelargir pay tribute to the river Gilrain for the bounty it has granted its people and to honour the fabled Heroes from the Land of Draconis."
+          "desc:8": "The folk of 佩拉基尔 pay tribute to the river Gilrain for the bounty it has granted its people and to honour the fabled Heroes from the Land of Draconis."
         }
       },
       "tasks:9": {
@@ -20404,7 +20404,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You can\u0027t help but wonder what she may be planning, but you have no choice but to play along...for now."
+          "desc:8": "You can't help but wonder what she may be planning, but you have no choice but to play along...for now."
         }
       },
       "tasks:9": {
@@ -20419,7 +20419,7 @@
           "posY:3": 40,
           "posZ:3": 4074,
           "biome:8": "",
-          "name:8": "High Fells of Rhudar",
+          "name:8": "High Fells of 鲁道尔",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -20800,7 +20800,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Dreulhara\u0027s Hope",
+          "name:8": "Dreulhara's Hope",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -21281,7 +21281,7 @@
           "posY:3": 55,
           "posZ:3": 7828,
           "biome:8": "",
-          "name:8": "Bree",
+          "name:8": "布理",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -22034,7 +22034,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
-          "desc:8": "The rangers are faring far better in Annuminas than Talacnun realized, with the Palantir under the protection of the rangers, Wynton has asked that you reach out to Elrond to see if he has a means of transporting it safely."
+          "desc:8": "The rangers are faring far better in Annuminas than Talacnun realized, with the Palantir under the protection of the rangers, Wynton has asked that you reach out to 埃尔隆德 to see if he has a means of transporting it safely."
         }
       },
       "tasks:9": {
@@ -22049,7 +22049,7 @@
           "posY:3": 143,
           "posZ:3": 5960,
           "biome:8": "",
-          "name:8": "Elrond",
+          "name:8": "埃尔隆德",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -22114,7 +22114,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You must return the cloth, given to you by Elrond, to the Ranger Wynton.  Also seems like Wynton may have more news for you..."
+          "desc:8": "You must return the cloth, given to you by 埃尔隆德, to the Ranger Wynton.  Also seems like Wynton may have more news for you..."
         }
       },
       "tasks:9": {
@@ -22181,7 +22181,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You JUST came from Rivendell and Elrond is already summoning you back!  Good thing I have waypoints to make that easier..."
+          "desc:8": "You JUST came from 幽谷 and 埃尔隆德 is already summoning you back!  Good thing I have waypoints to make that easier..."
         }
       },
       "tasks:9": {
@@ -22196,7 +22196,7 @@
           "posY:3": 143,
           "posZ:3": 5959,
           "biome:8": "",
-          "name:8": "Elrond\u0027s Library",
+          "name:8": "埃尔隆德's Library",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -22248,7 +22248,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Elrond has asked that you help your fellow Men, Aragorn son of Arathorn and Boromir of Gondor, prepare to leave on their dangerous -- and secret -- mission."
+          "desc:8": "埃尔隆德 has asked that you help your fellow Men, 阿拉贡 son of Arathorn and Boromir of Gondor, prepare to leave on their dangerous -- and secret -- mission."
         }
       },
       "tasks:9": {
@@ -22411,11 +22411,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Preparations - Aragorn",
+          "name:8": "Preparations - 阿拉贡",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Elrond has asked that you help your fellow Men, Aragorn son of Arathorn and Boromir of Gondor, prepare to leave on their dangerous -- and secret -- mission."
+          "desc:8": "埃尔隆德 has asked that you help your fellow Men, 阿拉贡 son of Arathorn and Boromir of Gondor, prepare to leave on their dangerous -- and secret -- mission."
         }
       },
       "tasks:9": {
@@ -22430,7 +22430,7 @@
           "posY:3": 142,
           "posZ:3": 6074,
           "biome:8": "",
-          "name:8": "Aragorn",
+          "name:8": "阿拉贡",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -22483,7 +22483,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Elrond has asked that you help your fellow Men, Aragorn son of Arathorn and Boromir of Gondor, prepare to leave on their dangerous -- and secret -- mission."
+          "desc:8": "埃尔隆德 has asked that you help your fellow Men, 阿拉贡 son of Arathorn and Boromir of Gondor, prepare to leave on their dangerous -- and secret -- mission."
         }
       },
       "tasks:9": {
@@ -22553,7 +22553,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You have helped both Aragorn and Boromir with their preparations and should return now to Elrond."
+          "desc:8": "You have helped both 阿拉贡 and Boromir with their preparations and should return now to 埃尔隆德."
         }
       },
       "tasks:9": {
@@ -22568,7 +22568,7 @@
           "posY:3": 142,
           "posZ:3": 6081,
           "biome:8": "",
-          "name:8": "Elrond\u0027s Library",
+          "name:8": "埃尔隆德's Library",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -22741,7 +22741,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Seems like the master smith in Rivendell is in need of assistance."
+          "desc:8": "Seems like the master smith in 幽谷 is in need of assistance."
         }
       },
       "tasks:9": {
@@ -22756,7 +22756,7 @@
           "posY:3": 121,
           "posZ:3": 5999,
           "biome:8": "",
-          "name:8": "Rivendell Forge",
+          "name:8": "幽谷 Forge",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -22828,7 +22828,7 @@
           "posY:3": 121,
           "posZ:3": 5999,
           "biome:8": "",
-          "name:8": "Rivendell Forge",
+          "name:8": "幽谷 Forge",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -23286,7 +23286,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "You can now use fast travel!"
+          "desc:8": "You can now use 快速旅行!"
         }
       },
       "tasks:9": {},
@@ -23330,7 +23330,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Even the folks in Edoras are looking for help with tasks."
+          "desc:8": "Even the folks in 埃多拉斯 are looking for help with tasks."
         }
       },
       "tasks:9": {
@@ -23501,7 +23501,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Edhellond waypoint unlocked!",
+          "name:8": "Edhellond 路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -23566,7 +23566,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -23686,7 +23686,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fast Travel"
+          "desc:8": "快速旅行"
         }
       },
       "tasks:9": {
@@ -23805,7 +23805,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 1,
           "ismain:1": 0,
-          "name:8": "Betan\u0027s Rescue",
+          "name:8": "Betan's Rescue",
           "desc:8": "Betan Rescued"
         }
       },
@@ -23862,7 +23862,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Brimigak\u0027s Fall-Reset",
+          "name:8": "Brimigak's Fall-Reset",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -24113,7 +24113,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "On an Adventure - Missing Hobbit",
-          "desc:8": "Looks like the Clayhangers of Bucklebury need your assitance with a missing hobbit.  Why not go see what you can do."
+          "desc:8": "Looks like the Clayhangers of 雄鹿镇 need your assitance with a missing hobbit.  Why not go see what you can do."
         }
       },
       "tasks:9": {
@@ -24461,7 +24461,7 @@
           "posY:3": 42,
           "posZ:3": 7595,
           "biome:8": "",
-          "name:8": "Forest north of Tom\u0027s house",
+          "name:8": "Forest north of Tom's house",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -24521,7 +24521,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "On an Adventure - Heading Home",
-          "desc:8": "All things considered, it was a very interesting adventure to be had.  Time to head back to Bucklebury."
+          "desc:8": "All things considered, it was a very interesting adventure to be had.  Time to head back to 雄鹿镇."
         }
       },
       "tasks:9": {
@@ -24639,7 +24639,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 1,
           "ismain:1": 0,
-          "name:8": "Received Petunia\u0027s Manuscript",
+          "name:8": "Received Petunia's Manuscript",
           "desc:8": ""
         }
       },
@@ -24751,7 +24751,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Riders of Horror-Wargish Threat",
-          "desc:8": "The Warg-riders have become an issue for the Dwarves who are camped near Moria."
+          "desc:8": "The Warg-riders have become an issue for the Dwarves who are camped near 墨瑞亚."
         }
       },
       "tasks:9": {
@@ -24947,7 +24947,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Riders of Horror-Riders of the Plains",
-          "desc:8": "The Warg-riders have become an issue for the Dwarves who are camped near Moria.\n\nWith the Wargs numbers lessened, it is time to strike the Riders."
+          "desc:8": "The Warg-riders have become an issue for the Dwarves who are camped near 墨瑞亚.\n\nWith the Wargs numbers lessened, it is time to strike the Riders."
         }
       },
       "tasks:9": {
@@ -24995,7 +24995,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Riders of Horror-Strategic Strike",
-          "desc:8": "The Warg-riders have become an issue for the Dwarves who are camped near Moria.\n\nIt is now time to attack the very camp itself!"
+          "desc:8": "The Warg-riders have become an issue for the Dwarves who are camped near 墨瑞亚.\n\nIt is now time to attack the very camp itself!"
         }
       },
       "tasks:9": {
@@ -25170,7 +25170,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 1,
           "ismain:1": 0,
-          "name:8": "Dwarf-lord\u0027s Gate",
+          "name:8": "Dwarf-lord's Gate",
           "desc:8": ""
         }
       },
@@ -25228,8 +25228,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Reclaiming Moria-Tunnel Blockade",
-          "desc:8": "The pathsof Moria are dangerous and fighting happens constantly."
+          "name:8": "Reclaiming 墨瑞亚-Tunnel Blockade",
+          "desc:8": "The pathsof 墨瑞亚 are dangerous and fighting happens constantly."
         }
       },
       "tasks:9": {
@@ -25266,7 +25266,7 @@
           "posY:3": 10,
           "posZ:3": 9130,
           "biome:8": "",
-          "name:8": "Goblin Blockade",
+          "name:8": "奥克 Blockade",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -25303,7 +25303,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Reclaiming Moria-Flowing Waters",
+          "name:8": "Reclaiming 墨瑞亚-Flowing Waters",
           "desc:8": "Dwalthal Hammerbeard is looking for help related to the waterworks functions."
         }
       },
@@ -25363,7 +25363,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Reclaiming Moria-Return of Knowledge",
+          "name:8": "Reclaiming 墨瑞亚-Return of Knowledge",
           "desc:8": "While you were busy playing choreboy, Dwalthal Hammerbeard found a journal of an unlucky dwarf."
         }
       },
@@ -25533,7 +25533,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Lothlorien - Twice Dead, Once Shot",
+          "name:8": "洛丝罗瑞恩 - Twice Dead, Once Shot",
           "desc:8": "Elves can use some assistance as their ammo gets low."
         }
       },
@@ -25549,7 +25549,7 @@
           "posY:3": 66,
           "posZ:3": 8871,
           "biome:8": "",
-          "name:8": "Lothlorien Watchtower",
+          "name:8": "洛丝罗瑞恩 Watchtower",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -25599,7 +25599,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Lothlorien - Waste not, Want not",
+          "name:8": "洛丝罗瑞恩 - Waste not, Want not",
           "desc:8": "Your efforts are appreciated and now they wish to have you deliver much needed relief."
         }
       },
@@ -25938,7 +25938,7 @@
           "posY:3": 47,
           "posZ:3": 3339,
           "biome:8": "",
-          "name:8": "Erebor throne room",
+          "name:8": "埃瑞博山 throne room",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -25982,7 +25982,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Key of infamy",
-          "desc:8": "You have located the key after a long andevture.  Best to take it back to Dain in Erebor."
+          "desc:8": "You have located the key after a long andevture.  Best to take it back to Dain in 埃瑞博山."
         }
       },
       "tasks:9": {
@@ -26073,7 +26073,7 @@
           "posY:3": 42,
           "posZ:3": 14922,
           "biome:8": "",
-          "name:8": "Erech - Guodhelda",
+          "name:8": "埃瑞赫 - Guodhelda",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -26137,7 +26137,7 @@
           "posY:3": 42,
           "posZ:3": 14922,
           "biome:8": "",
-          "name:8": "Erech",
+          "name:8": "埃瑞赫",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -26195,7 +26195,7 @@
           "posY:3": 42,
           "posZ:3": 14917,
           "biome:8": "",
-          "name:8": "Erech",
+          "name:8": "埃瑞赫",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -26360,7 +26360,7 @@
           "posY:3": 42,
           "posZ:3": 14922,
           "biome:8": "",
-          "name:8": "Erech - Guodhelda",
+          "name:8": "埃瑞赫 - Guodhelda",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -26424,7 +26424,7 @@
           "posY:3": 42,
           "posZ:3": 14922,
           "biome:8": "",
-          "name:8": "Erech",
+          "name:8": "埃瑞赫",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -26627,7 +26627,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "§lAll that once was....§r\n\n \n\n30 years have passed since the forming of the council, Man, Dwarf and Elf.  They came together to try to stop the coming darkness in Angmar.  At the same time, you were trying to stop Draconis from destruction and to contain the evil that was spreading to the Overworld.\n\nSadly, one by one, the free peoples were defeated as the growing evil was stronger than anyone realized.  The last time you were here, Strider, now known as Aragorn had said something about the ring you had returned to Bilbo and Gandalf had been researching.\n\nIt will be up to you to help fight back this evil and see what can be done to help the Fellowship succeed in a new task.  Be strong traveler and know that if ever a Hero was needed, the Hero of Draconis shall be the one to answer that call!\n\n \n\n§l...hope shall not fade.§r§r§r"
+          "desc:8": "§lAll that once was....§r\n\n \n\n30 years have passed since the forming of the council, Man, Dwarf and Elf.  They came together to try to stop the coming darkness in Angmar.  At the same time, you were trying to stop Draconis from destruction and to contain the evil that was spreading to the Overworld.\n\nSadly, one by one, the free peoples were defeated as the growing evil was stronger than anyone realized.  The last time you were here, Strider, now known as 阿拉贡 had said something about the ring you had returned to Bilbo and Gandalf had been researching.\n\nIt will be up to you to help fight back this evil and see what can be done to help the Fellowship succeed in a new task.  Be strong traveler and know that if ever a Hero was needed, the Hero of Draconis shall be the one to answer that call!\n\n \n\n§l...hope shall not fade.§r§r§r"
         }
       },
       "order:3": 0
@@ -27304,7 +27304,7 @@
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "Fast Travel",
+          "name:8": "快速旅行",
           "icon:10": {
             "ForgeCaps:10": {
               "astralsorcery:cap_item_amulet_holder:10": {},
@@ -27317,7 +27317,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\maps\\MiddleEarth.png",
           "bg_size:3": 1024,
-          "desc:8": "Fast travel to be earned as you travel the lands of Middle-earth..."
+          "desc:8": "快速旅行 to be earned as you travel the lands of Middle-earth..."
         }
       },
       "order:3": 8
@@ -28409,7 +28409,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "Elrond feels that the Nazgûl you drove off from the Trollshaws has fled into the Misty Mountains. He has asked you to continue your pursuit of the Nazgûl with the aid of Glóin."
+          "desc:8": "埃尔隆德 feels that the 戒灵 you drove off from the 食人妖森林 has fled into the Misty Mountains. He has asked you to continue your pursuit of the 戒灵 with the aid of 格罗因."
         }
       },
       "order:3": 1
@@ -28539,7 +28539,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "The shadow of Angmar -- Sauron\u0027s hand in the North -- grows steadily, threatening the peace and security of Eriador."
+          "desc:8": "The shadow of Angmar -- Sauron's hand in the North -- grows steadily, threatening the peace and security of 埃利阿多."
         }
       },
       "order:3": 2
@@ -28767,7 +28767,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "After discovering the secret of the Watchers near Khazad-dûm, Manwyn sent you into the darkness of Moria, seeking the Rangers who had marched forth to throw down the rising power of Angmar. You found the Ranger Rurain at the dwarf-outpost deep inside."
+          "desc:8": "After discovering the secret of the Watchers near Khazad-dûm, Manwyn sent you into the darkness of 墨瑞亚, seeking the Rangers who had marched forth to throw down the rising power of Angmar. You found the Ranger Rurain at the dwarf-outpost deep inside."
         }
       },
       "order:3": 3
@@ -29091,7 +29091,7 @@
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "CH6 - The Cold of Forochel",
+          "name:8": "CH6 - The Cold of 佛洛赫尔",
           "icon:10": {
             "ForgeCaps:10": {
               "astralsorcery:cap_item_amulet_holder:10": {},
@@ -29104,7 +29104,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "Gandalf the Grey, currently on the upper floor of the Last Homely House in Rivendell, should be informed of the actions of this Nerea Aubertin."
+          "desc:8": "Gandalf the Grey, currently on the upper floor of the Last Homely House in 幽谷, should be informed of the actions of this Nerea Aubertin."
         }
       },
       "order:3": 5
