@@ -1,4 +1,4 @@
-# TolkienCraft-III-Chinese_localization
+# TolkienCraft III-Chinese_localization
 托尔金工艺3（TolkienCraft III）汉化仓库
 
 ## 介绍
@@ -20,4 +20,6 @@
 这张地图有约25000*25000个方块大小，完全自定义。其中的建筑由那些才华横溢的人们花费心血制作而成。这个整合包和配套地图不仅是为了带来非凡的游戏体验，也是为了提供最完整的中土世界地图。
 
 ## 整合包下载
-[百度网盘](https://pan.baidu.com/s/1nm-q41HHXJVtXuj8-nwYAg?pwd=0000)
+该整合包的地图需要额外下载，但我重新进行整合，添加好了地图，并汉化了主菜单。
+
+下载链接：[百度网盘](https://pan.baidu.com/s/1nm-q41HHXJVtXuj8-nwYAg?pwd=0000)
