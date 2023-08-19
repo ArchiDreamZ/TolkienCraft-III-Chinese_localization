@@ -1,0 +1,73 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Thank you, I will heed your advice and return!",
+                "DialogColor": 16010050,
+                "OptionType": 0
+            }
+        }
+    ],
+    "AvailabilityScoreboardType": 0,
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 2,
+    "AvailabilityScoreboard2Value": 0,
+    "DialogId": 64,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityScoreboard2Objective": "",
+    "AvailabilityQuest4": 0,
+    "ModRev": 18,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": 168,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": 12,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 260,
+    "AvailabilityScoreboardValue": 0,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Started II",
+    "AvailabilityDialog": 0,
+    "AvailabilityScoreboard2Type": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Many events have transpired since you helped set up the Council of the North.  While I am eager to have your help I think you may want to speak to a few people to get a feel for how things work nowadays.  I’ll mark your journal with the locations and people to speak to. Speak to the scholars of Middle-earth I have noted in your journal (Quest Book) and come back to me.
+
+We will speak further upon your return.",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1565187992173L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

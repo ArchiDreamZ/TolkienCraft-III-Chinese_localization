@@ -1,0 +1,96 @@
+{
+    "CompleterNpc": "Aliz Heudebrand",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Betan's Rescue",
+    "Text": "Betan Heudebrand, a Bree-land farmer, has been captured by marauding Orcs.
+
+Betan Heudebrand has asked you to help him escape from the Orc camp.
+
+Kill any orcs nearby.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 8,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 350,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 100,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 10,
+            "Slot": "mordor_orc"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1563584361783L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:diamond_chestplate",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 0s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Lore": [
+                            "§6Reward for helping Betan Heudebrand"
+                        ],
+                        "Name": "§3Heudebrand's Robe"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "I'm so thankful you rescued Betan!",
+    "NextQuestTitle": ""
+}

@@ -1,0 +1,123 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": 57,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 636,
+                "Title": "How goes the exploration?",
+                "DialogColor": 16514043,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 635,
+                "Title": "So what are these \"Oathbreakers?\"",
+                "DialogColor": 15037160,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 2,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 639,
+                "Title": "Has anyone ventured in there before?",
+                "DialogColor": 15537140,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 3,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 640,
+                "Title": "I've heard murmurs about a water situation?",
+                "DialogColor": 16319470,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 4,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 643,
+                "Title": "Any types of special plants in there?",
+                "DialogColor": 16384989,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "I don't have anything to ask.",
+                "DialogColor": 15739169,
+                "OptionType": 0
+            }
+        }
+    ],
+    "AvailabilityScoreboardType": 1,
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityScoreboard2Value": 1,
+    "DialogId": 634,
+    "AvailabilityQuest": 1,
+    "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 1,
+    "AvailabilityQuest3": 0,
+    "AvailabilityScoreboard2Objective": "",
+    "AvailabilityQuest4": 0,
+    "ModRev": 18,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "AvailabilityScoreboardValue": 1,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Paths of the Dead III",
+    "AvailabilityDialog": 0,
+    "AvailabilityScoreboard2Type": 1,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Your efforts have aloowed us to re-open the paths of the dead.  While the Oathbreakers can be dangerous, there is much to learn and explore there.
+
+You can always come back to see if I have any work to do, or did you want to learn more about the Oathbreakers?",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": 228,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1576170548323L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

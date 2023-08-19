@@ -1,0 +1,125 @@
+{
+    "CompleterNpc": "Bard",
+    "NextQuestId": -1,
+    "RandomReward": 1b,
+    "QuestRepeat": 2,
+    "QuestCompletion": 0,
+    "Title": "A Daily Hunt",
+    "Text": "Skeletons can be found roaming everywhere. You should defeat 25 of them then return back to Charlice in Dale.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 32,
+            "Slot": "warg"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1562865301225L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 24b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "lootbags:itemlootbag",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "lootbags:itemlootbag",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 4b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "lootbags:itemlootbag",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 5b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "lootbags:itemlootbag",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 6b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "lootbags:itemlootbag",
+                "Count": 1b,
+                "Damage": 4s
+            }
+        ]
+    },
+    "CompleteText": "Thank you @p, thank you for defeating those skeletons, unfortunately they will return, so I may need your help again in the future.",
+    "NextQuestTitle": ""
+}
