@@ -495,7 +495,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "河谷邦",
+          "name:8": "河谷城",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -3300,7 +3300,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "河谷邦路径点已解锁!",
+          "name:8": "河谷城路径点已解锁!",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3319,7 +3319,7 @@
           "posY:3": 54,
           "posZ:3": 4679,
           "biome:8": "",
-          "name:8": "河谷邦",
+          "name:8": "河谷城",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -5463,7 +5463,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n此时，中土世界的人们已经听说过你，并知道你的鼎鼎大名。"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n此时，中土世界的人们已经听说过你，并知道你的鼎鼎大名。"
         }
       },
       "tasks:9": {
@@ -5846,7 +5846,7 @@
           "posY:3": 40,
           "posZ:3": 14973,
           "biome:8": "",
-          "name:8": "The Bumpy Hermit Inn",
+          "name:8": "崎岖隐士旅馆",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -6292,7 +6292,7 @@
                   "Lore:9": {
                     "0:8": "§6A gift for your efforts"
                   },
-                  "Name:8": "§5扎姆罗恩(Zaemrohn)的祸根"
+                  "Name:8": "§5扎姆罗恩(Zaemrohn)的克星"
                 },
                 "Special:10": {
                   "Categories:9": {
@@ -6893,7 +6893,7 @@
           "posY:3": 142,
           "posZ:3": 6073,
           "biome:8": "",
-          "name:8": "最后的温馨小屋",
+          "name:8": "最后港湾",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -7189,7 +7189,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "拿起格罗芬德尔领主赐予你的宝石，看看你能发现什么。"
+          "desc:8": "拿起格罗芬德尔领主赐予你的绿玉，看看你能发现什么。"
         }
       },
       "tasks:9": {
@@ -7491,7 +7491,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "骏马与骑士在哪里呢？",
+          "name:8": "骏马与黑骑手在哪里呢？",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -7562,7 +7562,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "埃尔拉丹已经确定，失踪的骑士可能藏身于食人妖森林，在黑骏马(Black Steed)附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿玉(beryl)搜索其中的几个洞穴。"
+          "desc:8": "埃尔拉丹已经确定，失踪的黑骑手可能藏身于食人妖森林，在黑骏马(Black Steed)附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿玉(beryl)搜索其中的几个洞穴。"
         }
       },
       "tasks:9": {
@@ -7652,7 +7652,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "埃尔拉丹已经确定，失踪的骑士可能藏身于食人妖森林，在黑骏马(Black Steed)附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿玉(beryl)搜索其中的几个洞穴。"
+          "desc:8": "埃尔拉丹已经确定，失踪的黑骑手可能藏身于食人妖森林，在黑骏马(Black Steed)附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿玉(beryl)搜索其中的几个洞穴。"
         }
       },
       "tasks:9": {
@@ -7742,7 +7742,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "埃尔拉丹已经确定，失踪的骑士可能藏身于食人妖森林，在黑骏马(Black Steed)附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿玉(beryl)搜索其中的几个洞穴。"
+          "desc:8": "埃尔拉丹已经确定，失踪的黑骑手可能藏身于食人妖森林，在黑骏马(Black Steed)附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿玉(beryl)搜索其中的几个洞穴。"
         }
       },
       "tasks:9": {
@@ -8039,7 +8039,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "既然你已经看到了格罗芬德尔领主的宝石的作用，那么是时候收回它了。"
+          "desc:8": "既然你已经看到了格罗芬德尔领主的绿玉的作用，那么是时候收回它了。"
         }
       },
       "tasks:9": {
@@ -8365,7 +8365,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "与巴拉肯巴拉钦(Barachen)交谈后，是时候去追捕巨人了，希望能得到更多关于戒灵的信息。"
+          "desc:8": "与巴拉钦(Barachen)交谈后，是时候去追捕巨人了，希望能得到更多关于戒灵的信息。"
         }
       },
       "tasks:9": {
@@ -8660,7 +8660,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
         }
       },
       "tasks:9": {
@@ -9304,7 +9304,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~"
         }
       },
       "tasks:9": {
@@ -9642,7 +9642,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "招聘板任务",
+          "name:8": "任务栏的任务",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -11890,11 +11890,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "阵营奖励",
+          "name:8": "派系奖励",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提升你的阵营声望来赚取免费奖励。每30分钟回来领取你的奖励。"
+          "desc:8": "通过提升你的派系声望来赚取免费奖励。每30分钟回来领取你的奖励。"
         }
       },
       "tasks:9": {},
@@ -11957,7 +11957,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n一旦达到声望要求，你将能够每天赚取阵营代币，以帮助你变得更有名，并在阵营商人那里使用。"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n一旦达到声望要求，你将能够每天赚取派系代币，以帮助你变得更有名，并在派系商人那里使用。"
         }
       },
       "tasks:9": {
@@ -12024,11 +12024,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "阵营供货商",
+          "name:8": "派系供货商",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人阵营的声望。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
+          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
         }
       },
       "tasks:9": {
@@ -12100,7 +12100,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n他们现在把你视为他们的一员。因此，你将能够接触到更棒的阵营商人，他们拥有通常只对他们社区成员开放的独特商品。现在，你还可以从阵营里的强者那里雇佣一些佣兵。"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n他们现在把你视为他们的一员。因此，你将能够接触到更棒的派系商人，他们拥有通常只对他们社区成员开放的独特商品。现在，你还可以从派系里的强者那里雇佣一些佣兵。"
         }
       },
       "tasks:9": {
@@ -12177,7 +12177,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你的事迹将被载入史册。通过你的不懈努力，中土世界的各族人民团结在一个共同的事业周围……就是你。"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你的事迹将被载入史册。通过你的不懈努力，中土世界的各族人民团结在一个共同的事业周围……就是你。"
         }
       },
       "tasks:9": {},
@@ -12269,11 +12269,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "阵营奖励",
+          "name:8": "派系奖励",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提升你的阵营声望来赚取免费奖励。每30分钟回来领取你的奖励。"
+          "desc:8": "通过提升你的派系声望来赚取免费奖励。每30分钟回来领取你的奖励。"
         }
       },
       "tasks:9": {},
@@ -12336,7 +12336,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
         }
       },
       "tasks:9": {
@@ -12403,11 +12403,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "阵营供货商",
+          "name:8": "派系供货商",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人阵营的声望。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
+          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
         }
       },
       "tasks:9": {
@@ -12479,7 +12479,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
         }
       },
       "tasks:9": {
@@ -12549,11 +12549,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "阵营奖励",
+          "name:8": "派系奖励",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提升你的阵营声望来赚取免费奖励。每30分钟回来领取你的奖励。"
+          "desc:8": "通过提升你的派系声望来赚取免费奖励。每30分钟回来领取你的奖励。"
         }
       },
       "tasks:9": {},
@@ -12616,7 +12616,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你现在可以与墨瑞亚的阵营商人交谈，以帮助提高你的知名度。"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你现在可以与墨瑞亚的派系商人交谈，以帮助提高你的知名度。"
         }
       },
       "tasks:9": {
@@ -12683,11 +12683,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "阵营供货商",
+          "name:8": "派系供货商",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人阵营的声望。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
+          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
         }
       },
       "tasks:9": {
@@ -12759,7 +12759,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
         }
       },
       "tasks:9": {
@@ -12833,7 +12833,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
         }
       },
       "tasks:9": {
@@ -12894,11 +12894,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "阵营奖励",
+          "name:8": "派系奖励",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提升你的阵营声望来赚取免费奖励。每30分钟回来领取你的奖励。"
+          "desc:8": "通过提升你的派系声望来赚取免费奖励。每30分钟回来领取你的奖励。"
         }
       },
       "tasks:9": {},
@@ -12961,7 +12961,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你现在可以与夏尔的阵营商人交谈，以帮助提高你的知名度。"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你现在可以与夏尔的派系商人交谈，以帮助提高你的知名度。"
         }
       },
       "tasks:9": {
@@ -13022,11 +13022,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "阵营供货商",
+          "name:8": "派系供货商",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人阵营的声望。\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
+          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
         }
       },
       "tasks:9": {
@@ -13098,7 +13098,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
         }
       },
       "tasks:9": {
@@ -13251,7 +13251,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "一只训练有素的猎鹰来到了幽谷，从隐蔽在苍泉河的游侠营地为游侠首领——阿拉贡带来了一个令人不安的消息。"
+          "desc:8": "一只训练有素的猎鹰来到了幽谷，从隐蔽在苍泉河的游民营地为游民首领——阿拉贡带来了一个令人不安的消息。"
         }
       },
       "tasks:9": {
@@ -13317,7 +13317,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "古斯威奈(Guthwine)告诉你，一只受伤的猎鹰携带着一条来自曼温(Manwyn)的消息抵达。曼温(Manwyn)是克罗米斯(Cromhes)队伍中的一名游侠，他违抗了阿拉贡的命令，进入了墨瑞亚，相信那里再次出现了暗影。"
+          "desc:8": "古斯威奈(Guthwine)告诉你，一只受伤的猎鹰携带着一条来自曼温(Manwyn)的消息抵达。曼温(Manwyn)是克罗米斯(Cromhes)队伍中的一名游民，他违抗了阿拉贡的命令，进入了墨瑞亚，相信那里再次出现了暗影。"
         }
       },
       "tasks:9": {
@@ -13380,11 +13380,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "守望者(Watchers)的秘密",
+          "name:8": "水中监视者的秘密",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn) believes that the secret of of the Watchers can be revealed by investigating one of the pedestals they rest on. He has instructed you to carefully approach one of the Watchers and take a rubbing of the runes upon it. He warned you to be very careful of the fell and deadly Watchers."
+          "desc:8": "曼温(Manwyn) believes that the secret of of the 水中监视者 can be revealed by investigating one of the pedestals they rest on. He has instructed you to carefully approach one of the 水中监视者 and take a rubbing of the runes upon it. He warned you to be very careful of the fell and deadly 水中监视者."
         }
       },
       "tasks:9": {
@@ -13399,7 +13399,7 @@
           "posY:3": 41,
           "posZ:3": 9407,
           "biome:8": "",
-          "name:8": "寻找守望者(Watchers)",
+          "name:8": "寻找水中监视者",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -13451,7 +13451,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Heart of the Watchers",
+          "name:8": "水中监视者的心脏",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -13682,7 +13682,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn) bade you pass through the Watchers, for you no longer have cause to fear the deadly stones. He hopes that you may find a remnant of the f奥克e 克罗米斯(Cromhes) led through the stones somewhere on the other side."
+          "desc:8": "曼温(Manwyn) bade you pass through the 水中监视者, for you no longer have cause to fear the deadly stones. He hopes that you may find a remnant of the f奥克e 克罗米斯(Cromhes) led through the stones somewhere on the other side."
         }
       },
       "tasks:9": {
@@ -13816,11 +13816,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Challenging the Watcher",
+          "name:8": "Challenging the 水中监视者",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn) believes the charm he placed on you will allow you passage through the Watchers, but warns that it may draw an Ancient spirit out you must defeat."
+          "desc:8": "曼温(Manwyn) believes the charm he placed on you will allow you passage through the 水中监视者, but warns that it may draw an Ancient spirit out you must defeat."
         }
       },
       "tasks:9": {
@@ -13917,7 +13917,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn) bade you pass through the Watchers, for you no longer have cause to fear the deadly stones. He hopes that you may find a remnant of the f奥克e Cromes led through the stones somewhere on the other side."
+          "desc:8": "曼温(Manwyn) bade you pass through the 水中监视者, for you no longer have cause to fear the deadly stones. He hopes that you may find a remnant of the f奥克e Cromes led through the stones somewhere on the other side."
         }
       },
       "tasks:9": {
@@ -14355,7 +14355,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\nYou have proven worthy in the yes of many, you now will have access to the token seller to gain even more faction."
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\nYou have proven worthy in the yes of many, you now will have access to the token seller to gain even more faction."
         }
       },
       "tasks:9": {
@@ -14426,7 +14426,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\nThe people are now seeing your value and worth, at this level you can now access the faction seller in 布理 to help you get better known."
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\nThe people are now seeing your value and worth, at this level you can now access the faction seller in 布理 to help you get better known."
         }
       },
       "tasks:9": {
@@ -14497,7 +14497,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\nYou can now access the Faction Seller in 幽谷 to help you get better known."
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\nYou can now access the Faction Seller in 幽谷 to help you get better known."
         }
       },
       "tasks:9": {
@@ -14568,7 +14568,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
         }
       },
       "tasks:9": {
@@ -14639,7 +14639,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
         }
       },
       "tasks:9": {
@@ -14704,7 +14704,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
         }
       },
       "tasks:9": {
@@ -14775,7 +14775,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
         }
       },
       "tasks:9": {
@@ -14846,7 +14846,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
         }
       },
       "tasks:9": {
@@ -15499,7 +15499,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你被派遣前往墨瑞亚更深处的燃烧深渊(Flaming Deeps)地区寻找其他游侠。"
+          "desc:8": "你被派遣前往墨瑞亚更深处的燃烧深渊(Flaming Deeps)地区寻找其他游民。"
         }
       },
       "tasks:9": {
@@ -15631,7 +15631,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "显然，游侠在敌人阵营中有着同情者，特别是其中一个名叫弗里德利(Fridli)的人，决定提供一些潜在的有用信息来帮助他们。"
+          "desc:8": "显然，游民在敌人派系中有着同情者，特别是其中一个名叫弗里德利(Fridli)的人，决定提供一些潜在的有用信息来帮助他们。"
         }
       },
       "tasks:9": {
@@ -16830,7 +16830,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在对墨瑞亚地牢的突击中，解救了游侠克罗米斯(Cromhes)，但又因为莱尔斯(Layles)的牺牲而无功而返，安格玛的宰相——布里米加克(Brimigak)则撤退到了地牢的防御工事后面。"
+          "desc:8": "在对墨瑞亚地牢的突击中，解救了游民克罗米斯(Cromhes)，但又因为莱尔斯(Layles)的牺牲而无功而返，安格玛的副手——布里米加克(Brimigak)则撤退到了地牢的防御工事后面。"
         }
       },
       "tasks:9": {
@@ -17062,7 +17062,7 @@
           "posY:3": 66,
           "posZ:3": 7490,
           "biome:8": "",
-          "name:8": "奥克-梐枑",
+          "name:8": "奥克-栅栏",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17489,7 +17489,7 @@
           "posY:3": 65,
           "posZ:3": 12326,
           "biome:8": "",
-          "name:8": "粗俗术士之臂旅馆",
+          "name:8": "三流术士之臂旅馆",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17546,7 +17546,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "河谷邦附近的座狼已经失去控制。 河谷邦之王——巴德已经发出求救信号，试图让它们重新归于掌控之中。"
+          "desc:8": "河谷城附近的座狼已经失去控制。 河谷邦之王——巴德已经发出求救信号，试图让它们重新归于掌控之中。"
         }
       },
       "tasks:9": {
@@ -17618,7 +17618,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "河谷邦的卫兵队长阿瑟斯拉迪达斯(Archestratidas)正在找人帮忙收集大锅所需的物资。 去看看你能不能帮上忙。"
+          "desc:8": "河谷城的卫兵队长阿瑟斯拉迪达斯(Archestratidas)正在找人帮忙收集大锅所需的物资。 去看看你能不能帮上忙。"
         }
       },
       "tasks:9": {
@@ -17633,7 +17633,7 @@
           "posY:3": 107,
           "posZ:3": 4180,
           "biome:8": "",
-          "name:8": "河谷邦",
+          "name:8": "河谷城",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17867,7 +17867,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "看来河谷邦的一个铁匠正在寻求帮助，追查小偷。"
+          "desc:8": "看来河谷城的一个铁匠正在寻求帮助，追查小偷。"
         }
       },
       "tasks:9": {
@@ -18785,7 +18785,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你设法找回了克罗米斯(Cromhes)的装备，但正如图尔丹(Thurdan)向你指出的那样，这些装备已经腐蚀，并且腐烂到无法使用的程度。\n\n你必须想办法修复他的装备，让他重获光明。"
+          "desc:8": "你设法找回了克罗米斯(Cromhes)的装备，但正如图尔丹(Thurdan)向你指出的那样，这些装备已经锈蚀和腐烂到无法使用无法使用的程度。\n\n你必须想办法修复他的装备，让他重获光明。"
         }
       },
       "tasks:9": {
@@ -18852,7 +18852,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你设法找回了克罗米斯(Cromhes)的装备，但正如图尔丹(Thurdan)向你指出的那样，这些装备已经腐蚀，并且腐烂到无法使用的程度。你必须想办法修复他的装备，让他重获光明。"
+          "desc:8": "你设法找回了克罗米斯(Cromhes)的装备，但正如图尔丹(Thurdan)向你指出的那样，这些装备已经锈蚀和腐烂到无法使用无法使用的程度。你必须想办法修复他的装备，让他重获光明。"
         }
       },
       "tasks:9": {
@@ -19122,7 +19122,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你设法找回了克罗米斯(Cromhes)的装备，但正如图尔丹(Thurdan)向你指出的那样，这些装备已经腐蚀，并且腐烂到无法使用的程度。你必须想办法修复他的装备，让他重获光明。"
+          "desc:8": "你设法找回了克罗米斯(Cromhes)的装备，但正如图尔丹(Thurdan)向你指出的那样，这些装备已经锈蚀和腐烂到无法使用无法使用的程度。你必须想办法修复他的装备，让他重获光明。"
         }
       },
       "tasks:9": {
@@ -19188,7 +19188,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "苍泉河的游侠们能够修复克罗米斯(Cromhes)的盾牌和盔甲，但这把剑是精灵的杰作，他们无法修复。\n\n埃尔隆德在幽谷."
+          "desc:8": "苍泉河的游民们能够修复克罗米斯(Cromhes)的盾牌和盔甲，但这把剑是精灵的杰作，他们无法修复。\n\n埃尔隆德在幽谷."
         }
       },
       "tasks:9": {
@@ -19376,7 +19376,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "苍泉河的游侠们能够修复克罗米斯(Cromhes)的盾牌和盔甲，但这把剑是精灵的杰作，他们无法修复。"
+          "desc:8": "苍泉河的游民们能够修复克罗米斯(Cromhes)的盾牌和盔甲，但这把剑是精灵的杰作，他们无法修复。"
         }
       },
       "tasks:9": {
@@ -19882,7 +19882,7 @@
           "posY:3": 142,
           "posZ:3": 6083,
           "biome:8": "",
-          "name:8": "最后的温馨小屋",
+          "name:8": "最后港湾",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -22034,7 +22034,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
-          "desc:8": "在安努米那斯的游侠比塔拉克南(Talacnun)认为的要好得多，帕蓝提尔受到游侠的保护，温顿(Wynton)要求你联系埃尔隆德，看看他是否有办法安全地运送帕兰提尔。"
+          "desc:8": "在安努米那斯的游民比塔拉克南(Talacnun)认为的要好得多，帕蓝提尔受到游民的保护，温顿(Wynton)要求你联系埃尔隆德，看看他是否有办法安全地运送帕兰提尔。"
         }
       },
       "tasks:9": {
@@ -22114,7 +22114,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你必须把埃尔隆德给你的布还给游侠温顿。 看来，温顿(Wynton)可能还有更多消息要告诉你......"
+          "desc:8": "你必须把埃尔隆德给你的布还给游民温顿。 看来，温顿(Wynton)可能还有更多消息要告诉你......"
         }
       },
       "tasks:9": {
@@ -23345,7 +23345,7 @@
           "posY:3": 64,
           "posZ:3": 12322,
           "biome:8": "",
-          "name:8": "粗俗术士之臂旅馆",
+          "name:8": "三流术士之臂旅馆",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -24341,7 +24341,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "踏上冒险之旅 - 手稿",
-          "desc:8": "佩图妮(Petunia)对汤姆-庞巴迪(Tom Bombadil)非常感兴趣，她让你打听一下关于他的事情，这样她就可以把它记录在她的冒险日志中。"
+          "desc:8": "佩图妮(Petunia)对汤姆-邦巴迪尔(Tom Bombadil)非常感兴趣，她让你打听一下关于他的事情，这样她就可以把它记录在她的冒险日志中。"
         }
       },
       "tasks:9": {
@@ -24369,7 +24369,7 @@
         },
         "2:10": {
           "npcDialogID:3": 561,
-          "description:8": "与汤姆-庞巴迪(Tom Bombadil)对话",
+          "description:8": "与汤姆-邦巴迪尔(Tom Bombadil)对话",
           "index:3": 2,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24773,7 +24773,7 @@
         },
         "1:10": {
           "npcDialogID:3": 587,
-          "description:8": "与都林(Dolin)对话",
+          "description:8": "与多林(Dolin)对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24953,7 +24953,7 @@
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 591,
-          "description:8": "与都林(Dolin)对话",
+          "description:8": "与多林(Dolin)对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -25001,7 +25001,7 @@
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 594,
-          "description:8": "与都林(Dolin)对话",
+          "description:8": "与多林(Dolin)对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -25012,7 +25012,7 @@
         },
         "2:10": {
           "npcDialogID:3": 595,
-          "description:8": "与都林(Dolin)对话",
+          "description:8": "与多林(Dolin)对话",
           "index:3": 2,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -25533,8 +25533,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "洛丝罗瑞恩 - 两次死亡，一次枪杀",
-          "desc:8": "精灵们的弹药越来越少，需要一些帮助。"
+          "name:8": "洛丝罗瑞恩 - 一箭双雕",
+          "desc:8": "精灵们的箭矢越来越少，需要一些帮助。"
         }
       },
       "tasks:9": {
@@ -25599,7 +25599,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "洛丝罗瑞恩 - 不浪费，不索取",
+          "name:8": "洛丝罗瑞恩 - 勤俭节约",
           "desc:8": "你的努力受到了赞赏，现在他们希望你能提供急需的援助。"
         }
       },
@@ -27973,7 +27973,7 @@
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "招聘栏",
+          "name:8": "任务栏",
           "icon:10": {
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
@@ -28281,7 +28281,7 @@
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "阵营",
+          "name:8": "派系",
           "icon:10": {
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
@@ -28293,7 +28293,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\factions.png",
           "bg_size:3": 512,
-          "desc:8": "在整个中土世界，有各种各样的阵营，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "order:3": 10
@@ -28767,7 +28767,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "在墨瑞亚附近发现守望者的秘密后，曼温(Manwyn)派你进入墨瑞亚的黑暗中，寻找游侠们，他们曾出兵击退安格玛崛起的力量。你在矮人前哨深处找到了游侠鲁林(Rurain)。"
+          "desc:8": "在墨瑞亚附近发现守望者的秘密后，曼温(Manwyn)派你进入墨瑞亚的黑暗中，寻找游民们，他们曾出兵击退安格玛崛起的力量。你在矮人前哨深处找到了游民鲁林(Rurain)。"
         }
       },
       "order:3": 3
@@ -29104,7 +29104,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "灰袍甘道夫目前位于幽谷中最后的温馨小屋的楼上，应该被告知内雷亚-奥贝坦(Nerea Aubertin)的行动。"
+          "desc:8": "灰袍甘道夫目前位于幽谷中最后港湾的楼上，他应该被告知内雷亚-奥贝坦(Nerea Aubertin)的行动。"
         }
       },
       "order:3": 5
@@ -29220,7 +29220,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "这场战斗艰难而激烈，但还有更多工作要做。现在是时候帮助游侠们夺回他们天生应得的东西了！"
+          "desc:8": "这场战斗艰难而激烈，但还有更多工作要做。现在是时候帮助游民们夺回他们天生应得的东西了！"
         }
       },
       "order:3": 6
