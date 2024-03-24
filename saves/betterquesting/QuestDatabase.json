@@ -5189,7 +5189,7 @@
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 5,
-          "description:8": "只要你愿意，中土世界的地产商人就能帮你找到完美的居所。  一开始有三位地产商人，一位在幽谷附近，一位在埃多拉斯附近，最后一位在米那斯提力斯内。  请与他们中的任何一位交谈，了解更多有关玩家居所的信息。\n\nServer admins will be able to add more if needed using the template and deciding on houses.",
+          "description:8": "只要你愿意，中土世界的地产商人就能帮你找到完美的居所。  一开始有三位地产商人，一位在幽谷附近，一位在埃多拉斯附近，最后一位在米那斯提力斯内。  请与他们中的任何一位交谈，了解更多有关玩家居所的信息。\n\n如果需要的话，服务器管理员可以使用模板和设置来为给玩家居所添加更多内容。",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -5304,7 +5304,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Ancient Evil II",
+          "name:8": "'远古邪恶 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -5511,7 +5511,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "Ancient Evil I",
+          "name:8": "'远古邪恶 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -5582,7 +5582,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "亨利(Henry)为僵尸肉(Zombie Flesh)找到了一个买家，并且正在寻找任何愿意快速赚点小钱和帮助中土人类的人。"
+          "desc:8": "亨利(Henry)为僵尸肉找到了一个买家，并且正在寻找任何愿意快速赚点小钱和帮助中土人类的人。"
         }
       },
       "tasks:9": {
@@ -5727,7 +5727,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "里夫-吉贝(Reeve Guibe)重新锻造了大古冢(Great Barrow)的钥匙。你应该回到法尔西尔(Falsir)那里，接受进一步的指导。\n"
+          "desc:8": "里夫·吉贝(Reeve Guibe)重新锻造了大古冢(Great Barrow)的钥匙。你应该回到法尔西尔(Falsir)那里，接受进一步的指导。\n"
         }
       },
       "tasks:9": {
@@ -5903,7 +5903,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "里夫-吉贝(Reeve Guibe)住在铁匠街，在跃马客栈的西面，马厩的西南面。\n\n法尔西尔(Falsir)让你把钥匙碎片带给最近运气不太好的铁匠里夫-吉贝(Reeve Guibe)。"
+          "desc:8": "里夫·吉贝(Reeve Guibe)住在铁匠街，在跃马客栈的西面，马厩的西南面。\n\n法尔西尔(Falsir)让你把钥匙碎片带给最近运气不太好的铁匠里夫·吉贝(Reeve Guibe)。"
         }
       },
       "tasks:9": {
@@ -5918,14 +5918,14 @@
           "posY:3": 52,
           "posZ:3": 7705,
           "biome:8": "",
-          "name:8": "里夫-吉贝(Reeve Guibe)的铁匠铺",
+          "name:8": "里夫·吉贝(Reeve Guibe)的铁匠铺",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 26,
-          "description:8": "请务必与里夫-吉贝(Reeve Guibe)谈话。",
+          "description:8": "请务必与里夫·吉贝(Reeve Guibe)谈话。",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -5970,7 +5970,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "遗忘客栈附近的僵尸(zombie)已经失去控制。 迪维娜(Divina)已经发出求救信号，试图让它们重新归于掌控之中。"
+          "desc:8": "遗忘客栈附近的僵尸已经失去控制。 迪维娜(Divina)已经发出求救信号，试图让它们重新归于掌控之中。"
         }
       },
       "tasks:9": {
@@ -6524,7 +6524,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "莱因弗里德斯(Reinfridus)为穆马基尔-海德(Mumakil HIde)找到了一个买家，并且正在寻找愿意快速赚点小钱和帮助佩拉基尔的人。"
+          "desc:8": "莱因弗里德斯(Reinfridus)为猛犸皮(Mumakil HIde)找到了一个买家，并且正在寻找愿意快速赚点小钱和帮助佩拉基尔的人。"
         }
       },
       "tasks:9": {
@@ -6546,7 +6546,7 @@
         },
         "1:10": {
           "npcDialogID:3": 314,
-          "description:8": "看看吉亚姆-布里昂(Guillame Brion)能提供什么。",
+          "description:8": "看看吉亚姆·布里昂(Guillame Brion)能提供什么。",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -6725,7 +6725,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "有些人研究中土世界的历史，因此他们能敏锐地洞察到到底发生了什么。  与 NPC 交谈，了解他能为你做什么。"
+          "desc:8": "有些人研究中土世界的历史，因此他们能敏锐地洞察到到底发生了什么。  与NPC交谈，了解他能为你做什么。"
         }
       },
       "tasks:9": {
@@ -7274,7 +7274,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "任务的创建将在玩家载入时完成，用于修复记分板在分数不为零时出现的 UUID 错误。"
+          "desc:8": "任务的创建将在玩家载入时完成，用于修复记分板在分数不为零时出现的UUID错误。"
         }
       },
       "tasks:9": {
@@ -7897,7 +7897,7 @@
                 },
                 "RepairCost:3": 0,
                 "display:10": {
-                  "Name:8": "§5Swiftmaker"
+                  "Name:8": "§5迅造者"
                 },
                 "Special:10": {
                   "Categories:9": {
@@ -9579,7 +9579,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "弗罗多-巴金斯正在寻找一名冒险家，帮助其为叔叔比尔博准备生日惊喜！前往幽谷，看看你能帮上什么忙。"
+          "desc:8": "弗罗多·巴金斯正在寻找一名冒险家，帮助其为叔叔比尔博准备生日惊喜！前往幽谷，看看你能帮上什么忙。"
         }
       },
       "tasks:9": {
@@ -9594,7 +9594,7 @@
           "posY:3": 146,
           "posZ:3": 6005,
           "biome:8": "",
-          "name:8": "弗罗多-巴金斯",
+          "name:8": "弗罗多·巴金斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10001,7 +10001,7 @@
           "posY:3": 40,
           "posZ:3": 7823,
           "biome:8": "",
-          "name:8": "加拉里克-大肚皮(Gararic Rumblebelly)",
+          "name:8": "加拉里克·大肚皮(Gararic Rumblebelly)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10017,7 +10017,7 @@
           "posY:3": 39,
           "posZ:3": 7753,
           "biome:8": "",
-          "name:8": "马库斯-毛脚(Marcus Hairyfoot)",
+          "name:8": "马库斯·毛脚(Marcus Hairyfoot)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10033,7 +10033,7 @@
           "posY:3": 43,
           "posZ:3": 7769,
           "biome:8": "",
-          "name:8": "伊森巴德-地湖(Isembard Underlake)",
+          "name:8": "伊森巴德·地湖(Isembard Underlake)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10049,7 +10049,7 @@
           "posY:3": 41,
           "posZ:3": 7699,
           "biome:8": "",
-          "name:8": "戈多马-群山(Godomar Barrowes)",
+          "name:8": "戈多马·群山(Godomar Barrowes)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10065,7 +10065,7 @@
           "posY:3": 48,
           "posZ:3": 7635,
           "biome:8": "",
-          "name:8": "尼克-绿丘(Nick Greenhill)",
+          "name:8": "尼克·绿丘(Nick Greenhill)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10081,7 +10081,7 @@
           "posY:3": 44,
           "posZ:3": 7635,
           "biome:8": "",
-          "name:8": "勒弗罗伊-飞毛腿(Leufroy Swiftfoot)",
+          "name:8": "勒弗罗伊·飞毛腿(Leufroy Swiftfoot)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10097,7 +10097,7 @@
           "posY:3": 39,
           "posZ:3": 7727,
           "biome:8": "",
-          "name:8": "阿曼达-布罗克豪斯(Amanda Brockhouse)",
+          "name:8": "阿曼达·布罗克豪斯(Amanda Brockhouse)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10113,7 +10113,7 @@
           "posY:3": 39,
           "posZ:3": 7682,
           "biome:8": "",
-          "name:8": "梅丽莎-刚强(Melissa Headstrong)",
+          "name:8": "梅丽莎·刚强(Melissa Headstrong)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10129,7 +10129,7 @@
           "posY:3": 39,
           "posZ:3": 7675,
           "biome:8": "",
-          "name:8": "贝尔巴-屠夫(Belba Butcher)",
+          "name:8": "贝尔巴·屠夫(Belba Butcher)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10145,7 +10145,7 @@
           "posY:3": 46,
           "posZ:3": 7752,
           "biome:8": "",
-          "name:8": "戈马特鲁迪斯-傲蜜酒(Gomatrudis Proudmead)",
+          "name:8": "戈马特鲁迪斯·傲蜜酒(Gomatrudis Proudmead)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10161,7 +10161,7 @@
           "posY:3": 39,
           "posZ:3": 7967,
           "biome:8": "",
-          "name:8": "英贡德-静步(Ingunde Silentfoot)",
+          "name:8": "英贡德·静步(Ingunde Silentfoot)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10177,7 +10177,7 @@
           "posY:3": 39,
           "posZ:3": 7950,
           "biome:8": "",
-          "name:8": "雷格尼特鲁迪斯-法罗海德(Regnetrudis Fallohide)",
+          "name:8": "雷格尼特鲁迪斯·法罗海德(Regnetrudis Fallohide)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10729,7 +10729,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "米那斯提力斯的卫兵队长吉亚姆-布里昂(Guillame Brion)正在找人帮忙收集大锅所需的物资。 去看看你能否能帮上忙。"
+          "desc:8": "米那斯提力斯的卫兵队长吉亚姆·布里昂(Guillame Brion)正在找人帮忙收集大锅所需的物资。 去看看你能否能帮上忙。"
         }
       },
       "tasks:9": {
@@ -10921,7 +10921,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "格罗因告诉你，你正在追寻的戒灵，可以在古老的贡达巴德山矮人堡垒中找到。他正与杜戈林-杜尔汉德(Dugorim Dourhand)结伴而行。这两人已进入这座几乎坚不可摧的城堡内部。格罗因相信进入城堡内部的唯一方法是找到它的秘密入口。"
+          "desc:8": "格罗因告诉你，你正在追寻的戒灵，可以在古老的贡达巴德山矮人堡垒中找到。他正与杜戈林·杜尔汉德(Dugorim Dourhand)结伴而行。这两人已进入这座几乎坚不可摧的城堡内部。格罗因相信进入城堡内部的唯一方法是找到它的秘密入口。"
         }
       },
       "tasks:9": {
@@ -13313,7 +13313,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Against His Leader",
+          "name:8": "反对他的领袖",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -13380,11 +13380,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "水中监视者的秘密",
+          "name:8": "监视者的秘密",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn) believes that the secret of of the 水中监视者 can be revealed by investigating one of the pedestals they rest on. He has instructed you to carefully approach one of the 水中监视者 and take a rubbing of the runes upon it. He warned you to be very careful of the fell and deadly 水中监视者."
+          "desc:8": "曼温(Manwyn)相信，通过调查监视者所在的一个基座，就能揭开监视者的秘密。他指示您小心翼翼地走近其中一个监视者石像，仔细观察基座上面的符文。他警告你要非常小心那些邪恶而又致命的监视者石像。"
         }
       },
       "tasks:9": {
@@ -13399,7 +13399,7 @@
           "posY:3": 41,
           "posZ:3": 9407,
           "biome:8": "",
-          "name:8": "寻找水中监视者",
+          "name:8": "寻找监视者",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -13451,11 +13451,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "水中监视者的心脏",
+          "name:8": "监视者的心脏",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The rubbing you made showed runes of a foul nature, written in the Black Speech, which Manwyn is not well-versed in; however, he was able to make out something about the \"heart\" of the stone."
+          "desc:8": "你所做的拓印展示了用黑语书写的污秽符文，曼温(Manwyn)并不精通黑语；不过，他还是能看出一些有关石像[心脏]的内容。"
         }
       },
       "tasks:9": {
@@ -13470,7 +13470,7 @@
           "posY:3": 52,
           "posZ:3": 7872,
           "biome:8": "",
-          "name:8": "Lifeless Statues",
+          "name:8": "死气沉沉的雕像",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -13522,11 +13522,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "The Priest’s Doom",
+          "name:8": "祭祀的末日",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "While the stone-heart you found was cracked and useless, another path still remains open. Corunir has learned of a ritual taking place at the fortress of 多古尔都, which may yield a whole heart if interrupted."
+          "desc:8": "你找到的石心已经因为破裂而无法使用，但另一条道路仍然开放。科鲁尼尔(Corunir)得知多古尔都要塞正在举行一场祭祀，如果中断它，你可能会得到一个完好的石心。"
         }
       },
       "tasks:9": {
@@ -13682,7 +13682,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn) bade you pass through the 水中监视者, for you no longer have cause to fear the deadly stones. He hopes that you may find a remnant of the f奥克e 克罗米斯(Cromhes) led through the stones somewhere on the other side."
+          "desc:8": "曼温(Manwyn)嘱咐你穿过监视者石像，因为你不再需要惧怕那些致命石像。他希望你能在另一边的某处找到克罗米斯(Cromhes)带领你穿过石像的残余力量。"
         }
       },
       "tasks:9": {
@@ -13816,11 +13816,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Challenging the 水中监视者",
+          "name:8": "挑战监视者",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn) believes the charm he placed on you will allow you passage through the 水中监视者, but warns that it may draw an Ancient spirit out you must defeat."
+          "desc:8": "曼温(Manwyn)相信他施加在你身上的符咒会让你顺利通过监视者石像，但警告说这可能会引出一个古老灵魂，你必须打败它。"
         }
       },
       "tasks:9": {
@@ -13917,7 +13917,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn) bade you pass through the 水中监视者, for you no longer have cause to fear the deadly stones. He hopes that you may find a remnant of the f奥克e Cromes led through the stones somewhere on the other side."
+          "desc:8": "曼温(Manwyn)嘱咐你穿过监视者石像，因为你不再需要惧怕那些致命石像。他希望你能在另一边的某处找到克罗米斯(Cromhes)带领你穿过石头的残余力量。"
         }
       },
       "tasks:9": {
@@ -14355,7 +14355,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\nYou have proven worthy in the yes of many, you now will have access to the token seller to gain even more faction."
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你已经证明自己在许多人的眼中是值得信赖的，现在你将获得访问派系供货商的权限，以获得更多的派系声望。"
         }
       },
       "tasks:9": {
@@ -14426,7 +14426,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\nThe people are now seeing your value and worth, at this level you can now access the faction seller in 布理 to help you get better known."
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n人们现在认识到你的价值和重要性，在这个级别上，你现在可以访问布理的派系供货商，帮助你更加出名。"
         }
       },
       "tasks:9": {
@@ -14497,7 +14497,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\nYou can now access the Faction Seller in 幽谷 to help you get better known."
+          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你现在可以访问幽谷的派系供货商，帮助你更加出名。"
         }
       },
       "tasks:9": {
@@ -16123,7 +16123,7 @@
           "posY:3": 54,
           "posZ:3": 7297,
           "biome:8": "",
-          "name:8": "德温-里瑟(Derwyn Rease)",
+          "name:8": "德温·里瑟(Derwyn Rease)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16896,7 +16896,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "阿尔兹-赫德布兰德(Aliz Heudebrand)正在群求帮助，帮忙寻找她害怕疑似失踪了的丈夫。"
+          "desc:8": "阿尔兹·赫德布兰德(Aliz Heudebrand)正在群求帮助，帮忙寻找她害怕疑似失踪了的丈夫。"
         }
       },
       "tasks:9": {
@@ -16918,7 +16918,7 @@
         },
         "1:10": {
           "npcDialogID:3": 302,
-          "description:8": "阿尔兹-赫德布兰德(Aliz Heudebrand)",
+          "description:8": "阿尔兹·赫德布兰德(Aliz Heudebrand)",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -17223,7 +17223,7 @@
           "posY:3": 55,
           "posZ:3": 4200,
           "biome:8": "",
-          "name:8": "河谷邦的城市",
+          "name:8": "河谷城",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -20875,7 +20875,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "克罗米斯(Cromhes)要求你前往过去曾与内雷亚-奥贝坦(Nerea Aubertin)相遇的三个地方，并与那些地方的盟友交谈。"
+          "desc:8": "克罗米斯(Cromhes)要求你前往过去曾与内雷亚·奥贝坦(Nerea Aubertin)相遇的三个地方，并与那些地方的盟友交谈。"
         }
       },
       "tasks:9": {
@@ -20957,7 +20957,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "克罗米斯(Cromhes)要求你前往过去曾与内雷亚-奥贝坦(Nerea Aubertin)相遇的三个地方，并与那些地方的盟友交谈。\n\n§l请务必先与埃斯赫雷斯(Aeschreas)交谈。"
+          "desc:8": "克罗米斯(Cromhes)要求你前往过去曾与内雷亚·奥贝坦(Nerea Aubertin)相遇的三个地方，并与那些地方的盟友交谈。\n\n§l请务必先与埃斯赫雷斯(Aeschreas)交谈。"
         }
       },
       "tasks:9": {
@@ -21039,7 +21039,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "克罗米斯(Cromhes)要求你前往过去曾与内雷亚-奥贝坦(Nerea Aubertin)相遇的三个地方，并与那些地方的盟友交谈。\n\n§l请务必先与古斯威奈(Guthwine)交谈。"
+          "desc:8": "克罗米斯(Cromhes)要求你前往过去曾与内雷亚·奥贝坦(Nerea Aubertin)相遇的三个地方，并与那些地方的盟友交谈。\n\n§l请务必先与古斯威奈(Guthwine)交谈。"
         }
       },
       "tasks:9": {
@@ -21361,14 +21361,14 @@
           "posY:3": 44,
           "posZ:3": 6633,
           "biome:8": "",
-          "name:8": "梅洛维奇-霍恩伍德(Merovech Hornwood)",
+          "name:8": "梅洛维奇·霍恩伍德(Merovech Hornwood)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 471,
-          "description:8": "与梅洛维奇-霍恩伍德(Merovech Hornwood)对话",
+          "description:8": "与梅洛维奇·霍恩伍德(Merovech Hornwood)对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -21598,7 +21598,7 @@
           "posY:3": 43,
           "posZ:3": 6646,
           "biome:8": "",
-          "name:8": "梅洛维奇-霍恩伍德(Merovech Hornwood)",
+          "name:8": "梅洛维奇·霍恩伍德(Merovech Hornwood)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -23621,7 +23621,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "克鲁克-马赫尔(Kruk Mahur)",
+          "name:8": "克鲁克·马赫尔(Kruk Mahur)",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -23640,7 +23640,7 @@
           "posY:3": 40,
           "posZ:3": 16262,
           "biome:8": "",
-          "name:8": "克鲁克-马赫尔(Kruk Mahur)",
+          "name:8": "克鲁克·马赫尔(Kruk Mahur)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -23682,7 +23682,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "克鲁克-马赫尔(Kruk Mahur)",
+          "name:8": "克鲁克·马赫尔(Kruk Mahur)",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -24244,7 +24244,7 @@
         },
         "1:10": {
           "npcDialogID:3": 547,
-          "description:8": "与汤姆(Tom)对话",
+          "description:8": "与汤姆对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24256,7 +24256,7 @@
         },
         "3:10": {
           "npcDialogID:3": 554,
-          "description:8": "与汤姆(Tom)对话",
+          "description:8": "与汤姆对话",
           "index:3": 3,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24278,7 +24278,7 @@
         },
         "5:10": {
           "npcDialogID:3": 556,
-          "description:8": "与汤姆(Tom)对话",
+          "description:8": "与汤姆对话",
           "index:3": 5,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24300,7 +24300,7 @@
         },
         "7:10": {
           "npcDialogID:3": 557,
-          "description:8": "与汤姆(Tom)交谈",
+          "description:8": "与汤姆交谈",
           "index:3": 7,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -24341,7 +24341,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "踏上冒险之旅 - 手稿",
-          "desc:8": "佩图妮(Petunia)对汤姆-邦巴迪尔(Tom Bombadil)非常感兴趣，她让你打听一下关于他的事情，这样她就可以把它记录在她的冒险日志中。"
+          "desc:8": "佩图妮(Petunia)对汤姆·邦巴迪尔非常感兴趣，她让你打听一下关于他的事情，这样她就可以把它记录在她的冒险日志中。"
         }
       },
       "tasks:9": {
@@ -24369,7 +24369,7 @@
         },
         "2:10": {
           "npcDialogID:3": 561,
-          "description:8": "与汤姆-邦巴迪尔(Tom Bombadil)对话",
+          "description:8": "与汤姆·邦巴迪尔对话",
           "index:3": 2,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24434,13 +24434,13 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "踏上冒险之旅 - 丢失的手稿",
-          "desc:8": "Tom seems to be a bit easily distracted and now you have to hunt down all of the lost pages for Petunia\u0027s journal\n\n§l§n§lWhen hunting for pages, the forest location is simply to get you in the right direction.  Look for particle effects to \"guide\" you to pages"
+          "desc:8": "汤姆似乎有点容易分心，现在你必须去寻找佩图妮(Petunia)的日记中所有遗失书页。\n\n§l§n§l在寻找遗失书页时，森林位置只是为你指明方向。 寻找能[引导]你找到书页的粒子效果。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 570,
-          "description:8": "与汤姆(Tom)对话",
+          "description:8": "与汤姆对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24461,7 +24461,7 @@
           "posY:3": 42,
           "posZ:3": 7595,
           "biome:8": "",
-          "name:8": "汤姆(Tom)的房子在森林的北面",
+          "name:8": "汤姆的房子在森林的北面",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -25251,7 +25251,7 @@
         },
         "1:10": {
           "npcDialogID:3": 598,
-          "description:8": "与德瓦尔萨尔-锤须(Dwalthal Hammerbeard)对话",
+          "description:8": "与德瓦尔萨尔·锤须(Dwalthal Hammerbeard)对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -25304,13 +25304,13 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "重夺墨瑞亚-流水",
-          "desc:8": "德瓦尔萨尔-锤须(Dwalthal Hammerbeard)正在寻求与水道功能相关的帮助。"
+          "desc:8": "德瓦尔萨尔·锤须(Dwalthal Hammerbeard)正在寻求与水道功能相关的帮助。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 601,
-          "description:8": "与德瓦尔萨尔-锤须(Dwalthal Hammerbeard)对话",
+          "description:8": "与德瓦尔萨尔·锤须(Dwalthal Hammerbeard)对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -25364,13 +25364,13 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "重夺墨瑞亚-知识的回归",
-          "desc:8": "当你忙着做杂务时，德瓦尔萨尔-锤须(Dwalthal Hammerbeard)发现了一个倒霉矮人的日记。"
+          "desc:8": "当你忙着做杂务时，德瓦尔萨尔·锤须(Dwalthal Hammerbeard)发现了一个倒霉矮人的日记。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 604,
-          "description:8": "与德瓦尔萨尔-锤须(Dwalthal Hammerbeard)对话",
+          "description:8": "与德瓦尔萨尔·锤须(Dwalthal Hammerbeard)对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -25385,14 +25385,14 @@
           "posY:3": 59,
           "posZ:3": 8782,
           "biome:8": "",
-          "name:8": "卡图布-扎哈尔(Katub-zahar)",
+          "name:8": "卡图布·扎哈尔(Katub-zahar)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "2:10": {
           "npcDialogID:3": 606,
-          "description:8": "与德瓦尔萨尔-锤须(Dwalthal Hammerbeard)对话",
+          "description:8": "与德瓦尔萨尔·锤须(Dwalthal Hammerbeard)对话",
           "index:3": 2,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -25923,7 +25923,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "密匙",
-          "desc:8": "King Dáin II thinks the lost pages of the tome may point the way to the Secret Key.\n\nThe poem in the book will be your best guide to the page locations.\n\nPages picked up will give additional clues.\n\n§4This quest is different in that you will only be given the most general of locations such as \"Search Erebor.\"你需要探索每一步任务中提到的每个区域。"
+          "desc:8": "戴因二世认为，遗失的书页可能指明了通往秘钥的道路。\n\n书中的诗歌将是你找到书页位置的最佳指南。\n\n捡起的书页会给出额外的线索。\n\n§4这个任务的不同之处在于，你只会得到最笼统的地点，如[搜寻埃瑞博山]。您需要探索任务每一步提到的每个区域。"
         }
       },
       "tasks:9": {
@@ -25945,7 +25945,7 @@
         },
         "1:10": {
           "npcDialogID:3": 627,
-          "description:8": "与戴因(Dain)对话",
+          "description:8": "与戴因二世对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -25982,13 +25982,13 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "恶名之匙",
-          "desc:8": "你经过长途跋涉找到了钥匙。 最好把它带回埃瑞博山的戴因(Dain)那里。"
+          "desc:8": "你经过长途跋涉找到了钥匙。 最好把它带回埃瑞博山的戴因二世那里。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 629,
-          "description:8": "与戴因(Dain)对话",
+          "description:8": "与戴因二世对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -26180,7 +26180,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "路径开启",
-          "desc:8": "A Knight in Erech is looking for \"founders\"去帮助开启对亡者之路的探险。"
+          "desc:8": "埃瑞赫的一名骑士正在寻找[发现者]，以帮助开启前往亡者之路的探险。"
         }
       },
       "tasks:9": {
@@ -26290,7 +26290,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "伦-杜斯库德(Lenn Duskud)",
+          "name:8": "伦·杜斯库德(Lenn Duskud)",
           "desc:8": "臭水似乎是从山里流出来的。"
         }
       },
@@ -28053,7 +28053,7 @@
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "明智的领导者",
+          "name:8": "智能引导",
           "icon:10": {
             "ForgeCaps:10": {
               "astralsorcery:cap_item_amulet_holder:10": {},
@@ -28767,7 +28767,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "在墨瑞亚附近发现守望者的秘密后，曼温(Manwyn)派你进入墨瑞亚的黑暗中，寻找游民们，他们曾出兵击退安格玛崛起的力量。你在矮人前哨深处找到了游民鲁林(Rurain)。"
+          "desc:8": "章节Ⅳ - 希望之火"
         }
       },
       "order:3": 3
@@ -28954,7 +28954,7 @@
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "章节Ⅴ - 南方之祸",
+          "name:8": "在墨瑞亚附近发现守望者的秘密后，曼温(Manwyn)派你进入墨瑞亚的黑暗中，寻找游民们，他们曾出兵击退安格玛崛起的力量。你在矮人前哨深处找到了游民鲁林(Rurain)。",
           "icon:10": {
             "ForgeCaps:10": {
               "astralsorcery:cap_item_amulet_holder:10": {},
@@ -28967,7 +28967,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "为了解救克罗米斯(Cromhes)付出了沉重的代价，也许代价太高了。现在是时候转向其他问题，而克罗米斯(Cromhes)考虑他接下来将要做什么。"
+          "desc:8": "章节Ⅴ - 南方之祸"
         }
       },
       "order:3": 4
@@ -29091,7 +29091,7 @@
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "章节Ⅵ - 佛洛赫尔的寒冷",
+          "name:8": "为了解救克罗米斯(Cromhes)付出了沉重的代价，也许代价太高了。现在是时候转向其他问题，而克罗米斯(Cromhes)考虑他接下来将要做什么。",
           "icon:10": {
             "ForgeCaps:10": {
               "astralsorcery:cap_item_amulet_holder:10": {},
@@ -29104,7 +29104,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "灰袍甘道夫目前位于幽谷中最后港湾的楼上，他应该被告知内雷亚-奥贝坦(Nerea Aubertin)的行动。"
+          "desc:8": "章节Ⅵ - 佛洛赫尔的寒冷"
         }
       },
       "order:3": 5
@@ -29207,7 +29207,7 @@
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "章节Ⅶ - 安努米那斯之城",
+          "name:8": "灰袍甘道夫目前位于幽谷中最后港湾的楼上，他应该被告知内雷亚·奥贝坦(Nerea Aubertin)的行动。",
           "icon:10": {
             "ForgeCaps:10": {
               "astralsorcery:cap_item_amulet_holder:10": {},
@@ -29220,7 +29220,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "这场战斗艰难而激烈，但还有更多工作要做。现在是时候帮助游民们夺回他们天生应得的东西了！"
+          "desc:8": "章节Ⅶ - 安努米那斯之城"
         }
       },
       "order:3": 6
