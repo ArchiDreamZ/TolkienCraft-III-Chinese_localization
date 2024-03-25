@@ -5381,7 +5381,7 @@
                 },
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6A gift for your efforts"
+                    "0:8": "§6为你的努力而送上的礼物"
                   },
                   "Name:8": "§5维尔基纳尔(Virquinal)"
                 },
@@ -6128,7 +6128,7 @@
                 },
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6A gift for your efforts"
+                    "0:8": "§6为你的努力而送上的礼物"
                   },
                   "Name:8": "§5杜内丹人弓"
                 },
@@ -6184,7 +6184,7 @@
                 },
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6A gift for your efforts"
+                    "0:8": "§6为你的努力而送上的礼物"
                   },
                   "Name:8": "§5杜内丹人长剑"
                 },
@@ -6237,7 +6237,7 @@
                 },
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6A gift for your efforts"
+                    "0:8": "§6为你的努力而送上的礼物"
                   },
                   "Name:8": "§5杜内丹人战斗标志(Battlesign)"
                 },
@@ -6290,7 +6290,7 @@
                 },
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6A gift for your efforts"
+                    "0:8": "§6为你的努力而送上的礼物"
                   },
                   "Name:8": "§5扎姆罗恩(Zaemrohn)的克星"
                 },
@@ -6354,7 +6354,7 @@
                 "RepairCost:3": 1,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6A gift for your efforts"
+                    "0:8": "§6为你的努力而送上的礼物"
                   },
                   "Name:8": "§5尸妖守卫"
                 }
@@ -7444,7 +7444,7 @@
                 "RepairCost:3": 0,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6Notes Elladan provided to help you find the caves."
+                    "0:8": "§6埃尔拉丹提供的笔记，帮助你找到洞穴。"
                   },
                   "Name:8": "§3埃尔拉丹的地图"
                 }
@@ -7953,7 +7953,7 @@
                 },
                 "RepairCost:3": 3,
                 "display:10": {
-                  "Name:8": "§5追踪者的裤袜"
+                  "Name:8": "§5追踪者的护腿"
                 }
               },
               "OreDict:8": "",
@@ -8039,7 +8039,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "既然你已经看到了格罗芬德尔领主的绿玉的作用，那么是时候收回它了。"
+          "desc:8": "既然你已经看到了格罗芬德尔领主的绿玉作用，那么是时候收回它了。"
         }
       },
       "tasks:9": {
@@ -8515,7 +8515,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "发生了这么多事，莱戈拉斯不能再拖延了，他要求你向埃尔隆德领主报告你的发现，看看事情将会如何发展。"
+          "desc:8": "发生了这么多事，莱戈拉斯知道不能再拖延了，他要求你向埃尔隆德领主报告你的发现，看看事情将会如何发展。"
         }
       },
       "tasks:9": {
@@ -9752,7 +9752,7 @@
               "RepairCost:3": 0,
               "display:10": {
                 "Lore:9": {
-                  "0:8": "§6Story told by a hobbit after Bilbo disappeared on his birthday."
+                  "0:8": "§6这是在比尔博生日消失后，一个霍比特人讲述的故事。"
                 },
                 "Name:8": "§3霍比特人的故事"
               }
@@ -10231,7 +10231,7 @@
               "RepairCost:3": 0,
               "display:10": {
                 "Lore:9": {
-                  "0:8": "§6Story told by a hobbit after Bilbo disappeared on his birthday."
+                  "0:8": "§6这是在比尔博生日消失后，一个霍比特人讲述的故事。"
                 },
                 "Name:8": "§3霍比特人的故事"
               }
@@ -17091,7 +17091,7 @@
                 "RepairCost:3": 3,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6Dropped when you defeated Tristan Storm"
+                    "0:8": "§6击败特里斯坦-风暴(Tristan Storm)后掉落"
                   },
                   "Name:8": "§3即将到来的风暴"
                 }
@@ -17496,7 +17496,7 @@
         },
         "1:10": {
           "npcDialogID:3": 326,
-          "description:8": "看看 [npc] 能提供什么。",
+          "description:8": "看看[npc]能提供什么。",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -17712,7 +17712,7 @@
         },
         "1:10": {
           "npcDialogID:3": 320,
-          "description:8": "看看 [npc] 能提供什么。",
+          "description:8": "看看[npc]能提供什么。",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -17786,7 +17786,7 @@
                 "RepairCost:3": 0,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6Item Thonrum wanted repaired"
+                    "0:8": "§6索恩鲁姆(Thonrum)希望修复的物品"
                   },
                   "Name:8": "§5破碎的头盔"
                 }
@@ -17801,7 +17801,7 @@
                 "RepairCost:3": 0,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6Item Thonrum wanted repaired"
+                    "0:8": "§6索恩鲁姆(Thonrum)希望修复的物品"
                   },
                   "Name:8": "§5破旧的镐"
                 }
@@ -17816,7 +17816,7 @@
                 "RepairCost:3": 0,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6Item Thonrum wanted repaired"
+                    "0:8": "§6索恩鲁姆(Thonrum)希望修复的物品"
                   },
                   "Name:8": "§5损坏的护盾"
                 }
@@ -18041,7 +18041,7 @@
               "RepairCost:3": 0,
               "display:10": {
                 "Lore:9": {
-                  "0:8": "§6All that remains of the dwarf-made sword"
+                  "0:8": "§矮人打造的剑只剩下这些"
                 },
                 "Name:8": "§5剑柄"
               },
@@ -20598,7 +20598,7 @@
                 },
                 "RepairCost:3": 1,
                 "display:10": {
-                  "Name:8": "§5Glory of the Brotherhood"
+                  "Name:8": "§5兄弟会的荣耀"
                 }
               },
               "OreDict:8": "",
@@ -20616,7 +20616,7 @@
                 },
                 "RepairCost:3": 1,
                 "display:10": {
-                  "Name:8": "§5Adamantite Chestplate"
+                  "Name:8": "§5坚金胸甲"
                 }
               },
               "OreDict:8": "",
@@ -21326,7 +21326,7 @@
               "RepairCost:3": 0,
               "display:10": {
                 "Lore:9": {
-                  "0:8": "§6Doesn\u0027t this guy sound a little crazy?"
+                  "0:8": "§6这家伙听起来是不是有点疯狂？"
                 },
                 "Name:8": "§5§o来自梅洛维奇(Merovech)的信"
               }
@@ -21507,7 +21507,7 @@
                 "RepairCost:3": 0,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6Long the bane of more sensible folk, great rulers thought they had destroyed all of these devices"
+                    "0:8": "§6长期以来，这都是明智之人的克星，伟大的统治者一直认为他们已经摧毁了所有这些设备。"
                   },
                   "Name:8": "§4§o强大的神器"
                 }
@@ -21576,7 +21576,7 @@
                 "RepairCost:3": 0,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6Long the bane of more sensible folk, great rulers thought they had destroyed all of these devices"
+                    "0:8": "§6长期以来，这都是明智之人的克星，伟大的统治者一直认为他们已经摧毁了所有这些设备。"
                   },
                   "Name:8": "§4§o强大的神器"
                 }
@@ -25831,9 +25831,9 @@
               "author:8": "Unknown",
               "display:10": {
                 "Lore:9": {
-                  "0:8": "§6An old tome. Dwarvish runes adorn its cover.",
-                  "1:8": "§3Several pages have been torn out and are missing.",
-                  "2:8": "§3A poem is written on the page that was left open."
+                  "0:8": "§6一本古老的书。库兹都语的符文装饰着它的封面。",
+                  "1:8": "§3有几页被撕掉并且丢失了。",
+                  "2:8": "§3一首诗就写在被打开的那一页上。"
                 },
                 "Name:8": "§2矮人古籍"
               },
