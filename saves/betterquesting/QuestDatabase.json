@@ -9384,7 +9384,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"Chasing Shadows\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"追逐阴影\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -9462,7 +9462,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"Last Refuge\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"最后的庇护所\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -9694,7 +9694,7 @@
           "viaPlayer:1": 0,
           "index:3": 4,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Eriador Job Board\\\", x:9340, y:55, z:7831]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"埃利阿多招聘栏\\\", x:9340, y:55, z:7831]\"}"
         },
         "5:10": {
           "hideBlockIcon:1": 1,
@@ -9703,7 +9703,7 @@
           "viaPlayer:1": 0,
           "index:3": 5,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Gondor Job Board\\\", x:17957, y:37, z:13646]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"刚铎招聘栏\\\", x:17957, y:37, z:13646]\"}"
         },
         "6:10": {
           "hideBlockIcon:1": 1,
@@ -9712,7 +9712,7 @@
           "viaPlayer:1": 0,
           "index:3": 6,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Rhovanion Job Board\\\", x:20276, y:64, z:4277]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"罗瓦尼安招聘栏\\\", x:20276, y:64, z:4277]\"}"
         },
         "7:10": {
           "hideBlockIcon:1": 1,
@@ -9721,7 +9721,7 @@
           "viaPlayer:1": 0,
           "index:3": 7,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Rohan Job Board\\\", x:14695, y:51, z:12300]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"洛汗招聘栏\\\", x:14695, y:51, z:12300]\"}"
         }
       }
     },
@@ -11355,7 +11355,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"Fires in the South\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"南方的战火\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -11661,7 +11661,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Elledan\u0027s Camp\\\", x:12888, y:42, z:6283]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"埃尔拉丹的营地\\\", x:12888, y:42, z:6283]\"}"
         }
       }
     },
@@ -11716,7 +11716,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Imladris Waterfall\\\", x:15046, y:205, z:5999]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"幽谷瀑布\\\", x:15046, y:205, z:5999]\"}"
         }
       }
     },
@@ -11771,7 +11771,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Imladris Waterfall\\\", x:15046, y:205, z:5999]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"幽谷瀑布\\\", x:15046, y:205, z:5999]\"}"
         }
       }
     },
@@ -13199,7 +13199,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"Flames of Hope\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"希望之火\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -14068,7 +14068,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Stoneyford\\\", x:17360, y:59, z:7679]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"斯托尼福德(Stoneyford)\\\", x:17360, y:59, z:7679]\"}"
         }
       }
     },
@@ -14129,7 +14129,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Moria: East Gate\\\", x:14089, y:41, z:9407]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"墨瑞亚: 东门\\\", x:14089, y:41, z:9407]\"}"
         }
       }
     },
@@ -14190,7 +14190,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Dol Guldur\\\", x:17946, y:72, z:8257]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"多古尔都\\\", x:17946, y:72, z:8257]\"}"
         }
       }
     },
@@ -14252,7 +14252,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Giant Sighting\\\", x:13874, y:41, z:7778]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"巨人的踪迹\\\", x:13874, y:41, z:7778]\"}"
         }
       }
     },
@@ -14313,7 +14313,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Mount Gundabad\\\", x:14845, y:41, z:3223]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"贡达巴德山\\\", x:14845, y:41, z:3223]\"}"
         }
       }
     },
@@ -15189,7 +15189,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "是时候离开地牢返回营地了"
+          "desc:8": "是时候离开地下城返回营地了"
         }
       },
       "tasks:9": {
@@ -15317,7 +15317,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "深入地牢 IV",
+          "name:8": "深入地下城 IV",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -15457,7 +15457,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Meeting Place\\\", x:13631, y:63, z:8954]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"会面地点\\\", x:13631, y:63, z:8954]\"}"
         }
       }
     },
@@ -16251,7 +16251,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "深入地牢 I",
+          "name:8": "深入地下城 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -16392,7 +16392,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "地牢入口"
+          "desc:8": "地下城入口"
         }
       },
       "tasks:9": {
@@ -16411,7 +16411,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Dungeon Entrance\\\", x:13545, y:44, z:8782]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"地下城入口\\\", x:13545, y:44, z:8782]\"}"
         }
       }
     },
@@ -16449,11 +16449,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "深入地牢 II",
+          "name:8": "深入地下城 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "前往地牢入口，与莱尔斯(Layles)会合，最终救出她的父亲克罗米斯(Cromhes)！"
+          "desc:8": "前往地下城入口，与莱尔斯(Layles)会合，最终救出她的父亲克罗米斯(Cromhes)！"
         }
       },
       "tasks:9": {
@@ -16468,7 +16468,7 @@
           "posY:3": 44,
           "posZ:3": 8782,
           "biome:8": "",
-          "name:8": "地牢入口",
+          "name:8": "地下城入口",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16516,7 +16516,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "深入地牢 III",
+          "name:8": "深入地下城 III",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -16778,7 +16778,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"Scourge of the South\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"南方之祸\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -16830,7 +16830,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在对墨瑞亚地牢的突击中，解救了游民克罗米斯(Cromhes)，但又因为莱尔斯(Layles)的牺牲而无功而返，安格玛的副手——布里米加克(Brimigak)则撤退到了地牢的防御工事后面。"
+          "desc:8": "在对墨瑞亚地下城的突击中，解救了游民克罗米斯(Cromhes)，但又因为莱尔斯(Layles)的牺牲而无功而返，安格玛的副手——布里米加克(Brimigak)则撤退到了地下城的防御工事后面。"
         }
       },
       "tasks:9": {
@@ -18346,7 +18346,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Brigand Camp\\\", x:20087, y:41, z:3928]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"旅行商队营地\\\", x:20087, y:41, z:3928]\"}"
         }
       }
     },
@@ -19653,7 +19653,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你和克罗米斯一起深入了墨瑞亚地牢，进入了这位伪王的庇护所。在这里，克罗米斯希望能与布里米加克(Brimigak)对抗，并且永远粉碎铁王冠。\n\n他为你提供了在布里米加克(Brimigak)的王座大厅外与他会面的途径。"
+          "desc:8": "你和克罗米斯一起深入了墨瑞亚地下城，进入了这位伪王的庇护所。在这里，克罗米斯希望能与布里米加克(Brimigak)对抗，并且永远粉碎铁王冠。\n\n他为你提供了在布里米加克(Brimigak)的王座大厅外与他会面的途径。"
         }
       },
       "tasks:9": {
@@ -20070,7 +20070,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"The Cold of Forochel\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"佛洛赫尔的寒冷\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -21702,7 +21702,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"City of Annúminas\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"安努米那斯之城\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -24057,7 +24057,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Player Housing: Eriador\\\", x:14432, y:55, z:5907]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"玩家居所: 埃利阿多\\\", x:14432, y:55, z:5907]\"}"
         },
         "1:10": {
           "hideBlockIcon:1": 1,
@@ -24066,7 +24066,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Player Housing: Gondor\\\", x:17486, y:57, z:13352]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"玩家居所: 刚铎\\\", x:17486, y:57, z:13352]\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -24075,7 +24075,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"Player Housing: Rhovanion\\\", x:14343, y:50, z:12640]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"玩家居所: 罗瓦尼安\\\", x:14343, y:50, z:12640]\"}"
         }
       }
     },
@@ -25822,10 +25822,10 @@
             "Count:3": 1,
             "tag:10": {
               "pages:9": {
-                "0:8": "{\"text\":\"Beneath the Misty Mountains, deep,\\nThe ancient shadows hold their keep.\\nCame Durin King, his crown of stars,\\nTo carve new halls, claim kingdom ours.\\nAbove the Dwarven forges glow,\\nWhile unknown dangers lurk below.\"}",
-                "1:8": "{\"text\":\"For many thousand years it slept,\\nIn darkened depths, where fell-things crept.\\nAnd then, one day, the stone was found,\\nDark as night, and perfectly round.\\nIts beauty beckons but a glance,\\nBut ensnares the mind in a trance.\"}",
-                "2:8": "{\"text\":\"Many were lost, driven insane,\\nAnd then we unearthed Durin\\u0027s Bane.\\nFrom Moria, the Longbeards flee\\nIn hand, the stone-that-should-not-be.\\nBy King Thráin\\u0027s orders, it is sealed,\\nBy secret door never revealed.\"}",
-                "3:8": "{\"text\":\"Just the line of Durin may know,\\nOf Secret Stone, born of shadow.\\nHeed this warning, do not seek it,\\nThis fell thing you cannot outwit!\\nThe stone must remain locked away\\nDo not seek the hidden doorway!\"}"
+                "0:8": "{\"text\":\"迷雾山脉下，深处不见底，\\n古老的阴影，守护着他们。\\n都林国王戴着群星冠冕走来，\\n开辟新的殿堂，称霸我们的王国。\\n矮人铁匠铺上方闪耀着光芒，\\n可下面却潜伏着未知的危险。\"}",
+                "1:8": "{\"text\":\"它沉睡了数千年，\\n在黑暗的深渊中，坠落的生物匍匐前进。\\n然后，有一天，人们发现了那块石头、\\n漆黑如夜，完美圆润。\\n它的美只需一眼便可尽收眼，、\\n但却让人精神恍惚，无法自拔。\"}",
+                "2:8": "{\"text\":\"许多人迷失了方向，变得疯狂，\\n然后我们发现了都灵的克星。\\n长须族人逃离了摩瑞亚\\n手中拿着那块不该有的石头。\\n根据瑟莱因国王的命令，它已被封存，\\n在从未被发现的秘密之门\"}",
+                "3:8": "{\"text\":\"只有都林一族可能知道，\\n秘密之石，生于阴影。\\n请注意这个警告，不要寻求它！\\n这种不幸的事情你是无法逃脱的！\\n这块石头必须被锁起来，\\n不要寻找暗门！\"}"
               },
               "RepairCost:3": 0,
               "author:8": "Unknown",
@@ -28526,7 +28526,7 @@
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "章节Ⅲ - 南方的火灾",
+          "name:8": "章节Ⅲ - 南方的战火",
           "icon:10": {
             "ForgeCaps:10": {
               "astralsorcery:cap_item_amulet_holder:10": {},
