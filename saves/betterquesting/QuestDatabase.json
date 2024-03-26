@@ -7444,7 +7444,7 @@
                 "RepairCost:3": 0,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6埃尔拉丹提供的笔记，帮助你找到洞穴。"
+                    "0:8": "§6埃尔拉丹提供的笔记，能帮助你找到洞穴。"
                   },
                   "Name:8": "§3埃尔拉丹的地图"
                 }
@@ -7833,7 +7833,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "莱戈拉斯认出了你所描述的造物是木头食人妖，并同意带你寻找其余的食人妖。"
+          "desc:8": "莱戈拉斯认出了你所描述的生物是森林食人妖，并同意带你寻找其余的食人妖。"
         }
       },
       "tasks:9": {
@@ -8039,7 +8039,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "既然你已经看到了格罗芬德尔领主的绿玉作用，那么是时候收回它了。"
+          "desc:8": "既然你已经看到了格罗芬德尔领主绿玉的作用，那么是时候收回它了。"
         }
       },
       "tasks:9": {
@@ -9393,7 +9393,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 1\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅰ\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
         }
       }
     },
@@ -9471,7 +9471,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 2\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅱ\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
         }
       }
     },
@@ -9694,7 +9694,7 @@
           "viaPlayer:1": 0,
           "index:3": 4,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"埃利阿多招聘栏\\\", x:9340, y:55, z:7831]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"埃利阿多任务栏\\\", x:9340, y:55, z:7831]\"}"
         },
         "5:10": {
           "hideBlockIcon:1": 1,
@@ -9703,7 +9703,7 @@
           "viaPlayer:1": 0,
           "index:3": 5,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"刚铎招聘栏\\\", x:17957, y:37, z:13646]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"刚铎任务栏\\\", x:17957, y:37, z:13646]\"}"
         },
         "6:10": {
           "hideBlockIcon:1": 1,
@@ -9712,7 +9712,7 @@
           "viaPlayer:1": 0,
           "index:3": 6,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"罗瓦尼安招聘栏\\\", x:20276, y:64, z:4277]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"罗瓦尼安任务栏\\\", x:20276, y:64, z:4277]\"}"
         },
         "7:10": {
           "hideBlockIcon:1": 1,
@@ -9721,7 +9721,7 @@
           "viaPlayer:1": 0,
           "index:3": 7,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"洛汗招聘栏\\\", x:14695, y:51, z:12300]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"洛汗任务栏\\\", x:14695, y:51, z:12300]\"}"
         }
       }
     },
@@ -11364,7 +11364,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 3\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅲ\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
         }
       }
     },
@@ -13208,7 +13208,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 4\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅳ\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
         }
       }
     },
@@ -16787,7 +16787,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 5\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅴ\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
         }
       }
     },
@@ -20079,7 +20079,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 6\",\"bold\":true,\"italic\":true,\"color\":\"dark_blue\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅵ\",\"bold\":true,\"italic\":true,\"color\":\"dark_blue\"}"
         }
       }
     },
@@ -21711,7 +21711,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 7\",\"bold\":true,\"italic\":true,\"color\":\"dark_blue\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅶ\",\"bold\":true,\"italic\":true,\"color\":\"dark_blue\"}"
         }
       }
     },
