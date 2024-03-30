@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let's see what you have...",
+                "Title": "让我们看看你有什么...",
                 "DialogColor": 16046344,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Oh, sorry, I changed my mind.",
+                "Title": "哦，对不起，我改变了主意。",
                 "DialogColor": 16459267,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Lucious Greet II",
+    "DialogTitle": "路西斯·格瑞特(Lucious Greet) II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Thank you so much @p!Business has been doing very well now thanks to you!",
+    "DialogText": "非常感谢你， @p!,
+
+多亏了你，现在生意做得很好！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

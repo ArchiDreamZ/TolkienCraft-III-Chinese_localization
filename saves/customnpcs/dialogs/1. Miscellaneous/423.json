@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 424,
-                "Title": "Yes I am..",
+                "Title": "是的，我是...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Keeping I",
+    "DialogTitle": "保留 I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well, hello there!You are  collecting the items for Mathena are you?",
+    "DialogText": "好吧，你好!,,
+
+你是在为马特纳(Mathena)收集物品吧？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 135,
