@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Um...yeah...",
+                "Title": "呃...是的...",
                 "DialogColor": 16134417,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 2,
-    "DialogTitle": "Unknown",
+    "DialogTitle": "未知",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": 8,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Sorry, who are you?",
+    "DialogText": "对不起，你是谁？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

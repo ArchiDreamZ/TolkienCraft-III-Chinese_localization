@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sure!  What have you got?",
+                "Title": "当然！你有什么发现？",
                 "DialogColor": 13689609,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Actually, thank you but no.",
+                "Title": "其实，谢谢你，但是不用了。",
                 "DialogColor": 16134417,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 2,
-    "DialogTitle": "Seller Known",
+    "DialogTitle": "已知卖家",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": 14,
@@ -50,7 +50,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Good day to you @p!Would you like to see what I have today?",
+    "DialogText": "祝你有美好的一天 @p!,,
+
+你想看看我今天带了什么吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
