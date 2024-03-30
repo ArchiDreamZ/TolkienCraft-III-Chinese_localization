@@ -15189,7 +15189,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "是时候离开地下城返回营地了"
+          "desc:8": "是时候离开矿坑返回营地了"
         }
       },
       "tasks:9": {
@@ -15317,7 +15317,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "深入地下城 IV",
+          "name:8": "深入矿坑 IV",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -16251,7 +16251,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "深入地下城 I",
+          "name:8": "深入矿坑 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -16392,7 +16392,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "地下城入口"
+          "desc:8": "矿坑入口"
         }
       },
       "tasks:9": {
@@ -16411,7 +16411,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"地下城入口\\\", x:13545, y:44, z:8782]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"矿坑入口\\\", x:13545, y:44, z:8782]\"}"
         }
       }
     },
@@ -16449,11 +16449,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "深入地下城 II",
+          "name:8": "深入矿坑 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "前往地下城入口，与莱尔斯(Layles)会合，最终救出她的父亲克罗米斯(Cromhes)！"
+          "desc:8": "前往矿坑入口，与莱尔斯(Layles)会合，最终救出她的父亲克罗米斯(Cromhes)！"
         }
       },
       "tasks:9": {
@@ -16468,7 +16468,7 @@
           "posY:3": 44,
           "posZ:3": 8782,
           "biome:8": "",
-          "name:8": "地下城入口",
+          "name:8": "矿坑入口",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16516,7 +16516,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "深入地下城 III",
+          "name:8": "深入矿坑 III",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -16830,7 +16830,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在对墨瑞亚地下城的突击中，解救了游民克罗米斯(Cromhes)，但又因为莱尔斯(Layles)的牺牲而无功而返，安格玛的副手——布里米加克(Brimigak)则撤退到了地下城的防御工事后面。"
+          "desc:8": "在对墨瑞亚矿坑的突击中，解救了游民克罗米斯(Cromhes)，但又因为莱尔斯(Layles)的牺牲而无功而返，安格玛的副手——布里米加克(Brimigak)则撤退到了矿坑的防御工事后面。"
         }
       },
       "tasks:9": {
@@ -19653,7 +19653,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你和克罗米斯一起深入了墨瑞亚地下城，进入了这位伪王的庇护所。在这里，克罗米斯希望能与布里米加克(Brimigak)对抗，并且永远粉碎铁王冠。\n\n他为你提供了在布里米加克(Brimigak)的王座大厅外与他会面的途径。"
+          "desc:8": "你和克罗米斯一起深入了墨瑞亚矿坑，进入了这位伪王的庇护所。在这里，克罗米斯希望能与布里米加克(Brimigak)对抗，并且永远粉碎铁王冠。\n\n他为你提供了在布里米加克(Brimigak)的王座大厅外与他会面的途径。"
         }
       },
       "tasks:9": {
