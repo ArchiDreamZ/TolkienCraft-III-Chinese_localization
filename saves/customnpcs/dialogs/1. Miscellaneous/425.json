@@ -22,7 +22,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Cloth Weaver I",
+    "DialogTitle": "织布工 I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -30,7 +30,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Excellent...just a little more here and...Done!Here you go, take this with my blessings!",
+    "DialogText": "好极了......这里再加一点，然后......完成！,,
+
+给你，带着我的祝福收下吧！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

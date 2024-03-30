@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 392,
-                "Title": "Master Elrond sent me to have you reforge this sword.",
+                "Title": "埃尔隆德领主派我来让你重新锻造这把剑。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 519,
-                "Title": "What do you do besides forge weapons?",
+                "Title": "除了锻造武器，你还做什么？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Can I see what you have to offer?",
+                "Title": "我能看看你能提供什么吗？",
                 "DialogColor": 16375040,
                 "OptionType": 3
             }
@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Oh, sorry, changed my mind.",
+                "Title": "哦，对不起，我改变了主意。",
                 "DialogColor": 16518146,
                 "OptionType": 0
             }
@@ -68,7 +68,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Castien Shoppe",
+    "DialogTitle": "卡西迪恩(Castien)商店",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -77,7 +77,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Mae govannen @p!What Brings you here on this fine day!",
+    "DialogText": "见多识广的 @p!在这美好的一天，是什么把你带到这里？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

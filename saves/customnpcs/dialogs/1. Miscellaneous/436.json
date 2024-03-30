@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Can I get a little transport please?",
+                "Title": "能帮我乘一下船吗？",
                 "DialogColor": 16243459,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Oh, sorry, I changed my mind.",
+                "Title": "哦，对不起，我改变主意了。",
                 "DialogColor": 16720896,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Ship Travel II",
+    "DialogTitle": "乘船旅行 II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Good day to you @p!How can I help you this fine day, great weather for sailing!",
+    "DialogText": "祝你有美好的一天 @p!,
+
+今天天气不错，是出海的好天气，我能帮上什么忙呢？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

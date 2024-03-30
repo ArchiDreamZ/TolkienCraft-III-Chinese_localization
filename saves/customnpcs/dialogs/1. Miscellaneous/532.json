@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me see what it costs...",
+                "Title": "让我看看它的价格是多少......",
                 "DialogColor": 15525632,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "You know what, I changed my mind, thank you.",
+                "Title": "你知道为什么吗，我改变了主意，谢谢。",
                 "DialogColor": 16320005,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 1,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Innkeeper",
+    "DialogTitle": "旅店老板",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 1,
     "AvailabilityFaction2": 0,
@@ -57,14 +57,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hello @p!
+    "DialogText": "你好 @p!
 
-Would you like to rent a room?
+你是想租一个房间吗？
 
-Dark Oak will get you the abilty to lock or unlock your door 10 times.
-Spruce will allow you 20 and Birch grants you a whopping 40 times!
+深色橡木能让你锁门或开锁 10 次。
+云杉能让你使用20 次，而白桦树能让你使用高达 40 次！
 
-Which would you like?",
+你想要哪一种？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
