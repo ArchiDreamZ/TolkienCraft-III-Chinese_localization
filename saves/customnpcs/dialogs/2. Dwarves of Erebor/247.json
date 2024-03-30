@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, let's take a look!",
+                "Title": "好了，我们一起来看看吧！",
                 "DialogColor": 13689609,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Actually, thank you but no.",
+                "Title": "其实，谢谢你，但是不用了。",
                 "DialogColor": 16134417,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 1,
-    "DialogTitle": "Known",
+    "DialogTitle": "已知",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well hullo there @p!I have some wonderful things you might be interested in!",
+    "DialogText": "你好啊 @p!,,
+
+我有一些你可能感兴趣的好东西！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
