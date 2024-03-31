@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 151,
-                "Title": "What do you think happened?",
+                "Title": "你觉得发生了什么事呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Belba Butcher II",
+    "DialogTitle": "贝尔巴·屠夫(Belba Butcher) II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "They say that an Elf Queen has been teaching him to grow the biggest taters a person could ever hope to see. Leave it to Bilbo to go all the way off to the Elves to gain knowledge just so he can steal the first prize ribber from Farmer Maggot at one of these Farmers Faires!",
+    "DialogText": "据说有位精灵女王一直在教他种最大的土豆。比尔博大老远跑到精灵那里去学习知识，就是为了能在农民集市上从农夫玛格特(Maggot)那里抢走第一名的奖杯！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, interesting story, thank you.",
+                "Title": "嗯，有趣的故事，谢谢你。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Belba Butcher III",
+    "DialogTitle": "贝尔巴·屠夫(Belba Butcher) III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Some folks would just try harder in their own garden plot, but Bilbo just couldn't never do anything the easy way when he could have an adventure instead. I imagine he'll be back any day to wipe that smug smirk off of Farmer Maggot and break his sixty-year winning streak.",
+    "DialogText": "有些人可能会更努力地在自己的菜园里种植，但比尔博从来都不会选择简单的方式，而是选择冒险。我想他随时都会回来，把农夫玛格特那自鸣得意的笑容擦掉，并结束他长达六十年的连胜纪录。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

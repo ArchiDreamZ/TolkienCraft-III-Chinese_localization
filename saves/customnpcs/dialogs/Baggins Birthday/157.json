@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, interesting story, thank you.",
+                "Title": "嗯，有趣的故事，谢谢你。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Regnetrudis Fallohide III",
+    "DialogTitle": "雷格尼特鲁迪斯·法罗海德(Regnetrudis Fallohide) III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Bilbo's managed to stay out of sight so well due to his hidden hobbit-holes all over the Shire. They were built in secret and paid for by his fortune, and he roams between these, never spending too much time in any one spot, always listening and waiting for danger to appear!",
+    "DialogText": "比尔博之所以能如此神出鬼没，是因为他在夏尔到处都有隐藏的霍比特人洞穴。这些洞穴都是他用自己的财富秘密建造的，他在这些洞穴之间游荡，从不在任何一个地方逗留太久，总是在倾听和等待危险的出现！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

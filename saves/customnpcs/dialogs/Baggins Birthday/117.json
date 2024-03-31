@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 118,
-                "Title": "I will keep that in mind.",
+                "Title": "我会用心记住的。",
                 "DialogColor": 2682523,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "There’s going to be a lot of them aren’t there?",
+                "Title": "会有很多人，对吧？",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Baggins’ Birthday - Gaffer II",
+    "DialogTitle": "巴金斯生日 - 老头儿 II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Mind you, you’ll need to catch them at just the right time. If they don’t seem to have a story for you, check back on them in a while. If you want to hear every story, you’ll need to have some perseverance!",
+    "DialogText": "你得在合适的时机找到他们。如果他们现实似乎没有故事可讲,那就过一会再回去找他们。如果你想听到每一个故事，那你就需要一些毅力！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

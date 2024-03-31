@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 121,
-                "Title": "(Tell first batch of stories)",
+                "Title": "(讲述第一批故事)",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Baggins’ Birthday - Bilbo I",
+    "DialogTitle": "巴金斯生日 - 比尔博 I",
     "AvailabilityDialog": 2,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 124,
     "OptionFaction2Points": 100,
-    "DialogText": "Stories? From the Shire? And all of them about me? I can't wait to hear them! Please tell me your tales.",
+    "DialogText": "故事？来自夏尔？而且都是关于我？我迫不及待想听听！请给我讲讲你的故事。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 132,
-                "Title": "Really?  Tell me more.",
+                "Title": "真的吗？告诉我更多。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Isembard Underlake I",
+    "DialogTitle": "伊森巴德·地湖(Isembard Underlake) I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Bilbo Baggins was something of an eccentric around these parts. His adventures created enough stories that you can still hear new ones every day! Why, I was just recently talking to my niece's cousin's sister-in-law's nephew the other day and he said that he knew what really happened at that funny birthday party!",
+    "DialogText": "比尔博·巴金斯这里的一个怪人。他的冒险经历创造了足够多的故事，以至于你每天都能听到新的故事！我最近还和我侄女的表弟的姐姐的侄子聊过，他说他知道那个有趣的生日派对上到底发生了什么事！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

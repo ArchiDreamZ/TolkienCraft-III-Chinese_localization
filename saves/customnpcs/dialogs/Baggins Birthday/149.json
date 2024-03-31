@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 150,
-                "Title": "Really?  Tell me more.",
+                "Title": "真的吗？告诉我更多。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Belba Butcher I",
+    "DialogTitle": "贝尔巴·屠夫(Belba Butcher) I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Now, I keep my ears to the ground I do, and I can tell you with complete confidence that Bilbo went on back to the Elves! He always told such stories about them the likes of which you wouldn't believe.",
+    "DialogText": "现在，我总是保持耳目警觉，我可以非常自信地告诉你，比尔博又回到了精灵那里！他总是讲述一些关于他们的故事，你简直无法相信。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

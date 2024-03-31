@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 129,
-                "Title": "Really?  Tell me more.",
+                "Title": "真的吗？告诉我更多。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Marcus Hairyfoot I",
+    "DialogTitle": "马库斯·毛脚(Marcus Hairyfoot) I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Some around here weren't sure about him, but I miss dear Bilbo. He always had such an air of mystery about him, which is saying something since the only air most hobbits have about them is one of pipe-weed and their last meal.",
+    "DialogText": "这里有些人对他的感情并不确定，但我很怀念亲爱的比尔博。他总是给人一种神秘的氛围，这可真是说得上来，因为大多数霍比特人身上唯一散发的气味就是烟草和最后一餐的味道。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

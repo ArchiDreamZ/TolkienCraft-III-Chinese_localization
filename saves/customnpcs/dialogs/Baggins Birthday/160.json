@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, interesting story, thank you.",
+                "Title": "嗯，有趣的故事，谢谢你。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Ingunde Silentfoot III",
+    "DialogTitle": "英贡德·静步(Ingunde Silentfoot) III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "But then I thought about nice Mister Bilbo and I bet he feels the same way! I bet he went back to that poor mountain to keep it company! If I were him, I'd bring it another dragon, but a nice one this time to keep it company for years and years and years! I bet that's just what he did!",
+    "DialogText": "但后来我想到了善良的比尔博先生，我敢打赌他也有同样的感受！我敢打赌他回到那座可怜的山上去陪伴它！如果我是他，我会给它带来另一条龙，但这次是一条好的，让它陪伴山度过很多年很多年很多年！我敢打赌这正是他所做的事情！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

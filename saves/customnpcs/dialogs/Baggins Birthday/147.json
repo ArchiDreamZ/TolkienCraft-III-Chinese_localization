@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 148,
-                "Title": "What do you think happened?",
+                "Title": "你觉得发生了什么事呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Melissa Headstrong II",
+    "DialogTitle": "梅丽莎·刚强(Melissa Headstrong) II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well, I'll tell you that I heard that in the end, he ran into some of those big folk what ride horses all the time... what're they called... the Riders of Ronald? Roger? No, nearly there... tip of my tongue... Rohan! That's it! I hear he's got himself a war-pony and that they taught him to be a proper horse-master and all!",
+    "DialogText": "嗯，我听说最后他遇到了一些经常骑马的大个子……他们叫什么来着……罗纳德的骑士？罗格尔？不对，差一点……就在舌尖……洛汗！对了！我听说他弄到了一匹战马，他们教他成了一位合格的马术大师！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

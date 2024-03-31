@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 147,
-                "Title": "Really?  Tell me more.",
+                "Title": "真的吗？告诉我更多。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Melissa Headstrong I",
+    "DialogTitle": "梅丽莎·刚强(Melissa Headstrong) I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I heard that Bilbo got up to a whole mess of adventures after his party, but you're wondering what he's up to now, yes?",
+    "DialogText": "我听说比尔博在他的派对之后经历了一系列冒险，但你想知道他现在在忙些什么，对吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

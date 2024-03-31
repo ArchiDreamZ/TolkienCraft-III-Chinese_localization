@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 115,
-                "Title": "Absolutely Frodo!",
+                "Title": "当然可以，弗罗多!",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "That is kind of out of my way at the moment.",
+                "Title": "这个事情对我来说现在有点不太方便。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Baggins’ Birthday - Frodo III",
+    "DialogTitle": "巴金斯生日 - 弗罗多 III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "In that moment, Bilbo instantly became the subject of many a tall tale, and increasingly exaggerated legend. I know he’d be amused to no end to hear these stories, but I myself can’t go collect them. The next time you’re in the Shire, could you do this for me?",
+    "DialogText": "在那一刻，比尔博叔叔立刻成为了许多传奇故事的中心主题，这些故事越来越夸张。我知道他听到这些故事会乐不可支，但我自己无法去收集它们。下次你在夏尔时，你能替我去做这件事吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

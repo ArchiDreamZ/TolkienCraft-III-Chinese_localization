@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 156,
-                "Title": "Really?  Tell me more.",
+                "Title": "真的吗？告诉我更多。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Regnetrudis Fallohide I",
+    "DialogTitle": "雷格尼特鲁迪斯·法罗海德(Regnetrudis Fallohide) I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "So, you're wondering what Bilbo's been up to since he disappeared, eh? Well, as it happens I heard that he's not in some far off land at all, he's still right here, in the Shire!",
+    "DialogText": "所以，你想知道比尔博自从消失后都在干些什么，是吗？嗯，恰巧我听说他根本就不在遥远的地方，他就在夏尔郡中！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

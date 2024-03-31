@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 135,
-                "Title": "Really?  Tell me more.",
+                "Title": "真的吗？告诉我更多。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Godomar Barrowes I",
+    "DialogTitle": "戈多马·群山(Godomar Barrowes) I",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "So you're wanting to know where Bilbo has got himself off to? Well if you ask around these parts folks will tell you all kinds of nonsense. He got kidnapped or is flying his own dragon or is leading a fighting tribe of spiders!",
+    "DialogText": "所以你想知道比尔博去了哪里？如果你在附近问问，人们只会告诉你各种乱七八糟的信息。他被绑架了，或者在骑自己的龙，或者正在带领一支部落与蜘蛛族搏斗！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

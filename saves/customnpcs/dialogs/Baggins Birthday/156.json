@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 157,
-                "Title": "What do you think happened?",
+                "Title": "你觉得发生了什么事呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Regnetrudis Fallohide II",
+    "DialogTitle": "雷格尼特鲁迪斯·法罗海德(Regnetrudis Fallohide) II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That whole party business was an elaborate ruse to set people talking and rumouring and thinking that he's in some far-off land, having more adventures. That was just Bilbo's way of creating a distraction while he crept away to hide in plain sight!
+    "DialogText": "整个派对的安排都是一个精心设计的计谋，让人们开始议论纷纷，以为他在遥远的地方继续冒险。这只是比尔博的方式，通过制造一个幌子，悄悄地藏身在人们的视线之中！,,
 
-Folks say that at night you can sometimes see him, clothed in black, face hidden behind a dark mask with an even darker cape all flapping and flowing behind him, riding along the roads of the Shire. He's turned vigilante, protecting us all from bandits and goblins and anything else nasty trying to creep into our towns!",
+人们说，晚上有时能看到他穿着黑衣，脸藏在黑面具后面，披着更黑的斗篷，在夏尔的道路上飞驰。他变成了义务治安官，保护我们大家不受强盗、奥克和任何试图潜入我们城镇的讨厌东西的伤害！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

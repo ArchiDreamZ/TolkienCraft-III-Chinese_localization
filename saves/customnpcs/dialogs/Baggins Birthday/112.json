@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 113,
-                "Title": "Yup, saw your request at the job board in Bree.",
+                "Title": "是的，在布理的任务栏上看到了你的请求。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, guess I’ll come back then.",
+                "Title": "好吧，那我想我会回来的。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Baggins’ Birthday - Frodo I",
+    "DialogTitle": "巴金斯生日 - 弗罗多 I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hello! Ah, you're here to assist with my birthday surprise for uncle Bilbo?",
+    "DialogText": "你好！啊，你是来帮忙给比尔博叔叔准备生日惊喜吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 38,

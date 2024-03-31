@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, interesting story, thank you.",
+                "Title": "嗯，有趣的故事，谢谢你。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Gararic Rumblebelly III",
+    "DialogTitle": "加拉里克·大肚皮(Gararic Rumblebelly) III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "My guess is that Bilbo enjoyed himself a bit too much, found himself in a cozy barrel... and got shipped off! Goodness only knows where he is now. I wonder what interesting brews he's gotten to try in far-flung lands?",
+    "DialogText": "我的猜测是比尔博玩得太开心了，发现自己在一个舒适的桶里......然后就被运走了！天知道他现在在哪里。不知道他在遥远的地方尝到了什么有趣的酿酒呢？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

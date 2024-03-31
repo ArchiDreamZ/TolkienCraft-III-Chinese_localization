@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Consider it done!",
+                "Title": "我会考虑办妥的！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Baggins’ Birthday - Frodo IV",
+    "DialogTitle": "巴金斯生日 - 弗罗多 IV",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Were I you, I’d start at the Gaffer. He hears most everything worth hearing and he will surely know who you should talk to in order to obtain the very best tales.",
+    "DialogText": "如果我是你，我会先从老头儿开始。他听到过很多值得一听的故事，而且肯定知道你应该和谁交谈才能得到最精彩的故事。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, interesting story, thank you.",
+                "Title": "嗯，有趣的故事，谢谢你。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Leufroy Swiftfoot III",
+    "DialogTitle": "勒弗罗伊·飞毛腿(Leufroy Swiftfoot) III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "So, if you want to know what I think, and you clearly do as you're asking me, well, I think eating those pies up and disappeared Bilbo! Good thing that odd Gandalf was around to cover it up with a poof of smoke and save us all the scandal, although some might think that there could have been an important lesson to be learned had he not.",
+    "DialogText": "所以，如果你想知道我是怎么想的，而你显然是在问我，那么，我认为吃掉那些馅饼，比尔博就会消失！好在甘道夫及时出现，用一股烟雾掩盖了这一切，让我们免去了一场丑闻，尽管有些人可能会认为，如果甘道夫没有出现，我们本可以学到重要的教训。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

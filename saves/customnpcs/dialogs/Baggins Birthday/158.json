@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 159,
-                "Title": "Really?  Tell me more.",
+                "Title": "真的吗？告诉我更多。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Ingunde Silentfoot I",
+    "DialogTitle": "英贡德·静步(Ingunde Silentfoot) I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "My mum tells me stories about mister Bilbo some nights when I can't get to sleep. My favourites are the ones about the Lonely Mountain, with the dragon and the treasure!",
+    "DialogText": "我妈妈有时在我睡不着的晚上给我讲比尔博先生的故事。我最喜欢的是关于孤山、龙和宝藏的故事！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, interesting story, thank you.",
+                "Title": "嗯，有趣的故事，谢谢你。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Nick Greenhill III",
+    "DialogTitle": "尼克·绿丘(Nick Greenhill) III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Figure with his beard he can hide and work right alongside them, all the while slowly building up a new fortune of pocketed gems and fine metals! I bet he'll be back again lording his adventures and supposed fortunes over us all once more.",
+    "DialogText": "想必他觉得有了假胡须，他可以隐藏身份，和他们一起工作，慢慢地积累起口袋里的宝石和精美的金属！我打赌他回来后又会摆出一副大摇大摆的样子，再次向我们炫耀他的冒险和所谓的财富。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

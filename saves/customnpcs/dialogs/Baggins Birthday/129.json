@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 130,
-                "Title": "What do you think happened?",
+                "Title": "你认为发生了什么事？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Marcus Hairyfoot II",
+    "DialogTitle": "马库斯·毛脚(Marcus Hairyfoot) II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Bilbo was refreshing he was - shook us all up some and that's a good thing, no doubt. We need some rousing out of our usual routine! Not all of us have the constitution to be explorers, so it's a precious commodity indeed when we get a hobbit with real stories to tell.
+    "DialogText": "比尔博确实让人耳目一新——他给我们所有人都带来了一些震撼，这无疑是件好事。我们需要一些刺激来打破我们平淡的生活！并非我们所有人都有胆量成为探险家，所以当我们遇到一个真正有故事可讲的霍比特人时，这确实是一种宝贵的财富。,,
 
-Anyhow, I hear that Bilbo was getting bored, and can you blame him? So when Gandalf was setting off his lovely fireworks, Bilbo grabbed onto one and off he went! Soared off into the skies in a trail of sparks! Now shake your head if you like, but I think that Bilbo Baggins could do just nearly anything he put his mind to, and I'm not changing my story!",
+无论如何，我听说比尔博开始感到厌倦，你能怪他吗？所以当甘道夫放他可爱的焰火时，比尔博抓住了其中一个，然后就飞走了！在火花的轨迹中翱翔于天空！现在如果你不信，那就摇摇头吧，但我认为比尔博·巴金斯几乎可以做任何他想做的事情，我是不会改变我的说法的！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

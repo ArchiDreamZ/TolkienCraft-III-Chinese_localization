@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 126,
-                "Title": "Really?  Tell me more.",
+                "Title": "真的吗？告诉我更多。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Gararic Rumblebelly I",
+    "DialogTitle": "加拉里克·大肚皮(Gararic Rumblebelly) I",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well now, what I heard is that Bilbo had just about had it on his birthday! So many people, all of them bickering and squawking and trying to sneak into Bag End and look for treasure! Anyone would grow weary and want to be done with it.",
+    "DialogText": "哦，我听说比尔博的生日快过够了！那么多人，他们争吵不休，吵吵闹闹，还想潜入巴金斯居住的袋底洞去寻找宝藏！任何人都会感到厌倦，想要结束这一切。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, interesting story, thank you.",
+                "Title": "嗯，有趣的故事，谢谢你。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Amanda Brockhouse III",
+    "DialogTitle": "阿曼达·布罗克豪斯(Amanda Brockhouse) III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Radagast the Brown, you've heard of him yes? Keeper of animals they say and proper wizard in his own right, well, Radagast heard about Bilbo and the bear and he was so impressed that he trained old Bilbo to be a Lore-master!
+    "DialogText": "褐袍拉达加斯特，你听说过他吗？他们说他是动物的守护者，也是一位合格的巫师，拉达加斯特听说了比尔博和那只熊的事，他印象深刻，于是他训练老比尔博成为了一位知识大师！,,,,
 
-Neither jestin' nor jokin' am I, that's right, the first Hobbit mage is our Bilbo, and he rides around now on his great bear, accompanying Radagast all over the lands!",
+我并非在开玩笑，没错，我们的比尔博成了第一位霍比特人魔法师，他现在骑着他的大熊，跟随拉达加斯特游历各地！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thanks for the list!",
+                "Title": "谢谢你的名单！",
                 "DialogColor": 14959374,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Baggins’ Birthday - Gaffer III",
+    "DialogTitle": "巴金斯生日 - 老头儿 III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Right then, here's that list. I’ll update your journal with the list of everyone to speak to. Hope it makes sense, getting a bit up there in years and my writin’ is not what it used to be.",
+    "DialogText": "好的，这就是名单。我会在你的冒险日志里更新需要交谈的人的名单。希望这个名单有意义，我年纪大了，写字的能力也不如从前了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

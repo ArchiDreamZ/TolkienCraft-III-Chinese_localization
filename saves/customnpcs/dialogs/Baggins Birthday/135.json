@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 136,
-                "Title": "What do you think happened?",
+                "Title": "你认为发生了什么事？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Godomar Barrowes II",
+    "DialogTitle": "戈多马·群山(Godomar Barrowes) II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The gullibility of hobbits is something not to be believed. They'll latch onto any story they hear, and the more exotic the better! Can you imagine Bilbo doing any of those things at his age? Gracious, he's a unique sort of hobbit but he's got limits!
+    "DialogText": "霍比特人的轻信是令人难以置信的。他们会相信他们听到的任何故事，而且越是奇特的故事他们越喜欢！你能想象比尔博在他这个年纪还会做这些事情吗？天哪，他是一种独特的霍比特人，但他也有局限性！,,
 
-I can see you're the sensible sort, so I'll tell you the real truth - Bilbo's always had a terrible fondness for Elves. Downright unsettling if you ask me, but he was never one to hold with convention. Anyway, he decided to spend the rest of his days with them, invited by the Elvish leaders and all!",
+我看得出你是个明智的人，所以我会告诉你真相——比尔博一直对精灵情有独钟。要我说，这实在令人不安，但他从来不墨守成规。无论如何，受到精灵领袖的邀请的他决定和他们度过余生！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

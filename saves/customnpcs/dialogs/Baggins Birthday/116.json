@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 117,
-                "Title": "You seem to know everyone, don’t you?",
+                "Title": "您似乎认识所有人，是吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, guess I’ll come back then.",
+                "Title": "好吧，那我想我会回来的。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Baggins’ Birthday - Gaffer I",
+    "DialogTitle": "巴金斯生日 - 老头儿 I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "So you’re here to collect stories about Bilbo Baggins, are you? Heard that I would know who to talk to? Naturally, you’re correct. Give me a moment and I’ll write you down a list of likely hobbits to speak to.",
+    "DialogText": "所以你是来收集有关比尔博·巴金斯的故事的，对吗？听说我会知道应该和谁交谈？当然，你是对的。稍等片刻，我会给你列出一份可能需要交谈的霍比特人的名单。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 39,
