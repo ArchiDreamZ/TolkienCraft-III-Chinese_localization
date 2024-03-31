@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 342,
-                "Title": "Do you have any idea where he went?",
+                "Title": "你知道他去了哪里吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Oh you better believe I am getting the authorities involved!",
+                "Title": "哦，你最好相信我会让当局介入此事！",
                 "DialogColor": 16734720,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Lucious Warrer III",
+    "DialogTitle": "卢修斯·沃勒(Lucious Warrer) III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Please, don't tell the constable! Please! I did it to save my family! See, a brigand named Giles, he told me that he would hurt my family, unless I made a sword for their captain, Pierce. But I didn't have the iron to forge one, and I was desperate to save my family, so I took the dwarf's sword!",
+    "DialogText": "请不要告诉警长！我这样做是为了拯救我的家人！你看，一个叫吉尔斯(Giles)的土匪告诉我，除非我为他们的队长皮尔斯(Pierce)打造一把剑，否则他会伤害我的家人。但我没有足够的铁来打造一把剑，我急切地想要拯救我的家人，所以我拿了那把矮人的剑！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 110,

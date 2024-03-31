@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Don’t worry, she’ll be back home safe soon enough.",
+                "Title": "别担心，她很快就会安全回家的。",
                 "DialogColor": 16459267,
                 "OptionType": 0
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "A Sword for a Life III",
+    "DialogTitle": "一剑换一命 III",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Please hurry! I don't know what I'll do if they harm her... You should bring a few seasoned warriors with you - Blake's men are ruthless!",
+    "DialogText": "请快点！如果他们伤害了她，我不知道该怎么办……你应该带几个经验丰富的战士和你一起去，布莱克(Blake)的手下足够狠毒！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

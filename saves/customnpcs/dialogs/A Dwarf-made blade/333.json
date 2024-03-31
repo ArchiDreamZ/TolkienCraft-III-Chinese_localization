@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 334,
-                "Title": "Why can’t you just go ask?",
+                "Title": "为什么你不能直接去问呢？",
                 "DialogColor": 3144720,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, hope for the best for you then.",
+                "Title": "那么，祝你一切顺利。",
                 "DialogColor": 16597249,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "A Dwarf-made Blade II",
+    "DialogTitle": "一把矮人打造的剑 II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I didn't see who made off with the sword, but I suspect it was one of those Man-smiths working around here. Their craft is nothing like dwarf-craft, and likely their jealousy of my workmanship moved one of them to steal my blade.",
+    "DialogText": "我没看到是谁拿走了剑，但我怀疑是这里工作的那些人类铁匠之一。他们的手艺远不及矮人工艺，很可能是处于对我手艺的嫉妒，让其中一人偷走了我的剑。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

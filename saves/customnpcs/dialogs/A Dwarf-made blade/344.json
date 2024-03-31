@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 345,
-                "Title": "Are you sure there’s nothing you can do?",
+                "Title": "你确定你无法做些什么吗？",
                 "DialogColor": 130358,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Yeah, well hopefully you don’t steal the next one too.",
+                "Title": "是的，希望你不会再偷下一把。",
                 "DialogColor": 15945480,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Getting the sword back I",
+    "DialogTitle": "取回宝剑 I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Oh this is bad...very, very bad. What if Pierce comes looking for his sword? I won't have one to give him, and they'll do something terrible to my family! I need a sword to give him! If only I had another blade to give them.",
+    "DialogText": "哦，这太糟糕了……非常、非常糟糕。如果皮尔斯(Pierce)来找他的剑怎么办？我没有剑给他，他们会对我的家人做一些可怕的事情！我需要一把剑给他！要是我有另一把剑可以给他们就好了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 111,

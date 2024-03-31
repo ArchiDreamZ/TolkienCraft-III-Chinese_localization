@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I’ll come back once he is done.",
+                "Title": "在他完成后我会回来的。",
                 "DialogColor": 16393988,
                 "OptionType": 0
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Forging a new sword IV",
+    "DialogTitle": "锻造一把新剑 IV",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Here, take these things over to him to work on. The axe needs a new haft, the shield needs new leather, and the helm needs to be reshaped and reinforced. Take that over to Lucious and tell him if he gets it done, and I'm happy with the work, we'll call it even on the cost of the two swords.
+    "DialogText": "把这些东西拿给他修理。这把斧头需要新的柄，盾牌需要新的皮革，头盔需要重新塑形和加固。把它带给卢修斯(Lucious)，告诉他如果他修好了，而且我对工作满意，他欠我两把剑的费用就一笔勾销。,
 
-Now off with you, I've got to get to work on this new blade.",
+现在你走吧，我得开始打造这把新剑了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

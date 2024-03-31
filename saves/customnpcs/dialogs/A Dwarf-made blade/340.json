@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sorry to have bothered you.",
+                "Title": "抱歉打扰你了。",
                 "DialogColor": 16535299,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Roger Flax II",
+    "DialogTitle": "罗杰·弗莱克斯(Roger Flax) II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Shoo, off with you. I don't have to take this sort of nuisance! I'll complain to the mayor, I will.",
+    "DialogText": "走开，滚蛋。我不必忍受这种麻烦！我会向市长投诉的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

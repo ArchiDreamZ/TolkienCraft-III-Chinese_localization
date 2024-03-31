@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 358,
-                "Title": "I am glad to help.",
+                "Title": "我很高兴能帮忙。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Try to stay out of trouble now will you?",
+                "Title": "你现在可别再惹麻烦了，好吗？",
                 "DialogColor": 16459267,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "A Sword for a Life IV",
+    "DialogTitle": "一剑换一命 IV",
     "AvailabilityDialog": 2,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 359,
     "OptionFaction2Points": 100,
-    "DialogText": "I can't thank you enough! You've done so much for me, in more ways than you know!",
+    "DialogText": "我无法表达对你的感激之情！你对我做了太多，远远超出你所知道的！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

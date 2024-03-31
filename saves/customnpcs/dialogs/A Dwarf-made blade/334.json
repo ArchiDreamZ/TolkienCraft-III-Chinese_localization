@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sure, let me go ask around.",
+                "Title": "好的，让我去四处打听一下。",
                 "DialogColor": 16731392,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "A Dwarf-made Blade III",
+    "DialogTitle": "一把矮人打造的剑 III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If I were to ask them about my blade, they would just ignore me. You though, by the look of you, are a great warrior. If you were to ask them about my blade, they'll be honest with you. How about it, can you find my stolen blade?",
+    "DialogText": "如果我去问他们关于我的剑，他们只会无视我。但看你的样子，你是一位伟大的战士。如果你去问他们关于我的剑，他们会对你诚实的。你愿意帮我找回被偷的剑吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

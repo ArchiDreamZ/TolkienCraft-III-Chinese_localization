@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 356,
-                "Title": "Brigands are pushovers…",
+                "Title": "土匪都是软蛋……",
                 "DialogColor": 3145231,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe this was a bad idea for me to get involved.",
+                "Title": "也许我参与其中是个坏主意。",
                 "DialogColor": 16459267,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "A Sword for a Life II",
+    "DialogTitle": "一剑换一命 II",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You must save her! Please! Get the sword from Thonrum, then go to Pierce’s camp. It's a camp, north-west of Dale. I'm sure he'll release my daughter when he has the sword.",
+    "DialogText": "你必须救她！拜托了！从索恩鲁姆(Thonrum)那里拿到剑，然后去皮尔斯(Pierce)的营地。那是一个在河谷城西北方向的营地。我相信他在拿到剑后会释放我的女儿。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 336,
-                "Title": "Talk",
+                "Title": "交谈",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Lucious Warrer I",
+    "DialogTitle": "卢修斯·沃勒(Lucious Warrer) I",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "What...a stolen sword? Stolen from a Dwarf? I don't know what you're talking about...Please, go away, I don't know anything about it...",
+    "DialogText": "什么...被偷的剑？从矮人那里偷的？我不知道你在说什么...请走开，我对此一无所知...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

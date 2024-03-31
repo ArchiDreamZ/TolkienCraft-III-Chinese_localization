@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Seriously? Guess it can’t hurt to try...",
+                "Title": "真的吗？试一试也无妨……",
                 "DialogColor": 15945480,
                 "OptionType": 0
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Getting the sword back II",
+    "DialogTitle": "取回宝剑 II",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Wait, do you think Thonrum would make another, if you explained the situation to him? My family is in danger! Could you please ask him?",
+    "DialogText": "等一下，你觉得如果你向索恩鲁姆(Thonrum)解释情况，他会再打造一把吗？我的家人处在危险之中！你能请求他吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

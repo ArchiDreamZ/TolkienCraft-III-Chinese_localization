@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 352,
-                "Title": "Alright, fair enough, should be easy to get.",
+                "Title": "好的，很公平，这应该很容易弄到。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Hold up, I just remembered a thing I had to do.",
+                "Title": "等一下，我突然想起我还有一件事要做。",
                 "DialogColor": 16724736,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Forging a new sword VI",
+    "DialogTitle": "锻造一把新剑 VI",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "For the helm, if you could bring me iron ingots I can form those for reinforcement. The shield will need some new leather, and I'll wager that some rabbit hides will suffice.",
+    "DialogText": "关于头盔，如果你能给我带些铁锭，我可以用来加固。盾牌需要一些新的皮革，我敢打赌一些兔子皮就够了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

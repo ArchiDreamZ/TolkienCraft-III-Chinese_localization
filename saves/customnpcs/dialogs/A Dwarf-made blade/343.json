@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think you're genuine, I'll be back with the sword.",
+                "Title": "我觉得你是真诚的，我会带着剑回来的。",
                 "DialogColor": 16469507,
                 "OptionType": 0
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Lucious Warrer V",
+    "DialogTitle": "卢修斯·沃勒(Lucious Warrer) V",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Now, I want to set matters right. I do! And maybe you can help do that?",
+    "DialogText": "现在，我想要把事情弄清楚。我真的想这样做！也许你可以帮忙吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

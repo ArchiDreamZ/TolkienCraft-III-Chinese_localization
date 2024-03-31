@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 351,
-                "Title": "Figured as much since you did not have the supplies to make a sword.",
+                "Title": "我猜到了，因为你没有制作剑所需的材料。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "You’ll have to figure this one out on your own.",
+                "Title": "你得自己想办法解决这个问题。",
                 "DialogColor": 16393988,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Forging a new sword V",
+    "DialogTitle": "锻造一把新剑 V",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Here, let me see what he has sent...' Kenton examines the items. 'All of these can be easily repaired, but I don't have the materials to do it. I hate to ask this, but could you help me gather what I need?",
+    "DialogText": "[让我看看他送来了什么……],肯顿(Kenton)检查了物品。说到:[这些都可以很容易修复，但我没有所需的材料。随意我很不愿意这样做，但你能帮我收集所需的材料吗？]",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 113,

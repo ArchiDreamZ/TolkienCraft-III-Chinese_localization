@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 347,
-                "Title": "Hold on there, I am sure we can come up with a solution.",
+                "Title": "等一下，我相信我们可以想出一个解决办法。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Totally agree with you! He’ll have to find a different way to fix his problem.",
+                "Title": "我完全同意你！他必须找到另一种解决问题的方式。",
                 "DialogColor": 16524802,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Forging a new sword I",
+    "DialogTitle": "锻造一把新剑 I",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I am already behind on other work, and now I must forge a new blade in time to fill the order this broken sword was meant for. \"Time is precious, don't give it away for nothing,\" my father used to say....",
+    "DialogText": "我已经拖欠了其他工作，现在我必须赶制一把新的剑，以便按时完成原本预定了这把断剑的订单。[时间宝贵，不要白白浪费它。]，我父亲过去常说这句话……",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 112,

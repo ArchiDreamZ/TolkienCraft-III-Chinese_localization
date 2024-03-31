@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 349,
-                "Title": "I am sure he will accept those terms.",
+                "Title": "我相信他会接受这些条件。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Forging a new sword III",
+    "DialogTitle": "锻造一把新剑 III",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "First one is that if that brigand don't come around, looking for the sword, I get it back. Second, Warrer gives me a hand and does some of the simpler work I've got piling up around here, while I forge the new blade.",
+    "DialogText": "第一个条件是，如果那个土匪不来找剑，我就把剑拿回来。第二个条件是，沃勒(Warrer)帮我做一些这里堆积的简单工作，而我则帮助他打造一把新的剑。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

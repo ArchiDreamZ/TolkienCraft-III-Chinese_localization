@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Good luck and hope things stay good for you!",
+                "Title": "祝你好运，希望一切都会顺利！",
                 "DialogColor": 16459267,
                 "OptionType": 0
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "A Sword for a Life VI",
+    "DialogTitle": "一剑换一命 VI",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p, you've saved my family and given me a hope for a brighter future. I can't thank you enough!",
+    "DialogText": "@p, 你拯救了我的家人，给了我一个更加光明的未来。我无法对你表达足够的感谢！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

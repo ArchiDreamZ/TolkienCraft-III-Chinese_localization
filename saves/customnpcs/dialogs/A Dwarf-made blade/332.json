@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 333,
-                "Title": "Do you know who did it?",
+                "Title": "你知道是谁干的吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Hope you find it then.",
+                "Title": "希望你能找到那把剑。",
                 "DialogColor": 16469507,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "A Dwarf-made Blade I",
+    "DialogTitle": "一把矮人打造的剑 I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hail, good Minecrafter! I was wondering if you could help me with a bit of a problem. It seems that no sooner did I set my latest blade out to cool, than someone stole it!",
+    "DialogText": "哈喽，善良的 @p!我想知道你是否能帮我解决一点小问题。似乎我刚把最新打造的剑放出来冷却，就有人偷走了它！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 108,
