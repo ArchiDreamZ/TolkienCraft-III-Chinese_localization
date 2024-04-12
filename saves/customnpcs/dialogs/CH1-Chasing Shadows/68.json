@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 69,
-                "Title": "It indeed was a long journey, especially the river crossing.",
+                "Title": "这的确是一段漫长的旅程，尤其是在渡河的时候。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Troubles of Rivendell I",
+    "DialogTitle": "幽谷里的烦恼 I",
     "AvailabilityDialog": 2,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 70,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome to Rivendell, where you will find the Last Homely House east of the Sea, @p. The road to Imladris is not as forgiving as once it was, and I commend you for your efforts.",
+    "DialogText": "欢迎来到幽谷，在大海之东你能找到最后的庇护所。通往幽谷的道路不再像以前那样容易，我对你们的努力表示赞赏。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 8,

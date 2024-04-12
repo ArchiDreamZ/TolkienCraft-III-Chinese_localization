@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 66,
-                "Title": "And what course would that be?",
+                "Title": "那是什么方法呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Hiding in the Dark I",
+    "DialogTitle": "隐于黑暗 I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have given some thought to our riddle, @p, and while I do not know if this is the answer, my heart tells me that we must exhaust this course before we can be sure it is fruitless.",
+    "DialogText": "我对我们遇到的谜题进行了一些思考，@p，虽然我不知道这是否就是答案，但我的心告诉我，我们必须用尽这个方法，才能确定它没有结果。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 15,
