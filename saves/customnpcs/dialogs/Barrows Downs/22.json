@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 23,
-                "Title": "Always willing to help a fellow!",
+                "Title": "总是乐于助人！",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Can I do this later?",
+                "Title": "我可以稍后再做吗？",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Forging Anew I",
+    "DialogTitle": "重新锻造 I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Take the key fragments to Reeve Guibe. He resides on the west side of Bree, where most blacksmiths reside. He is close to the stables, I think, and has been down on his luck of late. He is an old friend and helping me will perhaps spark his passion again.",
+    "DialogText": "带着钥匙碎片去找里夫·吉贝(Reeve Guibe)。他住在布里的西边，大多数铁匠都住在那里。他离马厩很近，我想他最近运气不太好。他是我的老朋友，帮助我或许能重新点燃他的热情。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 7,

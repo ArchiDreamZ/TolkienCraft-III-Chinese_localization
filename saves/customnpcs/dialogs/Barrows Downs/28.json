@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 29,
-                "Title": "What do we do now?",
+                "Title": "我们现在该怎么办？",
                 "DialogColor": 15071473,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I want to think about this.",
+                "Title": "我想考虑一下。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Forging Anew VII",
+    "DialogTitle": "重新锻造 VII",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It is as I hoped, beneath the soot and grime indeed lays that which we seek. This key will open the passageway to the lower chambers of the barrow wherein were housed many of the bravest fallen warriors of Cardolan now defiled by creatures of horror and dread.",
+    "DialogText": "正如我所希望的那样，在烟尘和污垢之下，确实隐藏着我们要找的东西。这把钥匙将打开通往古冢下层密室的通道，那里曾安葬着许多卡多蓝最勇敢的阵亡战士，如今却被可怕的生物所玷污。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

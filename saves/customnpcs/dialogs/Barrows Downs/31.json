@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 32,
-                "Title": "So what are you making me wait for?",
+                "Title": "那你让我等什么？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I want to think about this.",
+                "Title": "我想考虑一下。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Final Chapter II",
+    "DialogTitle": "最后一章 II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Wight-lord himself must be met and dealt with. In times past, he was a great menace to Bree-land. We cannot let this happen again. Please put an end to his new reign.",
+    "DialogText": "尸妖头领(Wight-lords)本人必须得到亲手解决。过去，他是布里土地的一大威胁。我们不能让这种事情再次发生。请结束他的新统治。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

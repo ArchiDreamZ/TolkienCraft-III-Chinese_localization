@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I’ll be back before you know it!",
+                "Title": "我很快就会回来的！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Ancient Story of Evil IV",
+    "DialogTitle": "古老的邪恶故事 IV",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "First, I need you to find the fragments of a key that opens the way into the deepest halls of the Great Barrow. Legend tells that the first fragment is guarded by two wights within a great maze of tombs, while the second is held by a gaunt-man, a terrible creature of the First Age. Both fragments are to be found within the Great Barrow. Take those you can trust, for the way is treacherous.",
+    "DialogText": "首先，我需要你找到一把打开通往古冢岗最深处大厅的钥匙碎片。传说第一片碎片在一个巨大的墓穴迷宫中，被两个尸妖头领(Wight-lords)守护，而第二片碎片则被一个守关人(Guant-man)守护，他是第一纪元的可怕生物。这两片碎片都在古冢岗内。带上你信任的人，因为道路充满危险。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
