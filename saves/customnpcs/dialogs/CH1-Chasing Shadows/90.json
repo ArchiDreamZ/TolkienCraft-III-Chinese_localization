@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 91,
-                "Title": "I certainly hope so.",
+                "Title": "我当然希望如此。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Knowledge of the Giants I",
+    "DialogTitle": "巨人的知识 I",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I will take Glorfindel's beryl and return it to him. For you, I have another avenue of inquiry, and it could be this one will bear fruit.",
+    "DialogText": "我会把格罗芬德尔的绿玉还给他。至于你，我还有另一条线索，可能会有结果。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 20,

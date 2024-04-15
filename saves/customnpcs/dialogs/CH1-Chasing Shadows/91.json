@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 92,
-                "Title": "What did he find?",
+                "Title": "他发现了什么？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Knowledge of the Giants II",
+    "DialogTitle": "巨人的知识 II",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "While you were searching the stone-troll caves -- a productive search! Do not be dismayed that you did not reveal the Nazgûl's location! -- I received word from Barachen in the Trollshaws. My brother dispatched him to watch over the lands south of the road, and it seems that duty has been rewarded.",
+    "DialogText": "当你们在寻找石头食人妖洞穴时 -- 一次富有成效的搜索！不要因为你没有揭露戒灵的位置而沮丧！-- 我收到了巴拉钦(Barachen)在食人妖森林的消息。我哥哥派他去监视道路南边的土地，看来他的职责得到了回报。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

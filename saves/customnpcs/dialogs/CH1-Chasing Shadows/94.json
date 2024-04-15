@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 95,
-                "Title": "Where did you see it?",
+                "Title": "你在哪里看到的？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Knowledge of the Giants V",
+    "DialogTitle": "巨人的知识 V",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have long believed that the Giants of legend have walked among the wooded areas of the Trollshaws, but I have never seen one for myself until now.",
+    "DialogText": "我一直相信传说中的巨人曾在食人妖森林的林间漫步，但直到现在我才亲眼看到。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 21,

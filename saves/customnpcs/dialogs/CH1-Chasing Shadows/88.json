@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 89,
-                "Title": "I suppose I head back to their camp now?",
+                "Title": "我想我现在该回他们的营地了吧？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Regaining the Trail III",
+    "DialogTitle": "重拾足迹 III",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I do not often travel into the wild, though I will do so when the need is great, as the Ranger Aragorn or his small friend Frodo Baggins could tell you. The sons of Elrond are better-suited for directing your search for the missing Nazgûl.",
+    "DialogText": "我并不常到野外旅行，不过在必要的时候我会这么做，游民阿拉贡或他的小朋友弗罗多·巴金斯都可以告诉你。埃尔隆德的儿子们更适合指挥你们寻找失踪的戒灵。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

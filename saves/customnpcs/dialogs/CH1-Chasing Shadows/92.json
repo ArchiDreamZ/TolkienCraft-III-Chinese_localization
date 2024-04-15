@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 93,
-                "Title": "Where can I find this giant?",
+                "Title": "在哪里可以找到这个巨人？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Yeah, and it’s also likely to eat me...",
+                "Title": "是啊，它还可能吃了我......",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Knowledge of the Giants III",
+    "DialogTitle": "巨人的知识 III",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Barachen has reported seeing one of the wandering Giants. If this is so, older and wiser eyes than our own may have seen the passing of the Nazgûl and could tell us much.",
+    "DialogText": "巴拉钦(Barachen)报告说，他看到了其中一个游荡的巨人。如果真是这样，那么比我们更年长、更睿智的眼睛可能已经看到了戒灵的离去，并能告诉我们很多事情。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

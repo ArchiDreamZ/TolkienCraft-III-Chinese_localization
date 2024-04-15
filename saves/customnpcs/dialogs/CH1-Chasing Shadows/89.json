@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I shall take this information to them now.",
+                "Title": "我现在就把这个消息告诉他们。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Regaining the Trail IV",
+    "DialogTitle": "重拾足迹 IV",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,8 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I leave my Elf-stone in your care for the time being and ask you to return with it to Elladan at his camp of Thorenhad. He will know where you should bring it to follow the traces of the Nazgûl.
-Go with speed and with clarity of vision! The beryl will help you to find this stray servant of the Enemy, but what will you do when you find him, I wonder?",
+    "DialogText": "我把我的精灵石暂时交给你保管，请你带着它回到埃尔拉丹的索伦哈德(Thorenhad)营地。他会知道你应该把它带到哪里，以便追踪戒灵的踪迹。,,
+速度要快，视野要清晰！绿玉会帮你找到这个流落在外的敌人仆人，但我想知道，找到他后你会怎么做？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
