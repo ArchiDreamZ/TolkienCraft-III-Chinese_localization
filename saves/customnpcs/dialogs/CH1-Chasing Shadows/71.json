@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 72,
-                "Title": "I have heard rumors, what evil has fallen upon Middle-earth?",
+                "Title": "我听说了一些传言，中土世界究竟遭受了什么邪恶的侵袭？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Horse and Rider I",
+    "DialogTitle": "骏马与黑骑手 I",
     "AvailabilityDialog": 2,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 74,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome to Imladris, @p. It is good that you have come. Rest well, but not too deeply or too long! We have need of adventuring folk, for there is evil beyond the vale.",
+    "DialogText": "欢迎来到幽谷，@p。你能来真是太好了。好好休息，但不要太劳累或太久。我们需要冒险家，因为谷外仍有邪恶。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 9,

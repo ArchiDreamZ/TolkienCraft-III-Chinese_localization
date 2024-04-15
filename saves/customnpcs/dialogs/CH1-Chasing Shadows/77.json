@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 78,
-                "Title": "Let’s hope you are right.",
+                "Title": "希望你是对的。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Missing Rider III",
+    "DialogTitle": "失踪的黑骑手 III",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Journey south of the road in the Trollshaws, @p, and seek out the missing Rider. The ruins within those narrow channels have a fell reputation and the Nazgûl may have sought it out for that reason.",
+    "DialogText": " @p，从食人妖森林的道路往南走，寻找失踪的黑骑手。这些狭窄水道中的废墟臭名远扬，戒灵可能会因为这个原因而前去。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

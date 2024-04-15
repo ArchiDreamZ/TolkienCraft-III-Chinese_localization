@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you, I will go quickly.",
+                "Title": "谢谢，我很快就走。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Horse and Rider IV",
+    "DialogTitle": "骏马与黑骑手 IV",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "My sons have established a camp, Thorenhad, hidden in the Trollshaws. Seek them north of the bear-dens along the path from Imladris and lend your assistance to Elladan in this matter.",
+    "DialogText": "我的儿子们建立了一个营地——索伦哈德(Thorenhad)，藏在食人妖森林中。沿着从幽谷出发的小路，在熊穴(bear-dens)北面寻找他们，并在这件事上向埃尔拉丹提供帮助。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 9,

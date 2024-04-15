@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 76,
-                "Title": "Do you think he survived?  Or possibly is further downstream?",
+                "Title": "你认为他还活着吗？ 或者可能在更下游的地方？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Missing Rider I",
+    "DialogTitle": "失踪的黑骑手 I",
     "AvailabilityDialog": 2,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 78,
     "OptionFaction2Points": 100,
-    "DialogText": "Shortly after Frodo Baggins and his company came to Rivendell, my father sent us to search for signs of the Nazgûl, the Nine Riders of the Enemy. We found the bodies of eight horses downstream, but of the last there was no sign. We searched further, but still found nothing.",
+    "DialogText": "弗罗多·巴金斯和他的伙伴来到幽谷后不久，父亲派我们去寻找戒灵——敌军九黑骑手的踪迹。我们在下游发现了八匹马的尸体，但最后一匹马却没有踪迹。我们继续搜寻，但仍然一无所获。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 11,

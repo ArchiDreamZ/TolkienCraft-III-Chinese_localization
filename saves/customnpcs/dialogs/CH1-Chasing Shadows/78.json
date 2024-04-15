@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Right, SOUTH of the road in the trollshaws.",
+                "Title": "好的，食人妖森林的南边。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Missing Rider IV",
+    "DialogTitle": "失踪的黑骑手 IV",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We discovered hoofprints leading into the narrow valleys south of the road through the Trollshaws. Ruins are located within those channels and have a fell name. It seems likely to be located within the wilderness and ruins of the Trollshaws.",
+    "DialogText": "我们发现了马蹄印，这些马蹄印穿过食人妖森林，进入道路南面狭窄的山谷。遗址位于这些水道内，十分臭名远扬。它似乎很有可能位于食人妖森林的荒野和废墟之中。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 11,
