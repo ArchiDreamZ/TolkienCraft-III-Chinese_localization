@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will return shortly.",
+                "Title": "我很快就回来。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Wisdom of Lord Glorfindel VI",
+    "DialogTitle": "格罗芬德尔领主的智慧 VI",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I give you this Elf-stone, and ask you to hold it aloft in the Ford of Bruinen. Return to me once you have done so, and we will speak further.",
+    "DialogText": "我把这块精灵石交给你，请你在布茹伊能河渡口高举它。完成后，请回来找我，我们再详谈。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

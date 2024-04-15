@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 81,
-                "Title": "So all is lost then?",
+                "Title": "那么一切都完了吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Wisdom of Lord Glorfindel II",
+    "DialogTitle": "格罗芬德尔领主的智慧 II",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "His horse abandoned, and he vanished into the wild. Without his cloak he would be all but invisible to us -- a malice on the wind. If he takes it onto himself again, it is only to give shape to his strength. It means he has survived the ordeal unharmed and will surely strike at us again. We are running out of time, @p.",
+    "DialogText": "他的黑骏马被遗弃，他消失在野外。如果没有斗篷，我们几乎看不到他的身影，他就像风中的一股恶意。如果他再次披上斗篷，那只是为了展现他的力量。这意味着他安然无恙地度过了这场磨难，一定会再次袭击我们。我们的时间不多了，@p。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

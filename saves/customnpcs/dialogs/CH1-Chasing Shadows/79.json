@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 80,
-                "Title": "But I saw no one or nothing near the horse.",
+                "Title": "但我没有看到黑骏马附近有任何人或任何东西。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Wisdom of Lord Glorfindel I",
+    "DialogTitle": "格罗芬德尔领主的智慧 I",
     "AvailabilityDialog": 2,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 82,
     "OptionFaction2Points": 100,
-    "DialogText": "Your tale begins to fill in this puzzle for me, @p, and I think I now see what has happened.
+    "DialogText": "你的讲述开始为我解开这个谜团，@p，我想我现在明白发生了什么。,,
 
-Caught between the remainder of Frodo's company and the raging Bruinen, the Nine were forced into the torrent -- but one escaped in the chaos. Near death, his steed bore him through hidden channels into some place where, nearly formless, he gathered his strength.
+夹在弗罗多的剩余同伴和汹涌的布茹伊能河之间，九戒灵被迫坠入洪流，但其中一人在混乱中逃脱。濒临死亡时，他的黑骏马带着他穿过隐蔽的通道，来到一个几乎不存在的地方。在那里，他积蓄起了力量。
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
