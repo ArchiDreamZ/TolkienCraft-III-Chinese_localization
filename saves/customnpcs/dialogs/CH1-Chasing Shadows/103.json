@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me go prepare.",
+                "Title": "让我去准备。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "One was bad...a whole tribe?!",
+                "Title": "一个是坏的......整个部落？",
                 "DialogColor": 16010050,
                 "OptionType": 2
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Aid of Mirkwood VII",
+    "DialogTitle": "黑森林的援助 VII",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,8 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I believe something has once again united the Wood-trolls of the Trollshaws, @p. But this place is far from Mirkwood -- my father's warriors will not avail us.
-I can take you where they are. Their tracks are easily distinguishable in the muddy earth, and Wood-trolls are not known for their subtlety or intelligence. But ask me not in haste! I know of the Nazgûl that Master Elrond has lost, and I fear that it may have lent some of its strength and power to these creatures for them to be so bold. We must be watchful. Speak with me again when you are ready to go.",
+    "DialogText": "我相信有什么东西再次将食人妖森林的森林食人妖们团结在了一起，@p。但是，这里离黑森林很远 -- 我父亲的战士们帮不了我们。,,
+我可以带你找到它们。它们的踪迹在泥泞的土地上很容易分辨出来。而且森林食人妖并不以狡猾和聪明著称。但不要急着问我。我知道埃尔隆德大师跟丢的戒灵，我担心它可能把力量借给这些怪物，让它们如此大胆。我们必须小心，准备好再跟我说吧。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

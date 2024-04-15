@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 101,
-                "Title": "I hear some travellers here may be able to help?",
+                "Title": "我听说这里的一些旅行者也许能提供帮助？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Aid of Mirkwood IV",
+    "DialogTitle": "黑森林的援助 IV",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "And yet more evils reveal themselves. The Elves of Mirkwood have encountered such evil before. My son was right to send you to me.",
+    "DialogText": "更多的邪恶显露出来。黑森林的精灵们曾经遇到过这样的邪恶。我儿子让你来找我是对的",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 23,

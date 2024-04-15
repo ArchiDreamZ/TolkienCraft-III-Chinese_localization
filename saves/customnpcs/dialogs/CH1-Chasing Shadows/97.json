@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 98,
-                "Title": "So what now?",
+                "Title": "现在怎么办？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Aid of Mirkwood I",
+    "DialogTitle": "黑森林的援助 I",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You are fortunate. The creature which you faced could not have been a true Onod. You could not possibly have faced the might of one of the Old Ones.
-Nor would you have to, for the Onodrim are friendly to the Free Peoples on the rare occasion their paths meet. The great forests are less-travelled now than they were in days past, and few now ever see one of the great tree-herds.",
+    "DialogText": "你很幸运，你面对的生物不可能是真正的恩特。你面对的不可能是一个老者的力量。,,
+你也不必这么做，因为恩特对很少有机会相遇的自由民很友好。现在的大森林比过去人迹罕至，很少有人能见到哪怕一个牧树人。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 22,

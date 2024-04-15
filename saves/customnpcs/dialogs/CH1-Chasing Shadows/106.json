@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 107,
-                "Title": "I agree, so who can help?",
+                "Title": "我同意，那么谁能帮忙呢？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, safe travels then.",
+                "Title": "好吧，那么安全旅行。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Hasten Their Departure II",
+    "DialogTitle": "催促他们的离去 II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We must tell Master Elrond what has transpired. A task of great secrecy has been set before some of us at Imladris, and I fear we have been too long delayed already.",
+    "DialogText": "我们必须告诉埃尔隆德大人发生了什么事。在幽谷，我们中的一些人面临着高度机密的任务，恐怕我们已经耽搁太久了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

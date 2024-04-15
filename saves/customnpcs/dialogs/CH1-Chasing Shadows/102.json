@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 103,
-                "Title": "So where did this one come from?",
+                "Title": "那么，这个食人妖是从哪里来的呢？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "One was bad...a whole tribe?!",
+                "Title": "一个是坏的......整个部落？",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Aid of Mirkwood VI",
+    "DialogTitle": "黑森林的援助 VI",
     "AvailabilityDialog": 2,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 103,
     "OptionFaction2Points": 100,
-    "DialogText": "We of Mirkwood have indeed encountered these creature before, but it is not something I expected to see again. A tribe of troll once lived near Dol Guldur, and we who fought them called these creatures Wood-trolls. Once these were wandering, individual creatures, loath to unite or even live near to their fellows. At Dol Guldur, however, something caused them to join together. A king was raised among them, and he unified the Wood-trolls into a terrible force. My father sent many warriors to defeat the Wood-trolls and it was done.",
+    "DialogText": "我们黑森林精灵以前确实遇到过这种生物，但我没想到会再次见到。多古尔都附近曾经生活着一个食人妖部落，我们与之作战的人称这些生物为森林食人妖。它们曾经是游荡的个体生物，不愿团结，甚至不愿靠近同伴生活。然而，在多古尔都，有一件事让他们联合起来。他们中出现了一位国王，他将森林食人妖统一成一支可怕的力量。我父亲派了许多勇士去打败森林食人妖，结果成功了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 24,

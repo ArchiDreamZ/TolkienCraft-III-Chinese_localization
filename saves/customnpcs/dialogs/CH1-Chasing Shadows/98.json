@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 99,
-                "Title": "Hopefully they will allow me to speak with them.",
+                "Title": "希望他们能允许我与他们交谈。",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sure has been a lot of back and forth...",
+                "Title": "当然有很多来来回回的...",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Aid of Mirkwood II",
+    "DialogTitle": "黑森林的援助 II",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A small company of Elves from Mirkwood came to Imladris to consult with my father. Perhaps one of them will know what manner of creature you faced. Speak with my father to arrange an audience.",
+    "DialogText": "一小队来自森林的精灵来到幽谷向我父亲请教。也许他们中有人知道你面对的是什么怪物。跟我父亲说一声，安排会面吧。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

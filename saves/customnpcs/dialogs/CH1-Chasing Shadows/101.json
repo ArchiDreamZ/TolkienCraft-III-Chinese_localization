@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you, I will do so.",
+                "Title": "谢谢，我会这样做的。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Aid of Mirkwood V",
+    "DialogTitle": "黑森林的援助 V",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Speak with Legolas, son of Thranduil, in the guest room west of here. He has been often in thought while he remains here and may be able to help you find and defeat the source of evil.",
+    "DialogText": "到西边的客房找瑟兰杜伊的儿子莱戈拉斯谈谈。他待在这里时经常陷入沉思，也许能帮您找到并打败邪恶之源。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
