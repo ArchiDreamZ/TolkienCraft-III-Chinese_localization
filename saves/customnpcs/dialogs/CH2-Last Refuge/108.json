@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 109,
-                "Title": "Did what I just went through do anything to help?",
+                "Title": "我刚刚经历的一切对你有帮助吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 109,
-                "Title": "Looks like my work here is done!",
+                "Title": "看来我的任务完成了！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Onward Misty Mountains I",
+    "DialogTitle": "前往迷雾山脉 I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Do not grieve overmuch for the loss of the Nazgûl -- his fell designs with the Wood-trolls were ended by your brave actions and the knowledge of Legolas.",
+    "DialogText": "不要为跟丢了戒灵而过度悲伤--你的英勇行为和莱戈拉斯的知识终止了他与森林食人妖的堕落计划。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 26,
