@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 170,
-                "Title": "So, how do I get there?",
+                "Title": "那么，我该如何到达那里呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Yeah, this is getting me in way over my head.",
+                "Title": "是啊，这可把我难住了。",
                 "DialogColor": 16010050,
                 "OptionType": 2
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Return to Gundabad V",
+    "DialogTitle": "返回贡达巴德山 V",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "This is what you must do, @p. Every dwarf-fortress has a secret entrance, and although I do not know the secret of Gundabad, I know how to learn it. When the cornerstone for Gundabad was laid down, a copy of the fortress' plans would have been stored within. Around that cornerstone the fortress was built, and can now only be accessed by entering Gundabad's vault. Once we have the plans, we will be able to learn the fortress' secret entrance.",
+    "DialogText": "这是你必须做的，@p。每个矮人要塞都有一个秘密入口，虽然我不知道贡达巴德山的秘密，但我知道如何找到它。在贡达巴德山的奠基石上，应该存放着一份堡垒的图纸。现在只有进入贡达巴德山的地窖才能进入要塞。一旦我们拿到图纸，就能知道要塞的秘密入口。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

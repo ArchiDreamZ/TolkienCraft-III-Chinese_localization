@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 167,
-                "Title": "Oh, this is getting interesting!",
+                "Title": "哦，这越来越有趣了！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Return to Gundabad II",
+    "DialogTitle": "返回贡达巴德山 II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "While you were away, one of my scouts reported something interesting. you see, the task given to me by King Dáin was to track down the Dourhands' last refuge. The scout seems to have found it, as there were a large number of Dourhands around an old dwarf-fortress called Gundabad, but that wasn't all that he found!",
+    "DialogText": "你不在的时候，我的一个斥候报告了一件有趣的事情。你看，铁足戴因国王交给我的任务是追踪杜尔汉德(Dourhand)最后的避难所。斥候似乎找到了，因为在一个叫贡达巴德山的古老矮人堡垒周围有大量的杜尔汉德(Dourhand)矮人，但这并不是他发现的全部！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

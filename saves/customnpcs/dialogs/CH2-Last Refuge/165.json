@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 166,
-                "Title": "What did you find?",
+                "Title": "你发现了什么？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Glad I could help.",
+                "Title": "很高兴我能帮上忙。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Return to Gundabad I",
+    "DialogTitle": "返回贡达巴德山 I",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "What! Dourhand dwarves with the goblins? Oh, yes, it's all coming together now!",
+    "DialogText": "什么！矮人杜尔汉德(Dourhand)和奥克人？ 哦，是的，现在都在一起了!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 29,

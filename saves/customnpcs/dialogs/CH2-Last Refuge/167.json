@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 168,
-                "Title": "It certainly would seem so, how fortunate!",
+                "Title": "看起来确实如此，多么幸运！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Return to Gundabad III",
+    "DialogTitle": "返回贡达巴德山 III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "As the scout watched from a high ridge, two figures rode up to the fortress. One was a dwarf, the other a cloaked figure. At first he didn't know what he was seeing, but when all the Dourhands stopped what they were doing and cheered, he knew the dwarf could only be one person: Dugorim! Now, with what you've told me, the other figure with him must have been the Ringwraith. It would seem our two tasks are but one, friend.",
+    "DialogText": "斥候在高高的山脊上注视着，两个人影骑马来到要塞。一个是矮人，另一个是披着斗篷的人。起初他不知道自己看到了什么，但当所有的杜尔汗德矮人都停下手中的活，欢呼雀跃时，他知道那个矮人只能是一个人：杜戈林(Dugorim)！听你这么一说，和他在一起的另一个人一定就是戒灵了。看来我们的任务只有一个，朋友。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

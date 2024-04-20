@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wish me luck!",
+                "Title": "祝我好运！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Return to Gundabad VI",
+    "DialogTitle": "返回贡达巴德山 VI",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Gundabad is far north of here, just follow the road there till you get to the high mountains.  The vault will be along the unguarded eastern road in that mountain area.  Find the plans and bring them back so we can locate the secret way in.",
+    "DialogText": "贡达巴德山在这里的北面，沿着那条路一直走到高山上就可以了。 地窖就在那片山区无人看守的东边道路上。 找到图纸并带回来，我们就能找到秘密入口了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 29,

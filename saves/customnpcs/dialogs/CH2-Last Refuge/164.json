@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wish me well in my travels!",
+                "Title": "祝我旅途顺利！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Troublesome Goblins IV",
+    "DialogTitle": "烦人的奥克 IV",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Aye, that's what needs to be done. Slay this Ulmug, and the goblins will be in such a disarray they won't present a problem to anyone -- and maybe you'll find the trail of this Rider you seek. Seek out the goblin fires to the north and east along the Pinnath Fenui, and you'll likely find Ulmug holed up deep in one of the camps. I wish I could help you more, but as I said, there's a more pressing task from Dáin that I must give my attention to.Take this key we found, it may help you get into the caves.  One of my men found it along the mountain pass.",
+    "DialogText": "是的，这就是我们需要做的。杀了乌尔穆格(Ulmug)，奥克们就会乱成一团，不会再对任何人造成威胁，也许你还能找到你要找的黑骑手的踪迹。沿着品那斯盖林向北和向东寻找奥克的火堆，你很可能会发现乌尔穆格(Ulmug)就藏在其中一个营地的深处。我希望能帮到你更多，但正如我所说，铁足戴因有更紧迫的任务，我必须全力以赴。,,
+
+带上我们找到的这把钥匙，它也许能帮你进入洞穴。 我的一个手下在山路上找到的",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

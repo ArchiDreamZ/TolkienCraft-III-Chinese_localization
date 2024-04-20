@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 169,
-                "Title": "So how do we get in?",
+                "Title": "那么，我们该怎么进去呢？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Yeah, this is getting me in way over my head.",
+                "Title": "是啊，这可把我难住了。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Return to Gundabad IV",
+    "DialogTitle": "返回贡达巴德山 IV",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If we can but enter this fortress, we will end two problems with one fell stroke. By ending the threat of this Rider, we can ensure Rivendell's safety, and by putting an end to Dugorim, we will crush the Dourhands. However, it won't be easy, as the scout reported the two entered the the inner keep of the fortress. That keep is heavily guarded.",
+    "DialogText": "如果我们能进入这座要塞 我们就能一举解决两个问题。解决了这个黑骑手的威胁，我们就能确保幽谷的安全，而解决了杜戈林(Dugorim)，我们就能击溃杜尔汗德矮人。然而这并不容易，斥候报告说两人进入了要塞的内城。但是那里守卫森严。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
