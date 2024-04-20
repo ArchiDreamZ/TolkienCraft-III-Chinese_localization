@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 164,
-                "Title": "What would you have me do?",
+                "Title": "你要我做什么？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Troublesome Goblins III",
+    "DialogTitle": "烦人的奥克 III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Now, it does seem the foul things are even more stirred up lately, and perhaps your Rider is the cause. One of the scouts here reported them moving far from their holes far to the east and heard them chanting \"Ulmug\"...their leader no doubt.",
+    "DialogText": "现在看来，这些脏东西最近似乎更加嚣张了，也许你在找的黑骑手就是罪魁祸首。这里的一个斥候报告说，他们远离洞穴，向东走了很远，还听到他们在喊 \"乌尔穆格(Ulmug)\"......毫无疑问，他们的首领就是乌尔穆格(Ulmug)。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

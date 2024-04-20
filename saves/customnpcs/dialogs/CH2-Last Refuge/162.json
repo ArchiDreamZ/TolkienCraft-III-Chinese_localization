@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 163,
-                "Title": "I am glad you came through no worse for wear.",
+                "Title": "我很高兴你毫发无损。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Troublesome Goblins II",
+    "DialogTitle": "烦人的奥克 II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "So you say that Elrond mentioned goblins in his direction to come here? It doesn't surprise me. I ran into some troublesome goblins up here when I crossed the Misty Mountains in Thorin's great quest. That time we were sorely beset by goblins.",
+    "DialogText": "所以你说埃尔隆德在他来这里的方向上提到了奥克？我一点也不惊讶 我在索林·橡木盾的伟大征途中穿越迷雾山脉时，在这里遇到过一些烦人的奥克。那次我们被奥克围困得很惨。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

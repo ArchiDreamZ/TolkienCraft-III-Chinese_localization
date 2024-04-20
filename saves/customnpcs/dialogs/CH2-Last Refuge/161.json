@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 162,
-                "Title": "That’s good to know as Elrond thought you could use help and help me in return.",
+                "Title": "埃尔隆德认为你需要帮助，并帮助我作为回报，我很高兴知道这一点。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, I can see where this is going",
+                "Title": "好吧，我明白你的意思了。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Troublesome Goblins I",
+    "DialogTitle": "烦人的奥克 I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I'll help you as best I can, although Dáin did task me with another matter. I can share some information though.",
+    "DialogText": "我会尽我所能帮助你的，不过铁足戴因给了我另一项任务。不过我可以告诉你一些信息",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 27,
