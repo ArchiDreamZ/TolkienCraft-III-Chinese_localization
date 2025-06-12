@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Hero of Middle-earth I",
-    "Text": "Thurdan has been given a room in the big tent in camp.
+    "Text": "瑟尔丹在营地的大帐篷里找到了一个房间。
 
-Talacnun has told you that Thurdan the Elf has come to Arno bearing information that might help you combat Dreulhara's forces in Annuminas. He said that Thurdan asked for you by name.",
+塔拉克农告诉你，精灵瑟尔丹来到阿尔诺， 带来了可能有助于你在安努米那斯对抗德鲁 哈拉军队的情报。他说，瑟尔丹点名要见你。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Talacnun has told you that Thurdan the Elf has come to Arno bearing information 
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "It is good to see you again, @p, but we seem cursed to meet always in sadness.",
+    "CompleteText": "很高兴再次见到你，冒险家，但我们似乎被 诅咒了，总是在哀愁中相遇。",
     "NextQuestTitle": "",
     "QuestLocation": "Main Tent"
 }

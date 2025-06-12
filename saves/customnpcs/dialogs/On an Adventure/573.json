@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 572,
-                "Title": "What do you want to do about them then?",
+                "Title": "那你想对它们做什么？",
                 "DialogColor": 588839,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Do you really need them?",
+                "Title": "你真的需要它们吗？",
                 "DialogColor": 16388360,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You found some them, but it seems to me that the rest of the pages must have been carried further south-east... into the Barrow-downs.",
+    "DialogText": "你找到了一些，但在我看来，其余的书页一定被带到了更东南的地方……进入了 古冢岗。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 209,

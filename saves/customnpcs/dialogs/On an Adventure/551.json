@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 552,
-                "Title": "That’s what I just did...",
+                "Title": "我就是这么做的…",
                 "DialogColor": 3079694,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, good luck with your writing!",
+                "Title": "那么，祝你写作顺利！",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You know that I want to document my journeys, @p, writing down the experiences I have and the places I see, and that includes describing the people we meet! No account of my adventure to this point would be complete without a description of this curious Tom Bombadil fellow, that much is clear.",
+    "DialogText": "你知道我想记录我的旅程，@p，写下我的经历和我看到的地方，包括描述我们 遇到的人！如果不描述一下这个古怪的汤姆·邦巴迪尔，我的探险之旅就不会完 整，我对这一点很清楚。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 194,

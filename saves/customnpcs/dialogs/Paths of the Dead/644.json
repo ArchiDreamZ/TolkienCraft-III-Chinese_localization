@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Consider it done!",
+                "Title": "就这么定了！",
                 "DialogColor": 16521475,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Blooms of Decay grow at Kêr Bras, within the Paths of the Dead, far to the north of here. Bring me back several and I will begin the lengthy process.",
+    "DialogText": "腐烂之花生长在克尔布拉斯，亡者之路内，离这里很远的北方。给我带几个回来， 我会开始漫长的制药过程。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

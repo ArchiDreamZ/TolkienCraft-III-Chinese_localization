@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I’ll be back soon.",
+                "Title": "我很快就回来",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Speak to Constable Underhill of Comb, Aeschreas of Hoarwell, and Guthwine, the watch-commander of Mitheithel. Tell them I sent you and do as they ask. Report back to me when you are done.",
+    "DialogText": "去找库姆村的山下氏警官、苍泉河的埃斯赫雷斯和米斯艾塞尔河营地的守望统领 ——古斯威奈。告诉他们是我派你去的，按他们说的做，完成后向我汇报。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 174,
-                "Title": "You can count on me!",
+                "Title": "你可以信任我！",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "That is kind of out of my way at the moment.",
+                "Title": "目前我还不方便去那里。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Yes, thank the maker, however she was captured and I fear for the worst.  I beseech you, please travel to these ruins, I will mark it in your journal, and see if she is alive and if so, rescue her from whatever fate those fiends have planned!",
+    "DialogText": "是的，感谢造物主，但是她被抓走了，我担心会发生最坏的情况。我恳求你，请 前往这些废墟，我会在你的日记中做记号，看看她是否还活着，如果还活着，无 论那些恶魔安排了什么命运，都要把她救出来！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

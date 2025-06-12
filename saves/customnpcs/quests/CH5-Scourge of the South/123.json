@@ -6,11 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Reforging the Sword I",
-    "Text": "The Rangers of Mitheithel were able to repair Cromhes' shield and armor, but the sword was of Elf-craft beyond their skill.
+    "Text": "米斯艾塞尔河营地的游民能够修复克罗米斯 的盾牌和盔甲，但这把剑是精灵的杰作，他 们两估计无法胜任这份工作。
 
-Elrond is at Rivendell.
+埃尔隆德现在就在幽谷那里。
 
-Guthwine suggested you take Cromhes’ sword to Elrond of Rivendell to be reforged.",
+古斯威奈建议你把克罗米斯的剑送到幽谷的 埃尔隆德那里去重新锻造。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -81,6 +81,6 @@ Guthwine suggested you take Cromhes’ sword to Elrond of Rivendell to be reforg
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "Ah, @p, your tale saddens me, for I know Cromhes, and he was a good man.",
+    "CompleteText": "啊，冒险家，你的故事让我很难过，因为我 认识克罗米斯，他是个很好的人。",
     "NextQuestTitle": ""
 }

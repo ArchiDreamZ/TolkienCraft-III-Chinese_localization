@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Hidden in Shadow",
-    "Text": "Dwarven Ember Camp lies somewhere within the Flaming Deeps far to the north-west of the Water Works.
+    "Text": "矮人埃姆伯营地位于烈火深渊内的某处，远 在提水工坊西北方向上。
 
-Rurain has sent you to find and lend aid to the survivors of Cromhes' company where they are hidden deep within Moria.",
+鲁林派你来寻找克罗米斯队伍的幸存者，他 们藏匿在墨瑞亚深处，并想办法帮助他们。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -58,7 +58,7 @@ Rurain has sent you to find and lend aid to the survivors of Cromhes' company wh
             }
         ]
     },
-    "CompleteText": "You have come from Manwyn by way of Rurain?",
+    "CompleteText": "你是从曼温那里再经由鲁林那里过来的？",
     "NextQuestTitle": "",
     "QuestLocation": "Dwarven Ember Camp"
 }

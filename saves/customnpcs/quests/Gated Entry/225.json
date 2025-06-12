@@ -6,13 +6,13 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Lost Pages V",
-    "Text": "King Dáin II thinks the lost pages of the tome may point the way to the Secret Key.
+    "Text": "戴因二世国王认为，古籍的遗失书页可能揭 示了寻找秘钥的途径。
 
-The poem in the book will be your best guide to the page locations.
+书中的诗歌将是你了解遗失书页位置的最佳 指南。
 
-Pages picked up will give additional clues.
+拾取的书页会提供更多线索。
 
-The runes of this page seemed to have mentioned a treasury in Belegost which needs to very key you found and you wonder what the Gold Key opens...",
+这一页的符文似乎提到了贝烈戈斯特的一个 宝库，它需要你找到的那把钥匙，你想知道 金钥匙能打开什么.....",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -90,6 +90,6 @@ The runes of this page seemed to have mentioned a treasury in Belegost which nee
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "You return to King Thorin and tell him of your adventure.",
+    "CompleteText": "你回到梭林国王身边，告诉他你的冒险经历。",
     "NextQuestTitle": ""
 }

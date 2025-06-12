@@ -5,7 +5,7 @@
     "QuestRepeat": 2,
     "QuestCompletion": 0,
     "Title": "A Daily Hunt",
-    "Text": "[Mob] can be found roaming everywhere. You should defeat 25 zombiess then return back to Divina at The Forsaken Inn.",
+    "Text": "到处都能找到僵尸。你应该打败25个僵尸， 然后回到遗忘客栈的德迪维娜身边。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -120,6 +120,6 @@
             }
         ]
     },
-    "CompleteText": "Thank you @p, thank you for defeating those zombiess, unfortunately they will return, so I may need your help again in the future.",
+    "CompleteText": "谢谢你，冒险家，谢谢你打败了那些僵尸， 不幸的是它们还会回来，所以我以后可能还 需要你的帮助。",
     "NextQuestTitle": ""
 }

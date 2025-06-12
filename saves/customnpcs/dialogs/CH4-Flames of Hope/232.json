@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 233,
-                "Title": "Well, it looks like a shiny rock, silvery color...",
+                "Title": "嗯，它看起来像一块闪闪发光的石头，银色的……",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, thank you for your time.",
+                "Title": "好的，感谢你抽出时间。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hello there! What can I do for you? A mithril nugget? Never heard of it.",
+    "DialogText": "你好，我能为你做什么？一个秘银粒？没听说过。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

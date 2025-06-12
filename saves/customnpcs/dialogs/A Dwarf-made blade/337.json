@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 338,
-                "Title": "不确定那样是否有效...",
+                "Title": "不确定那样是否有效……",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "克劳福德·贝克(Crawford Baker) I",
+    "DialogTitle": "Crawford Baker I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "哦，这说的真是太冒犯了！那些矮人认为没有人能像他们一样擅长铁匠工艺。如果忙碌意味着你会做出优质的作品，那么我的作品就是优质的。",
+    "DialogText": "哦，这说的真是太冒犯了！那些矮人认为没有人能像他们一样擅长铁匠工艺。如 果忙碌意味着你会做出优质的作品，那么我的作品就是最棒的！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

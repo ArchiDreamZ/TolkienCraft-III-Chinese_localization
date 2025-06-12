@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 453,
-                "Title": "Really?  Where did you see him?",
+                "Title": "真的吗？ 你在哪里看到他的？",
                 "DialogColor": 1638167,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you, I will go tell Cromhes.",
+                "Title": "谢谢你，我会去告诉克罗米斯的。",
                 "DialogColor": 16456454,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well, I'm not sure about this Knight you speak of, but there is a new threat in Chetwood, much more powerful than anything you've come across in the past. Perhaps he is the Knight you seek.",
+    "DialogText": "我不确定你说的骑士是谁，但切特森林有一个新的威胁，比你过去遇到的任何东 西都要强大得多。也许他就是你要找的骑士。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

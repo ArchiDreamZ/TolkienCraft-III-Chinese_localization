@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Turning to the South I",
-    "Text": "Aragorn waits in the main house in Rivendell along the road that winds up the southern slope of the Vale of Imladris. He is usually found out on the porch looking to the west.
+    "Text": "阿拉贡在幽谷主屋中等待，主屋位于伊姆拉 缀斯山谷南坡蜿蜒而上道路的两旁。他经常 在门廊上向西眺望。
 
-Elrond warned you of a growing evil within Angmar and asked you to speak with Aragorn.",
+埃尔隆德警告你，安格玛王国内部的邪恶正 在滋长，并请你与阿拉贡谈谈。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -58,7 +58,7 @@ Elrond warned you of a growing evil within Angmar and asked you to speak with Ar
             }
         ]
     },
-    "CompleteText": "With matters in hand here, it is time to turn our attention to the south.",
+    "CompleteText": "这里的事情已经处理完毕，现在该把我们的 注意力转向南方了。",
     "NextQuestTitle": "",
     "QuestLocation": "Last Homely House"
 }

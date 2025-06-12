@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 351,
-                "Title": "我猜到了，因为你没有制作剑所需的材料。",
+                "Title": "我也是这么想的，因为你没有做剑的材料。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "锻造一把新剑 V",
+    "DialogTitle": "Forging a new sword V",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "[让我看看他送来了什么……],肯顿(Kenton)检查了物品。说到:[这些都可以很容易修复，但我没有所需的材料。随意我很不愿意这样做，但你能帮我收集所需的材料吗？]",
+    "DialogText": "‘让我看看他送来了什么……’，肯顿检查了物品。说到：‘这些都可以很容易 修复，但我没有所需的材料。尽管我很不愿意这样做，但能请你帮我收集所需的 材料吗？’",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 113,

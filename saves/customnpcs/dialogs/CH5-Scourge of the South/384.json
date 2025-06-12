@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will go find out.",
+                "Title": "我去找找看。",
                 "DialogColor": 16390404,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Perhaps Guthwine will have another thought on how to repair Cromhes’ sword.",
+    "DialogText": "也许古斯威奈会有别的方法来修复克罗米斯的剑。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

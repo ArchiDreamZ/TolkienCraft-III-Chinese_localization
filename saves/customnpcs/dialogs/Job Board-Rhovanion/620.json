@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 621,
-                "Title": "Sure, why not…",
+                "Title": "当然，为什么不…",
                 "DialogColor": 392996,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Guess it has to stay broken then.",
+                "Title": "看来，它只能继续坏下去了。",
                 "DialogColor": 16646913,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Aye, I hate to ask again, but could you go back out in the waterworks and see if you can locate those partsd again and bring them back?",
+    "DialogText": "是的，我不想再问了，但你能不能再去提水工坊，看看能不能找到那些零件，然 后把它们带回来？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

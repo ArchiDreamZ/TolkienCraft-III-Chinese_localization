@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Consider it a favor done!",
+                "Title": "就当是帮了你一个忙！",
                 "DialogColor": 12728341,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Now, I can't say as I like all this bloodshed, and it sounds right dangerous to me, but if you'll show that horrible monster who tortured Betan a thing or two, I guess you surely do deserve a reward.",
+    "DialogText": "现在，我不能说我喜欢这些血腥场面，对我来说这听起来很危险，但如果你能让 那个折磨贝坦的可怕怪物也尝一下折磨的滋味，我想你肯定值得奖励的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 14,
-                "Title": "Ah, ok, thank you for explaining.",
+                "Title": "啊，好的，谢谢你的解释。",
                 "DialogColor": 16777215,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are three denominations of coins, Copper, Silver and Gold.  64 copper coins equal 1 Silver, 64 Silver coins equal 1 Gold.  I can help convert your coins so you don’t have to carry around so many or if you need change, I can do that too by converting them backwards.  You get equal amounts so no fees or costs for converting either direction.  Comes in handy if you just don’t have the right amount ready.",
+    "DialogText": "硬币有三种面值：铜币、银币和金币。64枚铜币等于1枚银币，64枚银币等 于1枚金币。我可以帮你兑换硬币，这样你就不必随身携带那么多的硬币，如果 你需要零钱，我也可以帮你兑换，把硬币换回来。任何一个方向的兑换都不会产 生任何费用，你可以得到等量的钱币。如果你没有准备好合适面值的金额，这将 非常方便。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

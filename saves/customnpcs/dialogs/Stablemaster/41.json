@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Actually, I am looking for a good mount...",
+                "Title": "事实上，我正在寻找一匹好坐骑……",
                 "DialogColor": 16047170,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think I'll walk for now.",
+                "Title": "我想我还是先走走吧。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Looking for some reliable transport?",
+    "DialogText": "你在寻找可靠的交通工具吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

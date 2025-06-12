@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 183,
-                "Title": "So where exactly am I to go for this?",
+                "Title": "那么，我究竟该去哪里做这件事呢？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Now the old tales of Helegrod — that's the great dwarf-hall to the north that fell to the dragon Thorog — say that after it was abandoned, all the surrounding dwarf-halls were abandoned as well. The key-stones that opened the secret doors to all those halls were hidden in a small dwarf-vault near the source of the Bruinen. The building might be in ruins now, but the vault is surely still there. Once we have the key-stone, the inner sanctum of Gundabad will be open to us!",
+    "DialogText": "关于海格罗德的古老传说——海格罗德是北边的矮人宫殿，曾被巨龙索罗格攻陷 ——据说它被遗弃后，周围所有的矮人宫殿也都被遗弃了。打开所有这些宫殿暗 门的钥匙石藏在布茹伊能河源头附近的一个矮人地下大厅里。这座建筑现在可能 已经变成废墟，但地下大厅肯定还在。一旦我们拿到钥匙石，贡达巴德要塞的内 部堡垒就会向我们敞开大门！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 462,
-                "Title": "So how do we find her?",
+                "Title": "那我们怎么找到她呢？",
                 "DialogColor": 65333,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, good luck finding her then.",
+                "Title": "那就祝你拥有找到她的好运吧！",
                 "DialogColor": 16521733,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It matters not. She is alive, and my pursuit of her must continue. I believe that she is heading to Evendim. She has a palantír--I am guessing that of Osgiliath, the master of the south, thought lost in Anduin--and if she has any hope of staying in power, she will need to confer often with the Lidless Eye. She may also use the palantír to try to spy on our very movements.",
+    "DialogText": "这不重要。她还活着，我必须继续追杀她。我相信她正前往暮暗湖。她有一个帕 蓝提尔——我猜是它来自欧斯吉利亚斯，南方的主人将它弄丢在了安度因河—— 如果她有希望继续掌权，就需要经常与无睑魔眼商议。她还可能利用帕蓝提尔来 监视我们的一举一动。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

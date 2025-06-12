@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Blooms of Decay II",
-    "Text": "Guodhelda is in Erech, far to the south of the Paths of the Dead.
+    "Text": "瓜德尔塔就在埃瑞赫，远在亡者之路的北方。
 
-Guodhelda will be pleased to begin working on the Blooms of Decay you recovered.",
+瓜德尔塔将很高兴，开始处理你收集得到的 腐烂之花。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -78,6 +78,6 @@ Guodhelda will be pleased to begin working on the Blooms of Decay you recovered.
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "It will take many weeks to properly treat these, but once they are, they will be a great boon to us. Here, I just happen to have one left from the last batch.",
+    "CompleteText": "我们需要很多周的时间来妥善处理它们，但 一旦处理完毕，它们将成为我们的一大福音。 在这里，我正好有上一批剩下的一个药物。",
     "NextQuestTitle": ""
 }

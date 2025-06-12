@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Why does this not surprise me?",
+                "Title": "为什么我对此并不感到惊讶？",
                 "DialogColor": 16326154,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Do not look so glum! I am sure this writing will turn up, I may have set it down around here somewhere. There are so many things to see, happy distractions, and sometimes things get lost. All is found in the end, hey!",
+    "DialogText": "别愁眉苦脸的！我相信这篇文章会出现的，我可能把它放在了这里的某个地方。 要看的东西太多了，快乐的事让人分心，有时东西会丢失。最后都会找到的，嘿 嘿！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

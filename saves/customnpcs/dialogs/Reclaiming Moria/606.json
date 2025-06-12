@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Good luck!",
+                "Title": "祝你好运！",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No, With enough time, I'm sure I can piece it back together, even if it takes me years!",
+    "DialogText": "不，只要有足够的时间，我肯定能把它拼起来，哪怕要花上好几年！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

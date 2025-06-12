@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 124,
-                "Title": "...并且老头儿为你制作了一本书，这样你就可以随时阅读这些故事了！",
+                "Title": "…并且老头儿为你制作了一本书，这样你就可以随时阅读这些故事了！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "巴金斯生日 - 比尔博 IV",
+    "DialogTitle": "Baggins’ Birthday - Bilbo IV",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "可怜的霍莉和她的馅饼！她不会喜欢别人这样诽谤她的馅饼质量的。我打赌我能猜出是谁在四处散播这个谣言！然后还有关于我！戴着假胡须！和矮人们一起生活并偷吃他们的残羹剩饭？哦，我的天哪。",
+    "DialogText": "可怜的霍莉和她的馅饼！她不会喜欢别人这样诽谤她的馅饼质量的。我打赌我能 猜出是谁在四处散播这个谣言！然后还有关于我！戴着假胡须！和矮人们一起生 活并偷吃他们的残羹剩饭？哦，我的天哪。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

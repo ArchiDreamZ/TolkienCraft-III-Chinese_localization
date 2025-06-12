@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "But of course, show me what you got!",
+                "Title": "当然，也可以让我看看你有什么本事！",
                 "DialogColor": 16047170,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Woops, my mistake, didn’t need anything",
+                "Title": "哎呀，我的错，我什么都不需要。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "By the great breeze! @p looking for some help with your gardens?",
+    "DialogText": "真是微风拂面！@p，你想找人帮忙打理花园吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

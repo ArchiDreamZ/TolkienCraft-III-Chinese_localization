@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 268,
-                "Title": "Cromhes...I’m sorry...We can get through this.",
+                "Title": "克罗米斯……抱歉……我们能挺过去的。",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Not sure what to do now…",
+                "Title": "我不知道现在该怎么办。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,9 +50,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "He was right…Brimigak was right. He was just playing with me…with you. He could have defeated you today if he had truly wanted to.
-
-All that time seeing through the palantír I thought I would see the victory…that Layles and you…that you would free me, would bring about the downfall of Angmar. It is all gone…all is lost….",
+    "DialogText": "他是对的……布里米加克是对的。他只是在玩弄我……玩弄你。如果他真想，今 天就能杀死你跟我。
+一直以来，透过帕蓝提尔，我以为我会看到胜利……莱尔斯和你……你会解放我， 会让安格玛倒台。一切都没了……一切都没了….",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 88,

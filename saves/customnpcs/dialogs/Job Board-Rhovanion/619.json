@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 620,
-                "Title": "After all of that earlier work?",
+                "Title": "在之前做了那么多工作之后？",
                 "DialogColor": 16710907,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "This is why we can’t have nice things.",
+                "Title": "这就是我们不能拥有美好事物的原因。",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 618,
     "OptionFaction2Points": 100,
-    "DialogText": "Can you believe it @p?  While we were busy working on other projects around here a small band of goblins snuck in and damaged the wheel again!",
+    "DialogText": "你能相信吗？@p，就在我们忙于其他项目的时候，一小群半兽人溜了进来，再 次损坏了车轮！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 353,
-                "Title": "Good enough, may take me a bit though.",
+                "Title": "很好，不过我可能要花点时间。",
                 "DialogColor": 3403031,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "锻造一把新剑 VII",
+    "DialogTitle": "Forging a new sword VII",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "For the axe haft, I need something splendid to set in it. In the past, I've salvaged small gems from old trinkets that I've found but have not found any in quite some time. Could you mine some for me and bring me back some of those rubies?",
+    "DialogText": "关于斧柄，我需要一些华丽的东西来镶嵌。过去，我曾从捡到的旧饰品中找出一 些小宝石，但已经很久没有找到了。你能帮我开采一些红宝石回来吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

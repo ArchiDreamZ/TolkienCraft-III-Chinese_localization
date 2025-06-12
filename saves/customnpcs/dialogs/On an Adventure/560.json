@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 561,
-                "Title": "So, can you read it?",
+                "Title": "那么，你能读懂它吗？",
                 "DialogColor": 3079950,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Always with the allegories...",
+                "Title": "总是用寓言故事…",
                 "DialogColor": 16648961,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "What a wonder! These leaves, all covered with words, written down with care. I can feel the letters beneath my fingers, ink dried and thoughts saved! That is not Tom's way, but there is joy in remembering. These pages are like a song sung in the morning but carried on the wind until afternoon, when it might be heard again.",
+    "DialogText": "真是个奇迹！这些树叶上写满了字，都是用心写下的。我能感觉到指尖下的文字， 墨迹已干，思绪已存！这不是汤姆的方式，但回忆是快乐的。这些书页就像清晨 吟唱的歌谣，随风飘荡，直到午后才会再次响起。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 201,

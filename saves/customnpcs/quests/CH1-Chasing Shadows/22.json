@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Aid of Mirkwood I",
-    "Text": "Master Elrond is at Imladris, far east of Elladan's camp of Thorenhad and above the Bruinen.
+    "Text": "埃尔隆德大人正在伊姆拉缀斯,埃尔拉丹在 索伦哈德营地的遥远东边，布茹伊能河的上 游。
 
-Elladan has asked that you speak with his father about arranging an audience with the visiting Elves from Mirkwood, who might have some experience with creatures of the manner which you encountered.",
+埃尔拉丹让你和他的父亲商量一下，安排他 和来访的黑森林一位精灵见面，他可能对你 遇到的生物有一些经验。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Elladan has asked that you speak with his father about arranging an audience wit
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "I am glad you so ably serve my sons, @p. I feel that you are close to locating the Nazgûl that escaped the raging waters of the Bruinen.",
+    "CompleteText": "我很高兴你能如此干练地为我的儿子们提供 帮助，冒险家。我觉得你就快找到那兹古尔 了，尽管它躲过了布茹伊能河那汹涌的河水。",
     "NextQuestTitle": "",
     "QuestLocation": "Elrond’s Library"
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 276,
-                "Title": "Alright, I will do that.",
+                "Title": "好吧，我会的。",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think I will ponder on what’s going on here for a bit.",
+                "Title": "我想我会思考一下这里到底发生了什么。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "But it is not for me to tell you of our woes. You should enter within and speak with Layles, Cromhes’ daughter.",
+    "DialogText": "但我们的苦难不是由我来告诉你的。你应该进去和莱尔斯———克罗米斯的女儿 谈谈。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

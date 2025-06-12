@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Oh, it will be!",
+                "Title": "哦，会的！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Good luck @p, may your battle be glorious!",
+    "DialogText": "祝你好运，@p，愿你的战斗一直光荣！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

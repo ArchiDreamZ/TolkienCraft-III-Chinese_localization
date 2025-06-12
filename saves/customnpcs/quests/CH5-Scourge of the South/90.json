@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "The Spirit Broken I",
-    "Text": "Thurdan is at the Caravan Camp.
+    "Text": "阿拉贡派你来的？你说什么？帕蓝提尔，被 偷了？
 
-Cromhes, crushed by his daughter's death, told you to leave him be and to go speak with Elf Thurdan.",
+克罗米斯被女儿的死击垮了，他让你别管他， 去找精灵瑟尔丹谈一谈。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Cromhes, crushed by his daughter's death, told you to leave him be and to go spe
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Ah, @p. It is good that you have returned.",
+    "CompleteText": "啊，冒险家。你能回来真好。",
     "NextQuestTitle": "",
     "QuestLocation": "Caravan Camp"
 }

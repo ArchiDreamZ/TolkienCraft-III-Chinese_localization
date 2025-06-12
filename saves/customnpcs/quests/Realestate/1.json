@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Player Housing I",
-    "Text": "The real estate broker suggested you take a look around and talk to the other broker near the market area after looking at all the houses before buying one.",
+    "Text": "地产商人建议你在看完所有房屋后，先四处 看看，并在买房前与市场附近的其他地产商 人谈一谈。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -90,7 +90,7 @@
             }
         ]
     },
-    "CompleteText": "Good day to you traveler!  Have you decided on a house yet?",
+    "CompleteText": "冒险家，日安！房子选好了吗？",
     "NextQuestTitle": "",
     "QuestLocation": "Real Estate Broker"
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 8,
-                "Title": "Well, how does this work actually?",
+                "Title": "那么，这究竟是怎么起作用的呢？",
                 "DialogColor": 16777215,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 9,
-                "Title": "Is it expensive?",
+                "Title": "价格贵吗？",
                 "DialogColor": 16777215,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 10,
-                "Title": "What can I do with my house?",
+                "Title": "我能拿我的房子能做什么？",
                 "DialogColor": 16777215,
                 "OptionType": 1
             }
@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 11,
-                "Title": "Any features I should know about?",
+                "Title": "有什么我需要特别了解的信息吗？",
                 "DialogColor": 16777215,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 12,
-                "Title": "Actually, I don’t have any questions, I am ready to go!",
+                "Title": "实际上，我没有任何问题，我已经准备好了！",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "On second thought, let me go think on this a bit longer.",
+                "Title": "我又想了想，还是让我再考虑一下吧。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -97,7 +97,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Take your time!  Just ask whatever comes to mind.",
+    "DialogText": "慢慢来！想到什么就问什么。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

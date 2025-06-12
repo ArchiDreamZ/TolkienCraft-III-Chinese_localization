@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Betan's Revenge",
-    "Text": "You rescued Betan Heudebrand from the Orcs, battered and beaten, but he is not satisfied with rescue. He wants retribution.
+    "Text": "你从奥克手里救出了被打得遍体鳞伤的贝坦 ·海德布朗，但他并不满足于被救出来，他 想要复仇。
 
-Tristan Storm is in the Orc-stockade east of the ruined town, north of Heudebrand’s farm.
+崔斯坦·风暴现在就在废墟小镇以东，海德 布朗农场以北的奥克营寨。
 
-On behalf of her husband, Aliz Heudebrand has offered you a reward if you would go to the stockade and slay Tristan Storm.",
+以她丈夫的名义，如果你能前往那个营寨并 杀死崔斯坦·风暴，阿丽兹·海德布朗将给 予你报酬。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -64,6 +64,6 @@ On behalf of her husband, Aliz Heudebrand has offered you a reward if you would 
             }
         ]
     },
-    "CompleteText": "It is done then, thank you.",
+    "CompleteText": "那就这样吧，谢谢。",
     "NextQuestTitle": ""
 }

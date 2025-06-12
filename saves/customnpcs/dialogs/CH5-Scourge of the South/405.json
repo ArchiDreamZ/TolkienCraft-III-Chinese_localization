@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 406,
-                "Title": "When do we leave?",
+                "Title": "我们什么时候出发？",
                 "DialogColor": 3144975,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Not sure I am ready for that.",
+                "Title": "我不确定自己是否准备好了。",
                 "DialogColor": 16720896,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I will return to that dungeon  and face Brimigak. It is time to cut the Iron Crown from the head of this serpent. I would ask that you stand with me!",
+    "DialogText": "我将回到那个矿坑，直面布里米加克。是时候从这条毒蛇的头上砍下铁冠了。我 请求你和我站在一起杀死伪王！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 296,
-                "Title": "So when do we go?",
+                "Title": "我们什么时候出发？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I don’t think I am quite ready for this.",
+                "Title": "我觉得我还没准备好。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Your efforts have renewed my hope, @p. The time has come to move against the False King. Fortunately, I have just received word from one of the rangers that my father was being moved outside of the Moria Dungeons to Carn Dûm. With the key you have forged, no door will be barred to us. We will never have a better chance to free my father!",
+    "DialogText": "你的努力让我重燃希望，@p。是时候对伪王采取行动了。幸运的是，我刚从一 个游民那里得到消息，我父亲被转移到墨瑞亚矿坑外的卡恩督姆。有了你铸造的 这把钥匙，我们将势不可挡。我们再也没有比这更好的机会来解救我的父亲了！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 86,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 449,
-                "Title": "Cromhes mentioned a Knight...",
+                "Title": "克罗米斯提到一位骑士……",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sure is!  Have a great day!",
+                "Title": "当然！ 祝你愉快！",
                 "DialogColor": 16394760,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That is well, for it means his spirit has been renewed.",
+    "DialogText": "这很好，因为这意味着他的精神已经焕然一新。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 150,

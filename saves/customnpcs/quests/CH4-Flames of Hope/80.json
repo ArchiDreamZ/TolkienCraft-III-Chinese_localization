@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Needed Supplies II",
-    "Text": "Elssuli can be found by the forge near the throne of Thorin's Hall.
+    "Text": "埃尔苏利可以在锻炉旁找到，梭林的厅堂中 的王座附近。
 
-Now that you have recovered the mithril and the bandit’s key, Elssuli, one of Dwalin's smiths, can begin work on the key.",
+既然你已经找回了秘银和强盗的钥匙，杜瓦 林的铁匠之一——埃尔苏利就可以开始制作 钥匙了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -67,6 +67,6 @@ Now that you have recovered the mithril and the bandit’s key, Elssuli, one of 
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "So you are the one Dain II was talking about.",
+    "CompleteText": "原来你就是戴因二世说的那个人。",
     "NextQuestTitle": ""
 }

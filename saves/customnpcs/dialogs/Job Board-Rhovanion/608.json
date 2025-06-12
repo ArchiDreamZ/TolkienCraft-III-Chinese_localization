@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 609,
-                "Title": "What, do they get lost?",
+                "Title": "怎么，他们迷路了吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well then, looks like you’re good.",
+                "Title": "那么，看来你没问题了。",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Orcs of Moria are numerous, @p, and have become bolder than ever in recent days. Some of them have even managed to pass the border of the Wood, though none of them will ever come again out of Lothlórien.",
+    "DialogText": "墨瑞亚的奥克数量众多，@p，它们最近几天比以往任何时候都更加大胆。它们 中的一些人甚至成功越过了森林的边界，尽管他们中的任何一个都不会再有机会 走出洛丝罗瑞恩。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 217,

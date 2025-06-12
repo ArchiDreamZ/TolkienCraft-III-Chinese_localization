@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Brimigak’s Fall I",
-    "Text": "You have travelled deep into the Moria Dungeons with Cromhes, into the very sanctuary of this False-king himself. Here Cromhes hopes to confront Brimigak and shatter the Iron Crown forever.",
+    "Text": "你与克罗米斯一起深入墨瑞亚矿坑，进入这 个伪王的庇护所。在这里，克罗米斯希望打 败布里米加克，并永远粉碎铁王冠。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 250,
@@ -40,6 +40,6 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You should speak with Cromhes at once.",
+    "CompleteText": "你应该立即与克罗米斯交谈。",
     "NextQuestTitle": ""
 }

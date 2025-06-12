@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "好吧，我稍后再试。",
+                "Title": "好吧，我晚点再来。",
                 "DialogColor": 16459267,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "路西斯·格瑞特(Lucious Greet) I",
+    "DialogTitle": "Lucious Greet I",
     "AvailabilityDialog": 2,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 332,
     "OptionFaction2Points": 100,
-    "DialogText": "很抱歉，我现在没有任何可用产品。",
+    "DialogText": "很抱歉，我现在没什么货物能给你。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 115,

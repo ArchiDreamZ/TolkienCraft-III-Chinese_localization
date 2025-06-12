@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Finally!",
+                "Title": "终于！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "And I see you retrieved the key from Derwyn Rease. We have all we need. Go now and take these items to Elssuli by the forges. He will get started on the key.",
+    "DialogText": "我看到你从德温·里瑟那里取回了钥匙。我们需要的都有了。现在就去把这些东 西交给锻造炉旁的埃尔苏利。他会开始制作钥匙的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

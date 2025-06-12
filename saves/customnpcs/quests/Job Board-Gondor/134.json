@@ -6,11 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Keeping with Tradition",
-    "Text": "The folk of Pelargir pay tribute to the river Gilrain for the bounty it has granted its people and to honour the fabled Heroes from the Land of Draconis.
+    "Text": "佩基拉尔的人民向吉尔莱恩河致敬，感谢它 赐予人民以丰盛的恩惠，并向传说中来自天 龙大地的英雄致敬。
 
-Baskets and cloth can be found in Pelargir made by various people living there, and reeds can be found along the banks of the Gilrain or harvested.
+在佩拉基尔可以找到不同居民制作的篮子和 布匹，在吉尔莱恩河畔或者仓库中可以找到 芦苇。
 
-Mathena has asked for your help in crafting the traditional tribute baskets woven by the people of Pelargir.",
+马特纳请求你帮忙制作编制篮子，一种佩拉 基尔人民的传统祭品。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -95,8 +95,8 @@ Mathena has asked for your help in crafting the traditional tribute baskets wove
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "You have done us a great service by honouring our traditions,@p.
+    "CompleteText": "你尊重我们的传统，为我们做了一件大好事， 冒险家。
 
-Let us hope that our tribute and need for hope shall urge the Heroes of Draconis forth from wherever they have gone.",
+让我们希望，我们的敬意和对希望的需求将 呼唤天龙英雄从他们安息的地方回归。",
     "NextQuestTitle": ""
 }

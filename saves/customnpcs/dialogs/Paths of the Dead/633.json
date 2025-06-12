@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I'll be back soon.",
+                "Title": "我很快就会回来的。",
                 "DialogColor": 16525061,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Once enough Dark Sigils have been received, the lost caves of the Paths of the Dead will be opened. With that, I can curry enough favor with local engineers to open the paths.",
+    "DialogText": "一旦收到足够的黑暗徽章，亡者之路的未知洞穴就会被打开。有了这些，我就能 得到当地工程师的支持，从而打通亡者之路的道路。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

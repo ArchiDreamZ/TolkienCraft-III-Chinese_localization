@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let’s see what ill has befallen him.",
+                "Title": "让我们看看他遭遇了什么不幸。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Will you go there and speak with Manwyn? The urgency of his message makes me fear what has come to pass. I deem we have not yet seen the darkest times. I will mark the location so you can add it to your map.",
+    "DialogText": "你能去那里和曼温谈谈吗？他信息的紧迫性让我担心会发生什么。我认为我们还 没有看到最黑暗的时刻。我会标出地点，你可以把它添加到你的地图上。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

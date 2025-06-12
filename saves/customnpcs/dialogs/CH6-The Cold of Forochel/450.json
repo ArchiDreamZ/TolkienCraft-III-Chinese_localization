@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Doesn’t worry me one bit.",
+                "Title": "我一点也不担心。",
                 "DialogColor": 16394760,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Go to the west entrance to Khazad-dûm, and you will find him...but be wary, there are many Angmarim in that place. It will not be an easy path.",
+    "DialogText": "去卡扎督姆的西入口，你就能找到他……但要小心，那里有很多安格玛人。这条 路并不好走。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

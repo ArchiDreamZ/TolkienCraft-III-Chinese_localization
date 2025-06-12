@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Rekindling Hope III",
-    "Text": "You managed to recover Cromhes' equipment, but as Thurdan pointed out to you, the gear was corroded and decayed beyond use.
+    "Text": "你设法找回了克罗米斯的装备，但正如瑟尔 丹向你指出的那样，这些装备已经生锈和腐 烂，无法使用。
 
-Guthwine is at Mitheithel in the South Downs, far to the south and west of Rivendell.
+古斯威奈现在就在南岗的米斯艾塞尔河营地， 远在幽谷的西南面。
 
-Reclaim Cromhes’ sword and shield from Pelleas in Mitheithel.",
+在米斯艾塞尔河营地从佩利亚斯手中取回克 克罗米斯的剑和盾牌。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -64,7 +64,7 @@ Reclaim Cromhes’ sword and shield from Pelleas in Mitheithel.",
             }
         ]
     },
-    "CompleteText": "Hmm, the sword looks of Elf-make… the shield though, that's something I could repair.",
+    "CompleteText": "嗯，剑看起来是精灵做的......盾牌 倒是可以修一下。",
     "NextQuestTitle": "",
     "QuestLocation": "Pelleas"
 }

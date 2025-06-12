@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 145,
-                "Title": "你觉得发生了什么事呢？",
+                "Title": "你认为发生了什么事？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "阿曼达·布罗克豪斯(Amanda Brockhouse) II",
+    "DialogTitle": "Amanda Brockhouse II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "不，别傻了，那只熊不会一口吞掉他！想象一下，那些黄铜纽扣会让它消化不良！,,
-
-比尔博也许不是一个典型的霍比特人，但他仍然是一个霍比特人，这意味着他携带了许多美味的东西，这只熊以前从未闻到或尝过。有了这些，聪明的比尔博驯服了那只熊，的确是这样！而且这还不是结束，一点也不！我们还没说到最精彩的部分，如果你能相信的话。",
+    "DialogText": "不，别傻了，那只熊不会一口吞掉他！想象一下，那些黄铜纽扣会让它消化不良！
+比尔博也许不是一个典型的霍比特人，但他仍然是一个霍比特人，这意味着他携 带了许多美味的东西，这只熊以前从未闻过或尝过。有了这些，聪明的比尔博驯 服了那只熊，的确是这样！而且这还不是结束，一点也不！我们还没说到最精彩 的部分，如果你能相信的话。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

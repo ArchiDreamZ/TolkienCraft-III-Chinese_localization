@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 26,
-                "Title": "真的吗？",
+                "Title": "现在真是这样吗？",
                 "DialogColor": 15071473,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "重新锻造 IV",
+    "DialogTitle": "Forging Anew IV",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "现在是艰难时期。外面有那么多铁匠。我想往北走，但听说特雷斯尔桥(Trestlebridge)的情况更糟。",
+    "DialogText": "现在是艰难时期。外面有那么多铁匠。我想往北走，但听说栈桥的情况更糟。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

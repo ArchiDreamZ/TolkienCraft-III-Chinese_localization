@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 414,
-                "Title": "It was my honor to help.",
+                "Title": "能帮上忙是我的荣幸。",
                 "DialogColor": 3209490,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Good to know!",
+                "Title": "很高兴知道这些！",
                 "DialogColor": 16724736,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Still, your efforts were valiant and deserving of praise, @p. Your name will not be forgotten by the Rangers of the North.",
+    "DialogText": "尽管如此，你的努力是英勇的，是值得赞扬的，@p。北方王国的游民不会忘记 你的名字。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

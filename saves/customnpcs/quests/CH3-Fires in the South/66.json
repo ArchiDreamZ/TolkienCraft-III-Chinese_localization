@@ -5,9 +5,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "The Priest’s Doom I",
-    "Text": "While the stone-heart you found was cracked and useless, another path still remains open. Manwyn has learned of a ritual taking place at the fortress of Dol Guldur, which may yield a whole heart if interrupted.
+    "Text": "虽然你找到的石心已经裂开，毫无用处，但 另一条得到石心的路仍然敞开着。曼温知道 了在多古尔都要塞正在举行一个祭祀，如果 祭祀被打断，你可能会得到一颗完整的心。
 
-Manwyn has sent you to Dol Guldur to wrest a stone-heart from a sorcerer of Angmar named Narmos.",
+曼温派你去多古尔都，从一个名叫纳莫斯的 安格玛王国巫师手中夺取石心。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -54,6 +54,6 @@ Manwyn has sent you to Dol Guldur to wrest a stone-heart from a sorcerer of Angm
             }
         ]
     },
-    "CompleteText": "This does appear to be such a stone as the runes described.",
+    "CompleteText": "这似乎就是符文描述的那种石头。",
     "NextQuestTitle": "The Priest’s Doom II"
 }

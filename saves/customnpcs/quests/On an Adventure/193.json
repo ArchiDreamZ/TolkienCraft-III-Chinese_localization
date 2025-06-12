@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Making a New Friend I",
-    "Text": "Tom Bombadil can be found outside his house in the Old Forest.
+    "Text": "汤姆·邦巴迪尔可以在他位于老林子的家门 口找到。
 
-Petunia has asked you to go speak to Tom and ask him her questions. 
+佩图尼亚让你去找汤姆，询问汤姆有关于她 的疑问。
 
-Speak to Tom to complete the quest.",
+与汤姆对话以完成任务。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -52,6 +52,6 @@ Speak to Tom to complete the quest.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Tell me everything!",
+    "CompleteText": "告诉我所有的一切！",
     "NextQuestTitle": ""
 }

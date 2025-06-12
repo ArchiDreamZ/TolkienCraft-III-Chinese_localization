@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Reforging the Sword IV",
-    "Text": "With the sword reforged, return to Elrond to have him inspect it.
+    "Text": "铸好剑后，把剑带回到埃尔隆德那里让他检 查。
 
-Elrond is in Rivendell.",
+埃尔隆德就在幽谷。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -55,6 +55,6 @@ Elrond is in Rivendell.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "You have returned, @p!",
+    "CompleteText": "你回来了，冒险家！",
     "NextQuestTitle": ""
 }

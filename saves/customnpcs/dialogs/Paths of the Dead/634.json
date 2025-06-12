@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 636,
-                "Title": "How goes the exploration?",
+                "Title": "探索进行得如何？",
                 "DialogColor": 16514043,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 635,
-                "Title": "So what are these \"Oathbreakers?\"",
+                "Title": "那么，什么是 \"背誓者\"？",
                 "DialogColor": 15037160,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 639,
-                "Title": "Has anyone ventured in there before?",
+                "Title": "以前有人进去过吗？",
                 "DialogColor": 15537140,
                 "OptionType": 1
             }
@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 640,
-                "Title": "I've heard murmurs about a water situation?",
+                "Title": "我似乎听说有关于水汛的传言？",
                 "DialogColor": 16319470,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 643,
-                "Title": "Any types of special plants in there?",
+                "Title": "那里有什么特殊的植物吗？",
                 "DialogColor": 16384989,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I don't have anything to ask.",
+                "Title": "我没什么好问的。",
                 "DialogColor": 15739169,
                 "OptionType": 0
             }
@@ -97,9 +97,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Your efforts have aloowed us to re-open the paths of the dead.  While the Oathbreakers can be dangerous, there is much to learn and explore there.
-
-You can always come back to see if I have any work to do, or did you want to learn more about the Oathbreakers?",
+    "DialogText": "你的努力让我们得以重新打通亡者之路。虽然背誓者可能很危险，但那里有很多 值得学习和探索的东西。
+你可以随时回来看我是否有工作要做，或者你想了解更多关于背誓者的信息？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 228,

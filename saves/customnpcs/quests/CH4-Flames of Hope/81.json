@@ -5,9 +5,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Into the Dungeon III",
-    "Text": "Cromhes is waiting to talk to you.
+    "Text": "克罗米斯正等着和你交谈。
 
-You have found Cromhes and driven off Brimigak, but at a terrible cost.",
+你找到了克罗米斯，赶走了布里米加克，但 却付出了惨痛的代价。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -42,6 +42,6 @@ You have found Cromhes and driven off Brimigak, but at a terrible cost.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Cromhes speaks through choking sobs, 'No, no…Layles!'",
+    "CompleteText": "克罗米斯哽咽着说：不，不......莱 尔斯！",
     "NextQuestTitle": "Into the Dungeon IV"
 }

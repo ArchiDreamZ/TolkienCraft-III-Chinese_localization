@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 202,
-                "Title": "So what’s next?",
+                "Title": "那么下一步是什么？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think I will ponder on what’s going on here for a bit.",
+                "Title": "我想我会思考一下这里到底发生了什么。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,8 +50,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "As for the matter of the dragon, it would appear that although the ritual was partially successful, the dragon-wight is not fully under the control of Drugoth. It still presents a threat to Rivendell, but not so great as would have been had the ritual been completed.
-For now, we can turn our attention to other matters.",
+    "DialogText": "至于尸龙的问题，虽然仪式取得了部分成功，但尸龙似乎并没有完全受到德鲁戈 斯的控制。它仍然对幽谷构成威胁，但没有完成仪式后那么大。
+现在，我们可以把注意力转移到其他事情上。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Dreulhara’s Trail II",
-    "Text": "Talacnun is at the Ranger-camp at Arnor on the eastern shore of the lake near Annúminas.
+    "Text": "塔拉克农就在阿尔诺的游民营地，安努米那 斯附近湖的东岸.
 
-Thurdan instructed you to go to the Ranger-camp in Arnor to speak with the Ranger Talacnun.",
+瑟尔丹指示你去阿尔诺的游民营地与游民塔 拉克农交谈。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,7 +50,7 @@ Thurdan instructed you to go to the Ranger-camp in Arnor to speak with the Range
             }
         ]
     },
-    "CompleteText": "Thurdan and Cromhes sent you, did they?",
+    "CompleteText": "瑟尔丹和克罗米斯派你来的，是吗？",
     "NextQuestTitle": "",
     "QuestLocation": "Arnor Camp"
 }

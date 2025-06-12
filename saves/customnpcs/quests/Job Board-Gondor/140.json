@@ -5,7 +5,7 @@
     "QuestRepeat": 2,
     "QuestCompletion": 1,
     "Title": "Cloth Weaver III",
-    "Text": "Collect fine cloth from the weaver.",
+    "Text": "从织布工那里收集精美布匹。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,6 +50,6 @@
             }
         ]
     },
-    "CompleteText": "Collected fine cloth.",
+    "CompleteText": "收集好了精美布匹。",
     "NextQuestTitle": ""
 }

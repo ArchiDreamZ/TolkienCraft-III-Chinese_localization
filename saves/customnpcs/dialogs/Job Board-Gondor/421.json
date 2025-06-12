@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 422,
-                "Title": "Alright, what can I do to help?",
+                "Title": "好吧，我能帮上什么忙？",
                 "DialogColor": 391499,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "You might be right there, hope you are successful.",
+                "Title": "你可能是对的，希望你能成功。",
                 "DialogColor": 16538114,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Many of our people observe the tradition, yet most do not believe as we do. The Land of Draconis has long brought peace to these lands... a certain harmony even amidst trouble because the hope the Heroes from that land have brought. I can think of no better time to pay tribute than for keeping us from harm on this darkest day.",
+    "DialogText": "我们中的许多人都遵守传统，但大多数人的信仰与我们不同。天龙大地长久以来 让这些土地保持住和平……因为那片土地上的英雄们带来了希望，天龙大地即使 在麻烦中也能保持一定的和谐。在那些最黑暗的日子里，是他们让我们免受邪恶 的侵害，我想没有比这更好的时机向他们表达敬意了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

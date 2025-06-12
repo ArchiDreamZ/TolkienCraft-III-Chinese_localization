@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 544,
-                "Title": "Well, I guess I can’t disagree with you.",
+                "Title": "好吧，我想我不能不同意你的观点。",
                 "DialogColor": 392996,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think you should just head home where it’s safe!",
+                "Title": "我觉得你还是回家吧，那里很安全！",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Where did they come from? Why do they live in the Old Forest? I have so many questions, but whenever I ask them they only smile and have no direct answers for me!",
+    "DialogText": "他们从哪里来？他们为什么住在老林子？我有很多问题，但每次问他们，他们都 只是笑笑，没有直接回答我！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

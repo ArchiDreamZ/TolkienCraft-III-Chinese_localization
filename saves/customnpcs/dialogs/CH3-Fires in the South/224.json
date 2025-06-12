@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 225,
-                "Title": "Let’s hope this works!",
+                "Title": "希望这能奏效！",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I am not sure I want to go up against such ancient evil.",
+                "Title": "我不确定自己是否愿意与这种古老的恶魔作对。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Perhaps this heart has been of use to us however. It may be a clue to breaking the will of the watching-stones! I have placed a charm on you that should give you power of will over these Watchers and allow you to pass.  I would do so myself, but my spirit was broken long ago and I fear I no longer have the strength within.",
+    "DialogText": "也许这颗石心对我们有用。它可能是打破监视者雕像上的诅咒的线索！我在你身 上下了一道符咒，它能赋予你战胜这些监视者的意志力，让你顺利通过雕像群。 我自己也想这么做，但我的精神早已崩溃，恐怕再也没有足够的力量了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

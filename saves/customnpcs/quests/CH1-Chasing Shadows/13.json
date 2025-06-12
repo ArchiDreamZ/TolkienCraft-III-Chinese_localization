@@ -7,8 +7,8 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Wisdom of Lord Glorfindel II",
-    "Text": "The Ford of Bruinen is to the west of Imladris, at the bottom of the steeply-climbing slopes.
-Lord Glorfindel has given you an Elf-stone and has asked you to test its powers by holding it aloft on the banks of the Bruinen.",
+    "Text": "布茹伊能渡口位于伊姆拉缀斯的西面，在陡 峭的山坡底部。
+格罗芬德尔领主大人给了你一个精灵石，并 要求你在布茹伊能河畔高举它来测试它的力 量。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -37,8 +37,8 @@ Lord Glorfindel has given you an Elf-stone and has asked you to test its powers 
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Lord Glorfindel is in Imladris, high above the Bruinen and to the east, by the waterfall outside the Last Homely House.
-Glorfindel is waiting to speak with you upon your return from the Ford of Bruinen.",
+    "CompleteText": "格罗芬德尔领主大人位于伊姆拉缀斯，布茹 伊能河的高处，在东面的是最后家园外的瀑 布。
+格罗芬德尔正等着你从布茹伊能渡口回来后 与你交流。",
     "NextQuestTitle": "Wisdom of Lord Glorfindel III",
     "QuestLocation": "Bruinen Ford"
 }

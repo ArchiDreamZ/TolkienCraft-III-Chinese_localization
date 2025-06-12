@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Brimigak’s Fall II",
-    "Text": "With the light of Apostle, Cromhes has defeated Brimigak although the villain escaped before he could be completely defeated. You should speak with Cromhes to see what he would wish you to do.",
+    "Text": "有了使徒之光，克罗米斯打败了布里米加克， 而那个混蛋还没完全被杀死就逃走了。你应 该和克罗米斯谈谈，看看他希望你做些什么。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Brimigak the coward has escaped us…",
+    "CompleteText": "布里米加克这个懦夫逃脱了我们的追杀... ...",
     "NextQuestTitle": "",
     "QuestLocation": "Dwarven Ember Camp"
 }

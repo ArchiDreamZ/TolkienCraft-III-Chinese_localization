@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wish me luck then!",
+                "Title": "那就祝我好运吧！",
                 "DialogColor": 16521733,
                 "OptionType": 0
             }
@@ -40,8 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The only place left for her is Annúminas then, for it may be that the pedestal where once sat the palantír of Annúminas still stands. You should go to Arnor quickly and speak with Talacnun. He is at the Camp on the eastern shore.
-It is my dearest hope that we will meet again on a happier day, @p.",
+    "DialogText": "那么安努米那斯就是她唯一的目标了，因为安努米那斯曾经放置过帕蓝提尔的基 座可能还在。你应该迅速前往阿尔诺，与塔拉克农交谈。他就在东海岸的营地里。
+我最衷心地希望，我们能在一个更加幸福的日子里再次相见，@p。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

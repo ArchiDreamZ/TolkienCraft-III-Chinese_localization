@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I shall see what I can find.",
+                "Title": "我看看能找到什么。",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Their bodies, or what is left of their bones, are likely still within the caves under that wretched mountain. Bring back whatever you can find, I'd like to ensure they get a proper burial. The Paths of the Dead are far to the north of here.",
+    "DialogText": "他们的尸体，或者剩下的尸骨，很可能还在那座荒山下的洞穴里。把你们能找到 的东西都带回来，我希望他们能得到妥善的安葬。亡者之路远在这里的北面。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

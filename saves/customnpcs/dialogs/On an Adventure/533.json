@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 534,
-                "Title": "Yes I would actually, I hear Hobbits are not much for that type of activity.",
+                "Title": "是的，我会的，我听说霍比特人不太喜欢这种活动。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Very nice to hear, but I must get going.",
+                "Title": "很高兴听你这么说，不过我得走了。",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "One thing we hobbits take pride in is our families! I must confess that there are some families that have many sons and daughters. One family in particular, The Clayhangers, has a daughter that made an impression, for she was quite an adventurous sort...rather unusual for a hobbit, wouldn't you say?",
+    "DialogText": "我们霍比特人引以为豪的一件事就是我们的家庭！我必须承认，有些家族子孙众 多。其中有一个家族——克莱汉格家族——他们家的女儿给人留下了深刻的印象， 因为她是个非常喜欢冒险的人……对于霍比特人来说，这很不寻常，你说呢？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 187,

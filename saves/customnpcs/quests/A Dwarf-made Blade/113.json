@@ -6,11 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Forging a new Sword II",
-    "Text": "Threatened by Giles, a lackey of a brigand named Pierce, that he must provide him a sword or his family would be harmed, Lucious Warrer stole Thonrum's blade.
+    "Text": "吉尔斯是皮尔斯的手下，一条强盗的走狗， 他威胁卢修斯·沃勒必须为他提供一把剑， 否则他的家人就会受到伤害，所以卢修斯· 沃勒偷走了索恩鲁姆的剑。
 
-Thonrum Ironsword has agreed to forge a new blade for Lucious Warrer, but in exchange, Thonrum has given you three items to take to Lucious for him to repair. The dwarf said that if he likes Lucious’ work, he will call it even on the cost of the two swords he is having to make.
+索恩鲁姆·铁剑同意为卢修斯·沃勒锻造一 把新剑，但作为交换，索恩鲁姆给了你三件 东西，让你拿去给卢修斯修理。矮人说，如 果他喜欢卢修斯的作品，他就把他要做的两 把剑的费用算在一起。
 
-Lucious can repair the items you brought from Thonrum, but needs your help gathering the materials he needs. Iron ingots to repair the helm,  gather some rabbit hides for the shield and try to mine some rubies for the axe",
+卢修斯可以修理你从索恩鲁姆带来的物品， 但需要你帮忙收集他需要的材料。用铁锭修 复头盔，收集一些兔皮制作盾牌，尝试开采 一些红宝石制作斧头。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -127,6 +127,6 @@ Lucious can repair the items you brought from Thonrum, but needs your help gathe
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Oh, good you've returned! Here, gives me those things! While you were away, something terrible happened! Please, I need your help!",
+    "CompleteText": "你回来了真好！来，把那些东西给我。你不 在的时候，发生了一件可怕的事，求你了， 我需要你的帮助！",
     "NextQuestTitle": ""
 }

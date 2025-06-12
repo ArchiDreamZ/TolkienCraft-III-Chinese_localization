@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I would like to send a letter to someone please?",
+                "Title": "我想给某个人寄一封信，请问可以吗？",
                 "DialogColor": 16047170,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Nope, sorry, just passing through.",
+                "Title": "不，对不起，我只是路过。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Good day to you @p!  Anything I can do for you today?",
+    "DialogText": "你好，@p！今天有什么需要我帮忙的吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

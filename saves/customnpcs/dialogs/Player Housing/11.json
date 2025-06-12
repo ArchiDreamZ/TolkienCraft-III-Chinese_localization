@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 7,
-                "Title": "Thank you, I have more questions…",
+                "Title": "谢谢你，我还有更多问题要问……",
                 "DialogColor": 16315365,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are! At the front is a waypoint stone so you can, if you want to, set your waypoint to take you directly to the housing area. There is also a temple where you can visit the Nether, End and Deep Dark (for all your mining needs).  We have also set up a number of shops to help supply you with a number of basic goods to ease your stress while adventuring!  There is also a stable nearby so you can purchase a horse (the stable master MAY have other options **wink wink**). ",
+    "DialogText": "有！前方有一个路径传送门，如果你愿意，可以设置路径点来直接前往玩家居所 维度。里面有一座神庙，你可以前往下界、末地和漆黑世界（满足你的所有采矿 需求）。我们还设立了一些商铺，为你提供一些基本物品，减轻你在冒险时的压 力！市场附近还有一个马厩，你可以购买一匹马（马厩主人§l可能§r有其他 服务可以选择**眨眨眼**）。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

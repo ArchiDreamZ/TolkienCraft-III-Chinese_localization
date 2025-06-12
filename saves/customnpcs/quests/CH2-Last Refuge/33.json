@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Steps of Evil I",
-    "Text": "Upon hearing that the Nazgûl fled to Carn Dûm, Glóin told you some of the tale of that ancient fortress.
+    "Text": "听说那兹古尔逃到了卡恩督姆，格罗因告诉 了你一些关于那个古老要塞的故事。
 
-Carn Dûm is for to the north-west of Rivendell.
+卡恩督姆远在幽谷的西北方。
 
-Glóin thinks you may be able to learn what the Nazgûl's plan for Carn Dûm is by scouting the borders of that hall for any outlying camps. He warned you not to enter Carn Dûm itself, for it is guarded too strongly by dark things.",
+格罗因认为，你可以通过侦查那个堡垒边界 的任何外围营地，来了解那兹古尔的卡恩督 姆计划。他警告你不要进入卡恩督姆本身， 因为那里被黑暗势力把守得太严密了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,7 +40,7 @@ Glóin thinks you may be able to learn what the Nazgûl's plan for Carn Dûm is 
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "See what you can find in the camps near the bridge.",
+    "CompleteText": "看看你能在桥附近的营地里找到什么。",
     "NextQuestTitle": "Steps of Evil II",
     "QuestLocation": "Carn Dûm"
 }

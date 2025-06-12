@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 298,
-                "Title": "We will have our revenge...",
+                "Title": "我们会复仇的……",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Cromhes, I’m sorry...",
+                "Title": "克罗米斯，我很抱歉……",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Why did you allow Layles to come? I would sooner have dwelt there in torment for a thousand years, than to see my only daughter perish at the hands of that fell creature.",
+    "DialogText": "你为什么让莱尔斯来？我宁愿在那里受苦受难一千年，也不愿看到我唯一的女儿 死在那个堕落生物的手里。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 130,

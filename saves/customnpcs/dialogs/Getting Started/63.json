@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 64,
-                "Title": "I have been wandering of late, what has been happening?",
+                "Title": "我最近一直在徘徊，到底发生了什么事？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Good to see you but time for me to go.",
+                "Title": "很高兴见到你，但我该走了。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 15,
     "OptionFaction2Points": 100,
-    "DialogText": "It has been a long time @p.  I am glad you have come by in these perilous times.",
+    "DialogText": "好久不见，@p。很高兴你能在这危险的时刻赶过来。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

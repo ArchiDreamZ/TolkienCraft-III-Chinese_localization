@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Strategic Strike",
-    "Text": "The Wargs and the riders have been defeated. Now, it is time to destroy the training camp itself.
+    "Text": "座狼和奥克骑手们都已经被击败。现在，是 时候摧毁训练营这座建筑本身了。
 
-Orcs can be found at the edge of the forest, south-east of Lothlorien.
+奥克可以在洛丝罗瑞恩东南方的森林边缘找 到。
 
-Dolin Foebreaker wants you to return to their camp, but this time wishes you to dismantle the training walls the Warg-riders use to train.
+多林·碎敌者希望你返回他们的营地，但这 次希望你拆除座狼骑手用来训练的训练墙。
 ",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -65,6 +65,6 @@ Dolin Foebreaker wants you to return to their camp, but this time wishes you to 
             }
         ]
     },
-    "CompleteText": "With the walls destroyed, we will have little to fear from the Warg-riders.",
+    "CompleteText": "训练墙被摧毁后，我们就不用害怕座狼骑手 了。",
     "NextQuestTitle": ""
 }

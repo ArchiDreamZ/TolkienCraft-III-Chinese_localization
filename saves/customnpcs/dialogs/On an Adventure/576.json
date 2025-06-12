@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 577,
-                "Title": "Well, I would think you will think twice before doing that again.",
+                "Title": "好吧，我想你再这样做之前会三思而后行的。",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I could definitely think of better things to do.",
+                "Title": "我肯定能想到更好的办法。",
                 "DialogColor": 16128014,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I learned a valuable lesson, too: do not let folks read my book before it is quite finished! Tom did not mean any harm by it, but I do not want to risk losing any more of these pages in frightful places. Tracking down pages is quite a tiresome activity, wouldn't you say?",
+    "DialogText": "我也学到了宝贵的一课：在我的书完成之前，不要让别人读到它！汤姆并没有恶 意，但我不想再冒险把这些书页丢失在可怕的地方了。寻找书页是件令人厌烦的 事，你说呢？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

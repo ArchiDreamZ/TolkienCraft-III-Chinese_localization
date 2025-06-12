@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wish me luck!",
+                "Title": "祝我好运吧！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Venture north to the Paths of the Dead, find this city and remove any ruthless rune-stones around this pond that could corrupt the waters.",
+    "DialogText": "向北前往亡者之路，找到这座城市，并移除池塘周围可能会腐蚀池水的凶险符文 石。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

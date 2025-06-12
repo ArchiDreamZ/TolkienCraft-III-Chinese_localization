@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 46,
-                "Title": "Thank you, I have more questions…",
+                "Title": "谢谢你，我还有更多问题要问……",
                 "DialogColor": 16010050,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No one knows.  While the entry points these portals lead to are safe, in the sense that you will arrive on solid ground in an open area, the dangers within these lands is unknown, so prepare accordingly.",
+    "DialogText": "无人知晓。这些传送门通往的区域开始是安全的，因为你将被传送到开阔坚实的 地面，但那些土地上的危险是未知的，因此请做好相应的准备。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

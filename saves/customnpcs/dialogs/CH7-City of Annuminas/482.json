@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 483,
-                "Title": "Wait, are you even going to consider...",
+                "Title": "等等，你应该要考虑一下……",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, I’ll come back after you are done questioning.",
+                "Title": "好吧，等你问完话我再回来。",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Thurdan would ask me to abandon the city to Dreulhara, if it meant reclaiming the palantír from her? He does not know what he is saying! Cromhes always spoke well of this Elf, but now I must question his judgement.",
+    "DialogText": "瑟尔丹会要求我放弃这座城市，把它交给德鲁哈拉，如果想着要从她那里夺回帕 蓝提尔的话？他不知道自己在说什么！克罗米斯总是对这个精灵赞不绝口，但现 在我必须质疑他的判断力。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 170,

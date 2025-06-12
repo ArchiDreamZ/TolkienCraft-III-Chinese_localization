@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Missing Hobbit I",
-    "Text": "Ermengard Clayhanger may know where Petunia has gone.
+    "Text": "艾门加德·克莱汉格可能知道佩图尼亚去了 哪里。
 
-Adalbert is concerned that Petunia may be in danger inside The Old Forest.",
+阿德尔伯特担心佩图尼亚可能在老林子里遇 到了危险。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -58,7 +58,7 @@ Adalbert is concerned that Petunia may be in danger inside The Old Forest.",
             }
         ]
     },
-    "CompleteText": "You're right, I don't see Petunia anywhere.",
+    "CompleteText": "你是对的，我在哪儿都没找到佩图尼亚。",
     "NextQuestTitle": "",
     "QuestLocation": "Clayhanger House"
 }

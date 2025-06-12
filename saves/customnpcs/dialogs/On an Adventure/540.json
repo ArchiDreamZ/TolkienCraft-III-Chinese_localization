@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 541,
-                "Title": "Well, I guess I can’t disagree with you.",
+                "Title": "好吧，我想我不能不同意你的观点。",
                 "DialogColor": 3079950,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think you should just head home where it’s safe!",
+                "Title": "我觉得你还是回家吧，那里很安全！",
                 "DialogColor": 16655360,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "** Petunia brandishes her sword and shield. ** I made this sword from a branch, and rescued this shield from a wolf's den when the wolves were gone. I don't think any other Clayhanger would do those things, what do you think?",
+    "DialogText": "**佩图尼亚挥舞着她的剑和盾牌。**这把剑是我用树枝做的，这面盾是我在 狼群离开时从狼窝里救出来的。我不认为其他克莱汉格家族会做这些事，你觉得 呢？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

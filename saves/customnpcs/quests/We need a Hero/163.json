@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Adventure Lads II",
-    "Text": "Seek out Merovech Hornwood in Bucklebury.
+    "Text": "寻找雄鹿镇的梅洛维奇·角木。
 
-Merovech Hornwood resides in Brandy Hall at Bucklebury to the north-west of Bree",
+梅洛维奇·角木居住在布理西北部雄鹿镇的 白兰地厅。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -48,7 +48,7 @@ Merovech Hornwood resides in Brandy Hall at Bucklebury to the north-west of Bree
             }
         ]
     },
-    "CompleteText": "Wonderful!  I am so thrilled you decided to take me up on my offer @p!",
+    "CompleteText": "太好了！我很高兴你决定接受我的提议，冒 险家！",
     "NextQuestTitle": "",
     "QuestLocation": "Brandy Hall"
 }

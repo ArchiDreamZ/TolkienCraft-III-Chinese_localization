@@ -5,9 +5,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Knowledge of Giants II",
-    "Text": "One of the Giants, a creature of ancient days, was seen in the valley of the giants south of the High Moor, high above the Bruinen. Barachen reportedly saw the creature standing next to some mighty trees as he came south into the valley.
+    "Text": "在高沼地南面的巨人谷，布茹伊能河的高处， 人们看到了远古时代的一种生物——巨人。 据报道，当巴拉钦向南进入山谷时，他看到 这只怪物站在几棵参天大树旁。
 
-Barachen reported seeing one of the Onodrim somewhere in the Trollshaws, and Elladan thinks it possible that this creature might know something of the missing Nazgûl's whereabouts.",
+巴拉钦报告说，他在食人妖森林的某个地方 看到过一只欧诺德民，埃尔拉丹认为这只生 物可能知道失踪那兹古尔的下落。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -62,7 +62,7 @@ Barachen reported seeing one of the Onodrim somewhere in the Trollshaws, and Ell
             }
         ]
     },
-    "CompleteText": "The Giant attacked you? The tree-herders of old were peaceful and more wont to stand unnoticed among the trees than treat with strangers, with peace or violence.
-I do not know the meaning of these signs, @p. Our problems may be more far-reaching than I had supposed.",
+    "CompleteText": "巨人袭击了你？古时的牧树人都很平和，他 们更愿意站在树丛中不引人注意，而不是以 和平或暴力的方式对待陌生人。
+我不知道这些迹象的含义，冒险家。我们的 问题可能比我想象的还要深远。",
     "NextQuestTitle": ""
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 115,
-                "Title": "当然可以，弗罗多!",
+                "Title": "当然可以，弗罗多！",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "巴金斯生日 - 弗罗多 III",
+    "DialogTitle": "Baggins’ Birthday - Frodo III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "在那一刻，比尔博叔叔立刻成为了许多传奇故事的中心主题，这些故事越来越夸张。我知道他听到这些故事会乐不可支，但我自己无法去收集它们。下次你在夏尔时，你能替我去做这件事吗？",
+    "DialogText": "在那之后，比尔博叔叔立刻成为了许多传奇故事的中心主题，这些故事越来越夸 张。我知道他听到这些故事会乐不可支，但我自己无法去收集它们。下次你在夏 尔时，你能替我去做这件事吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

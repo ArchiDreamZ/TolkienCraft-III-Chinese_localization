@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 554,
-                "Title": "I just want to know what you like and dislike...",
+                "Title": "我只想知道你们喜欢什么，不喜欢什么……",
                 "DialogColor": 3210257,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Can you just answer a simple question?",
+                "Title": "你能回答一个简单的问题吗？",
                 "DialogColor": 16456454,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tom likes walking in the woods of an evening, and singing in the morning sun when the moon skips away, as would all who try it!",
+    "DialogText": "汤姆喜欢在傍晚的树林里散步，当月亮溜走的时候，喜欢在清晨的阳光下唱歌， 所有尝试过的人都会喜欢的！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 195,

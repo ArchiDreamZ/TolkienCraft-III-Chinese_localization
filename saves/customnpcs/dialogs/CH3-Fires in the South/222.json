@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 223,
-                "Title": "After all that hard work?",
+                "Title": "辛苦战斗得到它然后毁掉？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "So there’s a wasted trip...",
+                "Title": "那就白跑一趟了……",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I can bear it no longer! My apologies, friend, but the sense of this thing is too much likened to the terror of the Watchers. I cannot bear its presence. I will have this abomination destroyed immediately.",
+    "DialogText": "我再也无法忍受了！对不起，朋友，但这东西的感觉太像来自监视者的恐惧了。 我无法忍受它的存在。我想要立即摧毁这个可恶的东西。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 68,

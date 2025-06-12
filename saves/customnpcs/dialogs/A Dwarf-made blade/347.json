@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "锻造一把新剑 II",
+    "DialogTitle": "Forging a new sword II",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,11 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "**索恩鲁姆(Thonrum)停下来，陷入沉思片刻，然后继续说道。**,,,,
-
-事实上，我父亲几年前被土匪夺去了性命……我不希望任何人经历那样的事情……
-
-啊！把剑柄给我。我大概是变软弱了。我会打造这把剑，以确保他的家人安全，但他必须做点什么作为交换！",
+    "DialogText": "**索恩鲁姆停下来，陷入沉思片刻，然后继续说道。**
+事实上，我父亲几年前被土匪夺去了性命……我不希望任何人再次经历那样可怕 的事情……
+啊！把剑柄给我。我大概是变软弱了。我会打造这把剑，以确保他家人的安全， 但他必须做点什么作为交换！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

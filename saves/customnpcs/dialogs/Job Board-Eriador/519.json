@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 520,
-                "Title": "What do you plan to do?",
+                "Title": "你打算怎么做？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "When a craftsman, is it ever enough?",
+                "Title": "当一名工匠，这样就够了吗？",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have decided to craft a necklace for my Elf-maid, @p.  The feather I found is a fine addition, it is not yet enough.",
+    "DialogText": "我决定为我的精灵侍女制作一条项链，@p。我找到的羽毛是一个很好的补充， 但还不够。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 182,

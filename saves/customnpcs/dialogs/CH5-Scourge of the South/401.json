@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 400,
-                "Title": "Here are the other items.",
+                "Title": "下面是其他物品。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The sword has been reforged? Apostle it is named...yes I can feel the virtue within it.",
+    "DialogText": "这把剑被重新锻造过？它被命名为使徒……是的，我能感受到它的美。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 130,

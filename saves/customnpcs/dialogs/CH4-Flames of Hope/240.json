@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, I’ll let you work.",
+                "Title": "好吧，我会让你安心工作。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 239,
     "OptionFaction2Points": 100,
-    "DialogText": "I’ll be ready in just a moment, please be patient, this is delicate work.",
+    "DialogText": "我马上就好，请耐心等待，这是一项精细的工作。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

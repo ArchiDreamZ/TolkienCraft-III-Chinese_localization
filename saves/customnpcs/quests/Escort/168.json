@@ -7,7 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Lay of the land",
-    "Text": "Aragorn has requested to reach out to the various Scholars of Middle-earth before he continues since so much has changed since you last set foot in middle-earth.You should go check out the realestate agents, the stablemaster and the recorder to continue.",
+    "Text": "阿拉贡要求在继续旅途之前与中洲的各位学 者取得联系，因为自你上次踏足中土世界以 来发生了很多变化。
+
+你应该去查看一下地产商人、马厩主人和精 灵记录者的情况，然后再继续你的旅程。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -42,7 +44,9 @@
             }
         ]
     },
-    "CompleteText": "Wow, so much has changed!Return to Aragorn and see how things are now.",
+    "CompleteText": "哇，变化真大！
+
+返回阿拉贡身边，看看现在情况如何。",
     "NextQuestTitle": "",
     "QuestLocation": "Real Estate Broker"
 }

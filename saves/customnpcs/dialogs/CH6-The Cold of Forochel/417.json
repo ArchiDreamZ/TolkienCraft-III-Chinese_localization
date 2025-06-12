@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wish me well on this journey then.",
+                "Title": "那就祝我一路顺风吧。",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Return to Cromhes who has returned to Mitheithel and help him search for Nerea Aubertin and the palantír. I fear that only evil will come of these events.",
+    "DialogText": "回到米斯艾塞尔河营地的克罗米斯身边，帮助他寻找内雷亚·奥贝坦和帕蓝提尔。 我担心这些事件只会带来邪恶力量的眷顾。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

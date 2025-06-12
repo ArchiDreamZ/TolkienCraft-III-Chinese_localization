@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Hiding in the Dark",
-    "Text": "Elladan is at his camp of Thorenhad just north of the road following the North-western fork out of Rivendell.
+    "Text": "埃尔拉丹在他的索伦哈德营地，就在出幽谷 后的西北岔路口，路的北面。
 
-Elladan is waiting to hear what Glorfindel's beryl revealed: that the missing Nazgûl was never in any of the caves you searched.",
+埃尔拉丹正等着知晓格罗芬德尔的绿玉所揭 示的事实：失踪的那兹古尔根本不在你搜索 过的任何一个山洞里。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -101,6 +101,6 @@ Elladan is waiting to hear what Glorfindel's beryl revealed: that the missing Na
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "You have done as I asked, @p, and for that I am grateful. Nay, do not frown so! Had you not searched the caves, we could never be sure that the Nazgûl was not hiding within, waiting for his time to strike anew. Now we have eliminated some of his possible hiding-places, and for that we should be pleased.",
+    "CompleteText": "你都按我说的做了，冒险家，为此我很感激。 不，请不要皱眉头！如果不是你搜查了洞穴， 我们永远无法确定那兹古尔是不是藏在里面， 等待时机再次发动袭击。现在，我们已经消 除了他的一些可能的藏身之处，为此我们应 该感到高兴才对。",
     "NextQuestTitle": ""
 }

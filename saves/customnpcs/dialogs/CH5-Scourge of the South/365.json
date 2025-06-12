@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 366,
-                "Title": "Is there anything to be done?",
+                "Title": "有什么需要做的吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, hopefully you can figure it out.",
+                "Title": "好吧，希望你能想明白。",
                 "DialogColor": 15346443,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have known Cromhes for many years, but never have I seen his spirit so broken. Though Layles' death was perhaps the final stone to be cast at his shattered heart, I sense there is something more dire at the root of his despair.",
+    "DialogText": "我认识克罗米斯多年，但从未见过他的精神如此崩溃。虽然莱尔斯的死也许是压 垮他心理防线上的最后一根稻草，但我感觉到他绝望的根源还可能是一些更可怕 的东西。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 118,

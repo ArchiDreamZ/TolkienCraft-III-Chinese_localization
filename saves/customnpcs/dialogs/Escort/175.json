@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 176,
-                "Title": "So I have heard, he had vague details though, what happened?",
+                "Title": "我听说了，但他对细节含糊其辞，到底发生了什么？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Actually, no, I hear my name being called...somewhere.",
+                "Title": "事实上，不，我听到有人在叫我的名字……在某个地方。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I am Ayduin. I have been trapped here for I don’t know how long, wounded and unable to make my way out past the goblins.",
+    "DialogText": "我是艾杜因。我被困在这里不知道有多久了，受了伤，无法越过半兽人逃出去。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 55,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "对话",
                 "DialogColor": 16456454,
                 "OptionType": 2
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I’ll take care of this one!",
+                "Title": "我来解决这个问题！",
                 "DialogColor": 16456454,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You can find him at his camp near the evil idol in the Chetwood. It is not hard to find, north of here.",
+    "DialogText": "你可以在切特森林中邪恶神像附近找到他。这并不难找，就在这里的北面。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

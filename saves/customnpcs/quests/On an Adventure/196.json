@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Making a New Friend IV",
-    "Text": "Tom Bombadil asked you to stand in the foam of the waterfall south of his house, if you want to learn about him.
+    "Text": "汤姆·邦巴迪尔让你站在他家南边瀑布的泡 沫中，如果你想了解他的话。
 
-You stood in the waterfall that Tom suggested, and should now see what you were supposed to have learned from the experience.",
+你站在汤姆建议去的瀑布中，现在应该看到 你能从这段经历中学到的东西。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ You stood in the waterfall that Tom suggested, and should now see what you were 
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Tom seems delighted.",
+    "CompleteText": "汤姆似乎很高兴。",
     "NextQuestTitle": "",
     "QuestLocation": "Mysterious Glade"
 }

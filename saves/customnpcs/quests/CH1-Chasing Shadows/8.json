@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Troubles of Rivendell",
-    "Text": "Aragorn has asked that you speak with Elrond concerning a matter of gravest import for Rivendell.",
+    "Text": "阿拉贡请你和埃尔隆德谈谈一件对幽谷至关 重要的事。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -42,7 +42,7 @@
             }
         ]
     },
-    "CompleteText": "The path you took to my doorstep has been perilous, @p, and its dangers all too common in these dark days. If you will consent to lend us your aid, it will not be the least of your challenges.",
+    "CompleteText": "你来到我家门口的路上危险，冒险家。而且 在这黑暗的日子里，危险太常见了。如果你 同意向我们伸出援手，这对你来说将会是不 小的挑战。",
     "NextQuestTitle": "",
     "QuestLocation": "Elrond’s Library"
 }

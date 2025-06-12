@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "See you soon.",
+                "Title": "回头见。",
                 "DialogColor": 16390404,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ah, I have gone on too long. Let me see that sword and shield. I will do what I can to help Cromhes. Come back after I have finished repairs.",
+    "DialogText": "啊，我说得太久了。让我看看那把剑和盾牌。我会尽我所能帮助克罗米斯。等我 修好了再回来。你可以先去古斯威奈那里转一圈再回来。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

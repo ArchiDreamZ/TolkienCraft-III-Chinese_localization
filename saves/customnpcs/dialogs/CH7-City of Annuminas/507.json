@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you, I will.",
+                "Title": "谢谢你，我会的。",
                 "DialogColor": 16525059,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There is a third way through the mountains. I will not speak of it here, but Aragorn will know the way of which I speak. Return to him with my misgivings.",
+    "DialogText": "还有第三条路可以穿过群山。我不会在这里说，但阿拉贡会知道我说的是那条路。 带着我的疑虑回到他身边。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

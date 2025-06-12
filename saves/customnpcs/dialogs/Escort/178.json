@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 179,
-                "Title": "To be honest, it’s the least I could do to rescue someone in need.",
+                "Title": "老实说，这是我最起码能做的事，拯救需要帮助的人。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I just received word!  Ayduin is safely back and on the mend, all thank to you!",
+    "DialogText": "我刚刚收到消息！艾杜因安全回来了，并且正在康复中，这一切都要感谢你！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

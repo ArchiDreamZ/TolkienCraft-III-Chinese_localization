@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Betan's Rescue",
-    "Text": "Betan Heudebrand, a Bree-land farmer, has been captured by marauding Orcs.
+    "Text": "布理地区的农民贝坦·海德布朗被前来劫掠 的奥克俘虏了。
 
-Betan Heudebrand has asked you to help him escape from the Orc camp.
+贝坦·海德布朗请求你帮助他逃离奥克营地。
 
-Kill any orcs nearby.",
+杀死附近的一切奥克。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -91,6 +91,6 @@ Kill any orcs nearby.",
             }
         ]
     },
-    "CompleteText": "I'm so thankful you rescued Betan!",
+    "CompleteText": "我非常感谢你救了贝坦！",
     "NextQuestTitle": ""
 }

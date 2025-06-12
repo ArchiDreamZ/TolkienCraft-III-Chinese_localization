@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Lost Manuscript II",
-    "Text": "Petunia Clayhanger was last seen standing along the banks of the Withywindle River.
+    "Text": "佩图尼亚·克莱汉格最后一次被人看到是她 站在柳条河畔。
 
-You should give Petunia the news that Tom has misplaced her manuscript.",
+你应该告诉佩图尼亚，汤姆把她的手稿放错 地方了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ You should give Petunia the news that Tom has misplaced her manuscript.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Tom has misplaced my manuscript?",
+    "CompleteText": "汤姆把我的手稿放错地方了？",
     "NextQuestTitle": "",
     "QuestLocation": "Find Petunia"
 }

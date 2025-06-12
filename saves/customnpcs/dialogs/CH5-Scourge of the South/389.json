@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 390,
-                "Title": "Yes, the battle and results were...difficult to handle.",
+                "Title": "是的，这场战斗和最终的结果都……让人难以承受。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It pleases me to know that he lives, but it grieves me that this False King was able to break him so.",
+    "DialogText": "我很高兴知道他还活着，但我也很悲痛，这个伪王竟能如此残害他。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 126,

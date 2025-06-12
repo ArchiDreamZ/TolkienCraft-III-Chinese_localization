@@ -6,11 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Rekindling Hope I",
-    "Text": "You managed to recover Cromhes' equipment, but as Thurdan pointed out to you, the gear was corroded and decayed beyond use.
+    "Text": "你设法找回了克罗米斯的装备，但正如瑟尔 丹向你指出的那样，这些装备已经生锈和腐 烂，无法使用。
 
-Guthwine is at Mitheithel in the South Downs, far to the south and west of Rivendell.
+古斯威奈现在就在南岗的米斯艾塞尔河营地， 远在幽谷的西南面。
 
-Thurdan instructed you to take Cromhes' equipment to the Ranger Guthwine to be repaired.",
+瑟尔丹指示你把克罗米斯的装备送到游民古 斯威奈那里去进行修理。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -105,6 +105,6 @@ Thurdan instructed you to take Cromhes' equipment to the Ranger Guthwine to be r
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Cromhes’ equipment? I will help however I can.",
+    "CompleteText": "克罗米斯的装备？我会尽我所能提供帮助。",
     "NextQuestTitle": ""
 }

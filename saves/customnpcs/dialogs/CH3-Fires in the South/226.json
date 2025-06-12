@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 227,
-                "Title": "Where do we go from here?",
+                "Title": "我们该何去何从？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Yeah, neither could I, that was rough.",
+                "Title": "是啊，我也不行，太难受了。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You have proven that such stones can be defeated, that their power of oppression is only as great as you allow it! Unfortunately, my spirit has been broken for far too long...I do not believe I could pass the stones and bear their fear.",
+    "DialogText": "你已经证明，这样的石像是可以被打败的，它们的压迫力只有在一定范围内才是 最大的！不幸的是，我的精神已经崩溃太久了……我不相信我能通过这些石头， 承受来自它们的恐惧。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

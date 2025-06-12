@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Bilbo I",
-    "Text": "Tell the stories you've collected to Bilbo Baggins for his amusement.",
+    "Text": "把你收集到的故事讲给比尔博·巴金斯听一 听，让他开心。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -73,6 +73,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Why hello @p! Many salutations I'm sure. And what has brought you here to me on this fine day?",
+    "CompleteText": "你好，冒险家！我向你致以崇高的敬意。在 这美好的一天，是什么让你来到这里？",
     "NextQuestTitle": ""
 }

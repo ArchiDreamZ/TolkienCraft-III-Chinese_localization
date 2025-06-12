@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Return of Knowledge",
-    "Text": "The library called Katûb-zahar indicated by Dwalthal Hammerbeard is located north of the First Hall.
+    "Text": "德瓦萨·锤须表示的卡图扎哈图书馆位于第 一大厅的北面。
 
-You should search the ancient libraries of Khazad-dûm for the ancient tome.",
+你应该到卡扎督姆的古代图书馆去寻找这本 古籍。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -75,6 +75,6 @@ You should search the ancient libraries of Khazad-dûm for the ancient tome.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Alas! The years and the foul vermin infesting Khazad-dûm have been most unkind",
+    "CompleteText": "唉！岁月不饶人，卡扎督姆身上的臭虫也太 不友善了。",
     "NextQuestTitle": ""
 }

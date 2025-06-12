@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Look for my return...",
+                "Title": "等我回来…",
                 "DialogColor": 16720896,
                 "OptionType": 0
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 634,
-                "Title": "Do you have anything else?",
+                "Title": "你还有什么要说的吗？",
                 "DialogColor": 16250871,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Kamkhe Mit is within the Paths of the Dead, far north of here. Venture within and quiet any Restless Dead you encounter within.",
+    "DialogText": "卡姆赫·米特就在亡者之路，在这里的最北边。深入其中，让你遇到的任何不眠 亡者都安静下来。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 617,
-                "Title": "Anything I can do to help?",
+                "Title": "我能帮上什么忙吗？",
                 "DialogColor": 16711163,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Good luck on that task",
+                "Title": "祝你顺利完成任务。",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Aye, but some of the most important repairs we have still to do.  Take this great wheel here.  It is needed to help make the water flow, but long before we got here it looks to have been damaged and must be repaired.",
+    "DialogText": "是的，但我们还得做一些最重要的维修工作。就拿这个大轮子来说吧。我们需要 它来帮助让水重新流动起来，但早在我们来之前，它就已经损坏了，必须得修复。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

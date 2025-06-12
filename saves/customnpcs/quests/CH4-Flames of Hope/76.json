@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Dwarven Craftsman I",
-    "Text": "Dain II is at Erebor in Rhovanion.
+    "Text": "戴因二世现在就在罗瓦尼安的埃瑞博山。
 
-Elrond transcribed the scroll into Westron, but told you to seek the aid of Dain II and the dwarves of Erebor in forging the pass-key to the dungeons of Moria.",
+埃尔隆德将卷轴翻译成了西部语，但让你去 寻求戴因二世和埃瑞博山矮人的帮助，锻造 进入墨瑞亚矿坑的钥匙。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -75,6 +75,6 @@ Elrond transcribed the scroll into Westron, but told you to seek the aid of Dain
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Greetings, @p! You have come from Elrond of Rivendell? Then you will have the aid of Durin's Folk. Let me see that scroll....",
+    "CompleteText": "你好，冒险家！你从幽谷的埃尔隆德那里而 来？那你就拥有了都林之民的帮助。让我看 看这幅卷轴……",
     "NextQuestTitle": ""
 }

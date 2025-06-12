@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 567,
-                "Title": "So shall we go?",
+                "Title": "那么，我们走吧？",
                 "DialogColor": 16579318,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "So, we really should not ever speak of the waterfall and dancing again.",
+                "Title": "所以，我们真的不应该再提瀑布和舞蹈了。",
                 "DialogColor": 16590338,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I still cannot believe that you actually stood underneath a waterfall and danced with a malevolent tree on my behalf, @p. You are a good friend, and I am glad that you are helping me on this journey!",
+    "DialogText": "我仍然不敢相信，你真的站在瀑布下，代表我和一棵狰狞的树跳舞，@p。你是 我的好朋友，我很高兴你能在这段旅程中帮助我！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 489,
-                "Title": "Wait, could that be?!",
+                "Title": "等等，会是那个吗？！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Very nice, hope the rest of the battle goes well for you then.",
+                "Title": "很好，希望你接下来的战斗一切顺利。",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Aye they have, though while we have been successful in holding Dreulhara back, I am not sure we will be able to take back Annuminas soon.  I do know why you have come, and you can thank the stars for your good fortune.  You see, during one of the battles across the water, one of my rangers came across that chest you see over there.  The location was in the very room Dreulhara claimed as her throne room!",
+    "DialogText": "是的，虽然我们成功地击退了德鲁哈拉，但我不确定我们能否很快夺回安努米那 斯。我知道你为何而来，你可以感谢群星给你带来的好运气。你看，在对岸的一 次战斗中，我的一个游民发现了你看到的那个箱子。地点就在德鲁哈拉的王座大 厅里！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

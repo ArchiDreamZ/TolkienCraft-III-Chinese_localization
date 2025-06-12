@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 493,
-                "Title": "(You tell him of what has transpired at Annuminas with Wynton)",
+                "Title": "(你告诉他关于温顿在安努米那斯发生的事。）",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Actually, I was just checking, hypothetically speaking of course.",
+                "Title": "事实上，我只是想确认一下，当然是假设性的。",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Yes, I do have an item that can safely transport a palantír but why would you need such a device?",
+    "DialogText": "是的，我确实有一个可以安全运送帕蓝提尔的装置，但你为什么需要这样一个装 置呢？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 172,

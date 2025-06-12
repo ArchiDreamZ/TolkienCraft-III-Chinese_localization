@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 53,
-                "Title": "Something’s wrong with my adventure log. (Reload BQ Quests)",
+                "Title": "我的冒险日志出了问题。(重载BQ任务）",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 54,
-                "Title": "I seem to have misplaced my tome of knowledge. (Give new quest book)",
+                "Title": "我好像把我的知识宝典弄丢了。(给新的任务书）",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 55,
-                "Title": "I did not have any items to start my journey. (Give player starting inventory, this is a one-time use request)",
+                "Title": "我没有任何物品来开始我的旅程。(给玩家提供初始物品，这是一次性使用请求。）",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 56,
-                "Title": "I can not complete my journey. (BQ in Edit mode)",
+                "Title": "我无法完成我的旅程任务。(编辑模式下的BQ）",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 58,
-                "Title": "Do you possibly have anything else you can help me with?",
+                "Title": "你还有什么可以帮我的吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you, but I decided I don’t need anything quite yet.",
+                "Title": "谢谢你，但我觉得我现在还不需要帮助。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -97,7 +97,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Mani uma lle merna amin a’ lle, What do you want me to do?",
+    "DialogText": "Maniumallemernaamina’lle，你想让我做什么？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

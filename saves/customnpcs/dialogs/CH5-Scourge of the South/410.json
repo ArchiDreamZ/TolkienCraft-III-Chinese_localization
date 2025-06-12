@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 411,
-                "Title": "Oh I know who that is...",
+                "Title": "哦，我知道那是谁了…",
                 "DialogColor": 3145231,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "This victory is an important one, though not as complete as I had at first hoped. However even this victory will give us a brief reprieve from the onslaught of the Enemy. I would ask that news of our success be brought to my chieftain, Aragorn, son of Arathorn.",
+    "DialogText": "这是一次重要的胜利，尽管并不像我最初希望的那样彻底。不过，即使是这场不 彻底的胜利，也能让我们暂时摆脱敌人的进攻势头。我请求你将我们的胜利消息 带给我的领袖阿拉贡，阿拉松之子。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 131,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 439,
-                "Title": "Where does she request the meeting there?",
+                "Title": "她要求在哪里会面？",
                 "DialogColor": 261175,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "...And I think I like that tone even less...",
+                "Title": "……我觉得我更不喜欢这种语气了……",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I discovered this note in Carn Dûm, left seemingly by her. She requests your presence in Forochel. What it is that she wishes of you, I cannot imagine. I suggest that you go and find out, but tread lightly and with your hand on your weapon. If she seeks you at Forochel, the place where one of those palantír were found, she is not to be trusted.",
+    "DialogText": "我在卡恩督姆那里发现了这张纸条，似乎是她留下的。她要求你前往佛洛赫尔。 她希望你做什么，我无法想象得到。我建议你去一探究竟，但要轻装上阵，手中 紧握武器，方便随时撤退和抵抗。如果她在佛洛赫尔中的某个发现过帕蓝提尔的 地方找你，那么她就不可信。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

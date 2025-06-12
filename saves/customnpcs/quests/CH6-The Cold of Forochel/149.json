@@ -7,13 +7,13 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Cromhes’ Request - Lone-lands II",
-    "Text": "Cromhes is concerned that Brimigak's Knights will be taken into Dreulhara's service.
+    "Text": "克罗米斯担心布里米加克的骑士团会为德鲁 哈拉效力。
 
-Cromhes has asked you to return to three places where Nerea Aubertin has been encountered in the past and speak with allies in those places.
+克罗米斯要求你回到过去曾遇到过内雷亚· 奥贝坦的三个地方，并与这些地方的盟友交 谈。
 
-Aeschreas the Stout is at Hoarwell, north and west of the woods.
+侦察员埃斯赫雷斯就在苍泉河营地中的木头 要塞，食人妖森林的西北边。
 
-Having defeated the Knight of Brimigak, you should return to Aeschreas the Stout and let him know of your success.",
+打败布里米加克的骑士，你应该回到侦察员 埃斯赫雷斯那里，让他知道你成功了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -54,7 +54,7 @@ Having defeated the Knight of Brimigak, you should return to Aeschreas the Stout
             }
         ]
     },
-    "CompleteText": "Thank you for helping us.",
+    "CompleteText": "感谢你帮助我们。",
     "NextQuestTitle": "",
     "QuestLocation": "Lone Lands"
 }

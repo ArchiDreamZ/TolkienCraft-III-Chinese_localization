@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 642,
-                "Title": "Anything I can do?",
+                "Title": "我能帮上什么忙吗？",
                 "DialogColor": 4979469,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Hope you find a good work-around...",
+                "Title": "希望你能找到一个好的解决方法……",
                 "DialogColor": 16521733,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If those waters were to find their way into the Morthrond the entirety of this region would be irrevocably harmed.",
+    "DialogText": "如果这些水进入墨松德河，整个地区将受到不可挽回的损害。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": 231,
     "AvailabilityQuest2Id": 228,

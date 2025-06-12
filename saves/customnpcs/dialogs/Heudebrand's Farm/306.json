@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 307,
-                "Title": "Really?  I’ll go make sure that’s not a problem.",
+                "Title": "真的吗？ 我去看看有没有问题。",
                 "DialogColor": 2160927,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Hmmm, I think my sword needs sharpening first.",
+                "Title": "嗯，我想我的剑需要先磨一磨。",
                 "DialogColor": 12728341,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "He said he can't sleep, thinking about those accursed Orcs what ambushed him up the Greenway. When he was captured, he said a giant Orc came over to torment him from a camp to the west of the place he was being held, the one behind a wooden stockade. He says the other Orcs called this monster Tristan Storm. Betan says he must have his revenge on Tristan Storm and will be glad to give you what coins he can spare if you can put him to heel.",
+    "DialogText": "他说他无法入睡，因为他想到了那些埋伏在绿大道上的可恶奥克。他说，当他被 俘时，一个巨大奥克从他被关押的地方西边的一个营地过来折磨他，那个营地就 在一个木头栅栏后面。他说另一个奥克人称这个怪物为崔斯坦·风暴。贝坦说他 一定要向崔斯坦·风暴报仇，如果你能把他制服，他会很乐意给你他能付出的金 币。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

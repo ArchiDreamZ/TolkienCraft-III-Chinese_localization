@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 612,
-                "Title": "How will that happen?",
+                "Title": "如何实现？",
                 "DialogColor": 16645883,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Glad you have things well in hand.",
+                "Title": "很高兴你一切都很顺利。",
                 "DialogColor": 16648961,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The arrows you have brought to me will have a second chance at slaying Orcs, @p, but their chance will come nearer to the entrance to Moria, from which the Orcs pour into our forest.",
+    "DialogText": "你带给我的箭将有第二次机会射杀奥克，@p，但它们的实现机会将会在靠近墨 瑞亚的入口，半兽人就是从那里涌入我们的森林。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 218,

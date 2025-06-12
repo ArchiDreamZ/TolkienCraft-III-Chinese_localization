@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 556,
-                "Title": "Can you at least tell me where you come from?",
+                "Title": "你能至少告诉我你来自哪里吗？",
                 "DialogColor": 3079950,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Yeah, now I have to go change clothes...",
+                "Title": "是啊，现在我得去换衣服了……",
                 "DialogColor": 16336394,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Sopping wet you are, like Tom after a fresh rain in Spring! Dripping all about, but refreshed and happy? Learn from old Tom, for he has seen summers and winters and summers again, one for every droplet that cascades from the heights!",
+    "DialogText": "你湿漉漉的，就像春雨过后的汤姆！浑身湿漉漉的，但神清气爽，心情愉快？向 老汤姆学习吧，因为他经历过夏天、冬天和夏天，每一滴水珠都是从高处落下的！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 197,

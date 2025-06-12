@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I shall seek Gandalf out then.",
+                "Title": "那我就去找甘道夫。",
                 "DialogColor": 16322053,
                 "OptionType": 0
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Gandalf the Grey, upstairs here in the Last Homely House here in Rivendell, should be informed of the actions of this Nerea Aubertin.
-
-The theft of a palantír is no small matter, @p. Few have knowledge of them; fewer still can use them with purpose and accuracy. If this Aubertin is one of those few, her designs on such a powerful item bode very ill.",
+    "DialogText": "灰袍甘道夫，正好就在这里的楼上，应该被告知这个内雷亚·奥贝坦的行动。
+偷窃帕蓝提尔可不是一件小事，@p。知道它们的人寥寥无几，能够有目的并且 准确地使用它们的人更是少之又少。如果这个奥贝坦是这少数人之一，那么她对 如此强大物品的谋划就是个非常坏的兆头。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

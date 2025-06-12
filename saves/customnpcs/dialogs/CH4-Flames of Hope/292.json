@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 293,
-                "Title": "So where is it now?",
+                "Title": "那么它现在在哪里？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me get back to you on this.",
+                "Title": "我回头再跟你说。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "To work with mithril, you need a special hammer. So special, in fact, that we only ever had one here in Erebor: Thrór's Hammer, the hammer of Thorin's grandfather, which Thráin brought here! Of course, since we never had any mithril to work, we never used it.",
+    "DialogText": "要加工秘银，你需要一把特殊的锤子。事实上，我们埃瑞博山只有一把这样特别 的锤子：瑟罗尔之锤，这是梭林祖父的锤子，瑟莱因把它带到了这里！当然，因 为我们从来没有秘银能用来锻造，所以我们从来没有用过它。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 85,

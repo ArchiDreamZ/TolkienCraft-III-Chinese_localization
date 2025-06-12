@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 84,
-                "Title": "什么样的记号？",
+                "Title": "什么样的痕迹？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "狩猎戒灵不在我的工作范围之内。",
+                "Title": "狩猎那兹古尔不在我的工作范围之内。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "格罗芬德尔领主的智慧 V",
+    "DialogTitle": "Wisdom of Lord Glorfindel V",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你从埃尔拉丹带来了不幸的消息，但并非完全没有预料到。我担心并非所有戒灵都被布茹伊能河击败。这个敌人的仆从会在荒野上留下记号--他可能已经留下了--我们可以利用记号追踪他。",
+    "DialogText": "你从埃尔拉丹带来了不幸的消息，但并非完全没有预料到。我担心并非所有那兹 古尔都被布茹伊能河击败。这个敌人的仆从会在荒野上留下痕迹——他可能已经 留下了——我们可以利用痕迹追踪他。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 14,

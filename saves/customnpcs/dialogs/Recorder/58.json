@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 52,
-                "Title": "On second thought, I need something different.",
+                "Title": "转念一想，我需要一些与众不同的东西。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 60,
-                "Title": "I seem to have angered some friends and need your help. (Reset Friendly NPC factions)",
+                "Title": "我似乎惹怒了一些朋友，需要你的帮助。(重置友好的 NPC 派系）",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 61,
-                "Title": "Some of my enemies seem to have become my friends. (Reset boss faction)",
+                "Title": "我的一些敌人似乎成为了我的朋友。（重置敌人派系）",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 57,
-                "Title": "Glorfindel does not want to help me. (Beryl Missing)",
+                "Title": "格罗芬德尔不想帮我。(绿玉失踪)",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 62,
-                "Title": "**Placeholder**",
+                "Title": "**占位符**",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you, but I realized I don’t need anything right now.",
+                "Title": "谢谢，但我想我现在什么都不需要。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -97,7 +97,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I am always recording new information to help you out @p. Let’s see what else I have here to help.",
+    "DialogText": "我一直在记录新的信息来帮助你，@p。看看我这里还有什么可以帮到你的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

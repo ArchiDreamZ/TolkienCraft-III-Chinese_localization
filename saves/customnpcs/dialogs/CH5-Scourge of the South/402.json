@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 403,
-                "Title": "Here is your sword as well.",
+                "Title": "你的剑也在这里。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "My mail shirt? I thought it lost forever! And this shield, it is not mine, but it is a thing of wondrous beauty.",
+    "DialogText": "我的盔甲？我以为它永远消失了！还有这面盾牌，虽然不是我的，但也美得不可 思议。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 129,

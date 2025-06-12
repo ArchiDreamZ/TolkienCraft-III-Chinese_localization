@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 370,
-                "Title": "That fills my heart with joy, Lord Elrond.",
+                "Title": "这让我内心充满喜悦，埃尔隆德领主。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "As always, Castien's mastery shows forth in the work of his hand. This sword shall henceforth be known as \"Apostle,\" Hope of Vengeance, for it shall avenge the death of Layles, daughter of Cromhes.",
+    "DialogText": "一如既往，卡西迪恩的高超技艺在他的作品中展露无遗。从今以后，这把剑将被 称为“使徒”，意味复仇的希望！因为它将为克罗米斯的女儿莱尔斯报仇雪恨。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 127,

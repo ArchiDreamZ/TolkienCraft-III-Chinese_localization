@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 464,
-                "Title": "What do we do to stop her?",
+                "Title": "我们该怎么做才能阻止她？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Now you know what’s going on, good luck!",
+                "Title": "现在你知道是怎么回事了吧，祝你好运！",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -57,9 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There must be more than we thought to the growing presence of the Angmarim then. I am glad then that they have sent a proven hero to help.
-
-The Angmarim presence in Annúminas is most disturbing, and hearing the news you brought me, I think that is the best place to search for Dreulhara. She cannot yet have gone too deep into the ruined city, and we cannot let her go any further.",
+    "DialogText": "那么，安格玛人的出现数量肯定比我们想象的要多，我很高兴他们派出了一位久 经考验的英雄来帮忙。
+安格玛人在安努米那斯的出现最令人不安，听到你带给我的消息，我认为那是寻 找德鲁哈拉的最佳地点。她还没有深入城市废墟，我们不能让她再往前走了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 156,

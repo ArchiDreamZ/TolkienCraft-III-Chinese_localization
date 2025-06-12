@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Adventure Lads VI",
-    "Text": "Merovech Hornwood has asked us to search Fornost for a possible hidden treasure in a maybe hidden chamber in the sewers below.
+    "Text": "梅洛维奇·角木让我们在佛诺斯特的下水道 寻找一个可能隐藏的密室，里面可能隐藏着 宝藏。
 
-Time to show Merovech what you found.",
+是时候让梅洛维奇看看你的发现了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -92,6 +92,6 @@ Time to show Merovech what you found.",
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "Well done @p!  You have made this tired hobbit very happy today!",
+    "CompleteText": "干得好，冒险家！你让这个疲惫的霍比特人 今天非常开心！",
     "NextQuestTitle": ""
 }

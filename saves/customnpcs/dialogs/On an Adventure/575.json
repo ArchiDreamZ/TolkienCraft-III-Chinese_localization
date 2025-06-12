@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 576,
-                "Title": "Glad I can ease your worries then.",
+                "Title": "很高兴能帮你分忧。",
                 "DialogColor": 16579318,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I can tell...",
+                "Title": "我可以告诉…",
                 "DialogColor": 16388360,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are only so many ways I can convey how unhappy I was to be missing those pages!",
+    "DialogText": "我只能用这么多的方式来表达我错过这些书页是多么不开心！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 210,

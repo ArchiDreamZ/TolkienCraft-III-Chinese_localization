@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, let me get my gear.",
+                "Title": "好吧，让我去拿我的装备。",
                 "DialogColor": 16459782,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tell me when you are ready to wish them well. ",
+    "DialogText": "准备好祝福他们的时候，告诉我一声。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

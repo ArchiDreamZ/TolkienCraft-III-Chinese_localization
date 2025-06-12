@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 613,
-                "Title": "Sure, I can play delivery person.",
+                "Title": "当然，我可以扮演送货员。",
                 "DialogColor": 1637911,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe get one of your runners to do it?",
+                "Title": "也许可以让你的一个下属来做？",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "My friend Mythanar journeyed to the outpost to the south-west, near to the entrance to Moria. He will be able to make use of these arrows if you bring them to him with all speed.",
+    "DialogText": "我的朋友米塔纳尔正在前往西南方的前哨，靠近墨瑞亚的入口。如果你能尽快把 这些箭带给他，他就能使用它们。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

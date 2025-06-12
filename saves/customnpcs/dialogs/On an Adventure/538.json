@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Shouldn't be too hard.",
+                "Title": "应该不会太难。",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If you're going to track her down in the Old Forest, you'll need to deal with all those at some point!",
+    "DialogText": "如果你要在老林子中找到她，你需要在某个时候处理所有这些问题！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

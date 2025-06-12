@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 321,
-                "Title": "I know, saw your listing on the board.",
+                "Title": "我知道，我在留言板上看到了你的留言。",
                 "DialogColor": 3079950,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Changed my mind, thank you.",
+                "Title": "我改变主意了，谢谢你。",
                 "DialogColor": 16669185,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ah @p I have heard about you!  I could use someone with your skills for a task I was advertising.  Interested?",
+    "DialogText": "啊，@p，我听说过你！我有一项任务需要你这样的人才，我正在做宣传。你有 兴趣吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

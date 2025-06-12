@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, I’ll be back in a bit then.",
+                "Title": "好吧，那我一会儿就回来。",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "He is a mischievous sort, and loves to laugh. He will ask you to stand beneath a waterfall only to experience the feel of the water, and the joy of dripping on the carpet. He is the Master of water, wood, and hill, and cares for all who inhabit those places, even if their hearts are rotten and mean. He seeks to lighten their moods, and ease their pains.
-
-But that is a long answer. He is Tom Bombadil, and there is no one else like him.",
+    "DialogText": "他很调皮，喜欢笑。他会让你站在瀑布下，只为体验水的感觉和它滴在地毯上的 快乐。他是水、树木和山丘的主人，他关心所有居住在这些地方的人，即使他们 的心是腐朽和卑鄙的。他试图缓解他们的情绪，减轻他们的痛苦。
+但这是一个很长的答案。他就是汤姆·邦巴迪尔，无人能出其左右。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 444,
-                "Title": "That would certainly make sense.",
+                "Title": "这当然说得通。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, let me know how that goes.",
+                "Title": "好吧，让我知道进展如何了。",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I do not know who these \"Lords of Umbar\" are, but rumour has reached me that the Knights of Brimigak may be in the south. Perhaps it is they whom she spoke of.",
+    "DialogText": "我不知道这些“乌姆巴尔领主”是谁，但有传言说，布里米加克骑士团可能在南 方。也许她说的就是他们。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 145,

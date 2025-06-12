@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 151,
-                "Title": "你觉得发生了什么事呢？",
+                "Title": "你认为发生了什么事？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "贝尔巴·屠夫(Belba Butcher) II",
+    "DialogTitle": "Belba Butcher II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "据说有位精灵女王一直在教他种最大的土豆。比尔博大老远跑到精灵那里去学习知识，就是为了能在农民集市上从农夫玛格特(Maggot)那里抢走第一名的奖杯！",
+    "DialogText": "据说有位精灵女王一直在教他种最大的土豆。比尔博大老远跑到精灵那里去学习 知识，就是为了能在农民集市上从农夫玛格特那里抢走第一名的奖杯！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "勒弗罗伊·飞毛腿(Leufroy Swiftfoot) II",
+    "DialogTitle": "Leufroy Swiftfoot II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "她做的馅饼看起来总是美味无比，但我发誓她使用了[秘密配料]，即使是最坚定的食客也会被吓到！并不是我嫉妒，注意了。我的馅饼总是排在第二，我心安理得，因为它们只是用最好的水果做的，没有我听说的任何新花样，不像我所知道的[某些人]，我的馅饼对我来说够好了... 抱歉，我在说什么？对了！比尔博先生。,,,
-
-就我所知，霍利(Holly)正在尝试偷偷加入从农夫玛格特(Maggot)的田地里偷来的蘑菇粉！如果你问一问这附近的年轻人，他们曾偷偷进入玛格特(Maggot)的田地并尝了一些蘑菇粉，你就会知道它们有一些非常奇怪的效果！",
+    "DialogText": "她做的馅饼看起来总是美味无比，但我发誓她使用了‘秘密配料’，即使是最坚 定的食客也会被吓到！并不是我嫉妒，注意了。我的馅饼总是排在第二，我心安 理得，因为它们只是用最好的水果做的，没有我听说的任何新花样，不像我所知 道的§l某些人§r，我的馅饼对我来说够好了…抱歉，我在说什么？对了！比 尔博先生。
+据我所知，霍利正在尝试偷偷加入从农夫玛格特田地里偷来的蘑菇粉！如果你问 一问这附近的年轻人，他们曾偷偷进入玛格特的田地并尝了一些蘑菇粉，你就会 知道蘑菇粉有一些非常奇怪的效果！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

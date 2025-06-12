@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 540,
-                "Title": "Or dangerous?  Aren’t you a little small to be out here in the forest alone?",
+                "Title": "你一个人在森林里是不是太小了？或者太危险了？ ",
                 "DialogColor": 16579834,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "At least you’ve been found, now you should head home before they get too worried.",
+                "Title": "至少你被找到了，现在你该回家了，免得他们太担心。",
                 "DialogColor": 16655360,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Do you know I never really believed I was a Clayhanger, @p? All of my brothers and sisters are so dull, happy to stay at home, as far from excitement as possible! Alicia might go dancing in the Toad Marsh, but when I suggested we walk to the Midgewater Marshes on the other side of Bree, and dance there, she refused! She threatened to tell our mother, so I did not push it. But isn't that dull?",
+    "DialogText": "你知道我从未真正相信自己是克莱汉格家族的一员吗？我所有的兄弟姐妹都很无 趣，乐于待在家里，尽可能远离刺激！艾莉西亚可能会去蛤蟆沼泽跳舞，但当我 建议我们去布理另一边的蚊水泽跳舞时，她拒绝了！她威胁说要告诉我们的妈妈， 所以我也就没再强求。但这不是很无聊吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 190,

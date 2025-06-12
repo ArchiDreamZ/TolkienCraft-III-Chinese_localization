@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 441,
-                "Title": "What makes you think I would be willing to help?",
+                "Title": "你凭什么认为我会愿意帮忙？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Favour?  Yeah, no.",
+                "Title": "喜欢？ 是的，没有",
                 "DialogColor": 16459782,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You have been such a great help to me during my travels. I know you have many questions. We will talk, but first I have one last favour to ask of you.",
+    "DialogText": "在我旅行期间，你给了我很大的帮助。我知道你有很多问题。我们会聊一聊的， 但首先我还有最后一个请求。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 142,

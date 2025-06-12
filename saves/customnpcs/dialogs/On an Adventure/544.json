@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I suppose it can’t hurt to try.  You wait here and I’ll come back.",
+                "Title": "我想试试也无妨。 你在这等着，我去去就来。",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Still, I am so very pleased to have met them. I wonder what my family would think of them.  I know, why don’t you go ask them some of my questions and come back and tell me the answers.",
+    "DialogText": "不过，我还是非常高兴能见到他们。不知道我的家人会怎么看他们。我知道，你 为什么不去问他们一些我的疑问，然后回来告诉我答案呢？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

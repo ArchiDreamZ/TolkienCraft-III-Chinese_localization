@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "对话",
                 "DialogColor": 523558,
                 "OptionType": 2
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will stop her!",
+                "Title": "我会阻止她的！",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -50,7 +50,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "After you cross the lake, speak to my men there and show them these tokens.  You can swim or use the boat, your choice.They will know you come in my stead and will help protect you while you are over there.",
+    "DialogText": "过了湖之后，和我的同伴谈谈，并把这些信物给他们看。
+你可以选择游泳或乘船。
+他们会知道你是代表我来的，并会在你去那里时帮助和保护你。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 631,
-                "Title": "So, how can I help?",
+                "Title": "那么，我能帮上什么忙呢？",
                 "DialogColor": 4783879,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sound interesting, but no...",
+                "Title": "听起来很有趣，但是没有…",
                 "DialogColor": 16386568,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Oath-breakers are a group of men from long past, cursed by Isuldur. These men, we call them the Restless Dead, refused to accept his offer and now stew within the tunnels and caves of the Paths of the Dead. They are beyond redemption. Though they cannot be killed, they can be quieted for a period.",
+    "DialogText": "背誓者是一群来自远古的人，受到伊熙尔杜的诅咒。这些人，我们称他们为不眠 亡者，拒绝接受伊熙尔杜的提议，现在停留在亡者之路的隧道和洞穴里。他们无 法得到救赎。虽然无法杀死它们，但可以让它们安静一段时间。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": 226,
     "AvailabilityQuest2Id": 228,

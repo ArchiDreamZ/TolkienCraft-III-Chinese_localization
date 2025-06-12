@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Return to Gundabad II",
-    "Text": "Glóin told you that the Nazgûl you are pursuing can be found in the old dwarf-fortress of Gundabad, in the company of Dugorim Dourhand. The two entered the nearly impregnable inner keep of the fortress. Glóin believes the only way to enter the inner keep is to learn its secret entrance.
+    "Text": "格罗因告诉你，你要找的那兹古尔可以在贡 达巴德山的古老矮人要塞找到，他和杜戈林 ·杜汉德在一起。两人进入了几乎坚不可摧 的要塞内城。格罗因相信，进入内堡的唯一 方法就是知道它的秘密入口。
 
-Glóin told you that to learn how to access the secret entrance to Gundabad's inner keep, you will need to take the plans for the fortress placed in its cornerstone.",
+格罗因告诉过你，要想知道如何进入贡达巴 德山内部的秘密入口，你需要拿到放置在基 石上的要塞图纸。要耐心，注意脚下！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -75,7 +75,7 @@ Glóin told you that to learn how to access the secret entrance to Gundabad's in
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Ah, wonderful, you found the cornerstone, and the plans were within. I didn't mention it before you left, but there was a very good chance the plans were taken or destroyed years ago. Yet it seems fortune is smiling upon us this day!
-Oh, and look here. Here's the inner keep's secret entrance!",
+    "CompleteText": "啊，太好了，你找到了基石，图纸也在里面。 你走之前我没告诉你，但图纸很有可能在几 年前就被拿走或毁掉了。看来今天幸运之神 还是眷顾我们的。
+哦，看这里。这就是要塞内部的秘密入口！",
     "NextQuestTitle": ""
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 230,
-                "Title": "Where are we going to get these?",
+                "Title": "我们从哪里弄到这些？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Not feeling like grocery shopping at the moment.",
+                "Title": "现在没心情买菜。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That we can forge this key, I have no doubt, but there are some items we will need before we can begin. Master Elrond's instructions say that we need mithril, but there is none to be had in Erebor. Also, we will need something to cast a mould from.",
+    "DialogText": "我们可以仿造这把钥匙，这一点我毫不怀疑，但在开始之前，我们还需要一些东 西。埃尔隆德大人的指示说我们需要秘银，但孤山没有。此外，我们还需要模具。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 78,

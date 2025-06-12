@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, good day to you then, safe travels...",
+                "Title": "好吧，那就祝你愉快，一路顺风……",
                 "DialogColor": 16394760,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Oh, this is not good.  I believe I was terribly mistaken.  That device should not exist and should be destroyed immediately! Please, I thank you for having gone through all of that danger, but I care not to ever see that item again!  We shall never speak on this matter evermore!",
+    "DialogText": "哦，情况不妙。我想我大错特错了。那个装置不应该存在，应该立即销毁！拜托， 我感谢你经历了那么多危险，但我不想再看到那个东西了！我们再也不要谈这件 事了！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

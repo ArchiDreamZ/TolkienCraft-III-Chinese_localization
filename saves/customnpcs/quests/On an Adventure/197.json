@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Making a New Friend V",
-    "Text": "Old Man Willow is further west of Tom Bombadil's house.
+    "Text": "柳树老头远在汤姆·邦巴迪尔房子的西边
 
-Tom Bombadil has asked you to go dance with Old Man Willow if you will learn what it is to care about the same things as Tom.
+汤姆·邦巴迪尔邀请你去和柳树老头跳舞， 如果你能学会和汤姆一样关心相同事情的话。
 
-{Type the word dance in chat when you are close enough}",
+{当足够接近时，只需在聊天框中输入da nce一词。}",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,7 +40,7 @@ Tom Bombadil has asked you to go dance with Old Man Willow if you will learn wha
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You are filled with unease. Tom really wants you to dance here?",
+    "CompleteText": "你心中充满了不安。汤姆真的想让你在这里 跳舞？",
     "NextQuestTitle": "Making a New Friend VI",
     "QuestLocation": "Old Man Willow"
 }

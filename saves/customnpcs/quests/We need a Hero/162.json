@@ -6,7 +6,7 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Adventure Lads I",
-    "Text": "Read the mail sent to you",
+    "Text": "阅读寄给你的邮件。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -51,6 +51,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Seek out Merovech Hornwood in Bucklebury.",
+    "CompleteText": "寻找雄鹿镇的梅洛维奇·角木。",
     "NextQuestTitle": "Adventure Lads II"
 }

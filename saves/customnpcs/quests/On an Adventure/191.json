@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Missing Hobbit V",
-    "Text": "Talk to Petunia along the banks of the Withywindle River.
+    "Text": "沿柳条河岸与佩图尼亚交谈。
 
-Petunia Clayhanger was last seen standing along the banks of the Withywindle River, you should tell her what you’ve found.",
+有人最后一次看到佩图尼亚·克莱汉格，她 是站在柳条河畔，你应该告诉她你的发现。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -48,7 +48,7 @@ Petunia Clayhanger was last seen standing along the banks of the Withywindle Riv
             }
         ]
     },
-    "CompleteText": "What did you find?",
+    "CompleteText": "你发现了什么？",
     "NextQuestTitle": "",
     "QuestLocation": "Find Petunia"
 }

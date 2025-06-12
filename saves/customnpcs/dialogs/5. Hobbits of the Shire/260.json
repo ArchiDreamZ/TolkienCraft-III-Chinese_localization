@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "那我过一会儿再来......",
+                "Title": "那我过一会儿再来……",
                 "DialogColor": 16134417,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 1,
-    "DialogTitle": "卖家未知",
+    "DialogTitle": "Seller Unknown",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": 14,

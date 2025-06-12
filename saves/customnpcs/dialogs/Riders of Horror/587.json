@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Await my return",
+                "Title": "等待我的归来！",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Be careful, @p, for the beasts are dangerous, even singly. Return to me when you are through.",
+    "DialogText": "小心点，@p，因为这些野兽很危险，即使是单个的。完成后回来找我。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

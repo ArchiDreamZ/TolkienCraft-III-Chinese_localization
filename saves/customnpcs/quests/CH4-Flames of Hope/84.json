@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Thrór's Hammer II",
-    "Text": "Thrór's Hammer lies within the tomb of Khedgroick Dourhand. The tomb lies south-east of Erebor, at the edge of the Mountain.
+    "Text": "瑟罗尔的锤子位于杜汉德矮人——卡赫格罗 克陵墓内。该墓位于埃瑞博山的东南方，在 山的边缘。
 
-Dain II told you he needed a hammer that Thrór, Thorin's grandfather and last King Under the Mountain before the coming of Smaug, left behind and the Dourhands had since stolen.",
+戴因二世告诉你，他需要一把锤子，那是瑟 罗尔，梭林的祖父，也是斯毛格来临前最后 一位山下之王留下的，后来被杜汉德矮人偷 走了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Dain II told you he needed a hammer that Thrór, Thorin's grandfather and last K
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "At Dain’s direction, you have travelled to the abandoned tomb of Khedgroick Dourhand to search for the mithril-shaping hammer of Thorin's grandfather, Thrór.",
+    "CompleteText": "在戴因的指示下，你们来到杜汉德矮人—— 卡赫格罗克的废弃坟墓，寻找梭林祖父—— 瑟罗尔的秘银塑形锤。",
     "NextQuestTitle": "Thrór's Hammer IIIb",
     "QuestLocation": "Khedgroick’s Tomb"
 }

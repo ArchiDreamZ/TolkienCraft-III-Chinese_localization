@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I am honoured, thank you.",
+                "Title": "我很荣幸，谢谢你。",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -47,11 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "This key was once held by Thoring when they fought to retake Erebor from the dragon Smaug.  I can think of no better person to entrust with it's safe-keeping.
-
-You are free to use it should you desire anytime at the hidden door high atop the statue of my forefathers on the north-west face of the mountain.
-
-Be well @p and may your beard ever grow longer!",
+    "DialogText": "这把钥匙曾在梭林从巨龙斯毛格手中夺回埃瑞博山的战斗中使用过。我想没有比 这更好的人选来委托保管了。
+如果你愿意，随时都可以在山的西北面我祖先雕像顶端的暗门处使用它。
+祝你一切顺利@p，愿你的胡子越长越长！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

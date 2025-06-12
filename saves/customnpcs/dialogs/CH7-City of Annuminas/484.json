@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 485,
-                "Title": "So how do you plan to accomplish both?",
+                "Title": "那么，你打算如何同时实现这两个目标呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Hope this does not go that way.",
+                "Title": "希望不会出现这种情况。",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Forgive my anger, @p; it was not seemly. There is wisdom in Thurdan's words, but you must see the danger of leaving Annúminas to the Angmarim. If we do not stop Dreulhara's ambitions here, beside the Lake, she will fortify the old city. Where then do you think her armies will go? Think of the Shire, a short march to the south, or of Bree to the east!",
+    "DialogText": "请原谅我的愤怒，@p。瑟尔丹的话是有智慧的，但显然是不合理的，你必须看 到把安努米那斯留给安格玛人的危险。如果我们不在湖边就阻止德鲁哈拉的野心， 她就会在古城设防。你认为她的军队会去哪里？想想夏尔，向南走一小段路就到 了，或者向东往布理进军！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

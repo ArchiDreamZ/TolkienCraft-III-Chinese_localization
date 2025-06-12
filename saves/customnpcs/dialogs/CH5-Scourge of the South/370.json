@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 371,
-                "Title": "As do I.",
+                "Title": "我也一样。",
                 "DialogColor": 1833498,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "He may have to wait on that…",
+                "Title": "他可能还得再等等……",
                 "DialogColor": 16669184,
                 "OptionType": 0
             }
@@ -50,9 +50,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Apostle is a fine sword, and I foresee that one day the False King will rue its reforging.
-
-Go now. Return to Thurdan and bring him Cromhes’  gear. I hope that Cromhes will see his despair for what it is -- the machinations of the Enemy.",
+    "DialogText": "使徒是一把好剑，我预感到有一天伪王会后悔它得到了重新锻造。
+现在就回去瑟尔丹那里，把克罗米斯的装备带给他。我希望，克罗米斯能看清他 的绝望来源于敌人的阴谋诡计。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

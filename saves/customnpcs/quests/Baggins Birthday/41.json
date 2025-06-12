@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Gararic Rumblebelly",
-    "Text": "Gaffer Gamgee is sure to know which hobbits have the best stories to tell of Bilbo's disappearance and his adventures and whereabouts since then.
+    "Text": "老头儿甘姆吉肯定知道哪些霍比特人最擅长 讲述比尔博失踪的故事，以及他此后的冒险 经历和下落。
 
-Return to Gaffer after speaking to all of the hobbits.
+与所有霍比特人交谈后，返回老头儿那里。
 
-Gararic Rumblebelly has agreed to share a story about Bilbo Baggins and his adventures.",
+加拉里克·大肚皮同意分享关于比尔博·巴 金斯和他的冒险故事。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -64,7 +64,7 @@ Gararic Rumblebelly has agreed to share a story about Bilbo Baggins and his adve
             }
         ]
     },
-    "CompleteText": "Surely I'll tell you a tale of Bilbo Baggins and the disappearing act he pulled at his birthday party all those years ago. Just lend me your ear for a moment.
+    "CompleteText": "我肯定会给你讲比尔博·巴金斯的故事，还 有他多年前在生日派对上的失踪行为。请听 我说几句。
 ",
     "NextQuestTitle": ""
 }

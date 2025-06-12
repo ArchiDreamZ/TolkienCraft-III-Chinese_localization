@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Time to pack a lunch!",
+                "Title": "是时候打包午餐了！",
                 "DialogColor": 16455683,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Take Cromhes’ gear, and travel to Rivendell and speak to Master Elrond. I doubt not that he will be able to assist you. His smiths are among the greatest of the Elf-smiths of this day. ",
+    "DialogText": "带上克罗米斯的装备，前往幽谷，与埃尔隆德大人交谈。我丝毫不怀疑他有办法 帮助你。他的铁匠是当今最伟大的精灵铁匠之一。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

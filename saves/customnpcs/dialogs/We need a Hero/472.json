@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 473,
-                "Title": "Really? What did you find?",
+                "Title": "真的吗？你发现了什么？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wow, 30 years, you are a nut.  I think I changed my mind.",
+                "Title": "哇，30 年，你真是个疯子。 我想我改变主意了。",
                 "DialogColor": 16524802,
                 "OptionType": 0
             }
@@ -50,9 +50,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Wonderful, wonderful! So a little background.
-
-When I was much younger my pappy used to tell me tales of a magnificent kingdom called Fornost far to the north and east of here.  He would tell me of the wealth and power they once had.  Of course, that was also one of many reasons for their downfall.  Now, while I know where Fornost is, I was determined to find out if there were any truth to the treasures they had.  For over 30 years I have researched and FINALLY I found the clue.",
+    "DialogText": "太棒了，太棒了！背景的小介绍。
+在我很小的时候，我的父亲经常给我讲一个宏伟王国的故事，这个王国名叫佛诺 斯特，位于这里的东北方很远的地方。父亲告诉过我他们曾经拥有的财富和权力。 当然，这也是他们衰落的众多原因之一。现在，虽然我知道佛诺斯特在哪里，但 我决心找出他们所拥有的宝藏的真相。经过30多年的研究，我终于找到了线索。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

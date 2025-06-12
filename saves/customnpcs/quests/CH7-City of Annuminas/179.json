@@ -7,7 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "The Fellowship Departs I",
-    "Text": "Elrond has offered for you to go with him and his house to see the fellowship off on their journey.When you are ready to begin speak to Elrond to complete this quest.NOTE: This will immediately teleport you to a new area for an automatic scene to play out so make sure you are ready.",
+    "Text": "埃尔隆德提出让你和他及他的家人一起去目 送联队踏上征途。
+
+当你准备好开始时，请与埃尔隆德对话以完 成此任务。
+
+注意：这将立即把你传送到一个新的区域， 自动播放一个场景，因此请确保你已做好准 备。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +40,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "It is time, @p. Let us go with my household to wish the Company well.",
+    "CompleteText": "是时候了，冒险家。让我们和我的家人一起 去祝福队伍吧。",
     "NextQuestTitle": "",
     "QuestLocation": "Elrond’s Library"
 }

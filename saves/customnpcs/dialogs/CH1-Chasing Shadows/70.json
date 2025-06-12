@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "那我现在就去找他，谢谢。",
+                "Title": "那我现在就去找他，谢谢你。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "幽谷里的烦恼 III",
+    "DialogTitle": "Troubles of Rivendell III",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "埃尔隆德领主是这座房子的主人，你的到来应该知会他。你可以在最后的庇护所北面的书房找到他。",
+    "DialogText": "埃尔隆德领主是这座房子的主人，你的到来应该知会他。你可以在最后家园北面 的书房找到他。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 8,

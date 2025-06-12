@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Daring Rescue III",
-    "Text": "Ayduin had been captured by the orcs and you were able to lead her to safety.  Time to head back to Munce at the forsaken Inn and let him know.",
+    "Text": "艾杜因被奥克抓住了，你能带她到了安全的 地方。是时候回到遗忘客栈的蒙斯身边告知 他了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "CompleteText": "@p you return and with joyous news!",
+    "CompleteText": "冒险家，你回来了，还带来了好消息！",
     "NextQuestTitle": "",
     "QuestLocation": "Western Arch"
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 12186 40 6808",
                 "Dialog": -1,
-                "Title": "希望我能很快回来！",
+                "Title": "希望我能很快就回来！",
                 "DialogColor": 12910847,
                 "OptionType": 4
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "黑森林的援助 VIII",
+    "DialogTitle": "Aid of Mirkwood VIII",
     "AvailabilityDialog": 1,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 103,
     "OptionFaction2Points": 100,
-    "DialogText": "我想你已经准备好了？ 好了，抓紧时间，我把你送到我找到的地方。",
+    "DialogText": "我想你已经准备好了？好了，抓紧时间，我把你送到我找到的地方。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 24,

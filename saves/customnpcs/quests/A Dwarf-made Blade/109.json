@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Getting the Sword Back I",
-    "Text": "Threatened by Giles, a lackey of a brigand named Pierce, that he must provide him a sword or his family would be harmed, Lucious Warrer stole Thonrum's blade.
+    "Text": "吉尔斯是皮尔斯的手下，一条强盗的走狗， 他威胁卢修斯·沃勒必须为他提供一把剑， 否则他的家人就会受到伤害，所以卢修斯· 沃勒偷走了索恩鲁姆的剑。
 
-Lucious told you that Giles mentioned going to the pub to get a drink before heading back to Pierce.",
+卢修斯告诉你吉尔斯有提到过：在回皮尔斯 那里之前要去酒吧喝上一杯。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -60,10 +60,10 @@ Lucious told you that Giles mentioned going to the pub to get a drink before hea
             }
         ]
     },
-    "CompleteText": "The brigand Giles looks as if he was badly beaten.
+    "CompleteText": "吉尔斯土匪看起来好像被人狠狠地揍了一顿。
 
 
-As you kneel to examine Giles, it is clear that he is quite dead. His hands grasps the hilt of a sword, but the blade has snapped off and is nowhere to be found. You take the hilt from the dead brigand's hand.
+当你跪在地上检查吉尔斯时，很明显他已经 死了。他的手抓住一把剑的剑柄，但是剑刃 已经折断，不知所踪。你从死去的土匪手中 夺过剑柄。
 ",
     "NextQuestTitle": "Getting the Sword Back II",
     "QuestLocation": "Giles"

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 201,
-                "Title": "So where do we go from here?",
+                "Title": "我们该何去何从？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you, but I must go do other things now.",
+                "Title": "谢谢你，但我现在必须去做其他事情了。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You have done a great thing today, @p! Few have faced the might of a Nazgûl and lived to tell the tale. Fortunately, the waters of the Bruinen and your pursuit of him weakened him to the extent that you could defeat him and send him back to Mordor.",
+    "DialogText": "你今天做了一件大事，@p！很少有人在面对那兹古尔的威力时还能活到现在。 幸运的是，布茹伊能河的水和你对他的追击削弱了他的力量，以至于你可以打败 他，把他送回魔多。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 56,

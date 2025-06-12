@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 490,
-                "Title": "Shall I open the chest?",
+                "Title": "要我打开箱子吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Perfect, then you have everything you need.",
+                "Title": "很好，那你就万事俱备了。",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I do think so and what is more fortunate is another ranger managed to snatch a key straight from her neck.  Sadly that ranger perished but that may have been to our advantage as she had not see him take the key.",
+    "DialogText": "我想是的，更幸运的是，另一个游民直接从她的脖子上抢走了一把钥匙。遗憾的 是，那个游民死了，但这可能对我们有利，因为她没有看到那个游民拿走钥匙。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

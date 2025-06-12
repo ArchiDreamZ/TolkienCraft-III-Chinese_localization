@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 604,
-                "Title": "It seems a worthy search.",
+                "Title": "这似乎是一个值得探寻的问题。",
                 "DialogColor": 392996,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sound right handy for you, good luck!",
+                "Title": "听起来很适合你，祝你好运！",
                 "DialogColor": 16655618,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The dwarf who owned this book was seeking an old text within which is rumoured to detail the ancient methods of blending mithril with other metals, along with many other secrets of its proper forging. This is exactly what I had hoped to do while here!",
+    "DialogText": "拥有这本书的矮人正在寻找书中记载的一本古籍，据说里面详细记载了古代将秘 银与其他金属混合的方法，以及许多其他正确锻造秘银的秘密。这正是我想在这 里做的事！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

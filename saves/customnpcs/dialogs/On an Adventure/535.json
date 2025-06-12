@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 536,
-                "Title": "Was she kidnapped?",
+                "Title": "她被绑架了吗？",
                 "DialogColor": 16316663,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "That would explain why you asked for someone to come here, have a good day.",
+                "Title": "这就解释了你为什么要找人来这里，祝你愉快。",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "** Adalbert seems to peer off into the town looking, his smile slowly fades ** Well @p that’s the point, she’s not here!",
+    "DialogText": "**阿德尔伯特似乎在向镇子里张望，他的笑容慢慢消失了**嗯，@p，这就 是重点，她不在这里！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

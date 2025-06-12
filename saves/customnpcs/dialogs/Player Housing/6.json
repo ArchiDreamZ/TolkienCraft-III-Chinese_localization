@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 7,
-                "Title": "Sure!  Now, let me think what I need to ask.",
+                "Title": "当然！现在，让我想想该问些什么。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will need to think on this some more, this is a big decision.",
+                "Title": "我需要再考虑一下，这是一个重大的决定。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Wonderful!  Always nice to have someone ready to buy their first home!  We have many to choose from and it is a relative painless experience.  Would you like me to explain a few things before you go there?",
+    "DialogText": "太棒了！有人准备购买自己的第一套住房，这总是件好事！我们有很多房源可供 选择，而且购买过程相对来说都比较省心。在你去之前，需要我向你解释一些事 情吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

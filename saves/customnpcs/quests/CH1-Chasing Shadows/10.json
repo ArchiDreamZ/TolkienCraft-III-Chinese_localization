@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "The Missing Rider I",
-    "Text": "The hoofprints were discovered far south of the road, and the sons of Elrond believe that the missing Rider might be located within the narrow channels of the Trollshaws.
+    "Text": "蹄印是在路的南边发现的，埃尔隆德的儿子 们认为，失踪的黑骑手可能就躲在狭窄的食 人妖森林道路中。
 
-Elladan has asked you to follow the Nazgûl into the Trollshaws.",
+埃尔拉丹请你尾随那兹古尔进入食人妖森林。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,9 +50,9 @@ Elladan has asked you to follow the Nazgûl into the Trollshaws.",
             }
         ]
     },
-    "CompleteText": "The corpse of a black horse lies in the ruins, located among the narrow channels of the Trollshaws.
+    "CompleteText": "废墟中躺着一匹黑马的尸体，它就在食人妖 森林狭窄的通道中。
 
-You remove the bridle from the horse's corpse and decide to return with it to Elladan.",
+你从马的尸体上取下缰绳，决定带着它返回 埃尔拉丹那里。",
     "NextQuestTitle": "The Missing Rider II",
     "QuestLocation": "Black Steed"
 }

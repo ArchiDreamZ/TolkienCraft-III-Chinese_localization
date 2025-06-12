@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 193,
-                "Title": "Let's hope he can!",
+                "Title": "希望他能做到！",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "对话",
                 "DialogColor": 16010050,
                 "OptionType": 2
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I am a master of earth, stone and axe, @p, not of these fell wights and evil artifacts. Go to Master Elrond in Rivendell and tell him all of what has transpired. He will be able to tell you what should be done next.",
+    "DialogText": "我是大地、石头和斧头的主宰者，@p，不是这些堕落巫师和邪恶神器的主宰者。 去找幽谷的埃尔隆德大人，告诉他发生的一切。他会告诉你下一步该怎么做。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 35,

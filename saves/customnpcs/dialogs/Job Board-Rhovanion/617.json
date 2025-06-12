@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 618,
-                "Title": "Sure, should be easy to do!",
+                "Title": "当然，应该很容易做到！",
                 "DialogColor": 1768473,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me get back to you on that.",
+                "Title": "我回头再跟你说吧。",
                 "DialogColor": 16655618,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That you could hero, Earlier I noticed the pieces that were broken off were strewn about this vast cavern.  If you were to find them all I could most certainly repair this wheel and get her back in to place, What do you say?",
+    "DialogText": "你可以成为英雄，我注意到断裂的碎片散落在这个巨大的洞穴里。如果你能把它 们都找出来，我一定能修好这个轮子，让它回到原位，怎么样？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

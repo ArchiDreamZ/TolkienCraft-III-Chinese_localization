@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 301,
-                "Title": "What do you mean he’s missing?",
+                "Title": "你说他失踪了是什么意思？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I'm sure he'll be back soon.",
+                "Title": "我相信他很快就会回来的。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No...you are not...are you? Sent then by the Rangers? Never did trust them much, skulking about in cover of night never talking proper-like, but I must admit a feeling of gratitude lately. Least-wise since Betan's gone missing.",
+    "DialogText": "不……你不是……是吗？是游民派来的吗？我从来都不太相信他们，他们在夜色 的掩护下四处游荡，从不说正经话，但我必须承认不久前我还怀有一种感激之情。 自从贝坦失踪后，我的感激之情就减少了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

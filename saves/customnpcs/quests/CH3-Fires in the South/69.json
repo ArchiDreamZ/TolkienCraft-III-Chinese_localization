@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Into the Darkness of Khazad-dûm",
-    "Text": "The Watchers lie far to the west of Stoneyford, at the base of the Misty Mountains. Manwyn suggested you look for a dwarf encampment within Khazad-dûm.
+    "Text": "监视者石像位于石头渡口以西很远的地方， 在迷雾山脉的山脚下。曼温建议你们在卡扎 督姆境内寻找矮人营地。
 
-Manwyn bade you pass through the Watchers, for you no longer have cause to fear the deadly stones. He hopes that you may find a remnant of the force Cromhes led through the stones somewhere on the other side.",
+曼温想让你越过监视者，因为你不再需要惧 怕那些致命的石头。他希望你能在另一边的 某处地方找到他的同伴，克罗米斯穿过雕像 群的残存力量。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -58,7 +58,7 @@ Manwyn bade you pass through the Watchers, for you no longer have cause to fear 
             }
         ]
     },
-    "CompleteText": "Who are you? If you are not a servant of Angmar, how then did you pass through the Watchers and not perish?",
+    "CompleteText": "你是谁？如果你不是安格玛王国的仆从，那 你是如何越过监视者却不会死亡的？",
     "NextQuestTitle": "",
     "QuestLocation": "Dwarf Encampment"
 }

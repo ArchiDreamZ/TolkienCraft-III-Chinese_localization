@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "A Dwarf-made Sword I",
-    "Text": "Thonrum Ironsword has told you that someone has stolen his newest blade. He has asked you to find out who stole it and return it to him as quickly as possible!
+    "Text": "索恩鲁姆·铁剑告诉你，有人偷了他最新的 剑。他要求你找出偷剑者，并尽快把剑归还 给他！
 
-Most of the smiths of Dale work in the Market.
+河谷城的铁匠大多在集市工作。
 
-Thonrum has told you that he thinks his latest blade was stolen by one of the Man-smiths. He thinks that a warrior, such as yourself, might intimidate the thief into confessing and returning the stolen blade.",
+索恩鲁姆告诉你，他认为他的新剑被一个人 类铁匠偷走了。他认为，像你这样的勇士可 以吓唬住小偷，让他承认并归还失窃的剑。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,7 +50,7 @@ Thonrum has told you that he thinks his latest blade was stolen by one of the Ma
             }
         ]
     },
-    "CompleteText": "Lucious Warrer seemed a bit nervous, you should go back and talk to him again.",
+    "CompleteText": "卢修斯·沃勒似乎有点紧张，你应该回去再 和他谈谈。",
     "NextQuestTitle": "A Dwarf-made Sword II",
     "QuestLocation": "Crawford Baker"
 }

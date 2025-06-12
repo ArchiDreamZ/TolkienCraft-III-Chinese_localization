@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Consider it done!",
+                "Title": "就这么定了！",
                 "DialogColor": 16521475,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Would you mind speaking to Tom and retrieving my manuscript from him? I am most interested to hear what he thought of it, now that he has had plenty of time to read!",
+    "DialogText": "你能和汤姆谈谈，从他那里取回我的手稿吗？我很想听听他是怎么想的，现在他 已经有足够的时间阅读了！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

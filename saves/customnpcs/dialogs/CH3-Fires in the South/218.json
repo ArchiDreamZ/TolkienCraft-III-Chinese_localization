@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "对话",
                 "DialogColor": 16010050,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wish me luck!",
+                "Title": "祝我好运吧！",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I think even in death, if the hearts remain, they will prove useful.  Bring me a stone-heart as quickly as you may, so that we may be done with our duty.",
+    "DialogText": "我想，即使死了，如果心脏还在，它们也被证明是有危险的。尽快给我一颗石心， 这样我们就可以完成任务了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

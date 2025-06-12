@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Piece of cake!  Be back soon!",
+                "Title": "小菜一碟！ 很快回来",
                 "DialogColor": 16669185,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Excellent, I have come across a party who is interested in Mumakil Hide.  Unfortunately, the only way to get mumakil hide, is by killing Mumakil.  What I need is for you to collect 24 of Mumakil Hide and bring them back to me.  I will definitely pay you for them.",
+    "DialogText": "太好了，我遇到了一位对猛犸兽皮感兴趣的朋友。不幸的是，获得猛犸兽皮的唯 一方法就是杀死猛犸。我需要你收集24只猛犸兽皮，然后带回来给我。我一定 会付钱给你的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "It was my pleasure!",
+                "Title": "这是我的荣幸！",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -40,11 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I feared to send more men to those woods, for my people are small in number.
-
-You have helped the people of Hoarwell greatly, and from what you tell me, all the Free Peoples.
-
-Thank you again, friend @p.",
+    "DialogText": "因为我的人手不足，我害怕派更多的人手去那片树林。
+你为苍泉河人民提供了巨大的帮助，据你所说，你也为所有自由民族提供了巨大 的帮助。
+再次感谢你，我的朋友@p。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

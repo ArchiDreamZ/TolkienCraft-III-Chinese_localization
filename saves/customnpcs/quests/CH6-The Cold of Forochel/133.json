@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Aubertin Unhidden I",
-    "Text": "Brimigak, the False King, has been defeated and sent back to Mordor houseless, but the mysterious Nerea Aubertin stole the palantír Brimigak had in his possession. This greatly concerns Gandalf the Grey.
+    "Text": "伪王——布里米加克已被击败并被送回魔多， 但神秘的内雷亚·奥贝坦偷走了布里米加克 手中的帕蓝提尔。这让灰袍甘道夫非常担忧。
 
-Cromhes is at Mitheithel in Eriador, far to the south of Rivendell.",
+克罗米斯在埃利阿多的米斯艾塞尔河营地， 在幽谷以南很远的地方。你应该从营地的大 门口进去杂找他。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,7 +50,7 @@ Cromhes is at Mitheithel in Eriador, far to the south of Rivendell.",
             }
         ]
     },
-    "CompleteText": "Gandalf sent you to help him search for Nerea Aubertin and the missing palantír?",
+    "CompleteText": "甘道夫派你去帮我寻找内雷亚·奥贝坦和失 踪的帕蓝提尔？",
     "NextQuestTitle": "",
     "QuestLocation": "Mitheithel"
 }

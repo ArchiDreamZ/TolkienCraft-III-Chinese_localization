@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Daring Rescue II",
-    "Text": "Ayduin has asked you to escort her to the arch leading out of the ruins and to freedom. She was in a makeshift prison in the ruins southeast of the Forsaken Inn",
+    "Text": "艾杜因请求你护送她前往通往废墟外的拱门， 以获得自由。她被关在遗忘客栈东南方废墟 中的临时监狱里。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Freedom at last! Munce will find a way to reward you for your assistance.",
+    "CompleteText": "终于自由了！蒙斯会想办法报答你的帮助。",
     "NextQuestTitle": "Daring Rescue III",
     "QuestLocation": "Western Arch"
 }

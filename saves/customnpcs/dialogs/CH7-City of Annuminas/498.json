@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 499,
-                "Title": "So, why have you summoned me?",
+                "Title": "那么，你为什么召唤我呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sadly, I am still trying to finish an adventure.",
+                "Title": "遗憾的是，我还在努力完成一次冒险。",
                 "DialogColor": 16652033,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We must be thankful for every journey that ends in safety, for these are dangerous times and the shadows grow ever long outside Rivendell.",
+    "DialogText": "我们必须感谢每一段以安全结束的旅程，因为这是一个危险的时代，外面的阴影 越来越强大。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 173,

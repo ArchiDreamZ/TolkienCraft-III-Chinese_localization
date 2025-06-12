@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 589,
-                "Title": "Was it not enough?",
+                "Title": "难道这还不够吗？",
                 "DialogColor": 16711163,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I’ll have to think on that.",
+                "Title": "我得好好考虑一下。",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Wargs have been silenced, but there is much yet to do. The Orcs yet remain, and they are a dangerous foe.",
+    "DialogText": "座狼已被消灭，但还有许多工作要做。奥克仍然存在，他们是一个危险的敌人。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 212,

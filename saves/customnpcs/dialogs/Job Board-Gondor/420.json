@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 421,
-                "Title": "So, where do I come in?",
+                "Title": "那么，我该从哪里入手呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, that’s quaint.  Thanks you for sharing.",
+                "Title": "嗯，真是一个有趣的古老传统， 感谢你的分享。",
                 "DialogColor": 16538114,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There is a practice among the people here  to honour the Land of Draconis with tribute baskets given to the river's current.",
+    "DialogText": "这里的人们有这样的习俗，他们通过向流动的河水敬献花篮来表达对天龙大地的 尊敬之情。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

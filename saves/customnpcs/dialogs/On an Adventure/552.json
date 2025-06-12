@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I’ll see what I can do...",
+                "Title": "我会看看我能做些什么…",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "But I have encountered an early problem in this attempt, for I simply do not know of any way to describe him in such a way that does the fellow justice! Can you speak to him again and learn what you can of Tom, in order to educate me on the subject? What are his likes and dislikes, from where did he come, and what drives him from day to day?",
+    "DialogText": "但我在这一尝试中很早就遇到了一个问题，因为我根本不知道有什么方法可以对 他进行描述，从而适合他这个人！你能不能再和他谈谈，了解汤姆的情况，以便 让我了解这个问题？他喜欢什么，不喜欢什么，他来自哪里，他每天的动力是什 么？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

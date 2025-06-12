@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 302,
-                "Title": "You have any idea where he went?",
+                "Title": "你知道他去哪儿了吗？",
                 "DialogColor": 2224221,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "交谈",
                 "DialogColor": 16010050,
                 "OptionType": 2
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Betan went out with his father's sword trying to scare off those orcs from the North. He left a few days back and has yet to come home. I am running out of excuses to tell the workers. Please, will you find him?",
+    "DialogText": "贝坦带着父亲的剑外出，试图吓退那些来自北方的奥克。他走了好几天了，到现 在还没回家。我已经没有别的借口安抚别人了。拜托了，你能找到他吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

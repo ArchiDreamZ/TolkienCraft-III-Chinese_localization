@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Manuscript I",
-    "Text": "Petunia Clayhanger was last seen standing along the banks of the Withywindle River.
+    "Text": "佩图尼亚·克莱汉格站在柳条河畔是她最后 一次被人看到。
 
-You tried to learn more about Tom Bombadil, but the mysterious fellow does not seem given to explanations.",
+你试图了解更多有关于汤姆·邦巴迪尔的信 息，但这个神秘的家伙似乎不愿意回答任何 问题。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -55,6 +55,6 @@ You tried to learn more about Tom Bombadil, but the mysterious fellow does not s
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Tom takes the manuscript and runs his hands over the page.",
+    "CompleteText": "汤姆接过手稿，用手在书页上进行翻阅。",
     "NextQuestTitle": ""
 }

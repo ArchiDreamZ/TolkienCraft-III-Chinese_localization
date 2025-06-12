@@ -6,11 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Needed Supplies I",
-    "Text": "Dain II, Master of Erebor, has agreed to help you forge the key, but there are some vital components missing.
+    "Text": "戴因二世，埃瑞博山的主宰，已经同意帮你 铸造钥匙，但还缺少一些重要部件。
 
-Bilbo’s house is Bag-end in the northern part of Hobbiton. Derwyn Rease is in the town of Archet, north-east of Bree-town.
+比尔博的家在霍比屯北部的袋底洞。德温· 里瑟现在就在布理镇东北部的阿切特镇。
 
-You will need a mithril nugget, which might still be in Bilbo’s house in the Shire, and a key to cast a mould from, which might be obtained from Derwyn Rease, the new Captain of Archet.",
+你需要一个秘银粒，它可能还在比尔博位于 夏尔的房子里，可以问一下袋底洞的监护人 GrimaldHedgehopper。 还需要一把铸造模具的钥匙，这把钥匙可能 可以从新任阿特切的卫兵队长德温·里瑟那 里得到。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -69,6 +69,6 @@ You will need a mithril nugget, which might still be in Bilbo’s house in the S
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "Ah! I was right!",
+    "CompleteText": "啊！我是对的！",
     "NextQuestTitle": ""
 }

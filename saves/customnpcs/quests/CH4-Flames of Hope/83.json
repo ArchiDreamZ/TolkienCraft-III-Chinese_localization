@@ -6,11 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Thrór's Hammer IV",
-    "Text": "After retrieving Thrór's Hammer and the necessary materials, Dwalin's smith, Elssuli, forged for you a mithril key that should allow you to pass into the dungeon of Moria.
+    "Text": "在取回瑟罗尔的锤子和所需材料后，杜瓦林 的铁匠——埃尔苏利为你锻造了一把秘银钥 匙，这把钥匙应该能让你进入墨瑞亚矿坑。
 
-Layles awaits your return at the Dwarven Ember Camp in Moria..
+莱尔斯在墨瑞亚的矮人埃姆伯营地等待你的 归来。
 
-You should return with the key to Layles.",
+你应该带着莱尔斯的钥匙回来。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -57,6 +57,6 @@ You should return with the key to Layles.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "You have returned with the key! Let us hope, my friend, that the key from which this was cast was not a false guide….",
+    "CompleteText": "你带着钥匙回来了！我的朋友，让我们希望 这把钥匙不是一个虚假的指引……",
     "NextQuestTitle": ""
 }

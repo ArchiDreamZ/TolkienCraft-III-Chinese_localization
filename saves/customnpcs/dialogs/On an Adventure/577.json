@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me see if I can talk to them.",
+                "Title": "让我看看能不能和他们谈谈。",
                 "DialogColor": 16518403,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ermengard is quite cross with me, as well. She thinks that it was my idea to go jaunting about in the Old Forest, when it was the furthest idea in my head. That was mostly Adalbert's idea!",
+    "DialogText": "艾门加德对我也很不满意。她认为是我的主意，让她在老林子到处闲逛，而这是 我脑子里最遥远的想法。这主要是阿德尔伯特的主意！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

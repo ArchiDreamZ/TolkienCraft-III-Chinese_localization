@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "In Need of Supplies",
-    "Text": "You accepted a task with finding monster flesh from monsters making Eriador their home. Hnery awaits the delivery of these items at The Prancing Pony in Bree.",
+    "Text": "你接受了一项任务，要从埃利阿多的怪物身 上获取怪物肉。亨利正在布理的跃马客栈等 待这些物品的运送。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -131,6 +131,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Thank you @p, as promised here is your payment.  Come back to me if you ever want to help again.",
+    "CompleteText": "谢谢你，冒险家，这是你的报酬。如果你还 想帮忙，请再来找我。",
     "NextQuestTitle": ""
 }

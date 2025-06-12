@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 51,
-                "Title": "Ah, ok, thank you for explaining.",
+                "Title": "啊，好的，谢谢你的解释。",
                 "DialogColor": 16010050,
                 "OptionType": 1
             }
@@ -47,11 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well, sometimes the great powers do not quite align as they should so things may fall out of place.  My job is to record all the happenings of Middle-earth and help travellers any time I find something that could potentially cause them trouble with their adventures.
-
-Some things I can do are fixing the story you are a part of (reload the quest book), recover a lost tome of knowledge (give a new quest book), help you when friends have become foe or vice versa (reset certain factions), and in some cases even set you on the correct path (fix a broken quest or continue a quest if an update breaks things).
-
-If it is really needed, I can, one time, present you with supplies to help you on your way (set starting inventory if needed).",
+    "DialogText": "好吧，有时伟大的力量并不完全意念合一，所以事情都可能会发生偏差。我的工 作就是记录中洲发生的所有事情，并在发现可能会给旅行者的冒险带来麻烦的事 情时提供帮助。
+我可以做的事情包括：修复你参与的故事（重新载入任务书）、找回丢失的知识 宝典（提供新的任务书）、在朋友变成敌人或敌人变成朋友时帮助你（重置某些 派系），甚至在某些情况下帮助你走上正确的道路（修复破损的任务，或者在更 新导致任务破损时继续任务）。
+如果确实需要，我可以一次性向你提供物资，帮助你踏上旅程（如果需要的话， 还可以设置起始库存）。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 481,
-                "Title": "How does this help?",
+                "Title": "这有什么用？",
                 "DialogColor": 523813,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Can I get back to you on this?",
+                "Title": "能给我回复吗？",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dreulhara has revealed herself and sits now in judgement within the ruins of Annuminas. Her armies fight within the streets and beneath the shadows of the towers against the Dúnedain -- this much you know. But there is more about Angmar's new regent than is known to Talacnun and the Rangers.",
+    "DialogText": "德鲁哈拉已经现身，现在正安坐在安努米那斯的废墟中接受正义的审判。她的军 队在街道和塔楼的阴影下与杜内丹人厮杀，这一点你都知道。但关于安格玛王国 的新巫王，塔拉克农和其他游民们知道的并不多。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

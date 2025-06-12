@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 594,
-                "Title": "And this will work?",
+                "Title": "这能行得通吗？",
                 "DialogColor": 65333,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Yeah, masonry is not my thing.",
+                "Title": "是啊，泥瓦匠不是我的专长。",
                 "DialogColor": 16518403,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Return to their camp, to the south-east and destroy the cobblestone around the training arena. Without those, future Warg-riders will not have the finesse to manage successful close quarters combat.",
+    "DialogText": "回到他们的营地，向东南方走，摧毁训练场周围的鹅卵石。没有这些鹅卵石，未 来的座狼骑手就没法成功学习近距离作战的技巧。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

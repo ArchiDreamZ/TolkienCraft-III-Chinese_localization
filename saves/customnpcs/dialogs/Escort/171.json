@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 172,
-                "Title": "I am, what seems to be the problem and how can I help?",
+                "Title": "是的，问题似乎出在哪里，我能帮上什么忙？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Actually, no, I hear my name being called...somewhere.",
+                "Title": "事实上，不，我听到有人在叫我的名字……在某个地方。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Greetings hero!  Please tell me you are here in response to my request for help?",
+    "DialogText": "你好，英雄！请告诉我，你是应我的求助而来的吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

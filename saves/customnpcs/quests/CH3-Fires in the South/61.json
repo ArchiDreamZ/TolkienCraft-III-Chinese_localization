@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Against His Leader",
-    "Text": "Guthwine told you of how a wounded falcon arrived, bearing a message from Manwyn, a Ranger from the company of Cromhes, who defied Aragorn's commands and passed into Khazad-dûm, believing that a shadow had come again there.
+    "Text": "古斯威奈告诉你为何是一只受伤的猎鹰送来 了信，它带来了曼温的信息，曼温是克罗米 斯队伍的游侠，克罗米斯他违抗了阿拉贡的 命令，进入了卡扎督姆，以为邪恶的阴影重 回了那里。
 
-Manwyn is at Stoneyford, a village in the Gladden Fields near Mirkwood, somewhere east of Moria.",
+曼温位于石头渡口，是金鸢尾沼地一个靠近 黑森林的村庄，在墨瑞亚以东的某个地方。 他正在石头教堂对面房子的顶楼耐心等候你 的到来。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,7 +50,7 @@ Manwyn is at Stoneyford, a village in the Gladden Fields near Mirkwood, somewher
             }
         ]
     },
-    "CompleteText": "Who are you? Nay, it matters not...all that matters is the you have come.",
+    "CompleteText": "你是谁？不，这不重要……重要的是你来了。",
     "NextQuestTitle": "",
     "QuestLocation": "Stoneyford"
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 189,
-                "Title": "Yes, it was a tough fight, but it was amazing!",
+                "Title": "是的，这是一场艰苦的战斗，但却令人惊叹！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You bring tidings both joyous and dark, @p. The Dourhands are done! They will never hope to threaten the Longbeards again.",
+    "DialogText": "你带来了既令人喜悦又令人哀愁的消息，@p。杜汉德矮人完蛋了，他们再也没 有办法威胁到长须族了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 34,

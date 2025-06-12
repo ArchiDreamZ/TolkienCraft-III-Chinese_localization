@@ -5,9 +5,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Troublesome Goblins II",
-    "Text": "The goblins have repopulated their cave, far to the west of Glóin's camp along the path through the Misty Mountains..
+    "Text": "半兽人重新占领了他们的洞穴，就在格罗因 的营地西边，沿着穿过迷雾山脉的小路。
 
-Glóin told you that if you search the goblins' cave in the Misty Mountains, you should find a goblin named Ulmug. He appears to be their leader, and by defeating him, you should throw the goblins into disarray and perhaps find the trail of the Nazgûl.",
+格罗因告诉你，如果你深入搜索迷雾山脉的 半兽人洞穴，洞穴深处(15403,42, 5301)就会发现一个名叫乌尔穆格的半 兽人。他似乎是他们的首领，打败他就能让 半兽人陷入混乱，也许还能找到那兹古尔的 踪迹。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -62,8 +62,8 @@ Glóin told you that if you search the goblins' cave in the Misty Mountains, you
             }
         ]
     },
-    "CompleteText": "Glóin is at his camp at the east-end of the pass that leads through the Misty Mountains.
+    "CompleteText": "格罗因就在他的营地，在穿过雾山脉的山口 东端。
 
-Dourhand dwarves were with that blasted Goblin King?",
+杜汉德矮人和那个该死的半兽人国王在一起？",
     "NextQuestTitle": ""
 }

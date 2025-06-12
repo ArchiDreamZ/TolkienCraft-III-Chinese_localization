@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 228,
-                "Title": "Dwarves have returned to Khazad-dûm?",
+                "Title": "矮人返回了卡扎督姆?",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I am not sure I want to go there.",
+                "Title": "我不确定我是否想去那里。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You, however, have nothing left to fear. Go west, @p, and pass through the Watchers to Khazad-dûm. I can only hope that somewhere within my kinsmen survive. The people here say that there are dwarves in there. Search there for my brethren!",
+    "DialogText": "不过，你已经没什么好怕的了。向西走，@p，穿过监视者到达卡扎督姆。我只 能寄希望于我的族人能在某个地方幸存下来。这里的人说那里有矮人。去那里寻 找我的弟兄们吧。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

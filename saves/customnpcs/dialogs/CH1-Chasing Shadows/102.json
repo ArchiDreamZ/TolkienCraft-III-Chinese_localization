@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "一个是坏的......整个部落？",
+                "Title": "一个是坏的……整个部落也是？",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "黑森林的援助 VI",
+    "DialogTitle": "Aid of Mirkwood VI",
     "AvailabilityDialog": 2,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 103,
     "OptionFaction2Points": 100,
-    "DialogText": "我们黑森林精灵以前确实遇到过这种生物，但我没想到会再次见到。多古尔都附近曾经生活着一个食人妖部落，我们与之作战的人称这些生物为森林食人妖。它们曾经是游荡的个体生物，不愿团结，甚至不愿靠近同伴生活。然而，在多古尔都，有一件事让他们联合起来。他们中出现了一位国王，他将森林食人妖统一成一支可怕的力量。我父亲派了许多勇士去打败森林食人妖，结果成功了。",
+    "DialogText": "我们黑森林精灵以前确实遇到过这种生物，但我没想到会再次见到。多古尔都附 近曾经生活着一个食人妖部落，我们与之作战的人称这些生物为森林食人妖。它 们曾经是游荡的个体生物，不愿团结，甚至不愿靠近同伴生活。然而，在多古尔 都，有一件事让他们联合起来。他们中出现了一位国王，他将森林食人妖团结成 一支可怕的力量。我父亲派了许多勇士去打败森林食人妖，最终成功了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 24,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 584,
-                "Title": "Dancing with a tiger huh?",
+                "Title": "与虎共舞？",
                 "DialogColor": 16514294,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I don't think I will succeed, and just between you and me, @p, I don't think I want to! She will make a fine hero, if that is what she wants to be, and Ermengard will just have to get used to it!",
+    "DialogText": "我想我不会成功的，而且我也不想成功，@p！她会成为一个优秀的英雄，如果 那是她想成为的，而艾门加德只能去习惯它！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

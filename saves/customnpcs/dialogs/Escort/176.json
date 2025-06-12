@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 177,
-                "Title": "Well, could have been worse for sure...",
+                "Title": "当然，情况可能会更糟……",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, see, I think I ran out of something that I need to go get.",
+                "Title": "好吧，我想我有东西用完了，得去拿。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "My company was overrun by the orcs and were forced to flee. I defended them as best I could, saving some who reached the archway to the west, but my wounds were grievous, and I was captured and put here. I fear what they may have planned for me yet but have not the strength to escape.",
+    "DialogText": "我的队伍被奥克人包围，被迫逃跑。我竭尽全力保护他们，救下了一些逃到西边 拱门的人，但我伤势严重，被抓到这里。我害怕他们会对我做什么，但又没有力 气逃走。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

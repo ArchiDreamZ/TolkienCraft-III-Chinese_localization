@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "The Path Opens II",
-    "Text": "Elrond Halfelven is at Rivendell near the Trollshaws.
+    "Text": "半精灵埃尔隆德现在就在靠近食人妖森林的 幽谷里。
 
-Thurdan, also unable to translate the scroll, sent you to Rivendell to speak with Elrond Halfelven.",
+瑟尔丹也无法翻译卷轴，于是派你去幽谷与 半精灵埃尔隆德交谈。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -75,6 +75,6 @@ Thurdan, also unable to translate the scroll, sent you to Rivendell to speak wit
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "What is this?",
+    "CompleteText": "这是什么？",
     "NextQuestTitle": ""
 }

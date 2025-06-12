@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Handy hero to the rescue!",
+                "Title": "这真是英雄救美！",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "/scoreboard players set @p Waterworks 0",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "In typical dwarven fashion, there should be buttons near the aqueduct to open the gates.  If the water is not already flowing, just push those buttons.",
+    "DialogText": "按照典型的矮人方式，水渠附近应该有按钮可以打开闸门。如果水还没有流动， 就按下这些按钮。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

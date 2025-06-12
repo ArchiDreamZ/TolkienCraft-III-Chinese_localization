@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 509,
-                "Title": "Was there anything else I can help you with?",
+                "Title": "还有什么需要我帮忙的吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It is a dark way and dangerous. I will not say more of it now, but I hope it will not come to that. My heart tells me that the Redhorn Gate is safest for our purposes.",
+    "DialogText": "这是一条黑暗而危险的道路。我现在不想多说，但我希望不会走到那一步。我的 心告诉我，红角门对我们来说是最安全的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

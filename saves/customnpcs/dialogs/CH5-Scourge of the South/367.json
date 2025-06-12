@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 368,
-                "Title": "You think this will work?",
+                "Title": "你觉得这样行得通吗？",
                 "DialogColor": 2028317,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Cromhes was a mighty warrior, and he could be reminded of that past if he were to have his weapons again. They were taken from him, and given as gifts to the Envoys of the Captains of the Haradrim, as tokens of Brimigak's victory over the Free Peoples. Each of these emissaries occupies an Outpost to the South in Harad",
+    "DialogText": "克罗米斯是一位强大的战士，如果他能再次拥有自己的武器，他就会想起那段光 荣的往事。他的武器被夺走，作为礼物送给了哈拉德人首领的爪牙，成为了布里 米加克战胜自由民的信物。这些邪恶爪牙各自占据着哈拉德南部的一个前哨站。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

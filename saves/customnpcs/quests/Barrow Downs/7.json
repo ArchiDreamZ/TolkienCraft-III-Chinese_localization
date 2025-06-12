@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Forging Anew II",
-    "Text": "Reeve Guibe reforged the key to the Great Barrow. You should return to Falsir for further instruction.",
+    "Text": "里夫·吉贝重新锻造了大古冢的钥匙。你应 该回到法尔西尔那里，接受进一步的命令。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -73,6 +73,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "There you are, @p!",
+    "CompleteText": "给你，冒险家！",
     "NextQuestTitle": ""
 }

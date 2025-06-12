@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Keeping Watch I",
-    "Text": "With your aid Cromhes has greatly weakened Brimigak, the Steward of Angmar, and avenged the death of Layles.",
+    "Text": "在你的帮助下，克罗米斯大大削弱了安格玛 王国的宰相——布里米加克的力量，并为莱 尔斯报了仇。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 1250,
@@ -66,7 +66,7 @@
             }
         ]
     },
-    "CompleteText": "So Cromhes did not perish...",
+    "CompleteText": "所以克罗米斯没有殒命......",
     "NextQuestTitle": "",
     "QuestLocation": "Last Homely House"
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 392,
-                "Title": "埃尔隆德领主派我来让你重新锻造这把剑。",
+                "Title": "埃尔隆德大人派我来让你重新锻造这把剑。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 519,
-                "Title": "除了锻造武器，你还做什么？",
+                "Title": "除了锻造武器，你还想要做什么？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "我能看看你能提供什么吗？",
+                "Title": "我能看看你能提供什么服务吗？",
                 "DialogColor": 16375040,
                 "OptionType": 3
             }
@@ -68,7 +68,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "卡西迪恩(Castien)商店",
+    "DialogTitle": "Castien Shoppe",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -77,7 +77,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "见多识广的 @p!在这美好的一天，是什么把你带到这里？",
+    "DialogText": "见多识广的@p！在这美好的一天，是什么把你带到我这里？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

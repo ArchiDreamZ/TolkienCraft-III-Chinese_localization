@@ -6,7 +6,7 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Lost Manuscript IV",
-    "Text": "You found some pages of Petunia’s manuscript on the north from Tom Bombadil's house. Did the wind bring other pages further north?",
+    "Text": "你在汤姆·邦巴迪尔家的北边发现了几页佩 图尼亚的手稿。风把其他手稿带到更北边的 地方了吗？",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -63,8 +63,8 @@
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "Several pages of Petunia’s manuscript describe her initial experience across the Brandywine Bridge and tracking down her brothers and sisters in Buckland.
+    "CompleteText": "在佩图尼亚的几页手稿中，有几页描述了她 最初穿越白兰地桥以及在雄鹿地寻找兄弟姐 妹的经历。
 
-You should bring these pages back to Petunia.",
+你应该把这些书页还给佩图尼亚。",
     "NextQuestTitle": "Lost Manuscript V"
 }

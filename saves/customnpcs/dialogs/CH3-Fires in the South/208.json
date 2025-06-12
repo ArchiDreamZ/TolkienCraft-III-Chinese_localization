@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 209,
-                "Title": "Where do I come in?",
+                "Title": "我该从哪里入手？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I need to be better prepared.  I’ll come back.",
+                "Title": "我需要更好的准备。 我会回来的。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Aragorn forbade any to go there, for that land still had an ill-name, though it has been barren for decades. Nevertheless, Cromhes gathered those who would go with him and passed out of our memory -- until a few weeks ago. A wounded falcon arrived, bearing a message from Manwyn, one of Cromhes' company, stating that he has been dwelling at a place called Stoneyford, a village of men somewhere east of Khazad-dûm.",
+    "DialogText": "阿拉贡禁止任何人前往那里，因为那片土地虽然已经荒芜了几十年，但仍然令人 敬而远之。尽管如此，克罗米斯还是召集了愿意跟他一起去的人，同时离开了我 们的记忆——直到几周前。一只受伤的猎鹰带着来自曼温的消息来到了这里，曼 温是克罗米斯的同伴之一，他说自己一直住在一个叫做石头渡口的地方，是墨瑞 亚东部某个地方的一个村庄。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

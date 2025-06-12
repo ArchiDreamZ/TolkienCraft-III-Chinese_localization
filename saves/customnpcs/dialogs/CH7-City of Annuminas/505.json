@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 506,
-                "Title": "(You tell Gandalf the two ways Aragorn mentioned)",
+                "Title": "(你告诉甘道夫阿拉贡提到的两种路线。）",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wait, I forgot some of the information.",
+                "Title": "等等，我忘了一些信息。",
                 "DialogColor": 16525059,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Two ways, you say? What are the two ways over the mountain that Aragorn proposes?",
+    "DialogText": "你说有两条路？阿拉贡提出翻山越岭的两条路是什么？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 380,
-                "Title": "So, can you repair these?",
+                "Title": "那么，你能修理这些东西吗？",
                 "DialogColor": 3274004,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Aye, that it was...",
+                "Title": "是的，就是这样……",
                 "DialogColor": 16518146,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I had thought that him long dead, yet another victim of Angmar. It is a shame though that his freedom was won at the price of his daughter's life. Layles was a gift. Beautiful in spirit and form. What a shame.",
+    "DialogText": "我原以为他早就死了，是安格玛王国杀死的又一个牺牲品，可惜他的自由是以女 儿的生命为代价换来的。莱尔斯是一份天赐的礼物，精神和外形都很美，真是令 人可惜。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 121,

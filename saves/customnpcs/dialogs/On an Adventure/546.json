@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 547,
-                "Title": "I’m going to take that as a yes?",
+                "Title": "我就当你同意了？",
                 "DialogColor": 15921906,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "This isn’t really getting me anywhere.",
+                "Title": "这对我没有任何帮助。",
                 "DialogColor": 16652034,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hoy now, young one, questions are for asking, but the fun lies in the seeking! You ask about old Tom, but that is a question with many answers. Why not ask the trees why they be a-swaying, or the light a-brightening!",
+    "DialogText": "好了，年轻人，问题是用来问的，但乐趣在于寻找！你问的是老汤姆，但这个问 题有很多答案。为什么不问问树为什么摇摆，为什么不问问光为什么变亮？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

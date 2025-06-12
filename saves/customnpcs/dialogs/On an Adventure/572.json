@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 572,
-                "Title": "What do you want to do about them then?",
+                "Title": "那你想对它们做什么？",
                 "DialogColor": 588839,
                 "OptionType": 2
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Guess I better get my undead killing suit on!",
+                "Title": "看来我最好穿上我的亡灵杀戮战衣了！",
                 "DialogColor": 16394760,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That place has a frightful reputation and I do not plan to explore it, but now it seems there is no choice! Please search the Barrow-downs for the remainder of the missing pages! It looks as if I am missing the section of my journal that concerns my swimming lesson and the section dealing with our departure from the Shire. After you are finished in the Barrow-downs, we should travel back to Bucklebury. I will see you there.",
+    "DialogText": "那个地方声名狼藉，我并不打算去探险，但现在看来别无选择！请在古冢岗搜索 剩余的缺页！我的日记中好像少了关于游泳课的部分，还有关于我们离开夏尔的 部分。等你在古冢岗找全缺页后，我们就回雄鹿镇。我们在那里见。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

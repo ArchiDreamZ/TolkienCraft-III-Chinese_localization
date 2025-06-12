@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you and have a nice day!",
+                "Title": "谢谢你，祝你愉快！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Oh! You mean that chunk of silver old Bilbo brought back from his adventures! It thought it was too light for real silver.
-
-Well, it must have little value then, and I don't see why I should keep it. You're quite welcome to take it...here.",
+    "DialogText": "哦！你是说比尔博冒险时带回来的那块银子？它觉得太轻了，不像是真银。
+那它肯定没什么价值，我不明白为什么要留着它，你可以把它拿走……在这里。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

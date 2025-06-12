@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Lost Manuscript V",
-    "Text": "You found some pages of Petunia’s manuscript, but there are still some pages missing. You should return to speak with Petunia along the banks of the Withywindle to decide upon a course of action.",
+    "Text": "你找到了几页佩图尼亚·克莱汉格的手稿， 但还有几页没有找到。你应该返回柳条河畔 与佩图尼亚·克莱汉格交谈，以决定行动方 案。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -63,6 +63,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Thank you for finding part of my manuscript, @p. Tom must have set it down outside and the wind took it, carrying pages among the trees.",
+    "CompleteText": "谢谢你找到我的部分手稿，冒险家。一定是 汤姆把它放在了外面，风把它带走了，把书 页带到了树丛中。",
     "NextQuestTitle": ""
 }

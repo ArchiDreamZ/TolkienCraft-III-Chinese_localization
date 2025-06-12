@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Missing Hobbit IV",
-    "Text": "Find the house of the strange creature with yellow boots, in the Old Forest
+    "Text": "在老林子，找到了一个穿黄靴子的奇怪生物 以及他的房子。
 
-A strange creature of the forest with yellow boots invited Petunia to his home to the west, and you should make sure it is safe.",
+一个穿着黄色靴子的奇怪生物邀请佩图尼亚 去他西边的家，你应该确保那里的安全。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -58,7 +58,7 @@ A strange creature of the forest with yellow boots invited Petunia to his home t
             }
         ]
     },
-    "CompleteText": "You have come to the house of Tom Bombadil!",
+    "CompleteText": "你来到了汤姆·邦巴迪尔的家！",
     "NextQuestTitle": "Missing Hobbit V",
     "QuestLocation": "Mysterious Glade"
 }

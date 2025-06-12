@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Is that all?  Too easy!",
+                "Title": "就这些？ 太简单了！",
                 "DialogColor": 12730133,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Wargs pour through the mountains nearby daily, making the area around Dale especially deadly. Can you defeat wargs and hopefully make this area safer?",
+    "DialogText": "座狼每天都会从附近的群山中涌出，使得河谷城周围地区变得格外危险。你能打 败座狼，让这一地区变得更加安全吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

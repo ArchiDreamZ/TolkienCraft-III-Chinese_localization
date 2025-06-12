@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 211,
-                "Title": "Did anyone do something about it?",
+                "Title": "有人对此采取过行动吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "This seems to be rather dangerous at the moment.",
+                "Title": "目前这看起来似乎相当危险。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Matters grave, and we have need of any assistance we can muster. These good people are beset on all sides by the evils of Mirkwood and Moria, who now gather a mighty army to march and crush the elves and Gondor between their hammer and the anvil of Mordor. Time grows short, and we must act quickly if we are to hinder the growing shadow.",
+    "DialogText": "事态变得严重，我们需要一切可以提供的援助。这些善良的人们处于四面楚歌的 状态，被黑森林和墨瑞亚的邪恶势力所包围，他们现在正集结一支强大的军队， 准备用他们的铁锤和魔多的铁砧碾碎精灵和刚铎。时间不多了，我们必须尽快行 动，才能阻止阴影的蔓延。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 63,

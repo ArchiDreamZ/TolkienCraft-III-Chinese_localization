@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 195,
-                "Title": "The tone in your voice makes me think this is definitely not good.",
+                "Title": "你的语气让我觉得这绝对不是好事。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think I will just go take a nap.",
+                "Title": "我想我还是去打个盹吧。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The sigil you have brought is a mark of Drugoth the Black, a powerful Gaunt-lord. As for what drew the Nazgûl and this Gaunt-lord to Angmar, I fear I now know what they seek...
+    "DialogText": "你带来的徽章是黑巫师德鲁戈斯的徽章，一位强大的柴骨领主。至于是什么吸引 了那兹古尔和这位柴骨领主来到安格玛王国，恐怕我现在知道他们在寻找什么了…
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wait what? Alright if you say so...",
+                "Title": "等等什么？好吧，既然你这么说……",
                 "DialogColor": 16456454,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Stand in the foam of the falling water nearby, and you will know what it is to be Tom Bombadillo!",
+    "DialogText": "站在附近的瀑布泡沫中，你就会知道什么是汤姆·邦巴迪尔！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

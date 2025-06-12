@@ -5,9 +5,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Ancient Evil I",
-    "Text": "The Great Barrow is beneath the barrow near the camp you met Falsir. The first key fragment is guarded by two wights in the Great Barrow maze. The second key fragment is held by a Gaunt-lord elsewhere in the Great Barrow. Falsir will be waiting at the camp for your return.
+    "Text": "大古冢在法尔西尔营地附近的古冢岗下面。 第一块钥匙碎片由大古冢迷宫中的两个巫师 把守。第二块钥匙碎片由大古冢其他地方的 一名柴骨领主保管。法尔西尔将在营地等候 你的归来。
 
-Falsir has asked you to find two fragments of a key that opens the way into the deepest halls of the Great Barrow from a pair of wights and a creature called a gaunt-man. ",
+法尔西尔让你从一对巫师和一个叫柴骨人的 生物身上找到两块钥匙碎片，这两块碎片可 以打开通往大古冢最深处的通道。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,6 +50,6 @@ Falsir has asked you to find two fragments of a key that opens the way into the 
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Return to Falsir with the key fragments",
+    "CompleteText": "带着钥匙碎片返回法尔西尔那里。",
     "NextQuestTitle": "Ancient Evil II"
 }

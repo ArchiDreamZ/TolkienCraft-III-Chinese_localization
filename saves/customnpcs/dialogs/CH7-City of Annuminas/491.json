@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I shall return swiftly.",
+                "Title": "我会很快回来的。",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I know you have been there many times.  I ask that you go to Rivendell and seek out Lord Elrond.  He has much knowledge in these matters and will have the item we need to transport this accursed sphere!",
+    "DialogText": "我知道你去过那里很多次。我想请你去幽谷，去找埃尔隆德领主大人。他在这些 问题的处理上有很多知识，而且他会有我们需要的物品来运送这个受诅咒的球体！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

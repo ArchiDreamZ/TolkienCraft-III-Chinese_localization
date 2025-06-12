@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Crossing the Darkness III",
-    "Text": "Layles can be found within the Flaming Deeps.
+    "Text": "在烈火深渊中可以找到莱尔斯。
 
-You met with Fridli and he gave you a scroll that explains how to forge a key for the dungeons of Moria.",
+你见到了弗里德利，他给了你一张卷轴，上 面解释了如何为墨瑞亚矿坑锻造一把进去的 钥匙。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -75,6 +75,6 @@ You met with Fridli and he gave you a scroll that explains how to forge a key fo
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "Did you find Fridli? Ah! That must be the scroll he told of! Let me see it.",
+    "CompleteText": "你找到弗里德利了吗？啊，这一定是他说的 那个卷轴！让我看看！",
     "NextQuestTitle": ""
 }

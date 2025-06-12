@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wish me luck!",
+                "Title": "祝我好运！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Journey just south of Rivendell to the source of the Bruinen and look for the vault at the ruins there. You will need to brave the bears that make their homes among the ruins, but that should not be a problem for you, I would expect!",
+    "DialogText": "前往幽谷南边的布茹伊能河源头，在那里的废墟中寻找地下大厅。你需要勇敢地 面对在废墟中安家的熊，但我想这对你来说应该不成问题！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

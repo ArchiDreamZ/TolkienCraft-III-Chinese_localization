@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I’ll have my questions ready when I get back.",
+                "Title": "我回来时会准备好我的问题。",
                 "DialogColor": 16459782,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Thank you for helping me this one last time. I do not think I could retrieve it myself, being the frail old woman I am. You have done much for me -- more, perhaps, than you will ever know. I cannot begin to thank you for your services. Return to me in the town when you have the item I seek.  Look for a small box, do not open it, but bring it hence.",
+    "DialogText": "谢谢你最后一次帮我。我不认为我自己能找回它，我是一个虚弱的老妇人。你为 我做了很多，也许比你知道的还要多。我无法表达对你的感激之情。等你拿到我 要的东西，再到镇上来找我。找到一个小盒子，不要打开，把它带来。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

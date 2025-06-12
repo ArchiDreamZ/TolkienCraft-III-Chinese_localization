@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Belba Butcher",
-    "Text": "Gaffer Gamgee is sure to know which hobbits have the best stories to tell of Bilbo's disappearance and his adventures and whereabouts since then.
+    "Text": "老头儿甘姆吉肯定知道哪些霍比特人最擅长 讲述比尔博失踪的故事，以及他此后的冒险 经历和下落。
 
-Return to Gaffer after speaking to all of the hobbits.
+与所有霍比特人交谈后，返回老头儿那里。
 
-Belba Butcher has agreed to share a story about Bilbo Baggins and his adventures.",
+贝尔巴·屠夫同意分享关于比尔博·巴金斯 和他的冒险故事。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -64,8 +64,8 @@ Belba Butcher has agreed to share a story about Bilbo Baggins and his adventures
             }
         ]
     },
-    "CompleteText": "Bilbo, eh? Now, folks will tell you any nonsense about what happened to Bilbo at his birthday party, but what’s the fun in that? It was all smoke and mirrors anyway, if you ask me.
+    "CompleteText": "比尔博，嗯？现在，人们会告诉你关于比尔 博生日聚会上发生的任何无稽之谈，但那有 什么意思呢？要我说，那都是烟雾弹。
 
-The real story is in what happened after! Which, as it happens, I know all about.",
+真正的故事发生在之后！碰巧的是，我对此 了如指掌。",
     "NextQuestTitle": ""
 }

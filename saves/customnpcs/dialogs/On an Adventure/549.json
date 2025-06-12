@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 547,
-                "Title": "Well, that's nonsense!",
+                "Title": "这简直是无稽之谈！",
                 "DialogColor": 16578550,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I am, and no one else. I am a mischievous sort, and love to laugh. I will ask you to stand beneath a waterfall only to experience the feel of the water, and the joy of dripping on the carpet. I am the Master of water, wood, and hill, and cares for all who inhabit those places, even if their hearts are rotten and mean. I seeks to lighten moods, and ease pains.",
+    "DialogText": "我是我，而且不是别人。我是一个调皮的人，喜欢笑。我会让你站在瀑布下，只 为体验水的感觉和它滴在地毯上的快乐。我是水、树木和山丘的主人，关心所有 居住在这些地方的人，即使他们的心是腐朽和卑鄙的。我力求缓解他们的情绪， 减轻他们的痛苦。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 587,
-                "Title": "I think I can handle a few Wargs",
+                "Title": "我想我能应付几只座狼。",
                 "DialogColor": 1638167,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think I hear Elrond calling…",
+                "Title": "我想我听到了埃尔隆德的呼唤……",
                 "DialogColor": 16583682,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If we want to fight this menace, we will first have to strike at the Wargs. Head south-east to their camp, just beyond the forest here, and thin the numbers of the Wargs there. Once we have done that, we can begin to think about the riders.",
+    "DialogText": "如果我们要对抗这一威胁，首先必须打击座狼。向他们的营地东南方前进，就在 这片森林的另一边，削弱那里座狼的数量。完成这项工作后，我们就可以开始考 虑骑手的问题了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

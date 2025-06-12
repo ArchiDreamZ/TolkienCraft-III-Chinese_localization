@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Lost Manuscript I",
-    "Text": "Tom Bombadil can be found outside his house in the Old Forest.
+    "Text": "汤姆·邦巴迪尔可以在他位于老林子的家门 口找到。
 
-Petunia Clayhanger has asked you to retrieve her manuscript from Tom Bombadil, and to learn what the mysterious fellow thought of it.",
+佩图尼亚·克莱汉格请你从汤姆·邦巴迪尔 那里取回她的手稿，并了解这个神秘的家伙 对她手稿的看法。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Petunia Clayhanger has asked you to retrieve her manuscript from Tom Bombadil, a
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You ask Tom what he thought of Petunia's manuscript, but the strange fellow is only puzzled.",
+    "CompleteText": "你问汤姆对佩图尼亚的手稿有什么看法，但 这个奇怪的家伙只是一脸疑惑。",
     "NextQuestTitle": "",
     "QuestLocation": "Mysterious Glade"
 }

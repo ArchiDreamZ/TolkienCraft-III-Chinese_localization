@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 563,
-                "Title": "**You tell Goldberry that you have been unable to learn much about her husband, despite his friendly and open nature.**",
+                "Title": "**你告诉金莓，尽管她的丈夫友好开放，但你一直无法了解他的很多情况。**",
                 "DialogColor": 16578550,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Oh no, not at all...",
+                "Title": "哦，不，一点也不…",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Has Tom confused you with his riddles and his songs?",
+    "DialogText": "汤姆用他的谜语和歌曲迷惑了你吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 202,

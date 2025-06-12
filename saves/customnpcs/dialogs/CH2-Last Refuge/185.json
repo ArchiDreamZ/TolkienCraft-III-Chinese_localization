@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "对话",
                 "DialogColor": 16010050,
                 "OptionType": 2
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "On my way!",
+                "Title": "我立刻上路！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I will mark the way to the secret entrance in your journal Once there, speak to Gimli and he shall open the secret way into Gundabad.",
+    "DialogText": "我将在你的日志中标出通往秘密入口的路。到了那里，跟吉姆利说一声，他就会 打开进入贡达巴德要塞的秘密通道。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

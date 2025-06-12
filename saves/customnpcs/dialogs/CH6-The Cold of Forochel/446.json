@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 452,
-                "Title": "That’s good to know, but have you seen anything?",
+                "Title": "很高兴知道这些，但你看到什么了吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Oh well, I’ll keep looking then.",
+                "Title": "好吧，那我继续找。",
                 "DialogColor": 16456454,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have never heard of him, but he sounds like one of those Rangers, like Strider. If he's anything like Strider was, I don't see any reason to doubt him.",
+    "DialogText": "我从来没听说过他，但他听起来像是那种游民，比如大步佬。如果他像大步佬一 样，我觉得没有什么理由怀疑他。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 147,

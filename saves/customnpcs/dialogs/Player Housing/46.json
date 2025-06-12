@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 47,
-                "Title": "What is this temple?",
+                "Title": "这座神庙是什么？",
                 "DialogColor": 15724527,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 48,
-                "Title": "Is it safe?",
+                "Title": "前往的地方安全吗？",
                 "DialogColor": 15724527,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 49,
-                "Title": "How do I return?",
+                "Title": "我该如何返回呢？",
                 "DialogColor": 15724527,
                 "OptionType": 1
             }
@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 50,
-                "Title": "Where can I travel to?",
+                "Title": "我可以前往那些地方？",
                 "DialogColor": 15724527,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 45,
-                "Title": "Actually, I don’t have any more questions.",
+                "Title": "事实上，我已经没有问题了。",
                 "DialogColor": 16010050,
                 "OptionType": 1
             }
@@ -80,7 +80,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I will do what I can to answer whatever you ask.",
+    "DialogText": "我会尽我所能回答你提出的任何问题。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

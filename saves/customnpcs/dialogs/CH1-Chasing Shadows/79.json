@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "格罗芬德尔领主的智慧 I",
+    "DialogTitle": "Wisdom of Lord Glorfindel I",
     "AvailabilityDialog": 2,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 82,
     "OptionFaction2Points": 100,
-    "DialogText": "你的讲述开始为我解开这个谜团，@p，我想我现在明白发生了什么。,,
-
-夹在弗罗多的剩余同伴和汹涌的布茹伊能河之间，九戒灵被迫坠入洪流，但其中一人在混乱中逃脱。濒临死亡时，他的黑骏马带着他穿过隐蔽的通道，来到一个几乎不存在的地方。在那里，他积蓄起了力量。
+    "DialogText": "你的讲述开始为我解开这个谜团，@p，我想我现在明白发生了什么。
+夹在弗罗多同伴的攻击和汹涌的布茹伊能河之间，九个黑骑手被迫坠入洪流，但 其中一个在混乱中逃脱。濒临死亡时，他的黑骏马带着他穿过隐蔽的通道，来到 一个几乎不存在的地方。在那里，他积蓄起了力量。
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,

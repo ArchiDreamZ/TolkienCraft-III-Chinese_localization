@@ -7,13 +7,13 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Cromhes’ Request - Mitheithel II",
-    "Text": "Cromhes is concerned that Brimigak's Knights will be taken into Dreulhara's service.
+    "Text": "克罗米斯担心布里米加克的骑士团会为德鲁 哈拉效力。
 
-Cromhes has asked you to return to three places where Nerea Aubertin has been encountered in the past and speak with allies in those places.
+克罗米斯要求你回到过去曾遇到过内雷亚· 奥贝坦的三个地方，并与这些地方的盟友交 谈。
 
-Guthwine is at Mitheithel, north-west of Khazad-dûm.
+古斯威奈就在米斯艾塞尔河营地，卡扎督姆 的西北方向上。
 
-Having defeated the Knight of Brimigak, You should return to Guthwine and let him know of your success.",
+打败布里米加克的骑士后，你应该回到古斯 威奈那里，让他知道你成功了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -54,7 +54,7 @@ Having defeated the Knight of Brimigak, You should return to Guthwine and let hi
             }
         ]
     },
-    "CompleteText": "You have done well, @p.",
+    "CompleteText": "你做得很好，冒险家。",
     "NextQuestTitle": "",
     "QuestLocation": "Mitheithel"
 }

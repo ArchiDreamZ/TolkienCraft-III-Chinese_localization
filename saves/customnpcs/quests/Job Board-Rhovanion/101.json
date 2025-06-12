@@ -5,7 +5,7 @@
     "QuestRepeat": 2,
     "QuestCompletion": 0,
     "Title": "A Daily Hunt",
-    "Text": "Skeletons can be found roaming everywhere. You should defeat 25 of them then return back to Charlice in Dale.",
+    "Text": "到处都有座狼在游荡。你应该打败32只座 狼，然后返回河谷邦之王巴德身边。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -120,6 +120,6 @@
             }
         ]
     },
-    "CompleteText": "Thank you @p, thank you for defeating those skeletons, unfortunately they will return, so I may need your help again in the future.",
+    "CompleteText": "谢谢你，冒险家，谢谢你打败了那些座狼， 不幸的是它们还会回来，所以我以后可能还 需要你的帮助。",
     "NextQuestTitle": ""
 }

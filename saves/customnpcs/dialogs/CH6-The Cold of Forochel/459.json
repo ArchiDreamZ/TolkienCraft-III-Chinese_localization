@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "With all haste and the wind at my feet!",
+                "Title": "匆匆忙忙，风就在我脚下！",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We need to find her quickly and put an end to her schemes. Go and speak with him and learn how you can help him find Aubertin.",
+    "DialogText": "我们必须尽快找到她，结束她的阴谋。去和他谈谈，了解如何才能帮他找到奥贝 坦。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

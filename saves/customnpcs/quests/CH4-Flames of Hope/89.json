@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Thrór's Hammer IIIb",
-    "Text": "Defeat Bruabiuth, a fell-spirit who has taken possession of Thrór's Hammer.",
+    "Text": "打败布鲁比乌斯，一个占据着瑟罗尔锤子的 堕落之灵。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -52,6 +52,6 @@
             }
         ]
     },
-    "CompleteText": "You have defeated Bruabiuth!",
+    "CompleteText": "你打败了布鲁比乌斯!",
     "NextQuestTitle": "Thrór's Hammer III"
 }

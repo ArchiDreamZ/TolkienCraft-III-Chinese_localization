@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you, I will heed your advice and return!",
+                "Title": "谢谢你，我会听从你的建议返回的！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Many events have transpired since you helped set up the Council of the North.  While I am eager to have your help I think you may want to speak to a few people to get a feel for how things work nowadays.  I’ll mark your journal with the locations and people to speak to. Speak to the scholars of Middle-earth I have noted in your journal (Quest Book) and come back to me.
-
-We will speak further upon your return.",
+    "DialogText": "自从你帮助建立北方议会以来，已经发生了很多事情。虽然我很想得到你的帮助， 但我认为你可能需要和一些人谈谈，以了解如今的情况。我会在你的日志上标明 谈话的地点和人物。和我在你的日志（任务书）中记下的中洲学者谈谈，然后回 来找我。
+你回来后，我们再做进一步交谈。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

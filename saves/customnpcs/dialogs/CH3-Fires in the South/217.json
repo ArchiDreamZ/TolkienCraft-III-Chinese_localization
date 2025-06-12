@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 218,
-                "Title": "If they are lifeless, will they even prove to be useful to us?",
+                "Title": "如果它们没有生命，它们对我们有危险吗？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I need to be better prepared.  I’ll come back.",
+                "Title": "我需要更好的准备。 我会回来的。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Perhaps if I could study one of the stone-hearts, a way to undo the spell upon them can be found. There are some lifeless stones east of here near Dol Guldur from which you may collect such a heart, without fear.",
+    "DialogText": "也许，如果我能研究一下这些石心，就能找到解除它们身上咒语的方法。在东边 靠近多古尔都的地方，有一些没有生命的石头，你可以从那里收集这样的心脏， 而不用担心诅咒。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -6,13 +6,13 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Lost Pages I",
-    "Text": "King Dáin II thinks the lost pages of the tome may point the way to the Secret Key.
+    "Text": "戴因二世国王认为，古籍的遗失书页可能揭 示了寻找秘钥的途径。
 
-The poem in the book will be your best guide to the page locations.
+书中的诗歌将是你了解遗失书页位置的最佳 指南。
 
-Pages picked up will give additional clues.
+拾取的书页会提供更多线索。
 
-Perhaps one of the pages is inside Erebor.",
+也许其中一页就在埃瑞博山里面。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -77,8 +77,8 @@ Perhaps one of the pages is inside Erebor.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "It seems to be part of a larger tome. Some Dwarvish runes appear on this page.
+    "CompleteText": "它似乎是一本大古籍的一部分。这一页出现 了一些矮人的符文。
 
-The runes spell out Mirrormere in dwarven.",
+符文用矮人语拼出了镜影湖。",
     "NextQuestTitle": "Lost Pages II"
 }

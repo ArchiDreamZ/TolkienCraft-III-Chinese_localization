@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Is that all?  Too easy!",
+                "Title": "就这些？ 太简单了！",
                 "DialogColor": 12730133,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Orcs pour through the Mountains to the south daily, making Edoras especially deadly. Can you defeat Orcs and hopefully make this area safer?",
+    "DialogText": "奥克每天都会从南部山区涌入，使埃多拉斯变得格外危险。你能打败奥克，让这 一地区变得更加安全吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

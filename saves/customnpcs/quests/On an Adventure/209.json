@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Lost Manuscript VII",
-    "Text": "The wind carried pages of Petunia’s manuscript into the Barrow-downs, and you should search for them. Petunia has also asked you to defeat barghests and crawlers while you search in case they picked them up.
+    "Text": "风把佩图尼亚的几页手稿吹到了古冢岗，你 们应该去找找。佩图尼亚还嘱咐你在搜索过 程中要清理一下犬妖和爬虫，以防它们捡走。
 
-Petunia said she would meet you at her cousin Ermengard's home in Bucklebury once you were finished in the Barrow-downs.",
+佩图尼亚说，当你完成在古冢岗的任务后， 可以去她在雄鹿镇的表妹——艾门加德家与 她见面。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -53,6 +53,6 @@ Petunia said she would meet you at her cousin Ermengard's home in Bucklebury onc
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "You returned safely from the Barrow-downs, and I have exhausted my supply of adjectives with which to describe my joy, @p!",
+    "CompleteText": "你从古冢岗平安归来，我已经用尽了所有的 形容词来描述我的喜悦，冒险家！",
     "NextQuestTitle": ""
 }

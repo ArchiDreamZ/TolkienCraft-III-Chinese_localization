@@ -6,10 +6,10 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Key-Stone",
-    "Text": "Glóin discovered the secret entrance to the inner keep of Gundabad, but the way is locked and will require an artifact of the old days.
-The dwarf-vault that contains the key-stone is south of Rivendell, near the source of the Bruinen. Glóin is at his camp north of Rivendell at the east-end of the pass that leads through the Misty Mountains.
+    "Text": "格罗因发现了通往贡达巴德山内部堡垒的秘 密入口，但道路被锁住了，需要一件古老的 神器。
+藏有钥匙石的矮人地下大厅在幽谷之南，靠 近布茹伊能河的源头。格罗因的营地位于通 往迷雾山脉的山口东端，即幽谷北面。
 
-Glóin has asked you to retrieve a key-stone from an old dwarf-vault. The key-stone will allow you entry into the Dourhand-occupied dwarf-keep.",
+格罗因请你从一个古老矮人地下大厅取回一 枚钥匙石。钥匙石将允许你进入杜汉德矮人 占据的矮人堡垒。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -76,6 +76,6 @@ Glóin has asked you to retrieve a key-stone from an old dwarf-vault. The key-st
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Yes, yes, this is the key-stone of which I spoke! Good work, @p! Now the real business will begin.",
+    "CompleteText": "是的，是的，这就是我说的钥匙石！干得好， 冒险家！现在，真正的工作要开始了。",
     "NextQuestTitle": ""
 }

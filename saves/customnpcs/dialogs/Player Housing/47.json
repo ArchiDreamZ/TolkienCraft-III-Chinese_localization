@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 46,
-                "Title": "Thank you, I have more questions…",
+                "Title": "谢谢你，我还有更多问题要问……",
                 "DialogColor": 16010050,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "This temple was created in order to allow you to travel to other worlds beyond our own.  Normally you would find these portals randomly, but in Arda they do not exist so the ancients allowed for the creation of this temple for that purpose.",
+    "DialogText": "创建这座神庙的目的是为了让你能够前往我们世界之外的其他世界。通常情况下， 你可以随意找到这些传送门，但在阿尔达世界，这些传送门并不存在，因此古人 被允许创建这座神庙。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, let’s go!",
+                "Title": "好了，我们走吧！",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We should tarry here no longer. Are you prepared to leave? I will show you the secret ways out.",
+    "DialogText": "我们不能再在这里耽搁了，你准备好离开了吗？我会告诉你秘密出口。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

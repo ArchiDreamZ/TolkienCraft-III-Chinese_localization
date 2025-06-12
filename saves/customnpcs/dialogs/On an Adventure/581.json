@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Keep a closer eye on her will you?",
+                "Title": "盯紧她，好吗？",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That was amazing, @p! The Barrow-downs were everything I had thought they would be! Petunia was never scared, not really. I will need to come up with something truly exciting to top her most recent adventure!",
+    "DialogText": "太棒了，@p！古冢岗简直就是我想象中的样子！佩图尼亚从来没有害怕过，真 的没有。我需要想出一些真正令人兴奋的事情来超越她最近的冒险！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

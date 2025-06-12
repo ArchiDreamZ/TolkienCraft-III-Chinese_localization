@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "雷格尼特鲁迪斯·法罗海德(Regnetrudis Fallohide) II",
+    "DialogTitle": "Regnetrudis Fallohide II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "整个派对的安排都是一个精心设计的计谋，让人们开始议论纷纷，以为他在遥远的地方继续冒险。这只是比尔博的方式，通过制造一个幌子，悄悄地藏身在人们的视线之中！,,
-
-人们说，晚上有时能看到他穿着黑衣，脸藏在黑面具后面，披着更黑的斗篷，在夏尔的道路上飞驰。他变成了义务治安官，保护我们大家不受强盗、奥克和任何试图潜入我们城镇的讨厌东西的伤害！",
+    "DialogText": "整个派对的安排都是一个精心设计的计谋，让人们开始议论纷纷，以为他在遥远 的地方继续冒险。这只是比尔博的方式，通过制造一个幌子，悄悄地藏身在人们 的视线之中！
+人们说，晚上有时能看到他穿着黑衣，脸藏在黑面具后面，披着更黑的斗篷，在 夏尔的道路上飞驰。他变成了义务治安官，保护我们大家不受强盗、奥克和任何 试图潜入我们城镇的讨厌东西的伤害！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

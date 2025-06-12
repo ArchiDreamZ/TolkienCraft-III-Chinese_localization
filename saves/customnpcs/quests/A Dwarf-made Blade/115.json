@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "A Sword for a Life II",
-    "Text": "Threatened by Giles, a lackey of a brigand named Pierce, that he must provide him a sword or his family would be harmed, Lucious Warrer stole Thonrum's blade.
+    "Text": "吉尔斯是皮尔斯的手下，一条强盗的走狗， 他威胁卢修斯·沃勒必须为他提供一把剑， 否则他的家人就会受到伤害，所以卢修斯· 沃勒偷走了索恩鲁姆的剑。
 
-Thonrum urged you to go to Pierce's brigand camp and try to convince the brigand-captain not to harm Lucious' daughter.
+索恩鲁姆劝你去皮尔斯的土匪营地，设法说 服那里的土匪头目不要伤害卢修斯的女儿。
 
-The camp is somewhere to the north-west of Dale.",
+营地就在河谷城西北方向的某个地方。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -58,6 +58,6 @@ The camp is somewhere to the north-west of Dale.",
             }
         ]
     },
-    "CompleteText": "Oh, bless you! You've returned my daughter safe to me!",
+    "CompleteText": "哦，祝福你！你把我女儿安全地还给了我！",
     "NextQuestTitle": ""
 }

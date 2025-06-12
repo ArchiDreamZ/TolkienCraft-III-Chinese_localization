@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 213,
-                "Title": "I would actually...",
+                "Title": "实际上，我会…",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Honestly, this is a rather long story…",
+                "Title": "老实说，这是一个相当长的故事…",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The people here called this sorcerer \"The False King\", for they knew well that the Witch-king himself could never go to Khazad-dûm. Cromhes determined that this Steward of Khazad-dûm had to be stopped before he could gather strength in the South. He gathered together as many of the people here as would follow him and journeyed west with the rest of our companions, believing that Khazad-dûm was not yet strong enough to withstand a united front. I was left behind to take word to Mitheithel in the event the expedition failed...which it did. Do you wish to hear more?",
+    "DialogText": "这里的人们称这个巫师为“伪王”，因为他们很清楚，巫王本人是不可能去卡扎 督姆的。克罗米斯决定，必须在卡扎督姆的统治者前往南方集结力量之前阻止他。 他召集了这里所有愿意跟随他的人，与其他同伴一起向西进发，因为他相信卡扎 督姆还没有强大到可以抵挡统一战线的力量。我被留下来向米斯艾塞尔河营地传 话，以防远征失败……结果确实如此。你还想听更多吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

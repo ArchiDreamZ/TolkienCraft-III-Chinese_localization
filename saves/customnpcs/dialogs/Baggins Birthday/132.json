@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "伊森巴德·地湖(Isembard Underlake) II",
+    "DialogTitle": "Isembard Underlake II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "这里的所有人都参加了那个派对，但由于食物、饮料、跳舞和所有孩子们到处跑，只有少数人真正目睹了比尔博的消失表演！,,
-
-我侄女的姐姐的表兄弟……啊，你懂的，我和那个小伙子聊天，他说他看到那个巫师甘道夫把比尔博先生塞进一个巨大的口袋里！他说那是在雾气中隐约可见，比尔博先生不知像什么一样扭来扭去！然后他们就消失得无影无踪了！",
+    "DialogText": "这里的所有人都参加了那个派对，但由于食物、饮料、跳舞和所有孩子们在到处 跑，只有少数人真正目睹了比尔博的消失表演！
+我侄女的姐姐的表兄弟……啊，你懂的，我和那个小伙子聊天，他说他看到那个 巫师甘道夫把比尔博先生塞进一个巨大的口袋里！他说那是在雾气中隐约可见， 比尔博先生不知像什么一样扭来扭去！然后他们就消失得无影无踪了！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

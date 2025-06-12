@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 416,
-                "Title": "What makes her so troubling to a wizard?",
+                "Title": "是什么让你因为她而如此困扰？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, good thing you’re a wizard then I suppose.",
+                "Title": "我想，幸好你是个巫师。",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p, I need to speak with you. I have heard of your adventures at Khazad Dûm, and I am concerned. Besides your strange encounters with her during your travels, I have never heard of this Nerea Aubertin, and I am troubled by her.",
+    "DialogText": "@p，我要和你谈谈。我听说了你在卡扎督姆的冒险经历，我很担心。除了你在 旅行中与她的奇遇，我从未听说过这个内雷亚·奥贝坦，我对她感到不安。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 133,

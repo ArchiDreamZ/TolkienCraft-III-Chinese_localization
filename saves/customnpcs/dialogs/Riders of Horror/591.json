@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I won’t be long!",
+                "Title": "我不会去太久的！",
                 "DialogColor": 16189446,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If we attack the orc before they can ride, then they are not Warg-riders. They are only orcs, and orcs we can defeat handily.",
+    "DialogText": "如果我们在他们骑上座狼之前攻击奥克，那么他们就不是座狼骑手了。他们只是 奥克，而我们可以轻松击败奥克。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

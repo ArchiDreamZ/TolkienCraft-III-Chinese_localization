@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, let’s go, I will lead you out of here.",
+                "Title": "好了，走吧，我带你离开这里。",
                 "DialogColor": 12910847,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I am still weak and cannot make my way from this place on my own. Will you aid me? You need only take me as far as the archway to the west.",
+    "DialogText": "我还很虚弱，无法独自离开这里。你愿意帮助我吗？你只要带我走到西边的拱门 就可以了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

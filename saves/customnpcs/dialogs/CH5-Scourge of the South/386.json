@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 387,
-                "Title": "So what of the sword now?",
+                "Title": "那么，这把剑现在该怎么办？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It is interesting that the shield you found was not Cromhes’, but it is of the South Kingdom. It is quite a mystery…but one that must be solved another time, I suppose.",
+    "DialogText": "有趣的是，你找到的盾牌不是克罗米斯的，而是南方王国的。这真是一个谜…… 但我想，这个谜必须等到下次才能解开。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

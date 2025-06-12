@@ -6,11 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Hope of Vengence I",
-    "Text": "Elrond renamed Cromhes’ sword Apostle, Hope of Vengence, and prophesied that it would one day avenge the death of Layles, Cromhes’ daughter.
+    "Text": "埃尔隆德将克罗米斯的剑改名为使徒——复 仇的希望，并预言这把剑终有一天会为克罗 米斯的女儿——莱尔斯报仇。
 
-Thurdan is at the Dwarven outpost in the Flaming Deeps in Moria..
+瑟尔丹现在就在矮人前哨站，在墨瑞亚的烈 火深渊里……
 
-Elrond gave you the sword Apostle and told you to take it and the rest of Cromhes’ gear to Thurdan.",
+埃尔隆德把剑交给你，并让你把剑和其余的 克罗米斯的装备带到瑟尔丹那里去。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -81,6 +81,6 @@ Elrond gave you the sword Apostle and told you to take it and the rest of Cromhe
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "You have returned, @p!",
+    "CompleteText": "你回来了，冒险家！",
     "NextQuestTitle": ""
 }

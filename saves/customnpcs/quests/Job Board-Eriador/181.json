@@ -7,9 +7,9 @@
     "QuestRepeat": 2,
     "QuestCompletion": 0,
     "Title": "The Perfect Tulip I",
-    "Text": "Castien is by the forge in Eriador, east along the Bruinen.
+    "Text": "卡西迪恩就在埃利阿多的锻造炉旁，沿着布 茹伊能河向东。
 
-Castien has asked you to bring him a perfect tulip of exquisite beauty. No other kind will do.",
+卡西迪恩请你给他带来一朵完美无瑕的郁金 香。其他种类都不行。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -48,7 +48,7 @@ Castien has asked you to bring him a perfect tulip of exquisite beauty. No other
             }
         ]
     },
-    "CompleteText": "Found a perfect lily",
+    "CompleteText": "找到一朵完美的郁金香",
     "NextQuestTitle": "The Perfect Tulip II",
     "QuestLocation": "Hunt for the perfect Tulip"
 }

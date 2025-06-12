@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 278,
-                "Title": "I have heard some, but what can we do?",
+                "Title": "我听说了一些，但我们能做些什么呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "It’s horrible, but sorry, can’t help you.",
+                "Title": "这太可怕了，但很抱歉，我帮不了你。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If you came from Rurain, I have no doubt you heard that my father was lost. He was indeed lost to us, but I do not believe he was slain. I have heard reports from our allies that he was taken captive and is being held within the dungeons of Moria.",
+    "DialogText": "如果你从鲁林那里来的，我相信你一定听说过我父亲失踪的消息。他确实走失了， 但我不相信他被杀死了。我从我们的盟友那里听说，他被俘虏了，现在被关在摩 瑞亚矿坑里。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 73,

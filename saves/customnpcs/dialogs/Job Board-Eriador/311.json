@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Is that all?  Too easy!",
+                "Title": "就这些？ 太简单了！",
                 "DialogColor": 12730133,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Morgor Orcs pour through the nearby forests daily, making The Forsaken Inn especially deadly. Can you defeat 25 Orcs and hopefully make this area safer?",
+    "DialogText": "魔多奥克每天都会涌入附近的森林，使遗忘客栈变得格外危险。你能打败25个 奥克，让这个地区变得更安全吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

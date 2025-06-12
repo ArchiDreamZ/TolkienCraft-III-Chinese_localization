@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, guess I’ll go speak to her then.",
+                "Title": "好吧，那我就去找她谈谈。",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Oh no!  That's not unusual. She is always wandering off. She fashioned herself a wooden sword and fancies herself a hero... can you believe that? What I called for help on is for someone to go find her and make sure she’s safe.  Her sister Ermengard should have a better idea of where to go looking for her.",
+    "DialogText": "哦，不！这并不稀奇。她总是乱跑她给自己做了一把木剑，还自以为是个英雄… …你能相信吗？我求助的是找个人去找她，确保她的安全。她姐姐艾门加德应该 更清楚该去哪里找她。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

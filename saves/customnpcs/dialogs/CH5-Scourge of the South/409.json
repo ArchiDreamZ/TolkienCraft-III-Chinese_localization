@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 374,
-                "Title": "Actually, I agree with you!",
+                "Title": "事实上，我同意你的观点！",
                 "DialogColor": 3145231,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We cannot deal with that matter now. We should leave here before we are overrun with enemies.",
+    "DialogText": "我们现在不能处理这件麻烦，我们应该在这里被敌人重新占领之前离开。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

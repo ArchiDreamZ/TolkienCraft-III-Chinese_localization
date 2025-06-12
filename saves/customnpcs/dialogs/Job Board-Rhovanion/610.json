@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thanks for the warning!",
+                "Title": "谢谢提醒！",
                 "DialogColor": 16648961,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Look for Orc corpses along the border of the Golden Wood, east of here, and recover arrows from their bodies. Do not get too near the border, for the Galadhrim may shoot you from hiding if they do not know you! Stray not too near to the border if you value your life.",
+    "DialogText": "在这里以东的黄金森林边界寻找奥克的尸体，从他们的尸体上取箭。不要太靠近 边境，因为加拉兹民如果不认识你，可能会从藏身处射杀你！如果你珍视自己的 生命，就不要离边境太近。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

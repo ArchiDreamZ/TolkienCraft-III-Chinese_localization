@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Making a New Friend III",
-    "Text": "Tom Bombadil asked you to stand in the foam of the waterfall north-east of his house at the head of the river, if you want to learn about him.",
+    "Text": "汤姆·邦巴迪尔让你站在他家东北边河源头 瀑布的泡沫中，如果你想了解他的话。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You stand in the cold water until you are water-logged and sopping.",
+    "CompleteText": "你站在冷水中，直到浑身湿透。",
     "NextQuestTitle": "Making a New Friend IV",
     "QuestLocation": "Waterfall"
 }

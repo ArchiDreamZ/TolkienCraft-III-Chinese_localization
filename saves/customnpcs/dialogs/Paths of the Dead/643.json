@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sounds interesting, but I'll pass.",
+                "Title": "听起来很有趣，但我还是算了吧。",
                 "DialogColor": 16125966,
                 "OptionType": 0
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 644,
-                "Title": "What can I do?",
+                "Title": "我能做些什么呢？",
                 "DialogColor": 1899547,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There is a type of mushroom, the Bloom of Decay, that is very potent and powerful. Its primary use is to make poisons, very virulent concoctions that can kill a man within minutes. However, few know of its other, more valuable use. With the right treatment, patience, and time, it can cure a myriad of poisons and diseases.",
+    "DialogText": "有一种名为\"腐烂之花\"的蘑菇非常强效。它的主要用途是制作毒药，毒性 极强的药剂能在几分钟内杀死一个人。然而，很少有人知道它还有其他更有价值 的用途。只要有正确的治疗方法、耐心和时间，它就能治愈无数的毒药和疾病。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": 233,
     "AvailabilityQuest2Id": 228,

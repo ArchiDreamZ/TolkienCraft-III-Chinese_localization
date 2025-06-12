@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Test of Character I",
-    "Text": "Elrond is in the library of his house in Rivendell.
+    "Text": "埃尔隆德正在他幽谷房屋的图书馆里。
 
-Elrond Halfelven has summoned you to speak with him on some urgent matter.",
+半精灵埃尔隆德传唤你与他谈一些紧急的事 情。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 150,
@@ -58,7 +58,7 @@ Elrond Halfelven has summoned you to speak with him on some urgent matter.",
             }
         ]
     },
-    "CompleteText": "Welcome, @p. I am pleased to see you well.",
+    "CompleteText": "欢迎你，冒险家。很高兴看到你一切都好。",
     "NextQuestTitle": "",
     "QuestLocation": "Elrond’s Library"
 }

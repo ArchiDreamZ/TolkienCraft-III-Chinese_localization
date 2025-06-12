@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 610,
-                "Title": "Any way I can help out?",
+                "Title": "我能帮上什么忙吗？",
                 "DialogColor": 1637911,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Suppose you could make more then.",
+                "Title": "那你应该能赚更多吧。",
                 "DialogColor": 16648961,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The sharp eyes of the Galadhrim are quick to discern passage of the Orc-hosts, and any Orc so found cannot expect to live for long. But there are so many of the vile creatures that the arrows of the Galadhrim will be in short supply before much longer.",
+    "DialogText": "加拉兹民锐利的眼睛能很快辨别出奥克的行踪，任何被发现的奥克都不可能活得 太久。但是，这些可恶的生物太多了，用不了多久，加拉兹民的箭就会消耗殆尽。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

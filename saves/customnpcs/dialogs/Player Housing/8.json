@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 7,
-                "Title": "Thank you, I have more questions…",
+                "Title": "谢谢你，我还有更多问题要问……",
                 "DialogColor": 16315365,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are currently 3 player areas by default, the local rulers (admin) may add more if they wish.  Each one has 9 houses for sale and each is in a different theme.  You simply go in, look around at the houses still available, then once you have chosen one you talk to the Broker near the market and buy the key that matches the House address you liked.  Then take the key, go to your house and click on the block near the front door that has a house on it.  Once you do, the doors will change so you can then go inside and a sign will be placed to show you are the new owner!  It’s that simple!",
+    "DialogText": "目前初始有3个玩家居所维度，本地统治者（管理员）可根据自己的意愿添加更 多玩家居所维度。每个维度有9栋待售房屋，每栋房屋都有不同的建筑主题。你 只需进入玩家居所维度，四处看看仍在出售的房屋，然后在选定房屋后与市场附 近的地产商人交谈，购买与你喜欢的房屋地址对应的钥匙。然后拿着钥匙去你的 房子，点击前门附近带有房屋纹路的方块。这样，房屋大门就会改变，你就可以 进去了，而且会有一个标志显示你是新房主！就是这么简单！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

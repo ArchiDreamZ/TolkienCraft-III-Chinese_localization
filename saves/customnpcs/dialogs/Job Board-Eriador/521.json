@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sounds easy enough, count me in!",
+                "Title": "听起来很简单，算我一个！",
                 "DialogColor": 16655360,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Only a pink tulip of unsurpassing beauty will be lovely enough for my Elf-maid. Look for one somewhere along the Bruinen, and carefully -- tulips of such a shade are exceedingly rare!",
+    "DialogText": "只有无与伦比的粉色郁金香才能配得上我的精灵侍女。在布茹伊能河畔的某个地 方找一朵吧，而且要仔细找——这种色调的郁金香非常罕见！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

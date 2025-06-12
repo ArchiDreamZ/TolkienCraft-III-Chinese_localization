@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "让我看看它的价格是多少......",
+                "Title": "让我看看它的价格是多少……",
                 "DialogColor": 15525632,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "你知道为什么吗，我改变了主意，谢谢。",
+                "Title": "你知道为什么吗，我改变了主意，谢谢你。",
                 "DialogColor": 16320005,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 1,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "旅店老板",
+    "DialogTitle": "Innkeeper",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 1,
     "AvailabilityFaction2": 0,
@@ -57,13 +57,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你好 @p!
-
+    "DialogText": "你好，@p！
 你是想租一个房间吗？
-
-深色橡木能让你锁门或开锁 10 次。
-云杉能让你使用20 次，而白桦树能让你使用高达 40 次！
-
+深色橡木房能让你开/关门锁10次。
+云杉木房能让你开/关门锁20次，而白桦木房能让你开/关门锁高达40次！
 你想要哪一种？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,

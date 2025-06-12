@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Swift Change I",
-    "Text": "Wynton is just outside the Camp of Arnor, in the direction of the boat that travels across the lake.
+    "Text": "温顿就在阿尔诺营地外，在游船穿过湖面的 方向。
 
-Talacnun has decided that Dreulhara's forces should be engaged in Annúminas in order to keep her from focusing her attention upon the palantír. He has sent you to speak with Wynton for advice on what you can do to help.",
+塔拉克农决定让德鲁哈拉的部队也牵扯进安 努米那斯的战斗，以防止她将注意力集中到 帕蓝提尔。他派你去找温顿，请他告诉你能 帮上什么忙。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 150,
@@ -58,7 +58,7 @@ Talacnun has decided that Dreulhara's forces should be engaged in Annúminas in 
             }
         ]
     },
-    "CompleteText": "Hail, @p!",
+    "CompleteText": "太棒了，冒险家!",
     "NextQuestTitle": "",
     "QuestLocation": "Lake Shore"
 }

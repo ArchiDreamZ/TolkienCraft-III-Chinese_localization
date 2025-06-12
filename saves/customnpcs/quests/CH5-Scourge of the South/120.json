@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Rekindling Hope II",
-    "Text": "Pelleas is in Mitheithel.
+    "Text": "佩利亚斯就在米斯艾塞尔河营地那里。
 
-Guthwine felt he could repair Cromhes' shirt, but the sword and shield were beyond his ability. He asked you to speak to Pelleas in Mitheithel to have those items repaired.",
+古斯威奈觉得他可以修复克罗米斯的盔甲， 但剑和盾牌超出了他的能力范围。他让你去 找米斯艾塞尔河营地的佩利亚斯，他能把这 些东西修好。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -67,6 +67,6 @@ Guthwine felt he could repair Cromhes' shirt, but the sword and shield were beyo
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "So Cromhes lives? It is an amazing thing.",
+    "CompleteText": "那么克罗米斯还活着？这真是一件了不起的 事情。",
     "NextQuestTitle": ""
 }

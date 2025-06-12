@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, wish me luck and we’ll see what we find!",
+                "Title": "好吧，祝我好运，我们会看到我们的发现！",
                 "DialogColor": 16326154,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Mind you, I honestly don’t need any of the treasure.  I am doing quite well.  I just would like you to bring back proof of this so I can finally prove to everyone my Pappy and I were not crazy.",
+    "DialogText": "提醒你一下，老实说，我不需要任何宝藏。我现在过得很好。我只是想让你把证 据带回来，这样我就能向大家证明，我和我爸爸没有疯。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

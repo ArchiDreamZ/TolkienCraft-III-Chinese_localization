@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 70,
-                "Title": "我在哪里可以找到这个王国的主人？",
+                "Title": "我在哪里可以找到这块领地的主人？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "幽谷里的烦恼 II",
+    "DialogTitle": "Troubles of Rivendell II",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我希望布茹伊能渡口的河水在我们离开后能平静下来；我们离开时，它们正处于动荡之中。我担心这些麻烦的根源还没有解决。",
+    "DialogText": "我希望布茹伊能渡口的河水在我们离开后能平静下来；我们离开时，它们正处于 动荡之中。我担心这些麻烦的根源还没有解决。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

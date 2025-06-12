@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "比尔博生日快乐！愿你的脚上永远不会失去毛发！",
+                "Title": "比尔博生日快乐！愿你的双脚永远不会失去毛发！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "巴金斯生日 - 比尔博 V",
+    "DialogTitle": "Baggins’ Birthday - Bilbo V",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你让这位年迈的霍比特人非常开心，给了我好一阵子没有体验过的开怀大笑。精灵们，尽管拥有迷人的魅力，却有一种更深奥的幽默形式。我一直很怀念霍比特人讲的故事！,,
-
-谢谢你的赞赏。显然你很擅长记录和讲述故事。我希望你在冒险中能够继续保持这一点，因为我感觉你将会有很多故事可以讲述！",
+    "DialogText": "你让我这位年迈的霍比特人感到非常开心，给了我好一阵子没有体验过的开怀大 笑。精灵们，尽管拥有迷人的魅力，却有一种更深奥的幽默形式。我一直很怀念 霍比特人讲的故事！
+谢谢你的赞赏。显然你很擅长记录和讲述故事。我希望你在冒险中能够继续保持 这一点，因为我感觉你将会有很多故事可以讲述！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

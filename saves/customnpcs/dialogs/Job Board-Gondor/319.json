@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Right away!!",
+                "Title": "马上来！！",
                 "DialogColor": 12730133,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A terrible fate for certain, but no different than they shall do to us. Go quickly, @p, for we must prepare our defence.",
+    "DialogText": "这肯定是个可怕的命运，但和他们对我们做的没什么两样。快走吧，我们必须准 备防御了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

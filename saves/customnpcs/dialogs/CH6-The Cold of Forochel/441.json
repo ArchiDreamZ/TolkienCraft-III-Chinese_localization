@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 442,
-                "Title": "Alright, I’ll bite and see what this provides.",
+                "Title": "好吧，我咬咬牙，看看她能提供什么。",
                 "DialogColor": 1638167,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "See, now I know you are not telling me the truth.",
+                "Title": "瞧，现在我知道你没跟我说实话了。",
                 "DialogColor": 16459782,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I need your help getting an item in the heart of the High Fells of Rhudar. I am afraid I will not be able to make it on my own. Please help me this one last time, and I promise you that I will answer anything you have to ask.",
+    "DialogText": "我需要你帮助我在鲁道尔高原的中心地带找到一件物品。恐怕我一个人做不到。 请帮我这最后一次，我保证你要问什么，我都会回答。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

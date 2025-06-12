@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 547,
-                "Title": "Wait...what?",
+                "Title": "等等……什么？",
                 "DialogColor": 16578550,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Eldest, that's what I am... Tom remembers the first raindrop and the first acorn... He knew the dark under the stars when it was fearless - before the Dark Lord came from Outside. 
-
-When the Elves passed westward, Tom was here already...",
+    "DialogText": "我是最年长的…汤姆还记得第一颗雨滴和第一颗橡子…在黑暗魔君从外面来之前， 他知道星空下的黑暗是无需恐惧怕的。
+当精灵们向西经过时，汤姆已经在这里了…",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

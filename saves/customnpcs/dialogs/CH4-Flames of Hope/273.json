@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will go see him now.",
+                "Title": "我现在就去见他。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have learned that one party of my kindred is encamped in the Flaming Deeps. Go to them, if you would, and lend them what aid you may.",
+    "DialogText": "我得知我的一队族人正在烈火深渊扎营。如果你愿意，就去找他们，尽你所能帮 助他们。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Dreulhara’s Hope I",
-    "Text": "Talacnun has informed you that there has been a recent growth in the number of Angmarim outside of Annúminas.
+    "Text": "塔拉克农告诉你，安格玛人在安努米那斯城 外的军队数量最近有所增加。
 
-Talacnun has asked you to find Dreulhara and discover her plans. He has sent you to Annúminas with five tokens to request the aid of Rangers to help fight off the Angmarim.
+塔拉克农要求你找到德鲁哈拉，并揭露她的 计划。他让你带着五枚令牌前往安努米那斯， 请求游民的援助，帮助击退安格玛人。
 
-Find and stop Dreulhara.",
+找到并阻止德鲁哈拉",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -52,7 +52,7 @@ Find and stop Dreulhara.",
             }
         ]
     },
-    "CompleteText": "Dreulhara: None can hope to stand against us.",
+    "CompleteText": "德鲁哈拉：没有人能与我们抗衡！",
     "NextQuestTitle": "",
     "QuestLocation": "Annúminas Altar"
 }

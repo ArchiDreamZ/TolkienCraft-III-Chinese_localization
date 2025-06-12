@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Godomar Barrowes",
-    "Text": "Gaffer Gamgee is sure to know which hobbits have the best stories to tell of Bilbo's disappearance and his adventures and whereabouts since then.
+    "Text": "老头儿甘姆吉肯定知道哪些霍比特人最擅长 讲述比尔博失踪的故事，以及他此后的冒险 经历和下落。
 
-Return to Gaffer after speaking to all of the hobbits.
+与所有霍比特人交谈后，返回老头儿那里。
 
-Godomar Barrowes has agreed to share a story about Bilbo Baggins and his adventures.",
+戈多马·群山同意分享关于比尔博·巴金斯 和他的冒险故事。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -64,6 +64,6 @@ Godomar Barrowes has agreed to share a story about Bilbo Baggins and his adventu
             }
         ]
     },
-    "CompleteText": "Looking for stories about Bilbo, are you now? Well as Postman, I know most people and hear most things. I can certainly spare the time to tell you a tale.",
+    "CompleteText": "你正在寻找有关比尔博的故事吗？作为邮差， 我认识大多数人，也听说过大多数事。我当 然有时间给你讲个故事。",
     "NextQuestTitle": ""
 }

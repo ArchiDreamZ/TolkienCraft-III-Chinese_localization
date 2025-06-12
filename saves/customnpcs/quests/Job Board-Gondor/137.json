@@ -5,7 +5,7 @@
     "QuestRepeat": 2,
     "QuestCompletion": 1,
     "Title": "Basket Weaver III",
-    "Text": "Collect woven basket from the weaver.",
+    "Text": "从编织者那里收集编织好的篮子。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,6 +50,6 @@
             }
         ]
     },
-    "CompleteText": "Collected woven basket.",
+    "CompleteText": "收集编织篮",
     "NextQuestTitle": ""
 }

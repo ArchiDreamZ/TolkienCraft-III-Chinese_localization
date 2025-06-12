@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wish me luck!",
+                "Title": "祝我好运吧！",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "This may be an impossible task. For all we know, the Key may be lost forever. But, should you manage to find it, please bring it to me. Perhaps the place to start is these missing pages. See if you can find any of them here in Erebor.",
+    "DialogText": "这可能是一项不可能完成的任务。据我们所知，钥匙可能永远丢失了。但是，如 果你能找到它，请把它带给我。也许可以从这些遗失的书页着手，看看你能不能 在埃瑞博山找到它们中的任何一页。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Rekindling Hope IV",
-    "Text": "Guthwine is at Mitheithel.
+    "Text": "古斯威奈现在就在米斯艾塞尔河营地那里。
 
-You should return to Guthwine to collect Cromhes’ shirt to see if he has any thoughts on how to repair Cromhes’ sword.",
+你应该回到古斯威奈，取回克罗米斯的内衬， 看看他是否有办法修复克罗米斯的剑。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -79,6 +79,6 @@ You should return to Guthwine to collect Cromhes’ shirt to see if he has any t
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "Fortunately, without too much difficulty, I have been able to repair the shirt.",
+    "CompleteText": "幸运的是，我不费吹灰之力就修好了盔甲。",
     "NextQuestTitle": ""
 }

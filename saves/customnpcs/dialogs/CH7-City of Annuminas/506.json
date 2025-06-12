@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 507,
-                "Title": "So neither way will work, so how are you going to get there?",
+                "Title": "所以这两种方法都行不通，那你打算怎么去呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, you two work that out.",
+                "Title": "好吧，你们俩自己解决吧。",
                 "DialogColor": 16525059,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The passage of the mountains could be difficult; the Redhorn Gate is very high up, and in winter, the heights may be treacherous. I do not believe the Gap of Rohan will be open to us; that way would bring the Company too close to Isengard, and Aragorn will understand why we must not go that way.",
+    "DialogText": "红角门地势很高，在冬天，山路可能会很险峻。我不相信洛汗豁口会向我们开放； 那条路会让队伍离艾森加德太近，阿拉贡会理解我们为什么不能走那条路。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

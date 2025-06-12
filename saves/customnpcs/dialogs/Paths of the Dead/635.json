@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 630,
-                "Title": "Is there anything we can do to stop them?",
+                "Title": "我们能做些什么来阻止他们吗？",
                 "DialogColor": 16250871,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 634,
-                "Title": "Interesting, do you have any other work to do?",
+                "Title": "有意思，你还有其他工作要做吗？",
                 "DialogColor": 16518661,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Army of the Dead, also known as the Dead Men of Dunharrow or Oathbreakers, were Men of the White Mountains, cursed to remain in Middle-earth by Isildur after they abandoned their oath to aid him in the War of the Last Alliance.",
+    "DialogText": "亡灵大军，又称黑蛮祠的亡灵或背誓者，是白色山脉的人民，他们在背弃了援助 最后联盟大战的誓言后，被中洲伊熙尔杜诅咒留在中洲。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 37,
-                "Title": "I have a few questions for you.",
+                "Title": "我有几个问题要问你。",
                 "DialogColor": 15724527,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I want to write some letters to friends.",
+                "Title": "我想给朋友们写几封信。",
                 "DialogColor": 16047170,
                 "OptionType": 3
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Actually, I changed my mind.",
+                "Title": "事实上，我改变主意了。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -67,7 +67,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Mighty fine day @p!  Anything I can do for ye?",
+    "DialogText": "美好的一天，@p！有什么需要我帮忙的吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Final Chapter I",
-    "Text": "Falsir has told you he knows the story of the Great Barrow, but that the reality of the place as it exists now must be masked beneath the splendour of legend, lest cautious fear grows into terror.
+    "Text": "法尔西尔已经告诉你，他知道大古冢的故事， 但现在这个地方的真实情况必须被掩盖在绚 丽的传说故事之下，以免谨慎的恐惧之情演 变成真正的恐怖之情。
 
-Zaemrohn is at the furthest end of the Great Barrow, in the deepest halls.
+扎姆罗恩位于大古冢最远的尽头，在最深的 大厅里。
 
-Falsir has asked you to defeat the ancient wight-lord, Zaemrohn.",
+法尔西尔请求你打败古代巫师领主扎姆罗恩。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -44,6 +44,6 @@ Falsir has asked you to defeat the ancient wight-lord, Zaemrohn.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Falsir is awaiting further word of your deeds outside of the Great Barrow.",
+    "CompleteText": "法尔西尔在大古冢之外等待你的进一步消息。",
     "NextQuestTitle": "Final Chapter II"
 }

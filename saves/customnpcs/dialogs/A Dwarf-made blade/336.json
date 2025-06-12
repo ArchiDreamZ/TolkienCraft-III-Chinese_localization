@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "好的，谢谢你所花的时间...",
+                "Title": "好的，抱歉耽误了你的时间……",
                 "DialogColor": 16541443,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "卢修斯·沃勒(Lucious Warrer) II",
+    "DialogTitle": "Lucious Warrer II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "肯顿(Kenton)紧张地擦了擦额头。",
+    "DialogText": "肯顿紧张地擦了擦额头。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

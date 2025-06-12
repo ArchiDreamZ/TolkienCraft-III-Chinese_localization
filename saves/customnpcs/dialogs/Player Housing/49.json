@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 46,
-                "Title": "Thank you, I have more questions…",
+                "Title": "谢谢你，我还有更多问题要问……",
                 "DialogColor": 16010050,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There is a good chance there is no return, but I do offer methods of safe return for sale should you need it.",
+    "DialogText": "很有可能没有安全返回的传送门，但如果你有需要，我可以提供安全返回阿尔达 世界的方法。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

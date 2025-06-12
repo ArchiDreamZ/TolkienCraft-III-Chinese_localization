@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Preparations - Aragorn II",
-    "Text": "Aragorn can be found in the main house and Boromir can be found in one of the guest rooms along the road that winds up the southern slope of the Vale of Imladris.
+    "Text": "阿拉贡可以在主屋找到，而波洛米尔则可以 在客房中找到，沿伊姆拉缀斯谷南坡蜿蜒而 上道路两旁。
 
-Gandalf is on the second floor of the Last Homely House.
+甘道夫就在最后家园的二楼。
 
-Aragorn has asked you to bring word of the two ways south he sees for the Company: by the Redhorn Gate over the mountains, or through the Gap of Rohan.",
+阿拉贡让你把他看到的两条通往南方的道路 带给队伍：从红角门翻山越岭，或者穿过洛 汗豁口。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 150,
@@ -64,6 +64,6 @@ Aragorn has asked you to bring word of the two ways south he sees for the Compan
             }
         ]
     },
-    "CompleteText": "I do know of this third way, and Gandalf knows too that I am loathe to bring the Company through the mountains by that road.",
+    "CompleteText": "我确实知道第三条路，而且甘道夫也知道我 不愿意带队伍从那条路穿过山区。",
     "NextQuestTitle": ""
 }

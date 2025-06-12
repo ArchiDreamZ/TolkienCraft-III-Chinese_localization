@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dancing for a tree...this should be rich...",
+                "Title": "为一棵树起舞……这应该很丰富…",
                 "DialogColor": 16336394,
                 "OptionType": 0
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hey now, still with questions? Tom's way is to take the bad and make it good. Old Man Willow, that mean streak in his heart has grown wider for many a day now, and he could do with some cheering. Go to old Willow-man and dance, and lighten his mood! Then you will know what it is to share Tom's interest in all creatures, both good and bad!
-
-{When close enough, simply type the word dance in chat}",
+    "DialogText": "还想问问题吗？汤姆的方法是化腐朽为神奇。柳树老头，他心中的那股恶气已经 滋长了许多天，他需要一些欢呼声。去柳树老头那儿跳跳舞，让他的心情轻松一 下！这样你就会知道，汤姆对所有生物，无论好坏，都有着同样的兴趣！
+{当足够接近时，只需在聊天框中输入dance一词。}",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

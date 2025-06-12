@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 288,
-                "Title": "Why would I need to travel there?",
+                "Title": "我为什么要去那里？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "对话",
                 "DialogColor": 16010050,
                 "OptionType": 2
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I believe such a key could be made of mithril, for the strength of Moria-silver may overcome whatever resistance the lock may give. Unfortunately, we have not mithril to use. Perhaps you should seek the aid of Lord Dáin II Ironfoot at Erebor in Rhovanion.
+    "DialogText": "我相信这种钥匙可以用秘银制成，因为墨瑞亚银的强度可以克服锁的任何阻力。 可惜我们没有秘银可用。也许你应该去罗瓦尼安的埃瑞博山寻求铁足戴因大人的 帮助。
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,

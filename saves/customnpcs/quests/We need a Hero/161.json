@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Merovech Hornwood",
-    "Text": "Someone has sent you mail.",
+    "Text": "有人给你寄了信。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -64,7 +64,7 @@ Merovech Hornwood"
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Merovech Hornwood has sent you a letter, better seek out a mail box or Postman to see what he wants.",
+    "CompleteText": "梅洛维奇·角木给你寄了一封信，你最好去 信箱或邮递员那里看看他想要你做什么。",
     "NextQuestTitle": "Adventure Lads I",
     "QuestLocation": "Eriador Job Board"
 }

@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Heart of the Watchers I",
-    "Text": "The rubbing you made showed runes of a foul nature, written in the Black Speech, which Manwyn is not well-versed in; however, he was able to make out something about the \"heart\" of the stone.
+    "Text": "你做的拓印是用黑语书写的邪恶符文，曼温 对黑语并不精通；不过，他还是能看出一些 关于雕像“心”的东西。
 
-Manwyn has asked you to find one the stone-hearts the runes spoke of by searching lifeless watching-stones located east of Stoneyford, on the way to Dol Guldur.",
+曼温让你去寻找符文中提到的石心，方法是 在石头渡口以东，通往多古尔都的路上寻找 无生命的监视者石像。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,9 +50,9 @@ Manwyn has asked you to find one the stone-hearts the runes spoke of by searchin
             }
         ]
     },
-    "CompleteText": "You examine the watching-stone closely and discover, through a crack in the stonework, a strange, dark rock. As you pick up the rock, you experience a brief feeling of uneasiness, but it passes quickly.
+    "CompleteText": "你仔细检查了监视者石像，从石缝中发现了 一块奇特的黑石头。当你拾起这块石头时， 你感到一阵短暂的不安，但很快就过去了。
 
-Collected a heart from a lifeless watching-stone.",
+从一个无生命的监视者石像中收集得到一颗 心脏。",
     "NextQuestTitle": "Heart of the Watchers II",
     "QuestLocation": "Lifeless Watcher"
 }

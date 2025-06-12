@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 386,
-                "Title": "Yes, but where is Cromhes’ real shield?",
+                "Title": "是的，但克罗米斯真正的盾牌在哪里？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sadly, there is a lot of that lately.",
+                "Title": "遗憾的是，最近这种情况很多。",
                 "DialogColor": 16390404,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I am disappointed though that Pelleas was unable to repair the sword. At least he was able to repair the shield.",
+    "DialogText": "佩利亚斯没能修好剑，这让我有点失望。不过至少他还能修复盾牌。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 123,

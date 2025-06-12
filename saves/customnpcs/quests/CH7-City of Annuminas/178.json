@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Preparations - Boromir II",
-    "Text": "Aragorn can be found in the main house and Boromir can be found in one of the guest rooms along the road that winds up the southern slope of the Vale of Imladris.
+    "Text": "阿拉贡可以在主屋找到，而波洛米尔则可以 在客房中找到，沿伊姆拉缀斯谷南坡蜿蜒而 上道路两旁。
 
-The guards at the southern entrance to the Vale of Imladris are atop the road that winds up the southern slope from the guest rooms.
+伊姆拉缀斯山谷南面入口处的守卫就在道路 的顶端，从客房向南坡蜿蜒而上的道路。
 
-Boromir has asked you to see if the guards at the southern entrance to the Vale of Imladris require the strength of his arm in the valley's defence.",
+波洛米尔让你去看看伊姆拉缀斯山谷南入口 的守卫是否需要他的助力来保卫山谷。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 150,
@@ -64,6 +64,6 @@ Boromir has asked you to see if the guards at the southern entrance to the Vale 
             }
         ]
     },
-    "CompleteText": "What did you say, @p? The Elves have turned down my offer of aid?",
+    "CompleteText": "你说什么，冒险家？精灵们拒绝了我的援助？",
     "NextQuestTitle": ""
 }

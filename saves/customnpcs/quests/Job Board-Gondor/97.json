@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "In Need of Supplies",
-    "Text": "You accepted a task with finding Mumakil Hide from Mumakil making Umbar their home. Reinfridus awaits the delivery of these items at the Docks in Pelargrir.",
+    "Text": "你接受了一项任务，要从乌姆巴尔的猛犸身 上获取猛犸兽皮。莱因弗里德正在佩拉基尔 的码头等待这些物品的运送。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -131,6 +131,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Thank you @p, as promised here is your payment.  Come back to me if you ever want to help again.",
+    "CompleteText": "谢谢你，冒险家，这是你的报酬。如果你还 想帮忙，请再来找我。",
     "NextQuestTitle": ""
 }

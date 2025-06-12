@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "我能看到的戒灵是一回事......但我看不到的戒灵，就不用了，谢谢！",
+                "Title": "我能看到的那兹古尔是一回事……但我看不到的那兹古尔，就不用了，谢谢！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "格罗芬德尔领主的智慧 III",
+    "DialogTitle": "Wisdom of Lord Glorfindel III",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我们知道的比以前更多了，@p，但我们还不知道，为了所有在这一地区生活或旅行的人的安全，我们必须知道：失踪的戒灵的下落。他的黑骏马是我们寻找的最大盟友，因为他可以脱下斗篷，几乎不被人发现，但他的马是凡物，它的形迹可以被追踪。现在这匹马已经死了，可能是精疲力竭，也可能是死于主人之手，我们追踪戒灵的能力大打折扣。",
+    "DialogText": "我们知道的比以前更多了，@p，但我们还不知道，为了所有在这一地区生活或 旅行的人的安全，我们必须知道：失踪的那兹古尔的下落。他的黑骏马是我们寻 找那兹古尔的最大助手，因为他可以脱下斗篷，几乎不被人发现，但他的马是凡 物，它的形迹可以被追踪。现在这匹马已经死了，可能是精疲力竭，也可能是死 于主人之手，我们追踪到那兹古尔的可能性大打折扣。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

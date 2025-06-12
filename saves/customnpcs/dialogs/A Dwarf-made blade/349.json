@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "锻造一把新剑 IV",
+    "DialogTitle": "Forging a new sword IV",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,8 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "把这些东西拿给他修理。这把斧头需要新的柄，盾牌需要新的皮革，头盔需要重新塑形和加固。把它带给卢修斯(Lucious)，告诉他如果他修好了，而且我对工作满意，他欠我两把剑的费用就一笔勾销。,
-
+    "DialogText": "把这些东西拿给他修理。这把斧头需要新的柄，盾牌需要新的皮革，头盔需要重 新塑形和加固。把它带给卢修斯，告诉他如果他修好了，而且我对工作满意，那 他欠我两把剑的费用就一笔勾销。
 现在你走吧，我得开始打造这把新剑了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,

@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Feat of Engineering",
-    "Text": "One of the Great Water Wheels was damaged and must be repaired before the dwarves can put it in place as part of the rebuilding of the Waterworks.
+    "Text": "作为提水工坊重建工作的一部分，其中一个 大水车已损坏，必须进行修复，在矮人将其 安装到位之前。
 
-Ovim Ironsmith Has asked you to search around the waterworks to find all of the missing pieces so he can repair the Great Wheel behind him.",
+铁匠奥维姆让你在提水工坊的四处搜素一下， 找到所有大水车缺失的碎片，以便他能修复 身后的大水车。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -89,6 +89,6 @@ Ovim Ironsmith Has asked you to search around the waterworks to find all of the 
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Excellent work @p!  I can now get back to repairing this wheel.",
+    "CompleteText": "干得漂亮，冒险家！我现在可以回去修理这 个水车了。",
     "NextQuestTitle": ""
 }

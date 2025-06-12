@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 568,
-                "Title": "About time, let’s get going.",
+                "Title": "时间差不多了，我们走吧。",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wait, I think I dropped something near the waterfall!",
+                "Title": "等等，我好像在瀑布附近掉了什么东西！",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I would say it is time I get back to Bucklebury, and for your own journey to continue! I have enjoyed this brief stay at the house of Tom Bombadil, but there are many other places to see and people to meet!",
+    "DialogText": "我想说，我该回雄鹿镇了，你们的旅程也该继续了！我很享受在汤姆·邦巴迪尔 家的短暂停留，但还有许多其他地方要去看，还有许多人要去见！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

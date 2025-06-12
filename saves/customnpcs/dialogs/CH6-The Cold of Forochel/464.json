@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 465,
-                "Title": "Where do I start?",
+                "Title": "从哪里开始？",
                 "DialogColor": 523558,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Good luck on that mission.",
+                "Title": "祝你执行任务顺利。",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I will let you bring five of my men with you. Whatever you do, you must come back with information about her plans. This is most urgent for the Dúnedain and for Eriador. We cannot let the Lidless Eye have any more influence in this region.",
+    "DialogText": "我会让你带上我的五个手下。无论如何，你必须带着关于她计划的情报回来。这 对杜内丹人和埃利阿多地区来说都是当务之急。我们不能让无睑魔眼在这一地区 再有任何影响。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

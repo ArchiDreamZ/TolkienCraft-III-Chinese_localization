@@ -7,13 +7,13 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Cromhes’ Request - Comb II",
-    "Text": "Cromhes is concerned that Brimigak's Knights will be taken into Dreulhara's service.
+    "Text": "克罗米斯担心布里米加克的骑士团会为德鲁 哈拉效力。
 
-Cromhes has asked you to return to three places where Nerea Aubertin has been encountered in the past and speak with allies in those places.
+克罗米斯要求你回到过去曾遇到过内雷亚· 奥贝坦的三个地方，并与这些地方的盟友交 谈。
 
-Constable Underhill is in Combe, south of the Knight's camp.
+山下氏警官就在库姆村，骑士营地的北面。
 
-Having defeated the Knight of Brimigak, you return to Constable Underhill and let him know that the threat is ended.",
+打败布里米加克骑士后，你回到山下氏警官 身边，告诉他威胁已经解除了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -54,7 +54,7 @@ Having defeated the Knight of Brimigak, you return to Constable Underhill and le
             }
         ]
     },
-    "CompleteText": "It was the knight you sought, and you have slain him?",
+    "CompleteText": "这就是你要找的骑士，而你却杀了他？",
     "NextQuestTitle": "",
     "QuestLocation": "Combe"
 }

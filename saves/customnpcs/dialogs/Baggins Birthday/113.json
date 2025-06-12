@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "巴金斯生日 - 弗罗多 II",
+    "DialogTitle": "Baggins’ Birthday - Frodo II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p, 很高兴你在这里。我需要像你这样的冒险家来帮助我给比尔博叔叔准备一个生日惊喜。,,
-
-当比尔博叔叔决定在幽谷重新安家时，像你可能听说的那样，他想典型地以一场轰轰烈烈的派对和一阵闪光结束了自己的生日派对！",
+    "DialogText": "@p，很高兴你在这里。我需要像你这样的冒险家来帮助我给比尔博叔叔准备一 个生日惊喜。
+像你可能听说的那样，当比尔博叔叔决定在幽谷重新安家前，他想经典地以一场 轰轰烈烈的派对和一阵闪光来结束自己的生日派对！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

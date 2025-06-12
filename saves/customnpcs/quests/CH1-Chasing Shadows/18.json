@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Hiding in the Dark - Sholdroth",
-    "Text": "Elladan has determined that the missing Rider may be hiding in one of the many caves near the Black Steed in the Trollshaws and wants you to search several of them with Glorfindel's beryl.",
+    "Text": "埃尔拉丹已经确定，失踪的黑骑手可能藏身 于黑骏马附近的许多洞穴中的一个，并希望 你利用格罗芬德尔的绿玉一起搜索其中的几 个洞穴，并杀死其中的食人妖。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,6 +40,6 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You have managed to kill the troll of Sholdroth!",
+    "CompleteText": "你成功杀死了肖德罗特洞穴中的食人妖！",
     "NextQuestTitle": ""
 }

@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "The Perfect Tulip II",
-    "Text": "Castien is by the forge in Eriador, east along the Bruinen.
+    "Text": "卡西迪恩就在埃利阿多的锻造炉旁，沿着布 茹伊能河向东。
 
-Castien will be delighted to see that you have found a tulip of exquisite beauty.",
+卡西迪恩会很高兴看到你找到了一朵精致美 丽的郁金香。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -73,6 +73,8 @@ Castien will be delighted to see that you have found a tulip of exquisite beauty
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Such a beauty! This tulip will do nicely, @p.You have my thanks, of course, and they are most heartfelt!",
+    "CompleteText": "太美了！这朵郁金香会很出色完成它的任务， 冒险家。
+
+当然，我对你表示衷心的感谢！",
     "NextQuestTitle": ""
 }

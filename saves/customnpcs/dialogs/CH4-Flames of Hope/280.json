@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 281,
-                "Title": "How can we read it then?",
+                "Title": "那我们如何读懂它呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, that was a waste of time.",
+                "Title": "好吧，那真是浪费时间。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I fear we may have been deceived, @p, for this scroll is written in Black Speech and may say nothing of value. I cannot say, for Black Speech is not a tongue with which I am familiar. Even so, I would know what this says.",
+    "DialogText": "我担心我们可能被骗了，@p，因为这卷轴是用黑语写的，可能没有什么价值。 我不会说黑语，因为黑语不是我熟悉的语言。即便如此，我也知道这上面写的是 什么。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 74,

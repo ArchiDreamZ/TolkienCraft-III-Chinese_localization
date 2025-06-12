@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 239,
-                "Title": "Will this take long?",
+                "Title": "这需要很长时间吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I'll come back later.",
+                "Title": "我一会儿再来。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 239,
     "OptionFaction2Points": 100,
-    "DialogText": "You have the mithril, I see, and that foul key from the Bandit. All right then, give them here. I'll get started on smelting down that mithril!",
+    "DialogText": "我明白了，你有秘银，还有强盗给你的那把臭钥匙。好吧，把它们给我，我这就 开始熔炼秘银。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

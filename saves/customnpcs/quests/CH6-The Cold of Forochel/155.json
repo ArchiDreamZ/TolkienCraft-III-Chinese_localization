@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Dreulhara’s Hope II",
-    "Text": "Talacnun has informed you that there has been a recent growth in the number of Angmarim outside of Annúminas.
+    "Text": "塔拉克农告诉你，安格玛人在安努米那斯城 外的军队数量最近有所增加。
 
-Talacnun has asked you to find Dreulhara and discover her plans. He has sent you to Annúminas with five tokens to request the aid of Rangers to help fight off the Angmarim.
+塔拉克农要求你找到德鲁哈拉，并揭露她的 计划。他让你带着五枚令牌前往安努米那斯， 请求游民的援助，帮助击退安格玛人。
 
-Defeat Dreulhara’s Orc Guard",
+打败德鲁哈拉的奥克部队。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -56,6 +56,6 @@ Defeat Dreulhara’s Orc Guard",
             }
         ]
     },
-    "CompleteText": "Dreulhara: Your victory will not last @p!",
+    "CompleteText": "德鲁哈拉：你的胜利不会长久的，冒险家！",
     "NextQuestTitle": "Dreulhara’s Hope III"
 }

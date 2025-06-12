@@ -5,10 +5,10 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Tunnel Blockade",
-    "Text": "The goblins that Dwalthal Hammerbeard has asked you to clear can be found in the Water Works
+    "Text": "德瓦萨·锤须要求你清除的半兽人可在提水 工坊找到。
 
 
-Dwalthal Hammerbeard, the librarian of the Water Works expedition, has asked you to aid him by clearing the road leading to the 21st Hall of goblins.
+提水工坊探险队的图书管理员——德瓦萨· 锤须请你协助他清理通往第二十一大厅道路 上的半兽人。
 ",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -44,6 +44,6 @@ Dwalthal Hammerbeard, the librarian of the Water Works expedition, has asked you
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Excellent! With that path clear again, it will be much easier to deliver supplies to the Twenty-first Hall.",
+    "CompleteText": "好极了！有了这条路，向第二十一大厅运送 物资就容易多了。",
     "NextQuestTitle": ""
 }

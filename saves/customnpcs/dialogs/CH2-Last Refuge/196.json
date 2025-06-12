@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 197,
-                "Title": "Is that even possible?!?",
+                "Title": "这可能吗？！？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, that’s it, don’t think I am even going to give in this time!",
+                "Title": "好吧，就这样吧，这次我不会再让步了！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The dragon was defeated, however, I fear the cold and ice of Carn Dûm may have preserved the body of the dragon far longer than any would have thought. Even after death and the passage of so many years, the body of the dragon would possess much power. I fear that Drugoth the Gaunt-lord might use his arts to place some spirit within that corpse, raising the most terrible of wights to the service of Angmar.",
+    "DialogText": "巨龙虽然被打败了，但卡恩督姆的寒冷和冰雪恐怕远超任何人想象，得以更长久 地保存了龙尸。即使死后经过这么多年，龙尸也会拥有强大的力量。我担心，柴 骨领主德鲁戈斯可能会用他的技艺在那具尸体中植入一些灵魂，让最可怕的尸妖 为安格玛王国服务。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

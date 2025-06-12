@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 459,
-                "Title": "What should we do?",
+                "Title": "我们该怎么办？",
                 "DialogColor": 65333,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, Eru’s speed in your task then!",
+                "Title": "那么，一如的速度就是你完成任务的速度！",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "While you were gone, I spoke with Thurdan about Dreulhara, and it seems he is the one with whom you should speak. He knows much more about this woman than any other, it seems.",
+    "DialogText": "你不在的时候，我和瑟尔丹谈过德鲁哈拉的事，看来他才是你应该找的人。他似 乎比其他人更了解这个女人。",
     "AvailabilityQuest4Id": 152,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

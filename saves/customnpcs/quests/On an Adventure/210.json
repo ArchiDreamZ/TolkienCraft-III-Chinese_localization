@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Heading Home I",
-    "Text": "Adalbert and Ermengard Boffin are in their home in Bucklebury, and each of them wishes to speak with you.",
+    "Text": "阿德尔伯特和艾门加德·博芬正在雄鹿镇的 家中，他们都希望与你谈话。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -104,6 +104,6 @@
             }
         ]
     },
-    "CompleteText": "Ah, Ermengard will calm down in time.",
+    "CompleteText": "啊，艾门加德会慢慢平静下来的。",
     "NextQuestTitle": ""
 }

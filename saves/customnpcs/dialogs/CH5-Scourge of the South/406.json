@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Meet you there.",
+                "Title": "我们在那里见面。",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We will confront him as soon as you arrive.  I will provide a means of travel for you to get there.",
+    "DialogText": "你一抵达，我们就动身去杀了他。我会为你提供前往那里的交通工具。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

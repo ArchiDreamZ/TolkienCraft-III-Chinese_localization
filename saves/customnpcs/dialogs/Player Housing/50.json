@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 46,
-                "Title": "Thank you, I have more questions…",
+                "Title": "谢谢你，我还有更多问题要问……",
                 "DialogColor": 16010050,
                 "OptionType": 1
             }
@@ -40,13 +40,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The temple makes available three realms.  They are:
-
-The Realm of Fire, a vast wasteland of fire and lava where evil creatures immune to the heat roam to challenge you.
-
-The Realm of Darkness, rich in resources but hiding an ancient evil and the monsters there are significantly stronger to test even the hardiest warrior, so take plenty of light to protect yourself.
-
-The Realm of Air, a history long lost to time with a guardian that’s fierce and and even more powerful foe that awaits should you delve into the chaos.",
+    "DialogText": "神庙提供三个世界可以前往。它们分别是：
+烈火世界是一片充满火焰和熔岩的广袤荒原，在这里，对高温免疫的邪恶生物四 处游荡，时刻向你发起挑战。
+漆黑世界资源丰富，但隐藏着古老的邪恶，那里的怪物非常强大，即使是最坚韧 的战士也要经受考验，所以要带上充足的照明来保护自己。
+虚无世界是一段早已湮灭的历史，这里有一位凶猛的守护者，如果你深入混沌， 还有更强大的敌人在等着你。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Narmos will wish he never met me!",
+                "Title": "纳莫斯会希望他从未见过我！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Go quickly, for if he is preparing yet another watching-stone, you may not get another chance!",
+    "DialogText": "快去，如果他在准备另一座监视者石像，你可能就没有机会了！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

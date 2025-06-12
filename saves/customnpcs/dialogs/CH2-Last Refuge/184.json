@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 185,
-                "Title": "I am ready now, what do I need to do?",
+                "Title": "我现在已经准备好了，我需要做什么？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me come back when I am better prepared.",
+                "Title": "等我准备好了再来吧。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Now that we have the Key-stone, the back way into the Dourhand keep will be open to us! You should be able to confront both the Nazgûl and Dugorim. However, the task will be a great one, and you will need to be prepared, so make sure you have strong equipment. Also, since completion of this task may mean the end of Dugorim, a great boon to Durin's Folk, I will send my son Gimli ahead of you to make sure the secret way is open. I will entrust him with both the Key-stone and the secret dwarf-lore needed to open the gate.",
+    "DialogText": "现在我们有了钥匙石，进入杜汉德矮人城堡的后门就会向我们敞开！你应该可以 同时面对戒灵和杜戈林。不过，任务艰巨，你需要做好准备，所以一定要有强大 的装备。此外，由于完成这项任务可能意味着杜戈林的灭亡，这对都灵之民是一 大福音，我将派我的儿子吉姆利先行一步，确保秘道畅通无阻。我将把打开大门 所需的钥匙石和矮人秘传都托付给他。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 31,

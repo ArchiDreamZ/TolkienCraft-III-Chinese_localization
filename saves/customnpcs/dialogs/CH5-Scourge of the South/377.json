@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "On my way.",
+                "Title": "我立刻上路！",
                 "DialogColor": 16070151,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Take this equipment to Mitheithel in the South Downs -- I am sure you have been there before. Tell them Thurdan of Eregion sent you. Time is wasting for Cromhes.",
+    "DialogText": "把这些装备带到南岗的米斯艾塞尔河营地——我相信你以前去过那里。告诉他们 是埃瑞吉安的瑟尔丹派你来的。对于克罗米斯而言，时间正在一分一秒地浪费。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

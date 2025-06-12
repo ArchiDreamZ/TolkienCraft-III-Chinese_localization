@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Daring Rescue I",
-    "Text": "Ayduin was captured in the ruins in the south-east when the Orcs overran the explorer’s camp there. See if you can find her and rescue her.",
+    "Text": "艾杜因在奥克攻占探险家营地时，在东南方 的废墟中被俘。看看你能否找到她并救出她。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Hero, you are real...my eyes are not deceived!",
-    "NextQuestTitle": "",
+    "CompleteText": "英雄，你是真实存在的......我的眼 睛没有被欺骗！",
+    "NextQuestTitle": "Daring Rescue II",
     "QuestLocation": "Andrath Ruins"
 }

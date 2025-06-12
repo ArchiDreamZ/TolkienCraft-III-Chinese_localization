@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 275,
-                "Title": "That’s terrible!  What has happened?",
+                "Title": "太可怕了 ！发生了什么事？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Welp, you’ve been found, have a good day!",
+                "Title": "找到你了，祝你愉快！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome, then, and well met! Indeed, we could use your aid. These last few years have seen us nearly vanquished.",
+    "DialogText": "欢迎你的到来。的确，我们需要你的帮助，在过去几年，我们几乎全军覆没。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 71,

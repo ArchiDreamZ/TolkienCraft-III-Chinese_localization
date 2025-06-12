@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 384,
-                "Title": "What shall I do?",
+                "Title": "我该怎么办？",
                 "DialogColor": 3209745,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The sword though, well that is another matter. It was forged by the Elves long ago and is beyond my ability to repair, but I have done what I can.",
+    "DialogText": "不过这把剑就另当别论了。它是很久以前由精灵铸造的。我已经尽力了，但没有 办法修复它。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

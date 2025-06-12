@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 340,
-                "Title": "无论如何，我还是得去问问...",
+                "Title": "无论如何，我还是得去问问……",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "罗杰·弗莱克斯(Roger Flax) I",
+    "DialogTitle": "Roger Flax I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "别拿这种无聊的事情来烦我。矮人总是瞧不起我们，声称我们嫉妒他们。现在他们竟然要开始指责我们偷东西？",
+    "DialogText": "别拿这种无聊的事情来烦我。矮人总是瞧不起我们人类铁匠，声称我们嫉妒他们。 现在他们竟然要开始指责我们偷东西？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

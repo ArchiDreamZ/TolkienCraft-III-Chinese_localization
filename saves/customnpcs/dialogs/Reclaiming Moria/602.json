@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 603,
-                "Title": "So what’s stopping you?",
+                "Title": "那么，是什么阻碍了你？",
                 "DialogColor": 16578806,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Of course there would be a but...",
+                "Title": "当然会有一个，但是……",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "While you were away I found a journal here in the works with the objective of recovering a book, Amazing! But...",
+    "DialogText": "你不在的时候，我在这里发现了一本日记，它的目标是写成一本书，了不起！但 是……",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 216,

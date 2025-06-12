@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 306,
-                "Title": "What would that be?",
+                "Title": "那会是什么呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Yeah, I’m good for now…",
+                "Title": "是的，我现在很好…",
                 "DialogColor": 12728341,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Betan is resting now and recovering nicely, thanks to you, but he asks another favour of you.",
+    "DialogText": "贝坦现在正在休息，恢复得很好，多亏了你，但他还想请你帮个忙。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 93,

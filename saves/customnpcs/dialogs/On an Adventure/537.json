@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 538,
-                "Title": "The Old Forest is definitely not a place for kids to play.",
+                "Title": "老林子绝对不是孩子们玩耍的地方。",
                 "DialogColor": 6617356,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Seems like she can handle herself if she keeps going back.",
+                "Title": "如果她继续回去的话，她似乎能照顾好自己。",
                 "DialogColor": 16731393,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "She's been going further and further into the Old Forest recently, and sometimes brings back mushrooms and other treats for the kids. It's dangerous in there, though. Hurons and wolves, she says!",
+    "DialogText": "她最近越来越喜欢去老林子，有时还会给孩子们带回蘑菇和其他食物。不过，那 里很危险。她说，那里有胡奥恩和狼！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 188,

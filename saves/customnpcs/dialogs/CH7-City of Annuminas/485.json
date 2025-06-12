@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 486,
-                "Title": "I don’t know...Thurdan’s letter...",
+                "Title": "我不知道……但是瑟尔丹的信……",
                 "DialogColor": 130869,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, you have fun with that.",
+                "Title": "好吧，你就尽情享受吧。",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We must make swift change in Annuminas in our favour, @p, before we try to reclaim the palantír. If we keep Dreulhara's attention focused on battles within the city, she will be forced to meet our challenges. She will have less time to use the seeing-stone to find Narchuil!",
+    "DialogText": "在我们试图夺回帕蓝提尔之前，而且安努米那斯的局面对我们还有利的时候，我 们必须做出迅速改变。如果我们让德鲁哈拉的注意力一直牵扯在城内的激烈战斗 上，她就会被迫迎接我们的直接挑战。她就没有那么多时间用帕蓝提尔来寻找力 量魔戒纳屈尔了！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

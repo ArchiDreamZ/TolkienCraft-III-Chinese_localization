@@ -5,9 +5,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Challenging the Watcher",
-    "Text": "Manwyn reacted strangely to the presence and touch of the stone-heart, recoiling from it in terror. He told you that the heart had been prepared to receive a fell spirit from an elder Age, similar to those that inhabit the wights which serve Angmar.
+    "Text": "曼温对石心的存在和触碰做出了奇怪的反应， 惊恐地躲避着它。他告诉你，这颗心已经准 备好接受来自远古时代的堕落之灵，就像那 些依附于安格玛身边为其服务的巫师一样。
 
-Manwyn believes the charm he placed on you will allow you passage through the Watchers, but warns that it may draw an Ancient spirit out you must defeat.",
+曼温相信他给你贴的符咒可以让你越过监视 者，但他警告说，这可能会招引出一个你必 须打败的古老灵魂。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -62,6 +62,6 @@ Manwyn believes the charm he placed on you will allow you passage through the Wa
             }
         ]
     },
-    "CompleteText": "You vanquished the spirit? How your victory heartens me, @p. It gives me hope that we may yet succeed!",
+    "CompleteText": "你战胜了恶灵？你的胜利让我多么振奋，冒 险家。这给了我成功的希望！",
     "NextQuestTitle": ""
 }

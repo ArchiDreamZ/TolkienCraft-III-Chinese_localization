@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Heart of the Watchers II",
-    "Text": "The rubbing you made showed runes of a foul nature, written in the Black Speech, which Manwyn is not well-versed in; however, he was able to make out something about the \"heart\" of the stone.
+    "Text": "你做的拓印是用黑语书写的邪恶符文，曼温 对黑语并不精通；不过，他还是能看出一些 关于雕像“心”的东西。
 
-You should return to Manwyn with the stone-heart that you discovered.",
+你应该带着你发现的石心回到曼温那里。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -65,6 +65,6 @@ You should return to Manwyn with the stone-heart that you discovered.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "This does appear to be such a stone as the runes described, but it is of little use. The heart is cracked.",
+    "CompleteText": "这似乎就是符文所描述的那块石头，但用处 不大。石心早已破裂。",
     "NextQuestTitle": ""
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I shall be on my guard!",
+                "Title": "我会提高警惕的！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You will find Forochel far to the North of Bree, there is a ship-wreck in the bay where she wishes to meet. Go and bring back the palantír.",
+    "DialogText": "你会在布理以北很远处找到佛洛赫尔，在她想见面的海湾里有一艘沉船。去吧， 把帕蓝提尔带回来。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

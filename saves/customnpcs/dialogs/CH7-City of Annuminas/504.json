@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Absolutely!  I’ll be right back!",
+                "Title": "当然！我马上回来！",
                 "DialogColor": 16258316,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I will continue poring over the maps, @p; will you speak with Gandalf about these two routes? I believe he is upstairs here in the House of Elrond.",
+    "DialogText": "我会继续研究地图，@p；你能跟甘道夫谈谈这两条路线吗？我相信他就在埃尔 隆德房间的楼上。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

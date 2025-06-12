@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 221,
-                "Title": "That’s just what we need!",
+                "Title": "这正是我们所需要的！",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I need to be better prepared.  I’ll come back.",
+                "Title": "我需要更好的准备。 我会回来的。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The ritual appears to be related to whatever spell is cast upon these stones to grant them such power, and the sorcerer who is performing the ritual bears with him a stone-heart. If you can interrupt the ritual and slay Narmos, you may be able to recover the stone-heart from him.",
+    "DialogText": "这个仪式似乎与在这些石头上施咒的力量有关，而举行仪式的巫师随身携带着一 颗石心。如果你能打断仪式并杀死纳莫斯，也许就能从他身上取走石心。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

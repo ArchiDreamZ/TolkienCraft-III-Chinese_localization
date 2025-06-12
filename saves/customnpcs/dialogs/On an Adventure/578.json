@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 579,
-                "Title": "Come now, kids will be kids!",
+                "Title": "来吧，孩子就是孩子！",
                 "DialogColor": 16711163,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have scolded Petunia before, and it never seems to do any good. The girl is always going off on these adventures. Adventures! More like mischief and bother, if you ask me!",
+    "DialogText": "我以前也骂过佩图尼亚，但似乎没什么用。这个女孩总是去冒险。冒险，要我说， 更像是恶作剧和麻烦！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 287,
-                "Title": "Perfect! But your tone seems to mean there is trouble...",
+                "Title": "好极了！但你的语气似乎意味着有麻烦……",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "You’ll let Layles know won’t you?",
+                "Title": "你会让莱尔斯知道的，对吧？",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Layles' hopes were not wholly in vain, for this scroll does indeed reveal a way to pass into the dungeons of Moria. The scroll tells of a special key needed, forged of a dire black iron found only in the foul pits of Angmar...and the secrets of its crafting.",
+    "DialogText": "莱尔斯的希望并非完全落空，因为这个卷轴确实揭示了进入墨瑞亚矿坑的方法。 卷轴上记载了一把特殊的钥匙，它是用一种只有在安格玛王国的深渊中才能找到 的可怕黑铁铸造而成的……以及制作这把钥匙的秘密。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

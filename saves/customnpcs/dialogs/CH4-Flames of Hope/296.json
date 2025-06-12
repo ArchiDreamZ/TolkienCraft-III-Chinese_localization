@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, meet you there!",
+                "Title": "好吧，在那儿见！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Meet me outside the entrance to the dungeons in the WaterWorks, I will mark it on your map.",
+    "DialogText": "在提水工坊的矿坑入口外等我，我会在你的地图上做标记。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Into the Dungeon IV",
-    "Text": "Cromhes is at the Dwarven Ember Camp.
+    "Text": "克罗米斯现在就在矮人埃姆伯的营地。
 
-You have rescued Cromhes, but at a terrible cost, The False King, Brimgak, appeared and slew her. You were able to weaken Brimgak and escape with Cromhes back to the Dwarven Embers camp.",
+你救出了克罗米斯，但却付出了惨痛的代价： 伪王布里米加克出现并杀死了莱尔斯。你削 弱了布里米加克的力量，带着克罗米斯逃到 矮人埃姆伯的营地。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 500,
@@ -58,7 +58,7 @@ You have rescued Cromhes, but at a terrible cost, The False King, Brimgak, appea
             }
         ]
     },
-    "CompleteText": "Why did you come?",
+    "CompleteText": "你为什么要来？",
     "NextQuestTitle": "",
     "QuestLocation": "Dwarven Ember Camp"
 }

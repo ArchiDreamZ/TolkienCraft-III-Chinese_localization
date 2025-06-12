@@ -7,8 +7,8 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Wisdom of Lord Glorfindel III",
-    "Text": "Lord Glorfindel is in Imladris, high above the Bruinen and to the east, by the waterfall outside the Last Homely House.
-Glorfindel is waiting to speak with you upon your return from the Ford of Bruinen.",
+    "Text": "格罗芬德尔领主大人位于伊姆拉缀斯，布茹 伊能河的高处，在东面的是最后家园外的瀑 布。
+格罗芬德尔正等着你从布茹伊能渡口回来后 与你交流。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -37,7 +37,7 @@ Glorfindel is waiting to speak with you upon your return from the Ford of Bruine
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You have returned, @p. Did you notice any change in the beryl I gave you when you arrived at the Ford?",
+    "CompleteText": "你回来了，冒险家。当你到布茹伊能渡口时， 你有注意到我给你的绿玉有什么变化吗？",
     "NextQuestTitle": "",
     "QuestLocation": "Imladris Waterfalls"
 }

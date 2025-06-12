@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 546,
-                "Title": "Ummm, sure, but can I ask you a few questions first...for a friend.",
+                "Title": "嗯，当然可以，但我能不能先问你几个问题……为了一个朋友。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you for the confirmation, I’ll take my leave now.",
+                "Title": "谢谢你的确认，我先告辞了。",
                 "DialogColor": 16652034,
                 "OptionType": 0
             }
@@ -57,9 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hoy now! Hey now! What's all this fussing? We've not had so many guests since our wedding! There is time enough for bird-watching, but perhaps first a song or two, my hearty?
-
-Let your heart fly free and put aside your worries. You are at the house of Tom Bombadil!",
+    "DialogText": "嘿，现在吵什么吵？自从我们结婚以来就没这么多客人了。我们有足够的时间观 鸟，但也许先来一两首歌，对吧，亲爱的？
+放飞心灵，抛开烦恼。你现在在汤姆·邦巴迪尔的家中！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 193,

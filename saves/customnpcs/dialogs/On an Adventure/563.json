@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 564,
-                "Title": "But, how is that telling me anything about him?",
+                "Title": "但是，这又能说明什么呢？",
                 "DialogColor": 1768729,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, that’s not really helping here.",
+                "Title": "好吧，这也帮不上什么忙。",
                 "DialogColor": 16518403,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I believe he has given you what you sought, @p, though you may not know it. Who is Tom Bombadil? He is, and no one else.",
+    "DialogText": "我相信他已经给了你想要的东西，@p，尽管你可能还不知道。谁是汤姆·邦巴 迪尔？他是，其他人都不是。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

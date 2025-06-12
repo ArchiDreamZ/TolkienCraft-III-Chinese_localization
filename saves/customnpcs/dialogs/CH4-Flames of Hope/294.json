@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 293,
-                "Title": "So where is it now?",
+                "Title": "那么它现在在哪里？",
                 "DialogColor": 14737632,
                 "OptionType": 2
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Piece of cake!",
+                "Title": "小菜一碟！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "At least, that is what one of them told us. We tried reclaiming that tomb, but it seems cursed. Vile things started lurking in the shadows there. I would say we should just let it lie there, but this task of yours is important enough to warrant opening the tomb again. You'll not find any dwarves willing to go in there, so you will need to retrieve the hammer yourself. The tomb lies to the south-east of here, at the edge of the mountain.",
+    "DialogText": "至少，他们中的一个是这么告诉我们的。我们试图打开那座坟墓，但它似乎受到 了诅咒。邪恶的东西开始潜伏在坟墓的阴影里。我觉得我们应该让那把锤子躺在 那里，但你的这个任务很重要，值得再次打开坟墓。你找不到任何愿意进去的矮 人，所以你需要自己取回锤子。坟墓在这里的东南方，山的边缘。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -5,9 +5,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Preparations I",
-    "Text": "Aragorn can be found in the main house and Boromir can be found in one of the guest rooms along the road that winds up the southern slope of the Vale of Imladris.
+    "Text": "阿拉贡可以在主屋找到，而波洛米尔则可以 在客房中找到，沿伊姆拉缀斯谷南坡蜿蜒而 上道路两旁。
 
-Elrond has asked that you help your fellow Men, Aragorn son of Arathorn and Boromir of Gondor, prepare to leave on their dangerous -- and secret -- mission.",
+埃尔隆德要求你帮助你的同伴阿拉松之子— —阿拉贡和来自刚铎的波洛米尔，准备出发 执行他们危险而秘密的任务。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 150,
@@ -58,6 +58,6 @@ Elrond has asked that you help your fellow Men, Aragorn son of Arathorn and Boro
             }
         ]
     },
-    "CompleteText": "Thank you for helping Aragorn and Boromir with their preparations, @p. The fate of all people is bound to the success of the mission they must undertake.",
+    "CompleteText": "谢谢你帮助阿拉贡和波洛米尔做准备工作， 冒险家。所有人的命运都与他们必须承担的 使命是否成功息息相关。",
     "NextQuestTitle": ""
 }

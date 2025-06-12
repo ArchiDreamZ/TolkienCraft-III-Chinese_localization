@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Making a New Friend VI",
-    "Text": "Tom Bombadil is at his house to the north-west of Old Man Willow.
+    "Text": "汤姆·邦巴迪尔就在他家里，柳树老头的西 北边。
 
-You have danced with Old Man Willow, as Tom requested.",
+你按照汤姆的要求，与柳树老人共舞。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ You have danced with Old Man Willow, as Tom requested.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Tom seems delighted.",
+    "CompleteText": "汤姆似乎很高兴。",
     "NextQuestTitle": "",
     "QuestLocation": "Mysterious Glade"
 }

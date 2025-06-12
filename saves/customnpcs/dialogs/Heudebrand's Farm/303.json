@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 304,
-                "Title": "I'll take care of these orcs, you go back to your home!",
+                "Title": "我来处理这些奥克，你先回去吧！",
                 "DialogColor": 2224221,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Please, you must help me! These Orcs captured me while I was away from my farm on business. Please...help me escape!",
+    "DialogText": "请你们一定要帮我！这些奥克趁我出差离开农场时抓走了我。请……帮我逃走！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 92,

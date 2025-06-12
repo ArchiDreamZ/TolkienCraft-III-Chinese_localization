@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Look for me at dawn on the third day!",
+                "Title": "第三天黎明时再来找我！",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Goblins are along the path towards the 21st Hall, just west of here.",
+    "DialogText": "半兽人分布在通往第二十一大厅的小路周边，就在这里的西边。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

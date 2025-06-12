@@ -6,9 +6,9 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Adventure Lads V",
-    "Text": "Merovech Hornwood has asked us to search Fornost for a possible hidden treasure in a maybe hidden chamber in the sewers below.
+    "Text": "梅洛维奇·角木让我们在佛诺斯特的下水道 寻找一个可能隐藏的密室，里面可能隐藏着 宝藏。
 
-Somewhere down in the sewers lay powerful artifacts...maybe.",
+在下水道的某个地方，也许隐藏着强大的神 器。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -62,6 +62,6 @@ Somewhere down in the sewers lay powerful artifacts...maybe.",
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "You've found the artifact!",
+    "CompleteText": "你找到了神器！",
     "NextQuestTitle": ""
 }

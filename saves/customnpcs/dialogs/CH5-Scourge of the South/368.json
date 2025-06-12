@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will do what I can to get this back for him.",
+                "Title": "我会尽我所能为他拿回武器。",
                 "DialogColor": 15346443,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If we are fortunate, you will find Cromhes’ weapons and gear on these emissaries.",
+    "DialogText": "如果幸运的话，你们会在这些爪牙身上找到克罗米斯的武器和装备。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

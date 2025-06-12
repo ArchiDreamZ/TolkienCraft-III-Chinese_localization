@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 455,
-                "Title": "They help a lot unseen!",
+                "Title": "他们在看不见的地方帮了大忙！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I guess I see your point.",
+                "Title": "我想我明白你的意思了。",
                 "DialogColor": 16652034,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If he is a Ranger, as you say, then why should we give aid to him? The Rangers did not aid us when we had a need, and we were forced to rely upon the shades of Oathbreakers to win our freedom.",
+    "DialogText": "如果如你所说，他是一个游民，那我们为什么要帮助他呢？在我们需要帮助的时 候，游民没有帮助我们，使得我们不得不依靠背誓者的阴影来赢得自由。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 149,

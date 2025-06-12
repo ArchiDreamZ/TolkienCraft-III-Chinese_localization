@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I am sure I can find it!",
+                "Title": "我肯定能找到它！",
                 "DialogColor": 15997715,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Perhaps you're right, @p. Tom is most at home outdoors. Perhaps he set it down somewhere nearby. Can you look around in the vicinity and see if you see any pages of my manuscript? I do not want to lose the record of this journey so near the start of it!",
+    "DialogText": "也许你是对的，@p。汤姆最喜欢户外活动。也许他把它放在了附近的某个地方。 你能看看附近有没有我的手稿吗？我可不想在旅途刚开始的时候就把记录弄丢了！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

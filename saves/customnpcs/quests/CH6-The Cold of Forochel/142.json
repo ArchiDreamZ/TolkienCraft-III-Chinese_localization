@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Aubertin’s Might I",
-    "Text": "Nerea Aubertin is at Forochel, far to the north of Bree.
+    "Text": "内雷亚·奥贝坦就在佛洛赫尔，远在布理的 北面。
 
-She has offered to answer any questions you may have once you return.
+她愿意在你回来后回答你的任何问题。
 
-She has tasked you with retrieving an artifact from the High Fells of Rhudar far to the east.",
+她委托你从鲁道尔高原取回一个神器。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -72,7 +72,7 @@ She has tasked you with retrieving an artifact from the High Fells of Rhudar far
             }
         ]
     },
-    "CompleteText": "You've found the artifact!",
+    "CompleteText": "你找到了神器！",
     "NextQuestTitle": "Aubertin’s Might II",
     "QuestLocation": "Lost Tomb"
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 535,
-                "Title": "Alright, I’ll bite, where is she?",
+                "Title": "好吧，我来问，她在哪儿？",
                 "DialogColor": 16710653,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Actually, not too curious about where she is, sorry.",
+                "Title": "事实上，我对她的行踪不太好奇，抱歉。",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "She had a flowery name, I believe? Petunia, perhaps? Yes, that was it! Now, where is young Petunia you may ask...",
+    "DialogText": "我记得她有个花一样的名字吧？也许叫佩图尼亚？对，就是这个名字！你可能会 问，小佩图尼亚在哪里？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

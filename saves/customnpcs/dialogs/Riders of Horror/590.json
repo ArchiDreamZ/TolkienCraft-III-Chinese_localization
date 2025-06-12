@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 591,
-                "Title": "Sounds like a good plan!",
+                "Title": "听起来是个不错的计划！",
                 "DialogColor": 1703192,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "交谈",
                 "DialogColor": 16579574,
                 "OptionType": 2
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are many orcs at that camp who now lack Wargs to ride. If you were to attack them, they would not have their mounts to aid them, and they should fall easily in combat.",
+    "DialogText": "营地里有很多奥克，他们现在没有座狼可以骑。如果你们要攻击他们，他们没有 坐骑辅助，在战斗中很容易就会倒下。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

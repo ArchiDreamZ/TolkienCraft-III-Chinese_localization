@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "很好，那你让埃尔隆德知道，好吗？",
+                "Title": "很好，那你去知会埃尔隆德，好吗？",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "重拾足迹 II",
+    "DialogTitle": "Regaining the Trail II",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "九戒灵是敌人的仆从，也是敌人更大阴影下的影子，他们是邪恶的生物，这片土地无法承受他们的存在。这块精灵石会在它们出现过的地方发光 它能让我们找到失踪黑骑手的踪迹",
+    "DialogText": "九个黑骑手是敌人的仆从，也是敌人更大阴影下的影子，他们是邪恶的生物，这 片土地无法承受他们的存在。这块精灵石会在它们出现过的地方发光，它能让我 们找到失踪黑骑手的踪迹。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Wargish Threat",
-    "Text": "The Warg-riders near Khazad Dum have been harassing the Dwarves camped near Moria in recent months.
+    "Text": "近几个月来，座狼骑手一直在骚扰莫瑞亚附 近的矮人营地。
 
-Wargs can be found at the edge of the forest, south-east of Lothlorien.
+座狼可以在洛丝罗瑞恩东南方的森林边缘找 到。
 
-Dolin Foebreaker wants you to thin the numbers of the Wargs so there will be fewer Warg-riders to trouble the dwarves.
+多林·碎敌者希望你减少座狼的数量，这样 就能减少座狼骑手给矮人带来的麻烦。
 ",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -55,6 +55,6 @@ Dolin Foebreaker wants you to thin the numbers of the Wargs so there will be few
             }
         ]
     },
-    "CompleteText": "If there are no Wargs to ride, there will be no Warg-riders to raid.",
+    "CompleteText": "如果没有座狼可骑，奥克就没有座狼骑手可 以用来突袭。",
     "NextQuestTitle": ""
 }

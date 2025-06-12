@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Evil Tidings",
-    "Text": "Troubled by the wights you discovered at the entrance to Carn Dûm and the sigil you found on one of the wight's bodies, Glóin suggested it was time to speak with Master Elrond.",
+    "Text": "你在卡恩督姆入口处发现的巫师和你在其中 一具巫师尸体上发现的徽章让你感到不安， 格罗因建议是时候和埃尔隆德大人谈谈了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -48,7 +48,7 @@
             }
         ]
     },
-    "CompleteText": "So you have returned and with evil tidings. This is the mark of a Gaunt-lord..perhaps you have seen one before? Sometimes Gaunt-lords use these sigils to summon the fell spirit that animates the wight.",
+    "CompleteText": "你回来了，还带着邪恶即将到来的预告。这 就是柴骨领主的徽章。有时，柴骨领主会使 用这些徽章来召唤使堕落之灵，从而吸引巫 师前来。",
     "NextQuestTitle": "",
     "QuestLocation": "Elrond’s Library"
 }

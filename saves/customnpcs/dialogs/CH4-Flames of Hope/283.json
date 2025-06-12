@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 284,
-                "Title": "Well, time for a road trip then.",
+                "Title": "那么，是时候来一次旅行了。",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, that was a waste of time.",
+                "Title": "好吧，那真是浪费时间。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If this scroll did indeed come from Angmar, Elrond Halfelven may have an interest in it, and he assuredly knows the Black Speech. Go to Rivendell and seek out the Master of the Last Homely House, if you would know the answer to your riddle.",
+    "DialogText": "如果这个卷轴确实来自安格玛王国，那么半精灵埃尔隆德可能对它感兴趣，而且 他肯定认识黑语。如果你想知道谜语的答案，就去幽谷找最后家园的主人吧。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 75,

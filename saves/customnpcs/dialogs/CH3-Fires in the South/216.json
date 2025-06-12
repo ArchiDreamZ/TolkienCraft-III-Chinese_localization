@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 217,
-                "Title": "How is that even possible?",
+                "Title": "这怎么可能？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Stone statues with hearts?!?!",
+                "Title": "有心的石像？",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "These runes are of an Elvish mode, but the language is the Black Speech, in which I am not well-versed. But I do know a little and can see that these runes speak of a \"heart\" located within the stone.",
+    "DialogText": "这些符文是精灵语，但语言是黑语。也许我并不精通，但略懂一二，可以看出这 些符文提到了位于雕像内部的“心”。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 65,

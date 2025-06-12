@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 15,
-                "Title": "How does this currency work?",
+                "Title": "这些货币是如何运作的？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I would like to make some change.",
+                "Title": "我想做出一些货币兑换。",
                 "DialogColor": 16047170,
                 "OptionType": 3
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Woops, my mistake, didn’t need anything",
+                "Title": "哎呀，我的错，我什么都不需要。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well hullo there!  How can I help you today?",
+    "DialogText": "你好，今天有什么可以帮你？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Missing Husband",
-    "Text": "Betan was last seen leaving the northern gate of Bree.
+    "Text": "人们最后一次看到贝坦，他在离开布理德北 门。
 
-Aliz Heudebrand has asked you to find her husband.",
+阿丽兹·海德布朗请求你去找她的丈夫。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -85,7 +85,7 @@ Aliz Heudebrand has asked you to find her husband.",
             }
         ]
     },
-    "CompleteText": "Help at last! We must get out of here quickly.",
+    "CompleteText": "终于有人来帮忙了！我们必须尽快启程。",
     "NextQuestTitle": "",
     "QuestLocation": "Betan Heudebrand"
 }

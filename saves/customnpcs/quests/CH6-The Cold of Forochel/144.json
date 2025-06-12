@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Aubertin’s Might III",
-    "Text": "Cromhes is in Mitheithel.
+    "Text": "克罗米斯就在米斯艾塞尔河营地那里。
 
-You should return to Cromhes to tell him what happened at Forochel.",
+你应该回到克罗米斯那里，告诉他在佛洛赫 尔发生了什么。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -58,9 +58,9 @@ You should return to Cromhes to tell him what happened at Forochel.",
             }
         ]
     },
-    "CompleteText": "This is foul news indeed. To think that Nerea Aubertin was all along an agent of Angmar. If she is indeed the same Dreulhara of which only legends speak, then evil are the days to come.
+    "CompleteText": "这确实是个坏消息。想想看，内雷亚·奥贝 坦一直都是安格玛王国的代理人。如果她真 的是传说中的那个德鲁哈拉，那么未来的日 子将会很糟糕。
 
-I must consider what you have learned...",
+我必须考虑你所经历的一切……",
     "NextQuestTitle": "",
     "QuestLocation": "Mitheithel"
 }

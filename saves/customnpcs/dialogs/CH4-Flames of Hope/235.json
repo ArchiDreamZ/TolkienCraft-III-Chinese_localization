@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Excellent, have a great day!",
+                "Title": "好极了，祝你有美好的一天！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It is true that it was found among things we believe were their captain’s, which is the only reason I kept it. It's quite useless.
-
-Here...may it assist you in your endeavours.",
+    "DialogText": "的确，它是我们在他们队长的东西中发现的，这也是我保留它的唯一原因。但是 它很没用。
+给你……愿它对你的努力有所帮助。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

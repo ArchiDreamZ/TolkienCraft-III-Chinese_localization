@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 187,
-                "Title": "I am ready now, what do I need to do?",
+                "Title": "我现在已经准备好了，我需要做什么？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me come back when I am better prepared.",
+                "Title": "等我准备好了再来吧。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Go now into the Mountains to defeat Dugorim and his Dourhands!",
+    "DialogText": "现在进入山区堡垒，打败杜戈林和他的杜汉德矮人！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 32,

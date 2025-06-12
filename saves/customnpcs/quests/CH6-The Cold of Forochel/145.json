@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Cromhes’ Request",
-    "Text": "Cromhes is concerned that Brimigak's Knights will be taken into Dreulhara's service.
+    "Text": "克罗米斯担心布里米加克的骑士团会为德鲁 哈拉效力。
 
-Cromhes has asked you to return to three places where Nerea Aubertin has been encountered in the past and speak with allies in those places.
+克罗米斯要求你回到过去曾遇到过内雷亚· 奥贝坦的三个地方，并与这些地方的盟友交 谈。
 
-Your allies may be found in Hoarwell in the Lone-lands, Mitheithel in the South Downs, and in Combe in Bree.",
+你的盟友可以在孤土的苍泉河营地、南岗的 米斯艾塞尔河营地和布理的库姆村找到。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -60,7 +60,7 @@ Your allies may be found in Hoarwell in the Lone-lands, Mitheithel in the South 
             }
         ]
     },
-    "CompleteText": "You have done the Free Peoples a great service. Thank you.",
+    "CompleteText": "你为自由种族做出了巨大贡献。谢谢你！",
     "NextQuestTitle": "",
     "QuestLocation": "Mitheithel"
 }

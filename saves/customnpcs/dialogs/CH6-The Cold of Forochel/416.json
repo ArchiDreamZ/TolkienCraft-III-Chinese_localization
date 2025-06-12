@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 417,
-                "Title": "What would you have me do then?",
+                "Title": "那你要我怎么做？",
                 "DialogColor": 392996,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Oh yeah, definitely work for a wizard…",
+                "Title": "哦，是的，肯定是为巫师工作……",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are few now in this age who have even heard of the palantíri, much less be concerned enough with them to steal them. Moreso, they have now become dangerous, for Sauron possesses the Ithil-stone, which he has certainly bent to his will.",
+    "DialogText": "在这个年代，很少有人听说过帕蓝提尔，更不用说时刻关注并且要去偷窃它了。 不仅如此，它们现在还变得很危险，因为索隆拥有伊希尔晶石，所以伊希尔晶石 肯定会受到他的邪恶意愿控制。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

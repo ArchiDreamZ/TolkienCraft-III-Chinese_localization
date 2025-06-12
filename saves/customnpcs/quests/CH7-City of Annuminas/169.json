@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Hero of Middle-earth II",
-    "Text": "Talacnun is at the Ranger-camp at Arnor on the eastern shore of the lake near Annuminas.
+    "Text": "塔拉克农就在阿尔诺的游民营地，位于安努 米那斯附近的湖东岸。
 
-Thurdan has written a letter to Talacnun explaining the threat Dreulhara poses. He has asked you deliver it to Talacnun.",
+瑟尔丹给塔拉克农写了一封信，解释了德鲁 哈拉构成的威胁。他让你把信交给塔拉克农。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 150,
@@ -55,6 +55,6 @@ Thurdan has written a letter to Talacnun explaining the threat Dreulhara poses. 
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Thurdan has written his thoughts down in a letter? Very well, let me see it...",
+    "CompleteText": "瑟尔丹把他的想法写在信里了？很好，让我 看看……",
     "NextQuestTitle": ""
 }

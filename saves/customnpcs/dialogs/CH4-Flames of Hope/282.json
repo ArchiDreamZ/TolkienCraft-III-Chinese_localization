@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I agree, I will return!",
+                "Title": "我同意，我会回来的！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Take the scroll to him and ask him his opinion. If it may help us free my father, then we must learn its secrets at once!",
+    "DialogText": "把卷轴拿给他，问问他的意见。如果它能帮助我们解救我的父亲，我们就必须马 上了解它的秘密！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

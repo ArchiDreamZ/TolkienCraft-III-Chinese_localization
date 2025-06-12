@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Regnetrudis Fallohide",
-    "Text": "Gaffer Gamgee is sure to know which hobbits have the best stories to tell of Bilbo's disappearance and his adventures and whereabouts since then.
+    "Text": "老头儿甘姆吉肯定知道哪些霍比特人最擅长 讲述比尔博失踪的故事，以及他此后的冒险 经历和下落。
 
-Return to Gaffer after speaking to all of the hobbits.
+与所有霍比特人交谈后，返回老头儿那里。
 
-Regnetrudis Fallohide has agreed to share a story about Bilbo Baggins and his adventures.",
+雷格特迪·白肤同意分享关于比尔博·巴金 斯和他的冒险故事。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -64,6 +64,6 @@ Regnetrudis Fallohide has agreed to share a story about Bilbo Baggins and his ad
             }
         ]
     },
-    "CompleteText": "Bilbo Baggins you're asking about, eh? Most folks think he's off gallivanting goodness knows where, but I've got quite a different story to tell you if you'll listen.",
+    "CompleteText": "你在问比尔博·巴金斯吗？大多数人都以为 他去鬼混了，但如果你愿意听，我有一个完 全不同的故事要告诉你。",
     "NextQuestTitle": ""
 }

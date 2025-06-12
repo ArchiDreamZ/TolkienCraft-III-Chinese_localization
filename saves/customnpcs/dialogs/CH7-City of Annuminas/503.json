@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 504,
-                "Title": "So what would you have me do?",
+                "Title": "那你要我怎么做？",
                 "DialogColor": 392996,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, let me know when you finished looking.",
+                "Title": "好吧，等你找完了告诉我。",
                 "DialogColor": 16258316,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I see two ways for the Company to take: we might make for the Redhorn Gate, the pass over the mountains that descends into the Dimrill Dale, where lie the still waters of the Mirrormere; or, we might head for the Gap of Rohan, by which Boromir came north. There are difficulties associated with each way, but one of these two must prove the better route.",
+    "DialogText": "我认为队伍有两条路可走：我们可以去红角门，那是通往黯溪谷的山口，那里有 镜影湖的静水；或者，我们可以去洛汗豁口，波洛米尔就是从那里北上的。每条 路都有困难，但这两条路中一定有一条是更好一点的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

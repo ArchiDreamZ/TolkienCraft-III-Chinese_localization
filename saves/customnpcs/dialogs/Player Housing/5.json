@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 6,
-                "Title": "I figured I would stop by and see what this is all about.",
+                "Title": "我想我应该过来看看这到底是怎么一回事。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Great day Traveler! Interested in buying a home of your own?",
+    "DialogText": "这真是美好的一天，旅行者！有兴趣买一套属于自己的房子吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

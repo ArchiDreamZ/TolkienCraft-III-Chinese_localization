@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 590,
-                "Title": "What are you suggesting?",
+                "Title": "你有什么建议？",
                 "DialogColor": 16579574,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, call me if you need me.",
+                "Title": "好吧，如果你需要我，就呼唤我。",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Wargs have been severely reduced, and that is good, but I have no doubt their numbers will soon be restored. Their weakened state right now, however, gives us our opportunity to strike at their heart.",
+    "DialogText": "座狼的数量已经严重减少，这是好事，但我毫不怀疑它们的数量很快就会恢复。 不过，它们现在的虚弱状态给了我们打击其核心的机会。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

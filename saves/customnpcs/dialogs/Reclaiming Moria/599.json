@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 600,
-                "Title": "You have another favor you would ask?",
+                "Title": "你还有别的要求吗？",
                 "DialogColor": 16578806,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, so my work here is done.",
+                "Title": "好了，我在这里的工作完成了。",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Thank you for taking care of that task for me!  It allowed me to get up on some of the other mundane tasks I was given.",
+    "DialogText": "谢谢你帮我完成了这项任务！这让我可以着手处理其他一些琐碎的工作。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 215,

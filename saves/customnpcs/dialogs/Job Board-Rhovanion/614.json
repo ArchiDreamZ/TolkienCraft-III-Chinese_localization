@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "It was my honor to help",
+                "Title": "能帮上忙是我的荣幸。",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 614,
     "OptionFaction2Points": 100,
-    "DialogText": "I can tell these arrows have already slain an Orc or two. How many more of the creatures will fall to each of these, I wonder?
-
-You have done most well, @p. Your efforts will not be forgotten by the Elves.",
+    "DialogText": "我看得出来，这些箭已经射死了一两个奥克。我想知道，每支箭究竟还能射死多 少怪物？
+你做得很好，@p。精灵不会忘记你的努力。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 272,
-                "Title": "Is that what kept you from coming back?",
+                "Title": "这就是你不回来的原因吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think I will ponder on what’s going on here for a bit.",
+                "Title": "我想我会思考一下这里到底发生了什么。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It is a pity that Manwyn could not steel his heart against the Watchers. The power of the watching-stones is terrible. Many of the people of Stoneyford tried to flee back through and perished.",
+    "DialogText": "可惜的是，曼温不能狠下心来对抗监视者。监视者的力量是十分可怕的，许多来 自石头渡口的人试图从这里逃回去，结果都死了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

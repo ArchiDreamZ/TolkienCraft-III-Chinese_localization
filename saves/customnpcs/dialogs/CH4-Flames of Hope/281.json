@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 282,
-                "Title": "That’s good to know, hopefully he can read this.",
+                "Title": "很高兴知道这些，希望他能看懂这卷轴。",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Not sure I want to play courier again.",
+                "Title": "我不确定是否还想再做一回快递员。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Perhaps the Elf Thurdan may have some proficiency in this writing. He is an old friend of my father's and is here in the Flaming Deeps near the start of this forsaken area.",
+    "DialogText": "也许精灵瑟尔丹对这些文字有些研究。他是我父亲的老朋友，就在这片荒芜之地 起点附近的烈火深渊。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

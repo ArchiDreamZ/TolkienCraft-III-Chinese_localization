@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "那么，为侦察兵侦察......这应该会很有趣。",
+                "Title": "那么，为侦察兵而侦察……这应该会很有趣。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "巨人的知识 IV",
+    "DialogTitle": "Knowledge of the Giants IV",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "沿路向东走，然后在穿过食人妖森林南边的岔路口向南走。巴拉钦(Barachen)在沿路都有斥候，其中一个可以指引你去他的营地。然后巴拉钦(Barachen)会告诉你在哪里可以找到我们迷路的巨人。",
+    "DialogText": "沿路向东走，然后在穿过食人妖森林南边的岔路口向南走。巴拉钦在沿路都有斥 候，其中一个可以指引你去他的营地。然后巴拉钦会告诉你在哪里可以找到我们 迷路的巨人。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

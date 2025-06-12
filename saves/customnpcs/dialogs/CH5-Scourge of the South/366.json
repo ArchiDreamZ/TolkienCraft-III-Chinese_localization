@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 367,
-                "Title": "What would that be?",
+                "Title": "是什么呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, you have fun with that.",
+                "Title": "好吧，你就尽情享受吧。",
                 "DialogColor": 15346443,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We must reforge Cromhes' spirit, my friend...though I know not how. I have only a dim flicker of a plan, but perhaps it will work.",
+    "DialogText": "我们必须重塑克罗米斯的精神，我的朋友……虽然我不知道该怎么做。我只有一 个朦胧的计划，但也许会成功。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

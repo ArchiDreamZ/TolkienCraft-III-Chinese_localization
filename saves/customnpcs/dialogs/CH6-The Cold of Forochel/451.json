@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Safe travels!",
+                "Title": "一路平安！",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -40,11 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Cromhes will be pleased with your success.
-
-I can now give my attention to sending more help to the South, now that you have made the way easier.
-
-Return to Cromhes and let him know of your victory.",
+    "DialogText": "克罗米斯会为你们的成功感到高兴。
+现在我可以集中精力向南方提供更多的帮助了，因为你已经让道路变得更加平坦。
+回到克罗米斯那里，让他知道你的胜利。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

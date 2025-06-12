@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 273,
-                "Title": "So how can I help you escape?",
+                "Title": "那么，我怎样才能帮你逃出生天呢？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We marched on, but ere we ever came unto Khazad Dûm, we were beset by Orcs and creatures more terrible. Cromhes was lost and our numbers were scattered. The scarce remnant that remains has barely managed to avoid the snares of the Enemy for these last few years, but I fear the Witch-king has grown too strong, and we will not be able to hide forever.",
+    "DialogText": "我们继续前进，但还没走到卡扎督姆，就被奥克和更可怕的生物包围了。克罗米 斯掉队了，我们的队伍也被打散了。在过去的几年里，仅存的少数人勉强躲过了 敌人的陷阱，但我担心巫王已经变得足够强大了，导致我们无法永远躲藏下去。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

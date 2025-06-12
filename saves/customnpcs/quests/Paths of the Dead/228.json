@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "The Path Opens",
-    "Text": "Guodhelda has asked you to bring her Dark Sigils to help pay the labour for opening the Paths of the Dead.",
+    "Text": "瓜德尔塔请你帮忙带她的黑暗徽章去支付打 通亡者之路的费用。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -63,6 +63,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "This will help aid us towards accomplishing the goal. Soon we should be able to open those tunnels.",
+    "CompleteText": "这将有助于我们实现目标。我们很快就能打 通那些通道了。",
     "NextQuestTitle": ""
 }

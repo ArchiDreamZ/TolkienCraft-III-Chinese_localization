@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 46,
-                "Title": "I have a few questions about this place actually.",
+                "Title": "关于这个建筑，其实我有几个问题。",
                 "DialogColor": 15724527,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "What do you have to help me get around?",
+                "Title": "你有什么东西可以帮助我快速四处走动？",
                 "DialogColor": 16047170,
                 "OptionType": 3
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Nothing more, just wanted to say hi!",
+                "Title": "没别的，就是想打个招呼！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -60,7 +60,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Greetings @p.  Glad tidings to have brought you to me on this fine day!Might I answer some questions for you (I am sure you have a few) or perhaps you need help getting around this vast world?",
+    "DialogText": "你好，@p。在这个美好的日子，很高兴你来到我身边！
+请允许我回答你的一些问题（我相信你肯定有一些问题），或者你在这个广阔世 界里需要一些帮助？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

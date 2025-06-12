@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 570,
-                "Title": "You lost the manuscript you were supposed to read?",
+                "Title": "你把本来应该阅读的手稿弄丢了？",
                 "DialogColor": 588346,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I’ll be back in a minute...",
+                "Title": "我马上回来…",
                 "DialogColor": 16521475,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Your words are all a-scramble, young one. Tom remembers a great many things: the sun in the morning, the breezes of mid-day, the swelter of afternoon, and the cool of evening; but he does not know the pages of which you speak. There is no need for writing! If you spend all the day writing, that is a day you have missed!",
+    "DialogText": "年轻人，你说的话太乱了。汤姆记得很多事情：清晨的阳光、中午的微风、午后 的闷热、傍晚的凉爽；但他不知道你说的那几页纸。不需要写作！如果你整天都 在写作，那你就错过了一天！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 204,

@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Thrór's Hammer I",
-    "Text": "Dain II can be found in Erebor in Rhovanion.
+    "Text": "戴因二世可以在罗瓦尼安的埃瑞博山找到。
 
-Elssuli took the mithril from you and began heating it. However, he mentioned that shaping the mithril will be a problem, one that perhaps Dain II can solve.",
+埃尔苏利从你手中接过秘银，开始加热。不 过，他提到，给秘银塑形将是一个问题，也 许戴因二世可以解决这个问题。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,7 +50,7 @@ Elssuli took the mithril from you and began heating it. However, he mentioned th
             }
         ]
     },
-    "CompleteText": "A mithril shaping hammer? Bah! I've seen but one of those in my entire life. And I've not seen one since...oh dear....",
+    "CompleteText": "一个秘银塑形锤?呸！我这辈子只见过一个。 从那以后我就再也没见过了......哦， 亲爱的....",
     "NextQuestTitle": "",
     "QuestLocation": "Erebor Throne Room"
 }

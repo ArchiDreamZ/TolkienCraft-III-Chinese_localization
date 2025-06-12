@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you Lord Elrond.",
+                "Title": "感谢你，埃尔隆德领主大人。",
                 "DialogColor": 15346443,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Go to Castien, my chief smith, and instruct him to reforge Cromhes’ sword. You will find him near Imladris' forges.",
+    "DialogText": "去找我的首席铁匠卡西迪恩，让他重新锻造克罗米斯的剑。你可以在伊姆拉缀斯 的锻造炉附近找到他。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

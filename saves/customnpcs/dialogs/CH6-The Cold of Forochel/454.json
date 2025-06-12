@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Glad to have helped!",
+                "Title": "很高兴能帮上忙！",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I am impressed. It is not often we get heroes of your ilk in these parts.
-
-Thank you for your help. Please tell your friend Cromhes that your deed is done, and I will make sure we do something about that dreadful idol. It seems to attract an awful lot of attention.",
+    "DialogText": "我印象深刻。在这些地方，像你这样的英雄并不多见。
+感谢你的帮助。请转告你的朋友克罗米斯，你的事已经办妥了，我会确保我们对 那个可怕的神像做点什么处理措施。它似乎吸引了很多人的注意。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

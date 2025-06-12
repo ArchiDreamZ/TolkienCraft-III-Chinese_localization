@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 468,
-                "Title": "I’ll help where I can",
+                "Title": "我会尽我所能提供帮助。",
                 "DialogColor": 458532,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me go take care of some stuff...and things...",
+                "Title": "让我去处理一些材料……和事情……",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "For Angmar's foul regent to walk the stones that Elendil walked of old is an outrage for which there can be no forgiveness! Dreulhara's minions may hold Annúminas for now, but the Dúnedain will not rest until she and all her servants are swept from its courtyards and the very flagstones wiped clean of their taint.",
+    "DialogText": "安格玛王国的卑劣巫王走在埃兰迪尔昔日走过的石板上，这是无法原谅的暴行！ 德鲁哈拉的爪牙们也许暂时还能保住安努米那斯，但杜内丹人不会善罢甘休的， 除非她和她所有的仆从都被扫出庭院，石板上的污点也被擦得干干净净。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

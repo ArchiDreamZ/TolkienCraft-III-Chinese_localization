@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Return to Gundabad I",
-    "Text": "Glóin told you that the Nazgûl you are pursuing can be found in the old dwarf-fortress of Gundabad, in the company of Dugorim Dourhand. The two entered the nearly impregnable inner keep of the fortress. Glóin believes the only way to enter the inner keep is to learn its secret entrance.
+    "Text": "格罗因告诉你，你要找的那兹古尔可以在贡 达巴德山的古老矮人要塞找到，他和杜戈林 ·杜汉德在一起。两人进入了几乎坚不可摧 的要塞内城。格罗因相信，进入内堡的唯一 方法就是知道它的秘密入口。
 
-The cornerstone containing the plans is located inside Gundabad's Vault, located in the pass going east through the mountains of Gundabad. Glóin's camp is at the east-end of the High Pass north of Rivendell.
+装有图纸的基石位于贡达巴德山的地下大厅 内，在穿过贡达巴德山的东面山口处。格罗 因的营地位于幽谷北面高隘口的东端。
 
-Glóin told you that to learn how to access the secret entrance to Gundabad's inner keep, you will need to take the plans for the fortress placed in its cornerstone.",
+格罗因告诉过你，要想知道如何进入贡达巴 德山内部的秘密入口，你需要拿到放置在基 石上的要塞图纸。要耐心，注意脚下！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -55,7 +55,7 @@ Glóin told you that to learn how to access the secret entrance to Gundabad's in
             }
         ]
     },
-    "CompleteText": "There it is!  The cornerstone!",
+    "CompleteText": "就是它了！这块基石！",
     "NextQuestTitle": "Return to Gundabad II",
     "QuestLocation": "Gundabad Vault"
 }

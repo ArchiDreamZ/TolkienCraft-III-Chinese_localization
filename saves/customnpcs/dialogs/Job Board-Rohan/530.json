@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 531,
-                "Title": "Do go on...",
+                "Title": "请继续……",
                 "DialogColor": 392340,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "That sounds disgusting!",
+                "Title": "这听起来真恶心！",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You see, the Four Farthings Brewfest is coming up, and I want to win this year! So I'm going to need some of our famous hops from the fens here, Hag Hops we call 'em.",
+    "DialogText": "你看，夏尔四区的酿酒节就要到了，今年我想赢！所以我需要一些我们这里著名 的啤酒花，我们称之为女巫啤酒花。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 548,
-                "Title": "Where did you come from?",
+                "Title": "你是从哪里来的？",
                 "DialogColor": 16710651,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 549,
-                "Title": "Who Are you?",
+                "Title": "你是谁？",
                 "DialogColor": 16710651,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 550,
-                "Title": "Why do you live in this forest?",
+                "Title": "你为什么住在这片森林里？",
                 "DialogColor": 16710651,
                 "OptionType": 1
             }
@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you, that was all I wanted for now.",
+                "Title": "谢谢，这就是我现在想要的。",
                 "DialogColor": 15417402,
                 "OptionType": 0
             }
@@ -77,7 +77,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Old Tom's a merry fellow, but he knows when it's time for dancing or to go a-wighting. Ask away, ask away and see what can tell ya!",
+    "DialogText": "老汤姆是个快乐的家伙，但他知道什么时候该跳舞，什么时候该去狂欢。问吧， 问吧，看看他能告诉你什么！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

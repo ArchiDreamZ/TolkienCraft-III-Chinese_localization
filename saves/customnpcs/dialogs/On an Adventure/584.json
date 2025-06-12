@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, take care!",
+                "Title": "好吧，保重！",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "But don't tell her I said that. We still need a place to stay until our journey resumes!",
+    "DialogText": "但别告诉她是我说的，我们还需要一个住的地方，直到我们的旅程重新开始。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

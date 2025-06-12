@@ -5,9 +5,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "The Spirit Broken (Outpost II)",
-    "Text": "Cromhes’ gear was given to Envoys of the Captains of the Haradrim. These Envoys can be found in Harad to the South of Osgiliath.
+    "Text": "克罗米斯的装备被交给了哈拉德人首领的爪 牙。这些爪牙可以在欧斯吉利亚斯南面的哈 拉德地区找到。
 
-As a first step in his plan to renew Cromhes’ spirit, Thurdan has asked you to retrieve the Ranger's weapons and gear from the emissaries within the Outposts in Harad.",
+作为恢复克罗米斯精神计划的第一步，瑟尔 丹要求你从哈拉德前哨站的爪牙那里取回游 民的武器和装备。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -54,6 +54,6 @@ As a first step in his plan to renew Cromhes’ spirit, Thurdan has asked you to
             }
         ]
     },
-    "CompleteText": "You have defeated the Envoy!",
+    "CompleteText": "你打败了前哨站的爪牙！",
     "NextQuestTitle": ""
 }

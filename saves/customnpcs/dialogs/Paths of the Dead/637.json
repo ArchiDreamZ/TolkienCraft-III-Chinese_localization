@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 638,
-                "Title": "Has anyone gone to recover them?",
+                "Title": "有人去找回过他们吗？",
                 "DialogColor": 5044496,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe another time...",
+                "Title": "也许下次吧…",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Paths of the Dead have long been a forbidden place, but that didn't always stop people from venturing within. Whether by choice, force, or mistake, many have gone into those tunnels and never been heard from again.",
+    "DialogText": "亡者之路一直以来都是一个禁地，但这并不总能阻止人们进入其中。无论是出于 自愿、被迫还是失误，许多人都曾进入过这些通道，从此杳无音信。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": 229,
     "AvailabilityQuest2Id": 228,

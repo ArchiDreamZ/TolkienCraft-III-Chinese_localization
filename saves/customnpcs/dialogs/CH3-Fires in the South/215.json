@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wish me luck!",
+                "Title": "祝我好运吧！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We must learn the secret of The Watchers, @p! Perhaps the runes on the face of their pedestals will reveal that secret. Go to one of the Watchers and take a rubbing of the runes found upon the pedestal's face. Beware the fell and deadly stones, for they have too terrible a power.",
+    "DialogText": "我们必须了解监视者的秘密！也许基座表面的符文能揭示这个秘密。到其中一个 监视者那里，把基座表面的符文擦拭干净。小心那些堕落的致命石像，因为它们 的力量太可怕了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

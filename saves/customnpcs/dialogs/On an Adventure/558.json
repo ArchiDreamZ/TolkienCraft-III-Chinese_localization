@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 559,
-                "Title": "Any more ideas?",
+                "Title": "还有其他想法吗？",
                 "DialogColor": 1703192,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Yeah, tell me about it…",
+                "Title": "是啊，跟我说说吧…",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tom is a mystery, and any attempt to get him to answer questions about himself is met with laughter and nonsense!",
+    "DialogText": "汤姆是个谜，任何想让他回答关于自己的问题的企图都会遭到嘲笑和无理取闹！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 200,

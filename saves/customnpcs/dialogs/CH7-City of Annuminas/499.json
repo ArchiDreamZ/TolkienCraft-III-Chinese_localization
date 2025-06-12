@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 500,
-                "Title": "So what would you ask of me?",
+                "Title": "你有什么x想让我做的？",
                 "DialogColor": 130358,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, if you don’t trust me to say what it is...",
+                "Title": "好吧，如果你不相信我说的是什么…",
                 "DialogColor": 16652033,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A small company will soon be setting forth on a mission of great secrecy to combat this growing dark; I am loathe to speak in detail of their errand, but know that it will do great hurt to the Enemies of this Age if they succeed.",
+    "DialogText": "一支小分队很快就会秘密出发，执行一项艰巨的任务，以打击日益增长的黑暗势 力；我不想详细谈论他们的任务，但我知道，如果他们成功了，将会给这个时代 的邪恶力量带来巨大的伤害。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

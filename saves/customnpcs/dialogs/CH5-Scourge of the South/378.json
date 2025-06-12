@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 383,
-                "Title": "Let’s hope he can repair these.",
+                "Title": "希望他能修好这些。",
                 "DialogColor": 1833498,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me get back to you on this.",
+                "Title": "我回头再跟你说。",
                 "DialogColor": 16070151,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hmm, yes. I believe I can repair the damage to his mail shirt, but repairing the shield and the sword is beyond my ability. I think though one of the armorsmiths here in Mitheithel will be able to help. Go and take the sword and shield to Pelleas. While you do this, I will set to work on the shirt.",
+    "DialogText": "嗯，是的。我相信我可以修复他盔甲上的损伤，但修复盾牌和剑就不在我的能力 所及范围之内了。不过我想米斯艾塞尔河营地的一个盔甲匠应该能帮上忙。去把 剑和盾交给佩利亚斯。你去做这件事，我去修补盔甲。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 122,

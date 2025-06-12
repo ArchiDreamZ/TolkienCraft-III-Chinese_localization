@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "The Fellowship Departs II",
-    "Text": "Elrond is in the library of his house.
+    "Text": "埃尔隆德正在他房子的图书馆里。
 
-You have seen the Company off on their secret errand and should now speak with Elrond.",
+你已经目送队伍去执行秘密任务了，现在应 该和埃尔隆德谈一谈了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 1500,
@@ -56,7 +56,7 @@ You have seen the Company off on their secret errand and should now speak with E
             }
         ]
     },
-    "CompleteText": "All our hopes now rest upon the nine members of the company: Nine Walkers to stand against the Nine Riders of the Enemy. May they come to no harm and return in safety, their task completed.",
+    "CompleteText": "现在，我们所有的希望都寄托在九名队伍成 员身上：对抗敌人的九骑手。愿他们不受伤 害，完成任务，平安归来。",
     "NextQuestTitle": "",
     "QuestLocation": "Elrond’s Library"
 }

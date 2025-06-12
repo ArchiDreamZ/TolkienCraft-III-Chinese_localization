@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Cromhes and Moria",
-    "Text": "A trained falcon arrived at Rivendell, bearing a troubling message from the hidden Ranger-camp at Mitheithel for Aragorn, Chieftain of the Rangers.
+    "Text": "一只训练有素的猎鹰来到了幽谷，它来自米 斯艾塞尔河隐蔽的游民营地，给游民领袖— —阿拉贡带来了一个令人不安的消息。
 
-Mitheithel lies in the South Downs, far to the south and west of Rivendell.
+米斯艾塞尔河营地位于南岗，远在幽谷的西 南面。
 
-Aragorn has asked you to travel to Mitheithel in his stead to speak with Guthwine, whom he hopes can shed light on the troubling message.",
+阿拉贡请你代替他前往米斯艾塞尔河营地， 与古斯威奈交谈，他希望古斯威奈能说明这 个令人不安的消息。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -52,7 +52,7 @@ Aragorn has asked you to travel to Mitheithel in his stead to speak with Guthwin
             }
         ]
     },
-    "CompleteText": "Welcome, @p. Did Aragorn not come with you? Alas, but that is fell news. Well, there is naught for it now. ",
+    "CompleteText": "欢迎，冒险家。阿拉贡没有和你一起来吗？ 唉，这真是个坏消息。好了，现在没办法了。",
     "NextQuestTitle": "",
     "QuestLocation": "Mitheithel"
 }

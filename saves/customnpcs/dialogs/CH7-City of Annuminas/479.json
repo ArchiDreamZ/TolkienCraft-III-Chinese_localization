@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 480,
-                "Title": "I agree, but what do we do now?",
+                "Title": "我同意，但我们现在该怎么办？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Yeah, that was definitely not a fun time.",
+                "Title": "是啊，那段日子肯定不好过。",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The happier day of which I spoke in our last meeting, alas, has not yet arrived, and the days seem to grow darker still.",
+    "DialogText": "唉，我在上次会议上谈到的幸福日子还没有到来，而且日子似乎变得更加黑暗了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 169,

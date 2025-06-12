@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Why does it always have to be dragons?",
+                "Title": "为什么每次都是龙？",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A dragon-wight within reach of Imladris is too grave a threat to be ignored. I must ask you to go into Carn Dûm and put an end to the plans of Drugoth and the Nazgûl. It will be a difficult task, but I have faith you will prevail!",
+    "DialogText": "尸龙就在伊姆拉瑞斯附近，这个威胁不容忽视。我必须请你前往卡恩督姆，终止 德鲁戈斯和那兹古尔的计划。这将是一项艰巨的任务，但我相信你们会成功的！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

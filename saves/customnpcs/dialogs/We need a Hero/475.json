@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 476,
-                "Title": "Take item and leave",
+                "Title": "拿了东西就走。",
                 "DialogColor": 4914186,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Don't touch anything!",
+                "Title": "不要碰任何东西！",
                 "DialogColor": 16720896,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You have finally found the fabled Artifact!",
+    "DialogText": "你终于找到了传说中的神器！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

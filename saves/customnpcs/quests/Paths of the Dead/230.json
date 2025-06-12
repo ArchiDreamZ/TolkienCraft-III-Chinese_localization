@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Never Forget II",
-    "Text": "Guodhelda is in Erech.
+    "Text": "瓜德尔塔就在埃瑞赫。
 
-Guodhelda will be eager to properly bury the remains you have recovered.",
+瓜德尔塔会很快地将你找到的那些遗骸妥善 埋葬的。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -53,6 +53,6 @@ Guodhelda will be eager to properly bury the remains you have recovered.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Guodhelda people deserve a proper burial. I will see to it that they get one. Thank you",
+    "CompleteText": "瓜德尔塔说：人应该得到适当的安葬。我会 确保他们得到安葬。谢谢你。",
     "NextQuestTitle": ""
 }

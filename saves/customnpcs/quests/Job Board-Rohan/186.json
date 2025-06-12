@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Hag Hops II",
-    "Text": "Hag Hops grow in the marsh east of Rohan. The Ancient Diviner is in Rohan, west of the Nindalf.
+    "Text": "女巫啤酒花生长在洛汗以东的沼泽地。古代 占卜者就在宁达尔夫以西的洛汗。
 
-Tolhe has asked you to pick some Hag Hops for his famous beer.",
+托莱请你摘取一些女巫啤酒花，为了他的著 名啤酒。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -53,6 +53,6 @@ Tolhe has asked you to pick some Hag Hops for his famous beer.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "That's the hag hops you've got there all right! I hope the witches didn't cause too much trouble! Of course, they ain't got no teeth, but they can lip you pretty fierce.",
+    "CompleteText": "这就是你的女巫啤酒花！希望女巫们没给你 惹什么麻烦。当然，她们没有牙齿，但她们 的嘴唇很厉害。",
     "NextQuestTitle": ""
 }

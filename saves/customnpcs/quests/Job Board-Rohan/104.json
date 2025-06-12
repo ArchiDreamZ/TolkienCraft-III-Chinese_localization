@@ -5,7 +5,7 @@
     "QuestRepeat": 2,
     "QuestCompletion": 0,
     "Title": "A Daily Hunt",
-    "Text": "Orcs can be found roaming everywhere. You should defeat 20 Orcs then return back to Kamoku.",
+    "Text": "奥克随处可见。你应该打败20个奥克，然 后返回卡姆库身边。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -120,6 +120,6 @@
             }
         ]
     },
-    "CompleteText": "Thank you @p, thank you for defeating those [Mob]s, unfortunately they will return, so I may need your help again in the future.",
+    "CompleteText": "谢谢你，冒险家，谢谢你打败了那些[Mo b]，不幸的是，他们还会回来，所以我以 后可能还需要你的帮助。",
     "NextQuestTitle": ""
 }

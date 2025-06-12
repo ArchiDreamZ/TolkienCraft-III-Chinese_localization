@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Fighting statues, defeating ancient evil, piece of cake!!",
+                "Title": "与雕像搏斗，打败远古恶魔，小菜一碟！！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "This may draw the spirits out of the statue, if it does, defeat it and come back to let me know if the charm worked!",
+    "DialogText": "这可能会把灵魂从雕像里引出来，如果成功了，就把它打败，然后回来告诉我符 咒是否起作用了！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Lenn Duskud II",
-    "Text": "Guodhelda is in Erech.
+    "Text": "瓜德尔塔就在埃瑞赫。
 
-Guodhelda will be pleased to hear the waters have been cleansed.",
+瓜德尔塔会很高兴听到池水已被得到净化的 消息。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -65,6 +65,6 @@ Guodhelda will be pleased to hear the waters have been cleansed.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "With the Restless Dead angry and stirred up, we will have to watch these waters more closely.",
+    "CompleteText": "随着不眠亡者的愤怒和激荡，我们将不得不 更加密切地关注这些水域。",
     "NextQuestTitle": ""
 }

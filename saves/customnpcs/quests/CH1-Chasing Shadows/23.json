@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Aid of Mirkwood II",
-    "Text": "Legolas is in the guest room to the west of the library Elrond is at..
+    "Text": "莱戈拉斯在埃尔隆德所在的图书馆西面的客 房里……
 
-Master Elrond has told you of an Elf-prince named Legolas, currently staying in Imladris for a time. He hails from Mirkwood and may have some knowledge of the creature you faced in the Trollshaws.",
+埃尔隆德大人告诉你，一位名叫莱戈拉斯的 精灵王子目前在伊姆拉瑞斯暂住。他来自黑 森林王国，可能对你在食人妖森林中遇到的 怪物有所了解。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Master Elrond has told you of an Elf-prince named Legolas, currently staying in 
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Hail to you, @p. If you did not bring such dire news I would greet you more heartily, but your tidings are troubling.",
+    "CompleteText": "向你致敬，冒险家。如果你带来的不是如此 可怕的消息，我会更加衷心地欢迎你，但你 的消息实在令人不安。",
     "NextQuestTitle": "",
     "QuestLocation": "Guest House"
 }

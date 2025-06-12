@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 633,
-                "Title": "Count me in!",
+                "Title": "算我一个！",
                 "DialogColor": 6421764,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "As much as I would like to...",
+                "Title": "虽然我很想…",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -57,9 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are many places within the Paths of the Dead that have not seen a living soul.
-
-The more Dark Sigils you bring me, the more progress we can make on opening the unexplored areas within the Paths of the Dead. Once that is done, there will be much to explore.",
+    "DialogText": "在亡者之路的许多地方，一个活生生的人都没有。
+你带给我的黑暗徽章越多，我们就能在打开亡者之路未探索区域方面取得更多进 展。一旦这样做了，就会有很多东西值得我们探索。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 228,

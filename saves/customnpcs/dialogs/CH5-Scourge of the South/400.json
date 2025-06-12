@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 399,
-                "Title": "So what now?",
+                "Title": "那现在怎么办？",
                 "DialogColor": 1833498,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me get back to you...",
+                "Title": "我回头再跟你说……",
                 "DialogColor": 16590081,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "And what did you say about the shield? It is not Cromhes’? It shall have to make do.",
+    "DialogText": "你说盾牌是什么？它不是克罗米斯的？也只能这样了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

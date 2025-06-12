@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 286,
-                "Title": "So, can you read the scroll and will it help us?",
+                "Title": "那么，你能读懂这幅卷轴吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me know how that scroll read goes.",
+                "Title": "让我知道卷轴阅读的结果如何。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You were sent by the daughter of Cromhes and the Elf Thurdan? What a strange fate brought you hither. The Shadow of the enemy has grown.",
+    "DialogText": "你是克罗米斯的女儿和精灵瑟尔丹派来的吗？多么奇怪的命运把你带到了这里。 敌人的阴影已经扩大了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 76,

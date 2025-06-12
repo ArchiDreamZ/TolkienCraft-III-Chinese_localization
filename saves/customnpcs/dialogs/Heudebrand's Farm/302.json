@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Consider it done!",
+                "Title": "就这么定了！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I remember him saying something about orc camps to the north of Bree.  I would start there.",
+    "DialogText": "我记得他说过布理北部有奥克营地。我会从那里开始。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

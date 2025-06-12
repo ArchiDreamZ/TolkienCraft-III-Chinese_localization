@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "英贡德·静步(Ingunde Silentfoot) II",
+    "DialogTitle": "Ingunde Silentfoot II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我想要一条龙，但只要一条好的，不要一条坏的。我的好龙会和我住在一起，给我们带来闪闪发光的东西来玩，我会骑着它在天空中飞翔！你知道，龙非常聪明，所以我的龙会给我讲故事，教我只有龙知道的事情！,,
-
-但你知道，我一直在想那可怜的山。它甚至被称为孤山，那还是它拥有自己的一条龙作朋友的时候。但自从比尔博吓走了那条龙，我敢打赌那座山变得更加孤独了。有些晚上我为它感到很难过，我就抱着我的毛绒羊玩具——尤尼亚哭泣。",
+    "DialogText": "我想要一条龙，但只要一条好的，不要一条坏的。我的好龙会和我住在一起，给 我们带来闪闪发光的东西来玩，我会骑着它在天空中飞翔！你知道，龙非常聪明， 所以我的龙会给我讲故事，教我只有龙知道的事情！
+但你知道，我一直在想那可怜的山。它甚至被称为孤山，那还是它拥有自己的一 条龙作朋友的时候。但自从比尔博吓走了那条龙，我敢打赌那座山变得更加孤独 了。有些晚上我为它感到很难过，我就抱着我的毛绒羊玩具——尤尼亚哭泣。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

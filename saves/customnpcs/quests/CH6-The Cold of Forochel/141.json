@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Aubertin Unhidden II",
-    "Text": "Nerea Aubertin is at Forochel, far to the north of Bree. The ship-wreck is in the frozen bay of Forochel. Nerea Aubertin left a note requesting you specifically to meet her there. Cromhes has told you to be careful.",
+    "Text": "内雷亚·奥贝坦在佛洛赫尔，在布理以北很 远的地方。沉船位于佛洛赫尔的冰封海湾内。 内雷亚·奥贝坦留了一张字条，特别要求你 去那里见她。克罗米斯告诉你要小心。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -48,7 +48,7 @@
             }
         ]
     },
-    "CompleteText": "I am glad that you have come, @p.",
+    "CompleteText": "我很高兴你能来，冒险家。",
     "NextQuestTitle": "",
     "QuestLocation": "Ship in the Bay"
 }

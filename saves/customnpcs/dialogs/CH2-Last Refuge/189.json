@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 190,
-                "Title": "So, what’s our next move?",
+                "Title": "那么，我们下一步该怎么办？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well I think I'm good for now.",
+                "Title": "我想我现在没事了。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,9 +50,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "While news of the spirit that was driven from Dugorim is unsettling, it is not as disturbing as the news of the Rider's escape. What is worse, you tell me that he spoke of bringing men to Carn Dûm. What he seeks in there is a mystery to me.
-
-Unfortunately, there is more that must be done if Rivendell is to be secured. Know, though, that I will give you whatever help I can.",
+    "DialogText": "虽然杜戈林灵魂被驱赶的消息令人不安，但它并不像黑骑手逃跑的消息那样如此 令人不安。更糟糕的是，你告诉我他要带人去卡恩督姆。他在那里寻找什么，对 我来说是个谜。
+不幸的是，要确保幽谷安全，还有更多事情要做。不过你要知道，我会尽我所能 地帮助你。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

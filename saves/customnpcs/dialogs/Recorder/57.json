@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 58,
-                "Title": "Thank you",
+                "Title": "谢谢你！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 84,
     "OptionFaction2Points": 100,
-    "DialogText": "Ahhh, yes.One of our scouts found this shiny bauble laying about and I was about to send it back to him but it appears it was meant for other tasks.The runner I tasked with returning this will send it to you in the mail.",
+    "DialogText": "啊哈，是的。
+我们的一名侦察兵发现了这个闪闪发光的小玩意儿，我正准备把它送回去给他， 但它似乎有其他用途。
+我那个负责归还的跑腿人员会把它邮寄给你。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -55,7 +57,6 @@
         "Message": {
             "pages": [
                 "Here is the jewel the scout found.
-
 Please take better care of this as it is very precious to Lord Glorfindel."
             ]
         },

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 456,
-                "Title": "Thank you for that information.",
+                "Title": "谢谢你提供的信息。",
                 "DialogColor": 523558,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Lost a lot of good men? I think I’ll pass.",
+                "Title": "失去了很多好手？我还是算了吧。",
                 "DialogColor": 16652034,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Still, we have lost many good men exploring the southern woods these days. There is rumour that Angmar is involved, so my guess is that is the best place to search. Go to the southern woods and seek out your evil Knight.",
+    "DialogText": "不过，这些天来，我们在南部森林的探险中失去了许多好手。有传言说安格玛王 国参与其中，所以我猜那里是最好的搜索地点。去南部森林寻找你要的邪恶骑士 吧。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

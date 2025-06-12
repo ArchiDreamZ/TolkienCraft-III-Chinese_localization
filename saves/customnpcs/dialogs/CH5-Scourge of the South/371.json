@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you Lord Elrond.",
+                "Title": "感谢你，埃尔隆德领主",
                 "DialogColor": 16669184,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Thurdan awaits you back in Moria.",
+    "DialogText": "瑟尔丹在墨瑞亚等待你的归来。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

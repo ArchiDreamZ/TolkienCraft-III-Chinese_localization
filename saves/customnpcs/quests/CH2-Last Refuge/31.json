@@ -7,8 +7,8 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Last Refuge I",
-    "Text": "With the Key-stone in hand, you can now enter the dwarf-keep in Gundabad, the last refuge of the Dourhands and confront both the Nazgûl and Dugorim.
-Gimli is located near the secret entrance to Gundabad, follow the compass in your journal to find him to gain entrance to Gundabad.",
+    "Text": "拿到钥匙石后，你就可以进入贡达巴德山的 矮人堡垒——杜汉德矮人最后的庇护所，与 那兹古尔和杜戈林进行对峙。
+吉姆利位于通往贡达巴德山的秘密入口附近， 按照日志中的指南针找到他就能进入贡达巴 德山。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -37,7 +37,7 @@ Gimli is located near the secret entrance to Gundabad, follow the compass in you
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Ah, hello @p. A glorious battle awaits you!",
+    "CompleteText": "啊，你好，冒险家！一场光荣的战斗在等着 你！",
     "NextQuestTitle": "",
     "QuestLocation": "Gundabad Secret Entrance"
 }

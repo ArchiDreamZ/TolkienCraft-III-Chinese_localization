@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Manuscript III",
-    "Text": "Petunia Clayhanger was last seen standing along the banks of the Withywindle River.
+    "Text": "佩图尼亚·克莱汉格最后一次被人看到是她 站在柳条河畔。
 
-Goldberry may have given you the answer Petunia was seeking, and you should now return to the hobbit to see if she agrees.",
+金莓可能已经给了你关于佩图尼亚想要的答 案，你现在应该回到霍比特人身边，看看她 是否同意这个答案。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Goldberry may have given you the answer Petunia was seeking, and you should now 
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Petunia listens to Goldberry's description of Tom and nods.",
+    "CompleteText": "佩图尼亚听了金莓对汤姆的描述，点了点头。",
     "NextQuestTitle": "",
     "QuestLocation": "Find Petunia"
 }

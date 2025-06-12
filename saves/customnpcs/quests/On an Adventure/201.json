@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Manuscript II",
-    "Text": "Goldberry has returned from her spring. She can be found inside the house of Tom Bombadil.
+    "Text": "金莓从她的春天回来了。她现在就在汤姆· 邦巴迪尔的房子里。
 
-Tom has said that you should speak with Goldberry while he looks at Petunia’s manuscript.",
+汤姆说，在他看佩图尼亚的手稿时，你应该 和金莓谈一谈。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Tom has said that you should speak with Goldberry while he looks at Petunia’s 
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Your face is full of questions, young one.",
+    "CompleteText": "你的脸上写满了问题，年轻人。",
     "NextQuestTitle": "",
     "QuestLocation": "Tom's House"
 }

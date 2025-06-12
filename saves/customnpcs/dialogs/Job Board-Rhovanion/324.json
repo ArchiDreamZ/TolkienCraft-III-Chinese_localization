@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 325,
-                "Title": "Is there no other way?",
+                "Title": "没有其他办法了吗？",
                 "DialogColor": 3458846,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "That does not sound like something I want to be a part of.",
+                "Title": "这听起来可不像我想参与的事情。",
                 "DialogColor": 16531714,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "This is war, friend, and in war you make choices that you might regret when all is done. Yet, if we do not make these difficult decisions, then there may be no tomorrow for regret. It is a terrible and confusing situation sometimes, but I follow my orders, and they are clear. I am to charge you with collecting iron ore. Either way, the iron is to be used to craft a giant cauldron. We will fill the cauldron with oil and boil it to douse The White Hand’s forces when they try to attack.",
+    "DialogText": "这就是战争，朋友。在战争中，你所做的选择可能会在一切结束后让你后悔。然 而，如果我们不做出这些艰难的决定，那么可能就没有后悔的明天。有时情况很 糟糕，也很混乱，但我奉命行事，而且我的命令很明确。我要让你负责收集铁矿 石。无论如何，铁矿石都要用来制作一个大锅。我们要在大锅里注满油，然后煮 沸，以便在白手智者萨茹曼的军队试图进攻时将其势头浇灭。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

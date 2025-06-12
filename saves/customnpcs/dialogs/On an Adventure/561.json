@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, I’ll be back in a bit then.",
+                "Title": "好吧，那我一会儿就回来。",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I delight in the feel of these pages, and their tiny words. Let me sit with them awhile, and you speak with the River-daughter. Goldberry has returned from her spring for a time, and she is more fair and more lovely than when she left!",
+    "DialogText": "我喜欢这些书页的触感和它们细小的文字。让我和它们坐一会儿，你和河之女说 话。金莓从春天回来了，她比离开时更加美丽可爱！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

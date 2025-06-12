@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Nick Greenhill",
-    "Text": "Gaffer Gamgee is sure to know which hobbits have the best stories to tell of Bilbo's disappearance and his adventures and whereabouts since then.
+    "Text": "老头儿甘姆吉肯定知道哪些霍比特人最擅长 讲述比尔博失踪的故事，以及他此后的冒险 经历和下落。
 
-Return to Gaffer after speaking to all of the hobbits.
+与所有霍比特人交谈后，返回老头儿那里。
 
-Nick Greenhill has agreed to share a story about Bilbo Baggins and his adventures.",
+尼克·绿丘同意分享关于比尔博·巴金斯和 他的冒险故事。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -64,6 +64,6 @@ Nick Greenhill has agreed to share a story about Bilbo Baggins and his adventure
             }
         ]
     },
-    "CompleteText": "Oh, you’re wondering what Mad Baggins has been up to? Hah! He was all cleverness and no sense, if you ask me. I know a right amusing story of what mischief he's gotten himself into, I surely do.",
+    "CompleteText": "哦，你想知道疯狂巴金斯最近在忙什么？哈！ 要我说，他只会耍小聪明，一点都不讲道理。 我知道他干过什么蠢事，我肯定知道。",
     "NextQuestTitle": ""
 }

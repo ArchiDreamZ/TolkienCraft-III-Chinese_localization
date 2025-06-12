@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Protect Layless",
-    "Text": "You have been ambushed!  Protect Layless before continuing your journey...",
+    "Text": "你中了埋伏！保护好莱尔斯，然后继续你的 旅程......",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,6 +40,6 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Layles is now safe! Continue searching for her father.",
+    "CompleteText": "莱尔斯现在安全了！继续寻找她的父亲。",
     "NextQuestTitle": ""
 }

@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Gaffer I",
-    "Text": "Frodo Baggins requests that you travel to the Shire to collect the stories hobbits are telling about his uncle Bilbo's mysterious disappearance and current whereabouts and adventures.
+    "Text": "弗罗多·巴金斯请求你前往夏尔，收集霍比 特人讲述的冒险故事，特别是关于比尔博叔 叔神秘失踪以及目前下落的。
 
-Gaffer Gamgee is located just south of the party tree and north-west of the Bywater Bridge.",
+老头儿甘姆吉位于集会树的南面，傍水桥的 西北方向。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Gaffer Gamgee is located just south of the party tree and north-west of the Bywa
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Why hello! Frodo's sent you to talk to me then? What's that young fry up to now?
+    "CompleteText": "你好，弗罗多派你来找我？那个小年轻现在 在干什么？
 ",
     "NextQuestTitle": "",
     "QuestLocation": "Gaffer’s House"

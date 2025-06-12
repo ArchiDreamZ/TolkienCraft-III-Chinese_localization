@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 347,
-                "Title": "等一下，我相信我们可以想出一个解决办法。",
+                "Title": "等一下，我相信我们可以想出一个解决办法来。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "我完全同意你！他必须找到另一种解决问题的方式。",
+                "Title": "我完全同意你！他必须找到另一种弥补过错的方法。",
                 "DialogColor": 16524802,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "锻造一把新剑 I",
+    "DialogTitle": "Forging a new sword I",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我已经拖欠了其他工作，现在我必须赶制一把新的剑，以便按时完成原本预定了这把断剑的订单。[时间宝贵，不要白白浪费它。]，我父亲过去常说这句话……",
+    "DialogText": "我已经拖欠了其他工作，现在我必须赶制一把新的剑，以便按时完成原本预定了 这把剑的订单。“时间宝贵，不要白白浪费它。”，我父亲过去常说这句话……",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 112,

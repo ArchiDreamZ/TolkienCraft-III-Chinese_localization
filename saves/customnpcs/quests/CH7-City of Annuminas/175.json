@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Preparations - Aragorn I",
-    "Text": "Aragorn can be found in the main house and Boromir can be found in one of the guest rooms along the road that winds up the southern slope of the Vale of Imladris.
+    "Text": "阿拉贡可以在主屋找到，而波洛米尔则可以 在客房中找到，沿伊姆拉缀斯谷南坡蜿蜒而 上道路两旁。
 
-Elrond has asked that you help, Aragorn son of Arathorn and Boromir of Gondor, prepare to leave on their dangerous -- and secret -- mission.",
+埃尔隆德要求你帮助阿拉松之子——阿拉贡 和来自刚铎的波洛米尔准备出发执行他们危 险而秘密的任务。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Elrond has asked that you help, Aragorn son of Arathorn and Boromir of Gondor, p
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Well met @p!",
+    "CompleteText": "很高兴见到你，冒险家!",
     "NextQuestTitle": "",
     "QuestLocation": "Last Homely House"
 }

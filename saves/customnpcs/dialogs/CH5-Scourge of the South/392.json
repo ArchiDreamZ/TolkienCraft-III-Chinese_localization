@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 393,
-                "Title": "That’s good to hear.",
+                "Title": "很高兴听到这个消息。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "对话",
                 "DialogColor": 14737632,
                 "OptionType": 2
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Master Elrond requires this sword to be reforged? Very well. It is a minor essay in Elf-craft…it will not take long.",
+    "DialogText": "埃尔隆德大人需要重新锻造这把剑吗？很好。这只是精灵工艺巨著上的一篇小文 章……不会花很长时间。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 126,

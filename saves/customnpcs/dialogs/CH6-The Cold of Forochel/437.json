@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 438,
-                "Title": "Really? In what way?",
+                "Title": "真的吗？怎么说？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "See, I don’t think I like that tone.",
+                "Title": "瞧，我觉得我不喜欢这种语气。",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The search will be short indeed, for she has, after a manner, been found…though it is still good you have come, for the manner of her discovery concerns you deeply.",
+    "DialogText": "寻找的时间确实用得很短，因为她已经被找到了……不过你能来还是很好的，因 为她被发现的方式可能会让你深感忧虑。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 141,

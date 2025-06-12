@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "The Priest’s Doom II",
-    "Text": "While the stone-heart you found was cracked and useless, another path still remains open. Manwyn has learned of a ritual taking place at the fortress of Dol Guldur, which may yield a whole heart if interrupted.
+    "Text": "虽然你找到的石心已经裂开，毫无用处，但 另一条得到石心的路仍然敞开着。曼温知道 了在多古尔都要塞正在举行一个祭祀，如果 祭祀被打断，你可能会得到一颗完整的心。
 
-Collected the stone-heart.",
+收集石心",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -65,6 +65,6 @@ Collected the stone-heart.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "This is indeed a stone-heart, but alas...the situation is more dire than first I thought!",
+    "CompleteText": "这确实是一个石心，但可惜……情况比我想 象的还要糟糕！",
     "NextQuestTitle": ""
 }

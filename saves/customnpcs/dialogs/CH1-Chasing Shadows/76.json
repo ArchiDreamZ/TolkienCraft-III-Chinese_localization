@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "老实说，我不确定自己是否想与戒灵对决。",
+                "Title": "老实说，我不确定自己是否想与那兹古尔对决。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "失踪的黑骑手 II",
+    "DialogTitle": "Missing Rider II",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我们走了很远的路，到了南边的土地上，仍然没有发现逃亡黑骑手的踪迹。直到回程时，我们才发现了一些东西：在南方的食人妖森林，离道路很远的地方有马蹄印。该地区有许多狭窄的山谷，戒灵可能就藏在那里，躲避窥探，等待时机下手。",
+    "DialogText": "我们走了很远的路，到了南边的土地上，仍然没有发现逃亡黑骑手的踪迹。直到 回程时，我们才发现了一些东西：在南方的食人妖森林，离道路很远的地方有马 蹄印。该地区有许多狭窄的山谷，戒灵可能就藏在那里，躲避我们的窥探，等待 着时机下手。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

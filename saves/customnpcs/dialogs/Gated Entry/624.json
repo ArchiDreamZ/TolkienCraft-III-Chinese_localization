@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 625,
-                "Title": "I found it on a table in one of the lower levels of Erebor.",
+                "Title": "我是在埃瑞博山低层大厅的一张桌子上发现它的。",
                 "DialogColor": 16711163,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I’d like that book back please...",
+                "Title": "请把那本书还给我…",
                 "DialogColor": 16518403,
                 "OptionType": 0
             }
@@ -57,9 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "**He takes the tome from you and gently leafs through the pages. Realization suddenly lights his eyes.**
-
-Edhekal! The Hidden Door! Where did you find this, @p?",
+    "DialogText": "**他从你手中接过古籍，轻轻翻阅。他的眼中突然闪过一丝明悟。**
+天啊！隐藏之门！你从哪儿找到这个的，@p？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": 225,
     "AvailabilityQuest2Id": 220,

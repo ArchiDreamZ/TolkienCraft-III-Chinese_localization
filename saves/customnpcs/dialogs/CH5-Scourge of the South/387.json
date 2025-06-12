@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 388,
-                "Title": "Let me guess…",
+                "Title": "让我猜一猜…",
                 "DialogColor": 3209745,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Returning to the sword, if we are to have it reforged, I can think of but one place where there are Elf-smiths of sufficient skill to repair it.",
+    "DialogText": "说回这把剑，如果我们要重新锻造它，我能想到的只有一个地方有技术精湛的精 灵铁匠可以修理它。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

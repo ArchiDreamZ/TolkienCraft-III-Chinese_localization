@@ -5,9 +5,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Fire n Ice",
-    "Text": "Carn Dûm is far to the north-west of Rivendell.
+    "Text": "卡恩督姆远在幽谷的西北方。
 
-Elrond fears the body of the dragon left to rot so long ago in Carn Dûm may now be used by the Gaunt-lord to create a terrible fell-creature called a Dragon Wight and he wants you to go and attempt to stop it from happening.",
+很久以前被留在卡恩督姆不断腐烂的巨龙尸 体，埃尔隆德担心它现在可能会被柴骨领主 用来制造一种可怕的堕落生物——尸龙，所 以他希望你去杀死尸龙与柴骨领主，阻止这 一切的发生。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -58,6 +58,6 @@ Elrond fears the body of the dragon left to rot so long ago in Carn Dûm may now
             }
         ]
     },
-    "CompleteText": "You have done a great thing today, @p!",
+    "CompleteText": "你今天做了一件了不起的事，冒险家！",
     "NextQuestTitle": ""
 }

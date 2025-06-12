@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Wisdom of Lord Glorfindel I",
-    "Text": "Lord Glorfindel can be found in Imladris contemplating the waterfalls by the Last Homely House.
+    "Text": "在伊姆拉缀斯，人们可以看到格罗芬德尔领 主大人在最后家园的瀑布边沉思。
 
-Elladan has asked you to consult with the Elf-lord Glorfindel about the missing Rider.",
+埃尔拉丹让你去找精灵领主格罗芬德尔商量 黑骑手失踪的事。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Elladan has asked you to consult with the Elf-lord Glorfindel about the missing 
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You are welcome to Imladris, @p. These are times of trouble, but for now, at least, the curtain of shadow is held back and we meet in peace.",
+    "CompleteText": "欢迎你来访伊姆拉缀斯，冒险家。这是一个 充满麻烦的时代，但至少现在，阴影的帷幕 被暂时挡住了，让我们可以在和平中相会。",
     "NextQuestTitle": "",
     "QuestLocation": "Imladris Waterfalls"
 }

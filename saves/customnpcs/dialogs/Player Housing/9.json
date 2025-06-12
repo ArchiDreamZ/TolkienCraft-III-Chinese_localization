@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 7,
-                "Title": "Thank you, I have more questions…",
+                "Title": "谢谢你，我还有更多问题要问……",
                 "DialogColor": 16315365,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That depends, the houses range in price so depending on the size or location the price could go up or down.  As a side note, if you have not noticed already, 64 copper coins equal 1 silver coin and 64 silver coins equal 1 gold coin and there is a money changer in the same market stall as the banker.",
+    "DialogText": "这要看情况，房子的价格有高也有低。根据房子的大小或位置，价格可能会上涨 或下跌。顺便提一句，如果你还没有注意到，64个铜币等于1个银币，64个 银币等于1个金币。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

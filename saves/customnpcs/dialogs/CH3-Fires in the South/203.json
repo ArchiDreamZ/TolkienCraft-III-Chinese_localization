@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 204,
-                "Title": "What did it say?",
+                "Title": "上面写了什么？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Not sure I want to meddle in the affairs of rangers again.",
+                "Title": "我不确定自己是否还想插手游民的事务。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hail and well met, @p. It is well that you have come. This morning, a falcon arrived, bearing a message for me from Mitheithel, the hidden refuge of my people in the South Downs. It would appear that another such bird came to Mitheithel from the North, gravely wounded, bearing a message from one of my kinsmen we had believed long dead.",
+    "DialogText": "你好，@p。你来得正好。今早，一只猎鹰从我的族人在南岗的隐蔽庇护所—— 米斯艾塞尔河营地给我带来了消息。看来，之前有一只这样的猎鹰从北方来到了 米斯艾塞尔营地，它身负重伤，带着我的一位族人的口信，我们一直以为他早已 死去。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 60,

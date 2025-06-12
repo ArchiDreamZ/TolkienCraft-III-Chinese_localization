@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Immediately!",
+                "Title": "立刻马上！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Please, go to Master Elrond in Rivendell and speak with him of the things you have seen. The hour is late indeed if we are only now seeing the true threat that festers in the north.",
+    "DialogText": "请你去找幽谷的埃尔隆德大人，向他讲述你所看到的一切。如果我们现在才看到 肆虐北方的真正威胁，那就真的太晚了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

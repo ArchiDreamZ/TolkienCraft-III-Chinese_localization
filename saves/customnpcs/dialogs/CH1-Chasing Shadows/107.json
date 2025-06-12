@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "那我就去和他谈谈。",
+                "Title": "那我就去和他谈一谈。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "催促他们的离去 III",
+    "DialogTitle": "Hasten Their Departure III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "到最后的庇护所去找埃尔隆德大师，告诉他我们进入马图纳(Matuna)洞穴的经过，以及我们在那里看到的一切。耽搁的时间已经过去了。",
+    "DialogText": "到最后家园去找埃尔隆德大人，告诉他我们进入马图纳洞穴的经过，以及我们在 那里看到的一切。耽搁的时间已经过去了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

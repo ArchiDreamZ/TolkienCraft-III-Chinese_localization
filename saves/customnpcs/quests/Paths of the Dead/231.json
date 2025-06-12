@@ -6,9 +6,9 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Lenn Duskud I",
-    "Text": "Lenn Dûskud, a small pond, is within the Paths of the Dead, far to the north of Erech.
+    "Text": "伦杜斯德库是亡者之路的一个小池塘，，位 于埃瑞赫以北。
 
-Guodhelda asked you to venture to a pond within the Paths of the Dead and clear it of any foul objects.",
+瓜德尔塔让你冒险去亡者之路的一个池塘， 清除池塘里的脏东西。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -53,6 +53,6 @@ Guodhelda asked you to venture to a pond within the Paths of the Dead and clear 
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "You've collected all of the rune-stones",
+    "CompleteText": "你已经收集了所有的符文石。",
     "NextQuestTitle": "Lenn Duskud II"
 }

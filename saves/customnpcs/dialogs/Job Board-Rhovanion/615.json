@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 616,
-                "Title": "our team seems to have done a good job.",
+                "Title": "我们的团队似乎干得不错。",
                 "DialogColor": 16579318,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Cool history lesson.",
+                "Title": "精彩的历史课",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 618,
     "OptionFaction2Points": 100,
-    "DialogText": "When we arrived in this foul smelling area we took to task in cleaning and repairing all we could.  At one time this was the very heart of Khazad-Dum and her forges.",
+    "DialogText": "当我们来到这个臭气熏天的地方时，我们就开始了清理和修复工作。这里曾经是 卡扎督姆的中心地带和锻造厂。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

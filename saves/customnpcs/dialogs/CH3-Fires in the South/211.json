@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 212,
-                "Title": "Another witch-king?!?!",
+                "Title": "另一个巫王？！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I need to be better prepared.  I’ll come back.",
+                "Title": "我需要更好的准备。 我会回来的。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Perhaps I should tell you somewhat of our long story. When we first came unto Stoneyford, they were suspicious of us, but not overtly hostile. Cromhes quickly earned respect, for he was a great captain among us and was able to inspire heart. We learned that these people were under the oppression of a remnant of Dol Guldur that had returned to Khazad-dûm from within Mirkwood...but worse, a sorcerer much likened to the Witch-king of old had also come to the evil city.",
+    "DialogText": "也许我应该告诉你一些我们的故事。当我们第一次来到石头渡口时，本地人对我 们有所怀疑，但并没有明显的敌意。克罗米斯很快赢得了尊重，因为他是我们中 的一位伟大领袖，能够鼓舞人心。我们了解到，这些人受到了多古尔都残余势力 的压迫，他们从黑森林回到了卡扎督姆……但更糟糕的是，一个酷似昔日巫王的 巫师也来到了那座邪恶之城。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

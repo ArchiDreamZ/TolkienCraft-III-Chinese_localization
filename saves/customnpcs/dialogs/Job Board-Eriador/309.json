@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Piece of cake!  Be back soon!",
+                "Title": "小菜一碟！ 很快回来",
                 "DialogColor": 16669185,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Excellent, I have come across a party who is interested in monster flesh.  Unfortunately, the only way to get monster flesh, is by killing monsters.  What I need is for you to collect 32 monster flesh and bring them back to me.  I will definitely pay you for them.",
+    "DialogText": "太好了，我遇到了一个对怪物肉感兴趣的人。不幸的是，获得怪物肉的唯一途径 就是杀死怪物。我需要你收集32块怪物肉，然后带回来给我。我一定会付钱给 你的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

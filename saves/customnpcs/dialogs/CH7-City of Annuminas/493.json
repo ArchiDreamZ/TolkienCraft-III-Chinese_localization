@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 494,
-                "Title": "Great, I will take this back!",
+                "Title": "很好，我把这个拿回去！",
                 "DialogColor": 458277,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "That’s good to know...hypothetically speaking of course.",
+                "Title": "很高兴知道这些……当然，这只是假设。",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I see, well it is fortunate it has been removed from the hands of Dreulhara, so yes, I will assist you.",
+    "DialogText": "我明白了，幸好它已从德鲁哈拉手中被夺回，好吧，我会协助你的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

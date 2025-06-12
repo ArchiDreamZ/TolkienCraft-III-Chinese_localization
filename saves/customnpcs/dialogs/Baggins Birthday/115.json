@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "我会考虑办妥的！",
+                "Title": "就这么定了！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "巴金斯生日 - 弗罗多 IV",
+    "DialogTitle": "Baggins’ Birthday - Frodo IV",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "如果我是你，我会先从老头儿开始。他听到过很多值得一听的故事，而且肯定知道你应该和谁交谈才能得到最精彩的故事。",
+    "DialogText": "如果我是你，我会先从老头儿那里开始。他听到过很多值得一听的故事，而且肯 定知道你应该和谁交谈才能得到最精彩的故事。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

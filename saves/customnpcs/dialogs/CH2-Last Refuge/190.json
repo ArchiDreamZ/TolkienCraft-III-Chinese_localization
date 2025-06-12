@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 191,
-                "Title": "Unfortunately I am familiar with this place.",
+                "Title": "不幸的是，我对这个地方很熟悉。",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If you have a moment, allow me to tell you some of the tale of Carn Dûm, which lies north-west of here. The tale may shed light on what the Rider seeks to accomplish, though I cannot guess what that might be.
-
-Carn Dûm was the capital and chief fortress of the Witch-king's realm of Angmar. It was located at the western end of the Mountains of Angmar, the northwestern extension of the Misty Mountains.",
+    "DialogText": "如果你有时间，请允许我给你讲讲卡恩督姆的故事，它位于这里的西北方。这个 故事或许能揭示黑骑手想要达到的目的，虽然我无法猜测是什么。
+卡恩督姆是巫王安格玛的王国首都和主要堡垒。它位于安格玛山脉的西端，是迷 雾山脉的西北延伸部分。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

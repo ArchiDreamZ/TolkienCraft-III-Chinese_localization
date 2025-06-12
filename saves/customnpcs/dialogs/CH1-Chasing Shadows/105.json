@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 12186 39 6808",
                 "Dialog": 106,
-                "Title": "下一步是什么？",
+                "Title": "下一步是做什么？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "催促他们的离去 I",
+    "DialogTitle": "Hasten Their Departure I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我认为这并不是我们寻找从布茹伊能河中逃脱的戒灵的终点。事实上，我们只是看到了他可能带来的麻烦的开始。",
+    "DialogText": "我们一直寻找从布茹伊能河中逃脱的那兹古尔，我认为这里并不是终点。事实上， 我们只是看到了他可能带来麻烦的开始。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 25,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 224,
-                "Title": "How do we defeat such magic?",
+                "Title": "我们怎样才能战胜这种魔力？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "That is one awesome story, but I must get going.",
+                "Title": "这真是个精彩的故事，不过我得走了。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I know now the secret of the Watchers. It is no spell that grants the statues such power, but a fell spirit of an elder Age, such as those that inhabit the wights which serve Angmar. This stone-heart was prepared to receive such a spirit.",
+    "DialogText": "我现在知道监视者的秘密了。赋予雕像这种力量的不是咒语，而是一个古老时代 的堕落之灵，就像那些依附于安格玛身边为其服务的巫师一样。这颗石心就是为 接纳这样的灵魂而准备的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

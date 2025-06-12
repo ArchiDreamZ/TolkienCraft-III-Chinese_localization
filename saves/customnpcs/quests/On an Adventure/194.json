@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Making a New Friend II",
-    "Text": "Petunia is unsure how to best describe Tom Bombadil for her written account of her journeys, and has asked you to go directly to the subject for more answers.",
+    "Text": "佩图尼亚不知道在她旅行的记述中如何更好 地描述汤姆·邦巴迪尔，并请你直接从汤姆 ·邦巴迪尔中找寻更多的答案。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -46,7 +46,7 @@
             }
         ]
     },
-    "CompleteText": "Still you ask, and ask! Too many questions for so lovely a day.",
+    "CompleteText": "你还是问啊问！问啊问！这么美好的一天， 你的问题太多了。",
     "NextQuestTitle": "",
     "QuestLocation": "Mysterious Glade"
 }

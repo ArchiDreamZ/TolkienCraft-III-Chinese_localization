@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Missing Hobbit VI",
-    "Text": "Tom Bombadil can be found outside his house in the Old Forest.
+    "Text": "汤姆·邦巴迪尔可以在他位于老林子的家门 口找到。
 
-Petunia has asked you to go speak to Tom and ask him her questions.",
+佩图尼亚让你去找汤姆，询问汤姆关于她的 疑问。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Petunia has asked you to go speak to Tom and ask him her questions.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You have come to the house of Tom Bombadil!",
+    "CompleteText": "你来到了汤姆·邦巴迪尔的家！",
     "NextQuestTitle": "Making a New Friend I",
     "QuestLocation": "Mysterious Glade"
 }

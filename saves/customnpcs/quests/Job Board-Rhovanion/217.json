@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Twice Dead, Once Shot",
-    "Text": "Orc corpses are strewn along the north and south borders of Lórien, east of Echad Andestel.
+    "Text": "奥克的尸体散落在安德斯特尔营地以东的罗 瑞恩南北边界。
 
-Evindal has asked you to find the bodies of Orcs slain by arrows along the outskirts of Lórien, and warned you against getting too close to the border. She wants you to recover the arrows so that they may be used again against the Orcs.",
+埃文达尔让你去罗瑞恩郊外寻找被箭射死的 奥克的尸体，并警告你不要太靠近边境。她 想让你把箭找回来，以便再次用来对付奥克。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -73,6 +73,6 @@ Evindal has asked you to find the bodies of Orcs slain by arrows along the outsk
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Very good, @p. The Elf-arrow that kills more than one Orc is a lucky arrow indeed.",
+    "CompleteText": "很好，冒险家。能杀死不止一个奥克的精灵 箭确实是一支幸运之箭。",
     "NextQuestTitle": ""
 }

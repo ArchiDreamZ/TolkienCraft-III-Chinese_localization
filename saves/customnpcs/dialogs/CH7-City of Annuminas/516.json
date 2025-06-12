@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "It was my honor!",
+                "Title": "这是我的荣幸！",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You have eased my mind, @p; though it seem we struggle alone, it is not so. That is why we fight on; not just for our own people, but for all peoples.",
+    "DialogText": "@p，你让我安心了；虽然看起来我们是在孤军奋战，但事实并非如此。这就是 为什么我们要继续战斗；不仅是为了我们自己的人民，也是为了所有的自由人民。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

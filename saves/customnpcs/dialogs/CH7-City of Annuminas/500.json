@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I shall go speak with them.",
+                "Title": "我去和他们谈谈。",
                 "DialogColor": 16652033,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The fate of the Race of Men concerns you closely, @p, and I know that you are trustworthy. Two doughty Men prepare to set forth on this perilous journey; lend them your assistance as they prepare to leave. I speak of Aragorn son of Arathorn and Boromir of Gondor. Look for Aragorn at the main house and Boromir in one of the guest rooms along the road that winds up the southern slope of the Vale of Imladris.",
+    "DialogText": "人族的命运与你息息相关，@p，我知道你值得信赖。两个勇敢的人准备踏上这 次危险的旅程，在他们准备出发时，请给予他们帮助。我说的是阿拉松之子—— 阿拉贡和刚铎的波洛米尔。在主屋寻找阿拉贡，在沿着伊姆拉缀斯谷南坡蜿蜒而 上道路旁的一个客房里寻找波洛米尔。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "前往迷雾山脉 IV",
+    "DialogTitle": "Onward Misty Mountains IV",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,11 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我担心，虽然你赶走的戒灵已经逃离了食人妖森林，但他仍在图谋攻击幽谷。在幽谷的北面和东面，有奥克和更可怕的东西。它们可能会屈服于戒灵的意志，被他利用来对付我们。,,
-
-请你继续追寻戒灵，前往迷雾山脉。在那里您可以寻求格罗因的帮助，他在出幽谷通往迷雾山脉的山口尽头建立了营地。
-
-现在就去吧，这不仅关系到幽谷的安危。整个中土世界都取决于你的行动。",
+    "DialogText": "我担心，虽然你赶走的那兹古尔已经逃离了食人妖森林，但他仍在图谋攻击幽谷。 在幽谷的北面和东面，有奥克和更可怕的东西。它们可能会屈服于那兹古尔的意 志，被他利用来对付我们。
+请你继续追寻那兹古尔，并且前往迷雾山脉。在那里你可以寻求格罗因的帮助， 他在出幽谷通往迷雾山脉的山口尽头建立了营地。
+现在就去吧，这不仅关系到幽谷的安危。整个中洲都取决于你的行动。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

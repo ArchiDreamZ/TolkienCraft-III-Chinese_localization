@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 496,
-                "Title": "I wish I could do more to help.",
+                "Title": "我希望我能帮上更多的忙。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, you know, I could really use one of those on my adventures.",
+                "Title": "嗯，你知道，我在探险时真的需要一个这样的东西。",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Thank you @p!  I shall not ask more of you as you have already done much to assist us.  I will charge my most trusted rangers to take that “thing” and make sure it is never to be found again!",
+    "DialogText": "谢谢，@p！你已经为我们提供了很多帮助，我就不再要求你更多了。我将吩咐 我最信任的游民把那个‘东西’拿走，确保再也找不到它！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 174,

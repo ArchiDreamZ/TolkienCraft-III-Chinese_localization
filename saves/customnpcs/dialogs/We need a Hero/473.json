@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 474,
-                "Title": "Sign me up!  Sounds like this could be fun!",
+                "Title": "我加入！听起来很有趣！",
                 "DialogColor": 3079950,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I see, risk my life for the POSSIBLE treasure, no...just no.",
+                "Title": "我明白了，为了可能得到的宝藏冒生命危险，不……我就是不愿意。",
                 "DialogColor": 16524802,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well, it was quite by chance actually.  I found it in one of the many volumes I had been combing through. A slip of worn paper, looked like it was hastily scribbled as a note to someone else, mentioned they had finished moving everything to the chambers.  Nothing more than that.  However, I KNOW there was a vast sewer system below Fornost, so I am absolutely certain there is a hidden chamber down there where they stored everything.  It is there I need you to go and search.",
+    "DialogText": "其实，这是一个非常偶然的机会。我在翻阅的众多书卷中发现了它。一张破旧的 纸条，看起来像是匆忙写给别人的便条，上面提到他们已经把所有东西都搬到了 房间里。仅此而已。不过，我知道佛诺斯特下面有一个巨大的下水道系统，所以 我绝对相信下面有一个隐藏的密室，他们把所有东西都存放在那里。我需要你去 那里找找看。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

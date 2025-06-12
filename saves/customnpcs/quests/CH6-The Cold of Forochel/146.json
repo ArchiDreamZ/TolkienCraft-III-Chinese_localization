@@ -5,13 +5,13 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Cromhes’ Request - Comb I",
-    "Text": "Cromhes is concerned that Brimigak's Knights will be taken into Dreulhara's service.
+    "Text": "克罗米斯担心布里米加克的骑士团会为德鲁 哈拉效力。
 
-Cromhes has asked you to return to three places where Nerea Aubertin has been encountered in the past and speak with allies in those places.
+克罗米斯要求你回到过去曾遇到过内雷亚· 奥贝坦的三个地方，并与这些地方的盟友交 谈。
 
-The Knight of Brimigak can be found near an evil idol in the Chetwood, north of Combe.
+在库姆村北面，切特森林的邪恶神像附近的 破旧营地可以找到布里米加克坎的骑士。
 
-Constable Underhill told you how to find the threat in the Chetwood, which might be the Knight you seek.",
+一名来自山下家族的警官告诉你如何找到切 特森林的威胁，那可能就是你要找的骑士。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -66,6 +66,6 @@ Constable Underhill told you how to find the threat in the Chetwood, which might
             }
         ]
     },
-    "CompleteText": "You have defeated the Knight, return to Constable Underhill.",
+    "CompleteText": "你已打败骑士，请返回来自山下氏警官那里。",
     "NextQuestTitle": "Cromhes’ Request - Comb II"
 }

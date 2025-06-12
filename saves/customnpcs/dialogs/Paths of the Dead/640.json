@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 641,
-                "Title": "Do you know how to fix it?",
+                "Title": "你知道如何解决吗？",
                 "DialogColor": 3341075,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, that's unfortunate...",
+                "Title": "真是不幸啊……",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Morthond, the great river that flows through these lands, begins from within the Paths of the Dead. Rumour is Lenn Dûskud, a pond within the ancient city, has been corrupted by the dead within.",
+    "DialogText": "墨松德河，流经这片土地的大河，发源于亡者之路。有传言说，伦杜斯库德是古 城中的一个池塘，已被城中的亡灵侵蚀。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

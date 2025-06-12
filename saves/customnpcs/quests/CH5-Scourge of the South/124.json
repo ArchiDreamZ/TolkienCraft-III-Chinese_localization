@@ -6,11 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Reforging the Sword II",
-    "Text": "The Rangers of Mitheithel were able to repair Cromhes' shield and armor, but the sword was of Elf-craft beyond their skill.
+    "Text": "米斯艾塞尔河营地的游民能够修复克罗米斯 的盾牌和盔甲，但这把剑是精灵的杰作，他 们两估计无法胜任这份工作。
 
-Castien can be found near Rivendell's forges.
+卡西迪恩可以在幽谷的锻炉附近找到。
 
-Elrond instructed you to take Cromhes’ sword to his chief smith, Castien, to be reforged.",
+埃尔隆德指示你把克罗米斯的剑送到他的首 席铁匠——卡西迪恩那里去重新锻造。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -57,6 +57,6 @@ Elrond instructed you to take Cromhes’ sword to his chief smith, Castien, to b
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Master Elrond requires this sword to be reforged?",
+    "CompleteText": "埃尔隆德大人需要重新锻造这把剑吗？",
     "NextQuestTitle": ""
 }

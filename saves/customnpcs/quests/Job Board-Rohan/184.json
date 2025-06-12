@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Pungent Herbs II",
-    "Text": "Bald-bri is at Edhellond, South of Rohan.
+    "Text": "秃头布里就在埃蒂尔泷德，洛汗的南边。
 
-You should return the herbs you collected to Bald-bri.",
+你应将采集的草药交交给秃头布里。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -103,6 +103,6 @@ You should return the herbs you collected to Bald-bri.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Ah! There, just in time. The last step of the process is to add the herbs you have collected for me. After that it simply needs to steep for a few minutes, and the potion will be complete.",
+    "CompleteText": "啊！来得正好。最后一步是加入你为我收集 到的草药。之后只需浸泡几分钟，药水就完 成了。",
     "NextQuestTitle": ""
 }

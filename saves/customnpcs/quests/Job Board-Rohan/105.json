@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "A Cauldron of Iron",
-    "Text": "Aeridstan is working to forge an iron cauldron to fill with oil to be used against the forces of The White Hand as they try to maintain peace in Edoras. He has asked you to help collect the 26 iron ore needed to help forge the cauldron.",
+    "Text": "艾瑞斯坦正在努力锻造一口大铁锅，用来装 满石油，以对抗白手的军队，因为本地卫兵 正试图维护好埃多拉斯的和平。他请你帮忙 收集32块铁矿石，以帮助锻造大铁锅。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -131,6 +131,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "This ore will do nicely, @p. With enough of this, We will forge an iron cauldron, which we can use to douse our enemies.",
+    "CompleteText": "这些矿石很不错，冒险家。有了足够的矿石， 我们就能锻造一个大铁锅，用来煮滚油来浇 灭我们的敌人。",
     "NextQuestTitle": ""
 }

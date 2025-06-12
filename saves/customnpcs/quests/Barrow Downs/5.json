@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Final Chapter II",
-    "Text": "Falsir has told you he knows the story of the Great Barrow, but that the reality of the place as it exists now must be masked beneath the splendour of legend, lest cautious fear grows into terror.
+    "Text": "法尔西尔已经告诉你，他知道大古冢的故事， 但现在这个地方的真实情况必须被掩盖在绚 丽的传说故事之下，以免谨慎的恐惧之情演 变成真正的恐怖之情。
 
-Falsir is awaiting further word of your deeds outside of the Great Barrow.",
+法尔西尔在大古冢之外等待你的进一步消息。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -48,7 +48,7 @@ Falsir is awaiting further word of your deeds outside of the Great Barrow.",
             }
         ]
     },
-    "CompleteText": "You have returned!",
+    "CompleteText": "你回来了！",
     "NextQuestTitle": "",
     "QuestLocation": "The Camp"
 }

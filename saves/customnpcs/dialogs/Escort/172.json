@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 173,
-                "Title": "Thank god for her...",
+                "Title": "为她感谢神明……",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You see, my colleagues and I were exploring some ruins to the south of here when we were beset upon by a small group of orcs.  While some of us were able to escape, it was only because of Ayduin.",
+    "DialogText": "你看，我和我的同事们在探索南边的一些废墟时，遭到了一小群奥克的围攻。虽 然我们中的一些人得以逃脱，但那都是艾杜因的功劳。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

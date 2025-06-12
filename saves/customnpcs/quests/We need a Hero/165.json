@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Adventure Lads IV",
-    "Text": "Merovech Hornwood has asked us to search Fornost for a possible hidden treasure in a maybe hidden chamber in the sewers below.
+    "Text": "梅洛维奇·角木让我们在佛诺斯特的下水道 寻找一个可能隐藏的密室，里面可能隐藏着 宝藏。
 
-Search Fornost for possible entrances to the sewers below. He mentioned off-hand it would be marked by a skull on a tree, near a tower to the west of the entrance.",
+搜索佛诺斯特，寻找通往下水道的可能入口。 他无意中提到，入口的西边有一座塔，附近 的树上有一个骷髅头。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Search Fornost for possible entrances to the sewers below. He mentioned off-hand
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You’ve found the entrance!  Do you really want to go down there?",
+    "CompleteText": "你找到入口了！你真的想下去吗？",
     "NextQuestTitle": "Adventure Lads V",
     "QuestLocation": "Sewer Entrance"
 }

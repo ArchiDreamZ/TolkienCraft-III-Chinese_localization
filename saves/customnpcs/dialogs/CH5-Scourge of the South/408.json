@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 409,
-                "Title": "I wonder what part she plays in this?",
+                "Title": "我想知道她在这场邪恶阴谋中扮演了什么角色？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 373,
     "OptionFaction2Points": 100,
-    "DialogText": "What an unsettling end to our battle. I fear that there is much more to that old woman than what we see upon the surface.",
+    "DialogText": "这场战斗的结局真是令人不安。我担心那个老妇人的身份远不止我们表面看到的 那么简单。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

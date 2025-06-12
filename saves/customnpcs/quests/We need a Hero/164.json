@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Adventure Lads III",
-    "Text": "Merovech Hornwood has asked me to search Fornost for a possible hidden treasure in a maybe hidden chamber in the sewers below.
+    "Text": "梅洛维奇·角木让我在佛诺斯特的下水道寻 找一个可能隐藏的密室，里面可能隐藏着宝 藏。
 
-Fornost is North-East of Bucklebury, hidden among tall hills.",
+佛诺斯特位于雄鹿镇的东北部，隐藏在高大 的山丘之间。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Fornost is North-East of Bucklebury, hidden among tall hills.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You’ve reached Fornost, now to locate the entrance to the sewers.",
+    "CompleteText": "你已到达佛诺斯特，现在要找到下水道的入 口。",
     "NextQuestTitle": "Adventure Lads IV",
     "QuestLocation": "Fornost"
 }

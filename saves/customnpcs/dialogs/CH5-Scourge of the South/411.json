@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Fare thee well Cromhes!",
+                "Title": "克罗米斯，祝我一路顺风！",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You have met him then? He is at Rivendell? Go, then, to speak with my Lord Aragorn, he is most likely in the Last Homely house then.",
+    "DialogText": "你见过他？他在幽谷？那就去找阿拉贡大人吧，他很可能就在最后家园那里。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

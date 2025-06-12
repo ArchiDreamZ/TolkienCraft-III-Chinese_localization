@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Crossing the Darkness I",
-    "Text": "Layles is inside the tent.
+    "Text": "莱尔斯在帐篷里。
 
-Tonvid told you to speak with Layles, daughter of Cromhes.",
+通维德告诉你要和莱尔斯谈话，她是克罗米 斯的女儿。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -58,7 +58,7 @@ Tonvid told you to speak with Layles, daughter of Cromhes.",
             }
         ]
     },
-    "CompleteText": "I do not believe good fortune alone brings you hither, @p. Come, we have much to speak about.",
+    "CompleteText": "我不相信只有好运才能把你带到这里来，冒 险家。来吧，我们有很多话要说",
     "NextQuestTitle": "",
     "QuestLocation": "Layles' Quarters"
 }

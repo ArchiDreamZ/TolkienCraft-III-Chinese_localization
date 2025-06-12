@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Dreulhara’s Trail I",
-    "Text": "Thurdan is at the Caravan Camp in Moria.
+    "Text": "瑟尔丹就在墨瑞亚的大篷车营地。
 
-Cromhes instructed you to speak with Thurdan to learn how you can help him track down Dreulhara.",
+克罗米斯指示你与瑟尔丹谈话，了解如何帮 助他找到德鲁哈拉。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -58,7 +58,7 @@ Cromhes instructed you to speak with Thurdan to learn how you can help him track
             }
         ]
     },
-    "CompleteText": "I am loathe to confess that I know more of Dreulhara than perhaps any other living.",
+    "CompleteText": "尽管我不愿意承认，我对德鲁哈拉的了解可 能比任何其他人都多。",
     "NextQuestTitle": "",
     "QuestLocation": "Caravan Camp"
 }

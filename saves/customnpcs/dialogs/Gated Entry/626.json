@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 627,
-                "Title": "Sound like this could be interesting!",
+                "Title": "听起来可能会很有趣！",
                 "DialogColor": 1703448,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Seems like this will be impossible.",
+                "Title": "似乎这是不可能的。",
                 "DialogColor": 16586754,
                 "OptionType": 0
             }
@@ -57,9 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p, I will trust you with this task because you have been a friend to my people before. I want you to find the Secret Key and return it to me.
-
-The poem in that book seems like a good place to start looking.",
+    "DialogText": "@p，我会把这个任务交给你，因为你曾经是我族人的朋友。我要你找到秘钥并 把它带给我。
+那本书中的诗似乎是一个很好的开始。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

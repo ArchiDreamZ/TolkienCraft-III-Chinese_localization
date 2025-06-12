@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "A Sword for a Life I",
-    "Text": "Threatened by Giles, a lackey of a brigand named Pierce, that he must provide him a sword or his family would be harmed, Lucious Warrer stole Thonrum's blade.
+    "Text": "吉尔斯是皮尔斯的手下，一条强盗的走狗， 他威胁卢修斯·沃勒必须为他提供一把剑， 否则他的家人就会受到伤害，所以卢修斯· 沃勒偷走了索恩鲁姆的剑。
 
-Thonrum Ironsword has agreed to forge a new blade for Lucious Warrer, but in exchange, Thonrum has given you three items to take to Lucious for him to repair. The dwarf said that if he likes Lucious’ work, he will call it even on the cost of the two swords he is having to make.
+索恩鲁姆·铁剑同意为卢修斯·沃勒锻造一 把新剑，但作为交换，索恩鲁姆给了你三件 东西，让你拿去给卢修斯修理。矮人说，如 果他满意卢修斯的作品，他就把剑的费用一 笔勾销。
 
-Lucious Warrer told you that Pierce, the brigand-captain, will kill his daughter, unless he gets a new sword. Lucious has asked you to retrieve the sword from Thonrum.",
+卢修斯告诉你，除非他得到一把新剑，否则 土匪头目皮尔斯就会杀了他的女儿。卢修斯 请求你从索恩鲁姆那里取回一把新剑。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,8 +40,8 @@ Lucious Warrer told you that Pierce, the brigand-captain, will kill his daughter
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Those accursed brigands took Warrer's daughter? This is bad. This sword isn't ready yet! And I know these types of fellows. They won't take \"no\" for an answer. They'll kill that girl!
-You'll have to mount a rescue and free Lucious’ daughter! Hurry now!",
+    "CompleteText": "那些可恶的强盗抢走了沃勒的女儿？这下糟 了，这把剑还没准备好，我了解这种人，他 们不会接受“没有”这个答案，他们会杀了 那个女孩的！
+你必须起码展开营救并解救出卢修斯的女儿！ 赶快行动吧！",
     "NextQuestTitle": "A Sword for a Life II",
     "QuestLocation": "Thonrum Ironsword"
 }

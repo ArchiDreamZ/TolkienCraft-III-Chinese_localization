@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 583,
-                "Title": "So what now?",
+                "Title": "现在怎么办？",
                 "DialogColor": 16514294,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Good luck with that.",
+                "Title": "祝你好运。",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 584,
     "OptionFaction2Points": 100,
-    "DialogText": "She always does. Now I will visit with all my various cousins, once removed, and do my best to talk Petunia out of the adventuring business.",
+    "DialogText": "她总是这样。现在，我将拜访我所有的表亲，尽我所能说服佩图尼亚放弃冒险事 业。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

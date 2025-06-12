@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "On my way!",
+                "Title": "我立刻上路！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The dwarves know best the secrets of mithril...it is they you should speak with. I have transcribed the contents of the scroll in Westron...the dwarves should have no difficulty reading it.",
+    "DialogText": "矮人最了解秘银的秘密……你应该和他们谈谈。我已经用西部语抄录了卷轴的内 容……矮人应该不难读懂。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

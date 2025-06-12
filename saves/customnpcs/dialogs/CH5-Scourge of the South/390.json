@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 391,
-                "Title": "So what of the sword now?",
+                "Title": "那么，这把剑现在该怎么办？",
                 "DialogColor": 653096,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That a wraith has returned to power in Angmar troubles me even more. I have never heard of Brimigak…that is a mystery upon which I must dwell.",
+    "DialogText": "一个巫师在安格玛王国重新掌权，这让我变得更加烦恼。我从未听说过布里米加 克……这是个谜，我必须得解开它。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

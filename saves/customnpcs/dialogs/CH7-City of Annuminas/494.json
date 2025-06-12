@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Don’t look, check.  Will get this back to Wynton in a hurry then!",
+                "Title": "别看了，检查一下。 那就赶紧把这个带回去给温顿！",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Be careful to never look into that palantír @p, we have no idea who has others and many have gone mad thinking they could control it.",
+    "DialogText": "千万要小心，不要去看那个帕蓝提尔，@p，我们不曾知道的很多人都疯了，以 为自己能控制它。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

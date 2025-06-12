@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 497,
-                "Title": "I wonder why would Elrond be sending you a letter for me?",
+                "Title": "我想知道为什么埃尔隆德给你寄一封关于我的信？",
                 "DialogColor": 392996,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, since you don’t need my help any longer I’ll go then.",
+                "Title": "好吧，既然你不再需要我的帮助，那我就走了。",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Had you said that a few hours ago, I would have taken you up on that offer, however, a summons arrived here by raven this morning, @p, calling you to the House of Elrond. I do not know why Elrond Halfelven requests your presence, but it must be for an errand of some urgency if he sends ravens on the wing here to Annuminas.",
+    "DialogText": "如果你几小时前这么说，我就会接受你的建议，但是，今天早上，@p，一只乌 鸦送来了一份传讯，召唤你前往埃尔隆德的府邸。我不知道为什么半精灵埃尔隆 德会要求你来，但如果他派乌鸦飞来安努米那斯，那一定是有急事。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

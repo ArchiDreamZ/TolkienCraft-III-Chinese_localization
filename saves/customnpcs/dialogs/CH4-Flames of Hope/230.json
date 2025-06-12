@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 231,
-                "Title": "Alright, what about the mould?",
+                "Title": "好吧，那模具呢？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Now, one of the gifts Bilbo took back from the Lonely Mountain was a nugget of mithril. I doubt he understood its value, so he probably left it behind when he returned to Rivendell. Check his house in Hobbiton and see if he left it somewhere there.",
+    "DialogText": "现在可以知道，比尔博从孤山带回的礼物之一是一块秘银。我怀疑他不知道这块 秘银的价值，所以他可能在返回幽谷时把它落下了。去霍比屯看看他的房子里有 没有。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

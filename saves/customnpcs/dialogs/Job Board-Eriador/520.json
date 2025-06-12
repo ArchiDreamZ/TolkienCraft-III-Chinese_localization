@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 521,
-                "Title": "How can I help then?",
+                "Title": "那我能帮上什么忙呢？",
                 "DialogColor": 260919,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think I see where this is going… ",
+                "Title": "我想我明白了这是怎么回事…",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tulips grow along the banks of the Bruinen to the west, and any of them would be pretty enough for an Elf-swain to give his love. Mine is no ordinary love, @p, and these white tulips will not be enough!",
+    "DialogText": "郁金香生长在西边的布茹伊能河畔，它们中的任何一朵都足以让精灵王献出他的 爱。我的爱不是普通的爱，@p，这些白色郁金香是不够的！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

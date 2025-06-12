@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "我很荣幸能参与其中，谢谢你们。",
+                "Title": "我很荣幸能参与其中，谢谢你。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "最后一章 V",
+    "DialogTitle": "Final Chapter V",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "事实上，你已经知道了这个故事，是你让它成为可能。 这是一个伟大的故事，讲述了冒险家@p战胜了远古恶魔，让古冢岗重现昔日荣光的故事！",
+    "DialogText": "事实上，你已经知道了这个故事，是你让它成为可能。这是一个伟大的故事，讲 述了冒险家@p战胜了远古恶魔，让古冢岗重现昔日荣光的故事！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 518,
-                "Title": "It would be my honor!",
+                "Title": "这将是我的荣幸！",
                 "DialogColor": 260919,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The time has come for the Company to depart on their errand of secrecy, @p. As you have been of some assistance with the preparations, you may join the members of my household as we see them on their way.",
+    "DialogText": "队伍出发执行秘密任务的时候到了，@p。鉴于你在准备工作中提供了一些帮助， 你可以和我的家人一起送他们上路。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 179,

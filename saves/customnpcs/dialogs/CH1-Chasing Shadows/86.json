@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 87,
-                "Title": "我不明白这是它怎么发挥作用。",
+                "Title": "我不明白它怎么发挥作用。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -38,7 +38,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "重拾足迹 I",
+    "DialogTitle": "Regaining the Trail I",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "精灵石开始发光了？这正是我所期望的，我很高兴它能发光，因为这将是我们找到藏在荒野中的戒灵的方法。",
+    "DialogText": "精灵石开始发光了？这正是我所期望的，我很高兴它能发光，因为这将是我们找 到藏在荒野中那兹古尔的方法。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 19,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Piece of cake!  Be back soon!",
+                "Title": "小菜一碟！ 我很快回来！",
                 "DialogColor": 16669185,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Excellent, I have come across a party who is interested in Moster Fur.  Unfortunately, the only way to get monster fur, is by killing wargs or goats.  What I need is for you to collect 52 moster fur and bring them back to me.  I will definitely pay you for them.",
+    "DialogText": "太好了，我遇到了一个对怪物皮毛感兴趣的人。不幸的是，获得怪物毛皮的唯一 途径是杀死座狼或山羊。我需要你收集52块怪兽毛皮，然后带回来给我。我一 定会付钱给你的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

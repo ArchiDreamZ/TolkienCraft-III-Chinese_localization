@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 597,
-                "Title": "Well, is there anything I can help you with?",
+                "Title": "那么，有什么需要我帮忙的吗？",
                 "DialogColor": 16579318,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, you see I have this pinch in my back…",
+                "Title": "好吧，你看，我身上还有很多任务……",
                 "DialogColor": 16648961,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Forgive me for asking, @p, but could you lend me a hand? I joined this expedition as a librarian, hoping to uncover the lost lore and mysteries of Khazad-dûm, but there is so much to be done around here that instead I've been assigned a list of labourious tasks to which I fear I am ill-suited!",
+    "DialogText": "恕我冒昧，@p，你能帮我一把吗？我是以图书管理员的身份加入这次探险的， 希望能揭开卡扎督姆失落的传说和神秘的面纱，但这里有太多的事情要做，我反 而被分配了一系列繁重的任务，恐怕我并不适合！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 214,

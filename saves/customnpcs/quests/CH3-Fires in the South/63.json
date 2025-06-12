@@ -6,7 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Secrets of the Watchers II",
-    "Text": "The Watchers are statues that guard the eastern exit from Moria.Manwyn believes that the secret of of the Watchers can be revealed by investigating one of the pedestals they rest on. He has instructed you to carefully approach one of the Watchers and take a rubbing of the runes upon it. He warned you to be very careful of the fell and deadly Watchers.Bring the watching-stone rubbing to Manwyn.",
+    "Text": "监视者是守卫墨瑞亚东面出口的雕像。
+
+曼温相信，通过研究监视者所在的一个基座， 可以揭示监视者的秘密。他已指示你小心翼 翼地靠近其中一个监视者，对其上的符文进 行拓印。他警告你们要非常小心那些堕落的 致命监视者。
+
+将监视者石像的拓印带给曼温。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -73,6 +77,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "You have returned! Did you bring the rubbing? Good! Let me see it....",
+    "CompleteText": "你回来了，你带回来拓印了吗？带了？很好， 让我看看……",
     "NextQuestTitle": ""
 }

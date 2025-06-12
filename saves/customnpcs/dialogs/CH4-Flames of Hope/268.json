@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Agreed, Let's go...",
+                "Title": "同意，我们走…",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Quickly, we must leave this terrible place….Give me a moment and we will go back to the camp. ",
+    "DialogText": "快，我们必须离开这个可怕的地方….，给我一点时间，我们回营地去。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

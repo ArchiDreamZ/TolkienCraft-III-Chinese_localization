@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 445,
-                "Title": "Great, I will get started and seek them out.",
+                "Title": "很好，我会开始寻找他们。",
                 "DialogColor": 3079950,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Just not in the mood for travelling right now...",
+                "Title": "只是现在没有旅行的心情……",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It worries me that the Knights of Brimigak could be re-claimed as Dreulhara's own foresworn. We must find out where she is going next, but more importantly we need to eliminate the threat of Brimigak's minions. It seems that there are three places to return to that may offer clues to the whereabouts of the Knights: Combe in Bree-land, Hoarwell in the Lone-lands, and here in Mitheithel, the refuge of my people in the South Downs.",
+    "DialogText": "我担心布里米加克骑士团会被重新收编，成为德鲁哈拉自己的先锋部队。我们必 须找到她的下一个目的地，但更重要的是，我们必须消除布里米加克爪牙的威胁。 似乎有三个地方可以提供骑士团下落的线索：在布理地区的库姆村，在孤土的苍 泉河营地，还有在南岗的米斯艾塞尔河营地，一个有着我同胞的庇护所。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

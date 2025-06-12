@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 491,
-                "Title": "Who do I go see?",
+                "Title": "我要去找谁？",
                 "DialogColor": 130614,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Oh, well, I think I have some things and stuff to do…",
+                "Title": "哦，好吧，我想我还有些事情要做……",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nay, a palantír is nothing to be handled lightly.  While I have confirmed it lies within that chest, we will need a very special way to carry it without danger.  This is the task I will ask of you.",
+    "DialogText": "不，一个帕蓝提尔是不能随便处理的。虽然我已经确认它就在那个箱子里，但我 们需要一种非常特殊的方法才能在没有危险的情况下搬运它。这就是我要交给你 的任务。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

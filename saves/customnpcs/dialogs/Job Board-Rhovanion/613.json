@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Nothing like helping contain the scourge.",
+                "Title": "没有什么比帮助遏制灾祸更有意义了。",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "/give @p tolkienmobs:ammo_galadhrim_arrow 10",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Take these arrows to my friend at the outpost so that he may let those Orcs know they should stay within those dark halls of Moria.",
+    "DialogText": "把这些箭交给我在前哨的朋友，让他告诉那些奥克，他们应该待在墨瑞亚的黑暗 大厅里。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

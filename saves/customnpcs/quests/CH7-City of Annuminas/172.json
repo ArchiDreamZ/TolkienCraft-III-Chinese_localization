@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Swift Change III",
-    "Text": "Quest Dialogue  – You have been given a special dark cloth that Elrond says will protect the bearer of the Palantir.
+    "Text": "任务对话——你得到了一块特殊的黑布，埃 尔隆德说它能保护帕蓝提尔的携带者。
 
-Take the cloth back to Wynton on the shores of the lake near Annuminas.",
+把黑布带到安努米那斯附近的湖边。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 150,
@@ -75,6 +75,6 @@ Take the cloth back to Wynton on the shores of the lake near Annuminas.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Excellent! You return!",
+    "CompleteText": "好极了！你回来了！",
     "NextQuestTitle": ""
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 626,
-                "Title": "So where do we start searching?",
+                "Title": "那么，我们该从哪里开始寻找呢？",
                 "DialogColor": 16711419,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sounds like a lost cause.",
+                "Title": "听起来是个失败的例子。",
                 "DialogColor": 16525061,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I can hardly believe my eyes! Knowledge of the Key was passed down from my father, but its location had been lost. I believe my people took the Key with them when they fled Moria, but not even I know where this secret door can be found.",
+    "DialogText": "我几乎不敢相信自己的眼睛！钥匙的知识是从我父亲那里传下来的，但它的位置 已经丢失了。我相信我的族人在逃离墨瑞亚时带走了钥匙，但连我自己都不知道 这扇密门在哪里。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

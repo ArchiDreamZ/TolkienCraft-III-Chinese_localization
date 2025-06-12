@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 235,
-                "Title": "Do you still have it?",
+                "Title": "你还留着它吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Actually, no, not really.",
+                "Title": "事实上，不，不是这样的。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Greetings, friend! What may I help you with? You say you have come all the way from Erebor to retrieve that old ruined key we found among the Bandit’s belongings?",
+    "DialogText": "你好，朋友！有什么事吗？你说你从埃瑞博山远道而来，是为了取回我们在强盗 的遗物中找到的那把破旧钥匙？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

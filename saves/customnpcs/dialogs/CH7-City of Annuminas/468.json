@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I shall return with what he tells me.",
+                "Title": "我会把他告诉我的带回来。",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "While you were away, a visitor came to camp. His name is Thurdan, and he is an Elf of great reputation; my friend Cromhes spoke very highly of him in our youth, though I had not met him before now. He has been given the use of the big tent here in camp and says he has information about Dreulhara that will be of use to us. He asked for you personally, @p. Hear what he has to say, and I pray you will return to me with some secret lore of the Elves that may aid us in this battle!",
+    "DialogText": "你不在的时候，营地来了一位客人。他的名字叫瑟尔丹，是一位声名显赫的精灵； 我的朋友克罗米斯在我们年轻的时候对他评价很高，虽然我现在还没见过他。他 正在使用营地里的大帐篷，他说他有关于德鲁哈拉的信息，对我们很有用。他亲 自找你，@p。听听他怎么说，我祈祷你能带着一些精灵的秘密传说回到我这里， 也许能在这场战斗中对我们有所帮助！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

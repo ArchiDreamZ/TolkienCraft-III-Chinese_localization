@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Ingunde Silentfoot",
-    "Text": "Gaffer Gamgee is sure to know which hobbits have the best stories to tell of Bilbo's disappearance and his adventures and whereabouts since then.
+    "Text": "老头儿甘姆吉肯定知道哪些霍比特人最擅长 讲述比尔博失踪的故事，以及他此后的冒险 经历和下落。
 
-Return to Gaffer after speaking to all of the hobbits.
+与所有霍比特人交谈后，返回老头儿那里。
 
-Ingunde Silentfoot has agreed to share a story about Bilbo Baggins and his adventures.",
+英贡德·静步同意分享关于比尔博·巴金斯 和他的冒险故事。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -64,6 +64,6 @@ Ingunde Silentfoot has agreed to share a story about Bilbo Baggins and his adven
             }
         ]
     },
-    "CompleteText": "Scuse me? What’s that you’re asking about? Oh yes! I know lots of stories about Bilbo! My mum tells me them some nights when I can’t get to sleep.",
+    "CompleteText": "你说什么？你在问什么？哦，对了我知道很 多关于比尔博的故事，我睡不着的时候，我 妈就给我讲这些故事。",
     "NextQuestTitle": ""
 }

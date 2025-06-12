@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 472,
-                "Title": "Of course! Always looking for treasures!",
+                "Title": "当然！一直在寻找宝藏！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Actually, I decided it would probably be better if I didn’t.",
+                "Title": "实际上，我决定还是不这样做比较好。",
                 "DialogColor": 16586754,
                 "OptionType": 0
             }
@@ -57,9 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hello, hello @p!  So glad you decided to come and participate!
-
-I suppose you want to know more of the details?",
+    "DialogText": "你好，你好啊，@p！很高兴你决定来参加我们的活动！
+我猜你想知道更多细节吧？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 164,

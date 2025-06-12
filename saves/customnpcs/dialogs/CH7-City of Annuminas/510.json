@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 511,
-                "Title": "So, how are you feeling then?",
+                "Title": "那么，你现在感觉如何？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "You seem to need a bit more alone time...",
+                "Title": "你似乎需要更多的独处时间…",
                 "DialogColor": 16521733,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It does my heart good to see an adventurer such as you, @p! Aragorn seems a strong Man, but he seems to prize the friendship of Elves over that of his own kind. So many Elves in this place! Every hour we spend in this hidden valley prolongs the struggle of Gondor; how many men will fall in its defence ere we depart?",
+    "DialogText": "看到像你这样的冒险家，我的心里很高兴，@p！阿拉贡看起来是个强壮的人， 但他似乎更珍视精灵的友谊，而不是同类的友谊。这里有这么多精灵！我们在这 隐秘山谷中度过的每一个小时，都会延长刚铎的斗争；在我们离开之前，将会有 多少人倒在它的保卫战中？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 178,

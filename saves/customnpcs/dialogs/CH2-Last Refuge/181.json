@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 182,
-                "Title": "Well, of course it is a challenge, would not want it any other way!",
+                "Title": "这当然是个挑战，我也不想有其他选择！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me get back to you on this.",
+                "Title": "我回头再跟你说。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ah, yes, why it will be just like when Burglar Bilbo crept into Smaug's lair! We'll just need the key to open the secret door, and you'll be in the inner keep. Finding that key, though, could present a challenge.",
+    "DialogText": "啊，是的，就像飞贼比尔博潜入史矛革的巢穴一样，我们只需要打开暗门的钥匙， 你们就能进入内城了，不过要找到那把钥匙可能是个挑战。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 30,

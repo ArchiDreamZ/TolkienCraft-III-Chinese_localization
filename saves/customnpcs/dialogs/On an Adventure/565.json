@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 566,
-                "Title": "Just glad we got what we needed.",
+                "Title": "很高兴我们得到了需要的东西。",
                 "DialogColor": 16710907,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Please, don’t mention it...really.",
+                "Title": "求你了，别提了……真的别提了。",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Yes, I think that seems to be a fair assessment of our peculiar host. Thank you for obtaining it for me!",
+    "DialogText": "是的，我认为这似乎是对我们这位奇特主人的公正评价。谢谢你帮我找到了它！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 203,

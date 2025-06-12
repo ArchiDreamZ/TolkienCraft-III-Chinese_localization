@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 7,
-                "Title": "I need a refresher on this housing thing.",
+                "Title": "我需要重新了解一下住房的问题。",
                 "DialogColor": 16777215,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I sure have!  Let me buy that key now!",
+                "Title": "我当然选好了！我现在就买钥匙！",
                 "DialogColor": 16047170,
                 "OptionType": 3
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Not yet, it’s such a tough choice",
+                "Title": "还没有，这真是一个艰难的选择。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -67,7 +67,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Good day @p! Have you decided on a house yet?",
+    "DialogText": "日安，@p！你选好房子了吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

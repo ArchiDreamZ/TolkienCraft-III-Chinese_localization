@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Glad I could assist!",
+                "Title": "很高兴我能帮上忙！",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 595,
     "OptionFaction2Points": 100,
-    "DialogText": "My axe will strike down any but the best...and thanks to you, we no longer have to fear that.",
+    "DialogText": "我的斧头会劈倒最优秀的敌人……多亏了你，我们再也不用担心了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

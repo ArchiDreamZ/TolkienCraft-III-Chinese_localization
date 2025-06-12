@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will go see him now.",
+                "Title": "我现在就去见他。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I fear that the news is grave, for Manwyn was deemed lost years ago when his captain, Cromhes, disobeyed my edict and took a company south into Moria. They were never heard from again. It is a joy that Manwyn lives, but what kept him from contacting us before now?",
+    "DialogText": "我担心这个消息很严重，因为曼温多年前就被认为失踪了，当时他的队长克罗米 斯违背了我的命令，带着一队游民南下进入了莫瑞亚。他们从此杳无音讯。曼温 还活着真是件令人高兴的事，但他之前为什么没有联系我们呢？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Getting the Sword Back II",
-    "Text": "Threatened by Giles, a lackey of a brigand named Pierce, that he must provide him a sword or his family would be harmed, Lucious Warrer stole Thonrum's blade.
+    "Text": "吉尔斯是皮尔斯的手下，一条强盗的走狗， 他威胁卢修斯·沃勒必须为他提供一把剑， 否则他的家人就会受到伤害，所以卢修斯· 沃勒偷走了索恩鲁姆的剑。
 
-You found the brigand Giles, who stole Thonrum's blade. Unfortunately for him, the blade broke and he was slain by unknown assailants. You should speak to Lucious Warrer and let him know that Giles will no longer trouble his family.",
+你找到了盗取索恩鲁姆宝剑的土匪吉尔斯。 不幸的是，他的剑断了，被不明身份的歹徒 杀害。你应该和卢修斯·沃勒谈谈，让他知 道吉尔斯不会再找他家人的麻烦了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -55,6 +55,6 @@ You found the brigand Giles, who stole Thonrum's blade. Unfortunately for him, t
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "What? The blade broke, and Giles is dead?",
+    "CompleteText": "什么？那把剑断掉了，然后吉尔斯死掉了?",
     "NextQuestTitle": ""
 }

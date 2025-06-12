@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 634,
-                "Title": "What else do you have for me?",
+                "Title": "你还有什么要给我的？",
                 "DialogColor": 15866905,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It is slow and tedious, but we will keep going so long as there is breath in our lungs!",
+    "DialogText": "虽然缓慢而乏味，但只要肺里还有一口气，我们就会一直坚持下去！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

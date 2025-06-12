@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 413,
-                "Title": "Where do we go from here?",
+                "Title": "我们该何去何从？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Why does evil have to always be nigh immortal?",
+                "Title": "为什么邪恶总是近乎杀不死？",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "...and the Shadow of Angmar is, for the moment at least, weakened. I am of a mind that even if Brimigak does finally fall, he may someday return...or another Shadow of the Enemy will take his place.",
+    "DialogText": "……至少目前，安格玛王国的阴影力量被削弱了。我认为，即使布里米加克最终 倒下，他总有一天会回来……或者另一个敌人的阴影会取而代之。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 132,

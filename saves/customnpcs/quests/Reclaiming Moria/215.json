@@ -5,9 +5,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Flowing Waters",
-    "Text": "The aqueduct is very near the big waterwheel on the far side of the Water Works.
+    "Text": "水渠离提水工坊远处的大水车很近。
 
-You should push the buttons on the top of the waterwheel to open the waterway running from the Dwarf-Lord's Gate.",
+你应该按下水车顶部的按钮，打开矮人领主 之门的水道。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -42,6 +42,6 @@ You should push the buttons on the top of the waterwheel to open the waterway ru
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Thank you for making that effort!",
+    "CompleteText": "感谢你的努力！",
     "NextQuestTitle": ""
 }

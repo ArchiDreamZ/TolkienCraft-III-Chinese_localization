@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Yeah, I guess you might want this then?",
+                "Title": "是啊，我想你可能想要这个吧？",
                 "DialogColor": 15131141,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wait, no, I don't have anything to sell...",
+                "Title": "等等，不，我没有东西要卖…",
                 "DialogColor": 16586754,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Some may call this junk, me, I call them treasures.",
+    "DialogText": "有人会说这是垃圾，而我却称之为珍宝。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

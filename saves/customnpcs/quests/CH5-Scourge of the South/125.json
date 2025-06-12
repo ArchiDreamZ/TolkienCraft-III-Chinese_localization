@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Reforging the Sword III",
-    "Text": "The Rangers of Mitheithel were able to repair Cromhes' shield and armor, but the sword was of Elf-craft beyond their skill.
+    "Text": "米斯艾塞尔河营地的游民能够修复克罗米斯 的盾牌和盔甲，但这把剑是精灵的杰作，他 们两估计无法胜任这份工作。
 
-Castien can be found near Rivendell's forges.
+卡西迪恩可以在幽谷的锻炉附近找到。
 
-Collect Cromhes’ sword from Castien.",
+从卡西迪恩那里取回克罗米斯的剑。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -56,7 +56,7 @@ Collect Cromhes’ sword from Castien.",
             }
         ]
     },
-    "CompleteText": "The work is done, @p. It little resembles the weapon from which it was birthed, but I believe it will better serve its master.
-Take it now to Master Elrond for his approval.",
+    "CompleteText": "工作完成了，冒险家。这把武器现在与它诞 生时几乎没有任何相似之处，但我相信它能 更好地为主人服务。
+现在就拿给埃尔隆德大人，询问他的意见。",
     "NextQuestTitle": "Reforging the Sword IV"
 }

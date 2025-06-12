@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 377,
-                "Title": "What would you have me do then?",
+                "Title": "那你要我怎么做？",
                 "DialogColor": 3144720,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Good, glad the rangers can take care of their own.",
+                "Title": "很好，很高兴游民能照顾好他们自己。",
                 "DialogColor": 16728064,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "What hope remains to Cromhes must lie with his own people. It may be that they can repair this gear or somehow draw from it, something that may renew Cromhes.",
+    "DialogText": "克罗米斯的希望必须寄托在自己身上。他们那群工匠或许可以修复这套装备，或 者以此为基础重铸，来让克罗米斯重振精神。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

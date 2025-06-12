@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Amanda Brockhouse",
-    "Text": "Gaffer Gamgee is sure to know which hobbits have the best stories to tell of Bilbo's disappearance and his adventures and whereabouts since then.
+    "Text": "老头儿甘姆吉肯定知道哪些霍比特人最擅长 讲述比尔博失踪的故事，以及他此后的冒险 经历和下落。
 
-Return to Gaffer after speaking to all of the hobbits.
+与所有霍比特人交谈后，返回老头儿那里。
 
-Amanda Brockhouse has agreed to share a story about Bilbo Baggins and his adventures.",
+阿曼达·獾屋同意分享关于比尔博·巴金斯 和他的冒险故事。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -64,6 +64,6 @@ Amanda Brockhouse has agreed to share a story about Bilbo Baggins and his advent
             }
         ]
     },
-    "CompleteText": "What's that? Oh, you're wondering where Bilbo is now? Turns out you've asked the right hobbit!",
+    "CompleteText": "那是什么？哦，你想知道比尔博现在在哪里？ 那你问对了霍比特人！",
     "NextQuestTitle": ""
 }

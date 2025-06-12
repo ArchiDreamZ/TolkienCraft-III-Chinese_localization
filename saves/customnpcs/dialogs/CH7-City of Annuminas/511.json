@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 512,
-                "Title": "What would you have me do then?",
+                "Title": "那你要我怎么做？",
                 "DialogColor": 588390,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think you are too harsh on the elves.",
+                "Title": "我觉得你对精灵们太苛刻了。",
                 "DialogColor": 16521733,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "My sword-arm itches for battle, and my horn longs to be sounded! You understand the need we have for haste, @p -- you are not like these others, who live for such a long span that the concerns of the present must seem trivial, or meaningless. But it is not so!",
+    "DialogText": "我的宝剑渴望战斗，我的号角渴望吹响！你明白我们需要匆忙，@p——你不像 其他人，他们活得那么长，眼前的忧虑一定显得微不足道，或者毫无意义。但事 实并非如此！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

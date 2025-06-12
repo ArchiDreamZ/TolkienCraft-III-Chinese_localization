@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "The Path Opens I",
-    "Text": "You retrieved the scroll from Fridli, but it was written in Black Speech, which Layles is unable to translate.
+    "Text": "你从弗里德利拿到了卷轴，但它是用黑语写 的，莱尔斯斯无法翻译它。
 
-Thurdan is in the Caravan Camp near the entrance to the Flaming Deeps.
+瑟尔丹现在就在烈火深渊入口附近的大篷车 营地。
 
-Layles suggested you seek out an Elf named Thurdan in hopes of learning what Fridli's scroll would reveal.",
+莱尔斯建议你去找一个叫瑟尔丹的精灵，希 望能从弗里德利的卷轴中了解到什么。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,7 +40,7 @@ Layles suggested you seek out an Elf named Thurdan in hopes of learning what Fri
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Alas, but I have never taken the time to learn the cruel mutterings of the Orcs. I have no desire to speak with them by any means save my sword.",
+    "CompleteText": "唉，但我从未花时间学习听懂奥克那凶戾的 喃喃自语。除了剑，我不想用任何方式与他 们交谈。",
     "NextQuestTitle": "",
     "QuestLocation": "Caravan Camp"
 }

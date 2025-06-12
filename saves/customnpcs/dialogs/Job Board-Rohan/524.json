@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 525,
-                "Title": "Why don’t you go get it?",
+                "Title": "你为什么不去拿呢？",
                 "DialogColor": 392996,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I think I see where this is going…",
+                "Title": "我想我明白了这是怎么回事…",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have most of the ingredients I need, but there is one remaining herb -- a pungent herb that grows on the shores of the river near this town.",
+    "DialogText": "我已经有了所需的大部分原料，但还剩下一种草药——一种生长在小镇附近河岸 上刺鼻的草药。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

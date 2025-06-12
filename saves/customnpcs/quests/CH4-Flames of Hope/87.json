@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Into the Dungeon II",
-    "Text": "With the key to the dungeons of Moria in hand, the time has come to move against the forces of the False King and try to rescue Cromhes.",
+    "Text": "有了通往墨瑞亚矿坑的钥匙，现在是时候与 伪王的邪恶势力作斗争，设法营救克罗米斯 了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Good, so far we have passed with little interference from the Enemy. Now we must see if we can find my father.",
-    "NextQuestTitle": "",
+    "CompleteText": "很好，到目前为止，我们几乎没有受到敌人 的干扰。现在我们必须看看能否找到我父亲。",
+    "NextQuestTitle": "Into the Dungeon III",
     "QuestLocation": "Cromhes"
 }

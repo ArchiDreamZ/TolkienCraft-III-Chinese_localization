@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 20,
-                "Title": "请继续...",
+                "Title": "请继续……",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "古老的邪恶故事 II",
+    "DialogTitle": "Ancient Story of Evil II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我知道很多，但有一个也许你会更感兴趣。你听说过大古冢吗？它就在那座古冢岗里，布理附近的一个可怕的地方。",
+    "DialogText": "我知道很多，但有一个也许你会更感兴趣。你听说过大古冢吗？它就在那座古冢 岗里，布理附近的一个可怕的地方。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

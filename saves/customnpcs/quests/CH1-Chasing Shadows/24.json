@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Aid of Mirkwood III",
-    "Text": "Legolas recognized the creature you described as a Wood-troll and has agreed to show you where to track the rest down.",
+    "Text": "莱戈拉斯认出了你所说的森林食人妖，并同 意带你找到其余的食人妖。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -52,6 +52,6 @@
             }
         ]
     },
-    "CompleteText": "You have ended the Nazgûl's designs by slaying the Wood-troll Matuna, but the escape of so great a servant of the Enemy casts a shadow upon my heart.",
+    "CompleteText": "你杀死了森林森林食人妖马图纳，结束了那 兹古尔的阴谋，但如此强大的敌方爪牙逃脱 了，这在我心中留下了阴影。",
     "NextQuestTitle": ""
 }

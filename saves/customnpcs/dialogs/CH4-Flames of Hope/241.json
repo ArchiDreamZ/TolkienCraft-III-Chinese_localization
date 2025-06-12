@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me go speak to him.",
+                "Title": "让我去跟他谈谈。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,8 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If I don't have a shaping hammer to work it, it doesn't matter how long it takes to smelt it down.
-If getting this key is important to you, let Dain II know that I'm going to need a mithril shaping hammer.",
+    "DialogText": "如果我没有塑形锤来加工它，那么花多长时间把它冶炼下来都没有用。
+如果拿到这把钥匙对你很重要，那就告诉戴因二世，我需要一把秘银塑形锤。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

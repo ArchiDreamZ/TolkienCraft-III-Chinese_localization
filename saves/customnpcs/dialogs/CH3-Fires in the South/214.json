@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 215,
-                "Title": "Where do I come in?",
+                "Title": "我该从哪里入手？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Days turned to months, then years, and still Cromhes did not return. I knew I should have returned at once to Mitheithel, but I could not abandon my captain. I tried vainly to cross The Watchers, until my very spirit was broken within me. At last, I sent the message to Mitheithel, which brought you hither.",
+    "DialogText": "日复一日，月复一月，年复一年，克罗米斯依然没有回来。我知道我应该立即返 回米斯艾塞尔河营地，但我不能丢下我的队长。我徒劳地试图越过监视者，直到 我的精神崩溃。最后，我向米斯艾塞尔河营地发出了信息，你也因此来到了这里。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

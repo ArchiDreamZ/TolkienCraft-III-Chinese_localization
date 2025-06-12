@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Hasten Their Departure",
-    "Text": "Legolas has been dismayed by the events in the lair of the Wood-trolls and thinks Elrond should be told of them at once.",
+    "Text": "莱戈拉斯对森林食人妖巢穴里发生的事情感 到沮丧，认为应该立即将这些事情告诉埃尔 隆德。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "CompleteText": "I am so glad to hear your news, @p.",
+    "CompleteText": "听到你的消息我很高兴，冒险家。",
     "NextQuestTitle": "",
     "QuestLocation": "Elrond’s Library"
 }

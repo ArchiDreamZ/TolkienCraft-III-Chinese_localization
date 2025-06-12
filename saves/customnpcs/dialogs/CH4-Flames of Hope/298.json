@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "...",
+                "Title": "……",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have nothing left, thanks to your carelessness. If you wish to speak with someone, speak with Thurdan. He will have to continue the fight on now, without me.",
+    "DialogText": "多亏了你的粗心大意，我什么都没有了！！如果你想找人谈一谈，请找瑟尔丹。 没有我的情况下，他现在必须投入对伪王战斗！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

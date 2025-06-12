@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 514,
-                "Title": "Are you sure?",
+                "Title": "你确定吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We have things here at the entrance to the valley well in hand, @p. I appreciate the intention of our visitor from the South, but we have no need of his assistance; Imladris has been safe from attack for long years before either he -- or you -- walked in Eriador.",
+    "DialogText": "山谷入口处的一切都在我们掌握之中，@p。我感谢南方来客的好意，但我们不 需要他的帮助；在他——或你——走进埃利阿多之前的漫长岁月里，伊姆拉缀斯 一直安然无恙。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

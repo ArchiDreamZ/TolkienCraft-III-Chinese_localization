@@ -6,9 +6,9 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Blooms of Decay I",
-    "Text": "Blooms of Decay can be found at Kêr Bras, inside the Paths of the Dead, far to the north of Erech.
+    "Text": "腐烂之花可在克尔布拉斯找到，位于埃瑞赫 以北的亡者之路内。
 
-Guodhelda asked you to gather several Blooms of Decay from Kêr Bras.",
+瓜德尔塔请求你从克尔布拉斯收集一些腐烂 之花。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -53,6 +53,6 @@ Guodhelda asked you to gather several Blooms of Decay from Kêr Bras.",
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "You've collected the blooms Guodhelda ask for.",
+    "CompleteText": "你已经收集了瓜德尔塔要求的花朵。",
     "NextQuestTitle": "Blooms of Decay II"
 }

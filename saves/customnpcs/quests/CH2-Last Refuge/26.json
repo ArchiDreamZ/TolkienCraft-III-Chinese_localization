@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Troublesome Goblins I",
-    "Text": "The threat presented by the Nazgûl has not yet passed. Please continue your pursuit of the creature with the aid of Glóin at his camp at the east-end of the pass that leads through the Misty Mountains",
+    "Text": "那兹古尔的威胁尚未解除。请在格罗因的帮 助下，继续追击那只怪物，格罗因的营地就 在穿过迷雾山脉的山口东边。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -70,7 +70,7 @@
             }
         ]
     },
-    "CompleteText": "A Nazgûl? One of the Nine Ringwraiths they spoke of at Council of Elrond? I have not forgotten the honeyed words conveyed through one of those Riders to us back at the Lonely Mountain! Such poison! They wished us to betray old Bilbo.",
+    "CompleteText": "一位那兹古尔？他们在埃尔隆德会议上提到 的九戒灵之一？我没有忘记在孤山的时候， 其中一个黑骑手对我们说的邪恶蜜语！真是 毒药！他们竟然希望我们背叛老比尔博。",
     "NextQuestTitle": "",
     "QuestLocation": "Dwarven Camp"
 }

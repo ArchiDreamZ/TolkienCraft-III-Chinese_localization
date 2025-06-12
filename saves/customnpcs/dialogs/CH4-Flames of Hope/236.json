@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 237,
-                "Title": "Naw, just some firm persuasion...",
+                "Title": "不，只是一些坚定的劝说……",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I felt like a thief...",
+                "Title": "我感觉自己像个小偷…",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You found Bilbo's nugget. I hope you didn't have to hurt anyone to get it....",
+    "DialogText": "你找到了比尔博的秘银粒。我希望你不是通过伤害任何人来得到它……",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 80,

@@ -6,11 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Forging a new Sword I",
-    "Text": "Threatened by Giles, a lackey of a brigand named Pierce, that he must provide him a sword or his family would be harmed, Lucious Warrer stole Thonrum's blade.
+    "Text": "吉尔斯是皮尔斯的手下，一条强盗的走狗， 他威胁卢修斯·沃勒必须为他提供一把剑， 否则他的家人就会受到伤害，所以卢修斯· 沃勒偷走了索恩鲁姆的剑。
 
-You found the brigand Giles, who stole Thonrum's blade. Unfortunately for him, the blade broke and he was slain by unknown assailants. You should speak to Lucious Warrer and let him know that Giles will no longer trouble his family.
+你找到了盗取索恩鲁姆宝剑的土匪吉尔斯。 不幸的是，他的剑断了，被不明身份的歹徒 杀害。你应该和卢修斯·沃勒谈谈，让他知 道吉尔斯不会再找他家人的麻烦了。
 
-Thonrum Ironsword has agreed to forge a new blade for Lucious Warrer, but in exchange, Thonrum has given you three items to take to Lucious for him to repair. The dwarf said that if he likes Lucious’ work, he will call it even on the cost of the two swords he is having to make.",
+索恩鲁姆·铁剑同意为卢修斯·沃勒锻造一 把新剑，但作为交换，索恩鲁姆给了你三件 东西，让你拿去给卢修斯修理。矮人说，如 果他满意卢修斯的作品，他就把剑的费用一 笔勾销。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -81,6 +81,6 @@ Thonrum Ironsword has agreed to forge a new blade for Lucious Warrer, but in exc
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Of course I'll do this work for the dwarf.",
+    "CompleteText": "我当然会为矮人做这件事。",
     "NextQuestTitle": ""
 }

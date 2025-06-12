@@ -36,7 +36,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "长湖镇",
+          "name:8": "埃斯加洛斯",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -95,7 +95,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "幽谷路径点已解锁!",
+          "name:8": "幽谷路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -198,7 +198,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "米那斯魔古尔路径点已解锁!",
+          "name:8": "米那斯魔窟路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -217,7 +217,7 @@
           "posY:3": 43,
           "posZ:3": 13656,
           "biome:8": "",
-          "name:8": "米那斯魔古尔",
+          "name:8": "米那斯魔窟",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -436,7 +436,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "精灵国王的宫殿",
+          "name:8": "瑟兰杜伊的宫殿",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -613,7 +613,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "斯托尼福德(Stoneyford)",
+          "name:8": "石头渡口",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -672,7 +672,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "卡恩督姆路径点已解锁!",
+          "name:8": "卡恩督姆路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -733,7 +733,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "佛洛赫尔 路径点已解锁!",
+          "name:8": "佛洛赫尔路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -794,7 +794,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "墨瑞亚:西门",
+          "name:8": "墨瑞亚：西门",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -853,7 +853,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "墨瑞亚:东门",
+          "name:8": "墨瑞亚：东门",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -1089,7 +1089,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "黑门路径点已解锁!",
+          "name:8": "黑门路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -1622,7 +1622,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "蛙泽屯路径点已解锁!",
+          "name:8": "蛙泽屯路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -1683,7 +1683,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "布理路径点已解锁!",
+          "name:8": "布理路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -1744,7 +1744,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "雄鹿镇路径点已解锁!",
+          "name:8": "雄鹿镇路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
@@ -1805,7 +1805,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "霍比屯路径点已解锁!",
+          "name:8": "霍比屯路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -1866,7 +1866,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "灰港路径点已解锁!",
+          "name:8": "灰港路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -1986,7 +1986,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "风云顶路径点已解锁!",
+          "name:8": "风云顶路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -2047,7 +2047,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "贡达巴德山路径点已解锁!",
+          "name:8": "贡达巴德山路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -2108,7 +2108,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "鲁道尔路径点已解锁!",
+          "name:8": "鲁道尔路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -2228,7 +2228,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "乌姆巴尔:港口",
+          "name:8": "乌姆巴尔：港口",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -2346,7 +2346,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "佩拉基尔路径点已解锁!",
+          "name:8": "佩拉基尔路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3056,7 +3056,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "贝烈戈斯特路径点已解锁!",
+          "name:8": "贝烈戈斯特路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3117,7 +3117,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "贝奥恩大厅路径点已解锁!",
+          "name:8": "贝奥恩大厅路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3178,7 +3178,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "精灵国王的宫殿路径点已解锁!",
+          "name:8": "瑟兰杜伊的宫殿路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3197,7 +3197,7 @@
           "posY:3": 54,
           "posZ:3": 4710,
           "biome:8": "",
-          "name:8": "精灵国王的宫殿",
+          "name:8": "瑟兰杜伊的宫殿",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3239,7 +3239,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "埃瑞博山路径点已解锁!",
+          "name:8": "埃瑞博山路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3300,7 +3300,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "河谷城路径点已解锁!",
+          "name:8": "河谷城路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3361,7 +3361,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "长湖镇路径点已解锁!",
+          "name:8": "埃斯加洛斯路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3380,7 +3380,7 @@
           "posY:3": 42,
           "posZ:3": 5363,
           "biome:8": "",
-          "name:8": "长湖镇",
+          "name:8": "埃斯加洛斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3422,7 +3422,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "罗斯戈贝尔路径点已解锁!",
+          "name:8": "罗斯戈贝尔路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3483,7 +3483,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "斯托尼福德(Stoneyford)路径点已解锁!",
+          "name:8": "石头渡口路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3502,7 +3502,7 @@
           "posY:3": 59,
           "posZ:3": 7679,
           "biome:8": "",
-          "name:8": "斯托尼福德(Stoneyford)",
+          "name:8": "石头渡口",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3544,7 +3544,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "多古尔都路径点已解锁!",
+          "name:8": "多古尔都路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3605,7 +3605,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "洛丝罗瑞恩路径点已解锁!",
+          "name:8": "洛丝罗瑞恩路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3666,7 +3666,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "墨瑞亚:东门路径点已解锁!",
+          "name:8": "墨瑞亚：东门路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3685,7 +3685,7 @@
           "posY:3": 41,
           "posZ:3": 9393,
           "biome:8": "",
-          "name:8": "墨瑞亚:东门",
+          "name:8": "墨瑞亚：东门(坐标：14089 41 9407)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3727,7 +3727,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "墨瑞亚:西门路径点已解锁!",
+          "name:8": "墨瑞亚：西门路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3746,7 +3746,7 @@
           "posY:3": 44,
           "posZ:3": 9309,
           "biome:8": "",
-          "name:8": "墨瑞亚:西门",
+          "name:8": "墨瑞亚：西门",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -3788,7 +3788,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "艾森加德路径点已解锁!",
+          "name:8": "艾森加德路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3849,7 +3849,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "海尔姆深谷路径点已解锁!",
+          "name:8": "海尔姆深谷路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3910,7 +3910,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "黑蛮祠路径点已解锁!",
+          "name:8": "黑蛮祠路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -3971,7 +3971,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "埃多拉斯路径点已解锁!",
+          "name:8": "埃多拉斯路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4032,7 +4032,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "阿蒙汉路径点已解锁!",
+          "name:8": "阿蒙汉路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4093,7 +4093,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "阿刚那斯路径点已解锁!",
+          "name:8": "阿刚那斯路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4154,7 +4154,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "阿蒙肖路径点已解锁!",
+          "name:8": "阿蒙肖路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4274,7 +4274,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "食人妖森林路径点已解锁!",
+          "name:8": "食人妖森林路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4335,7 +4335,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "米那斯提力斯路径点已解锁!",
+          "name:8": "米那斯提力斯路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4396,7 +4396,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "欧斯吉利亚斯路径点已解锁!",
+          "name:8": "欧斯吉利亚斯路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4575,7 +4575,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "末日山路径点已解锁!",
+          "name:8": "末日山路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4636,7 +4636,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "巴拉督尔路径点已解锁!",
+          "name:8": "巴拉督尔路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4756,7 +4756,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "奇立斯乌苟路径点已解锁!",
+          "name:8": "奇立斯乌苟路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4817,7 +4817,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "乌姆巴尔路径点已解锁!",
+          "name:8": "乌姆巴尔路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4878,7 +4878,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "乌姆巴尔:港口路径点已解锁!",
+          "name:8": "乌姆巴尔：港口路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -4897,7 +4897,7 @@
           "posY:3": 38,
           "posZ:3": 21150,
           "biome:8": "",
-          "name:8": "乌姆巴尔:港口",
+          "name:8": "乌姆巴尔：港口",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -4998,7 +4998,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "高隘口路径点已解锁!",
+          "name:8": "高隘口路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -5118,7 +5118,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "前门厅路径点已解锁!",
+          "name:8": "前门厅路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -5183,13 +5183,13 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "中土世界的一个新内容是玩家居所。  与前一版本相比，现在有了新的改进！\n\n如需了解更多信息，请向任何一位地产商人咨询。  有三位地产商人，一位在幽谷附近，一位在埃多拉斯附近，第三位在米那斯提力斯里面。"
+          "desc:8": "中洲的一个新内容是玩家居所,\n与前一版本相比，现在有了新的改进！\n如需了解信息，请向任何一位地产商人咨询。  \n有三位地产商人：\n幽谷附近(14432,55,5907)；\n埃多拉斯附近(14343,50,12640)；\n米那斯提力斯里面(17486,57,13352)。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 5,
-          "description:8": "只要你愿意，中土世界的地产商人就能帮你找到完美的居所。  一开始有三位地产商人，一位在幽谷附近，一位在埃多拉斯附近，最后一位在米那斯提力斯内。  请与他们中的任何一位交谈，了解更多有关玩家居所的信息。\n\n如果需要的话，服务器管理员可以使用模板和设置来为给玩家居所添加更多内容。",
+          "description:8": "只要你愿意，中洲的地产商人就能帮你找到完美的居所。  一开始有三位地产商人，一位在幽谷附近(坐标：14432 55 5907)，另一位在埃多拉斯附近(坐标：14343 50 12640)，最后一位在米那斯提力斯里面(坐标：17486 57 13352)  请与他们中的任何一位交谈，了解更多有关玩家居所的信息。\\n\\n如果需要的话，服务器管理员可以使用模板和设置来为给玩家居所添加更多内容。",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -5304,11 +5304,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "'远古邪恶 II",
+          "name:8": "远古邪恶 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "钥匙需要重新锻造。重新锻造钥匙并不需要技术，但需要时间。\n\n想要获得钥匙的碎片，你需要找到并击败尸妖头领(Wight-lords)塔赫鲁布(Tahrub)和布尔哈特(Burhat)以及守关人(Guant-man)兰勒(Ranler)。"
+          "desc:8": "钥匙需要重新锻造。重新锻造钥匙并不需要技术，但需要时间。\n想要获得钥匙的碎片，你需要找到并击败尸妖头领塔鲁布和布哈特以及柴骨人兰勒。"
         }
       },
       "tasks:9": {
@@ -5342,7 +5342,7 @@
                 "RepairCost:3": 0,
                 "effect:8": "minecraft:jump_boost",
                 "display:10": {
-                  "Name:8": "§5法尔西尔(Falsir)的饰品"
+                  "Name:8": "§5法尔西尔的饰品"
                 }
               },
               "OreDict:8": "",
@@ -5355,7 +5355,7 @@
                 "RepairCost:3": 0,
                 "effect:8": "tolkienmobs:ent_draught",
                 "display:10": {
-                  "Name:8": "§5法尔西尔(Falsir)的戒指"
+                  "Name:8": "§5法尔西尔的戒指"
                 }
               },
               "OreDict:8": "",
@@ -5383,7 +5383,7 @@
                   "Lore:9": {
                     "0:8": "§6为你的努力而送上的礼物"
                   },
-                  "Name:8": "§5维尔基纳尔(Virquinal)"
+                  "Name:8": "§5维基纳尔"
                 },
                 "Special:10": {
                   "Categories:9": {
@@ -5459,11 +5459,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "中土世界的人类: 略有名气",
+          "name:8": "中洲的人类： 略有名气",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n此时，中土世界的人们已经听说过你，并知道你的鼎鼎大名。"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。此时，中洲的人们已经听说过你，并知道你的鼎鼎大名。"
         }
       },
       "tasks:9": {
@@ -5511,11 +5511,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "'远古邪恶 I",
+          "name:8": "远古邪恶 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "一小队冒险者在大古冢(Great Barrow)外扎营，其中一个名叫法尔西尔(Falsir)的冒险者正在寻求帮助。"
+          "desc:8": "一小队冒险者在大古冢外扎营，其中一个名叫法尔西尔的冒险者正在寻求帮助。"
         }
       },
       "tasks:9": {
@@ -5537,7 +5537,7 @@
         },
         "1:10": {
           "npcDialogID:3": 18,
-          "description:8": "去和大古冢(Great Barrow)附近的法尔西尔(Falsir)谈一谈。",
+          "description:8": "去和大古冢附近的法尔西尔谈一谈。",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -5582,7 +5582,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "亨利(Henry)为僵尸肉找到了一个买家，并且正在寻找任何愿意快速赚点小钱和帮助中土人类的人。"
+          "desc:8": "亨利为僵尸肉找到了一个买家，并且正在寻找任何愿意快速赚点小钱和帮助中洲人类的人。"
         }
       },
       "tasks:9": {
@@ -5604,7 +5604,7 @@
         },
         "1:10": {
           "npcDialogID:3": 308,
-          "description:8": "看看亨利(Henry)能提供什么。",
+          "description:8": "看看亨利能提供什么。",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -5654,7 +5654,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "布理西门的卫兵队长里普莱特(Riplette)正在寻求帮助，收集大锅所需的物资。 去看看你能不能帮上忙。"
+          "desc:8": "布理西门的卫兵队长里普莱特正在寻求帮助，收集大锅所需的物资。 去看看你能不能帮上忙。"
         }
       },
       "tasks:9": {
@@ -5727,7 +5727,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "里夫·吉贝(Reeve Guibe)重新锻造了大古冢(Great Barrow)的钥匙。你应该回到法尔西尔(Falsir)那里，接受进一步的指导。\n"
+          "desc:8": "卡里夫·吉贝重新锻造了大古冢的钥匙。你应该回到法尔西尔那里，接受他的进一步指导。"
         }
       },
       "tasks:9": {
@@ -5831,7 +5831,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "埃瑞赫附近的座狼已经失去控制。 埃斯赫雷斯(Aeschreas)已经发出求救信号，试图让它们重新归于掌控之中。"
+          "desc:8": "埃瑞赫附近的座狼已经失去控制。 埃斯赫雷斯已经发出求救信号，试图让它们重新归于掌控之中。"
         }
       },
       "tasks:9": {
@@ -5903,7 +5903,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "里夫·吉贝(Reeve Guibe)住在铁匠街，在跃马客栈的西面，马厩的西南面。\n\n法尔西尔(Falsir)让你把钥匙碎片带给最近运气不太好的铁匠里夫·吉贝(Reeve Guibe)。"
+          "desc:8": "卡里夫·吉贝住在铁匠街，在跃马客栈的西面，马厩的西南面。法尔西尔让你把钥匙碎片带给最近运气不太好的铁匠卡里夫·吉贝。"
         }
       },
       "tasks:9": {
@@ -5918,14 +5918,14 @@
           "posY:3": 52,
           "posZ:3": 7705,
           "biome:8": "",
-          "name:8": "里夫·吉贝(Reeve Guibe)的铁匠铺",
+          "name:8": "卡里夫·吉贝的铁匠铺",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 26,
-          "description:8": "请务必与里夫·吉贝(Reeve Guibe)谈话。",
+          "description:8": "请务必与卡里夫·吉贝谈话。",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -5970,7 +5970,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "遗忘客栈附近的僵尸已经失去控制。 迪维娜(Divina)已经发出求救信号，试图让它们重新归于掌控之中。"
+          "desc:8": "遗忘客栈附近的僵尸已经失去控制。 迪维娜已经发出求救信号，试图让它们重新归于掌控之中。"
         }
       },
       "tasks:9": {
@@ -6042,7 +6042,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你必须击败尸妖头领(Wight-lords)扎姆罗恩(Zaemrohn)，然后与法尔西尔(Falsir)交谈。"
+          "desc:8": "你必须击败尸妖头领扎姆罗恩，然后再与法尔西尔交谈。"
         }
       },
       "tasks:9": {
@@ -6069,7 +6069,7 @@
         },
         "2:10": {
           "npcDialogID:3": 33,
-          "description:8": "与法尔西尔(Falsir)交谈。",
+          "description:8": "与法尔西尔交谈。",
           "index:3": 2,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -6086,7 +6086,7 @@
                 "RepairCost:3": 0,
                 "effect:8": "tolkienmobs:personal_blacksmith",
                 "display:10": {
-                  "Name:8": "§5法尔西尔(Falsir)的项链"
+                  "Name:8": "§5法尔西尔的项链"
                 }
               },
               "OreDict:8": "",
@@ -6099,7 +6099,7 @@
                 "RepairCost:3": 0,
                 "effect:8": "minecraft:night_vision",
                 "display:10": {
-                  "Name:8": "§5洛塔尔(Lothar)"
+                  "Name:8": "§5洛萨"
                 }
               },
               "OreDict:8": "",
@@ -6239,7 +6239,7 @@
                   "Lore:9": {
                     "0:8": "§6为你的努力而送上的礼物"
                   },
-                  "Name:8": "§5杜内丹人战斗标志(Battlesign)"
+                  "Name:8": "§5杜内丹人的战斗标志"
                 },
                 "Special:10": {
                   "Categories:9": {
@@ -6292,7 +6292,7 @@
                   "Lore:9": {
                     "0:8": "§6为你的努力而送上的礼物"
                   },
-                  "Name:8": "§5扎姆罗恩(Zaemrohn)的克星"
+                  "Name:8": "§5扎姆罗恩的克星"
                 },
                 "Special:10": {
                   "Categories:9": {
@@ -6335,7 +6335,7 @@
               "tag:10": {
                 "RepairCost:3": 0,
                 "display:10": {
-                  "Name:8": "§5扎姆罗恩(Zaemrohn)的靴子"
+                  "Name:8": "§5扎姆罗恩的靴子"
                 }
               },
               "OreDict:8": "",
@@ -6402,11 +6402,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "迷宫中的僧侣",
+          "name:8": "迷宫中的修道士",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在神庙附近的玩家居住区，寻找迷宫中的智慧僧侣，以获得如何快速出行的信息。\n\n一旦你完成了这项任务，你就可以进入神庙内部，了解神庙的所有秘密！"
+          "desc:8": "在玩家居所维度，神庙的附近，寻找树叶迷宫中富有智慧的修道士，以获得如何快速出行的信息。一旦你完成了这项任务，你就可以进入神庙内部，了解神庙的所有秘密！"
         }
       },
       "tasks:9": {
@@ -6524,7 +6524,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "莱因弗里德斯(Reinfridus)为猛犸皮(Mumakil HIde)找到了一个买家，并且正在寻找愿意快速赚点小钱和帮助佩拉基尔的人。"
+          "desc:8": "莱因弗里德为猛犸兽皮找到了一个买家，并且正在寻找愿意快速赚点小钱和帮助佩拉基尔的人。"
         }
       },
       "tasks:9": {
@@ -6546,7 +6546,7 @@
         },
         "1:10": {
           "npcDialogID:3": 314,
-          "description:8": "看看吉亚姆·布里昂(Guillame Brion)能提供什么。",
+          "description:8": "看看吉亚姆·布里昂能提供什么。",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -6596,7 +6596,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "中土世界的所有钱财都由一些重要人物掌管，也许你应该找货币兑换商谈一谈？"
+          "desc:8": "中洲的所有钱财都由一些重要人物掌管，也许你应该找货币兑换商谈一谈？ 玩家居所维度的市场里就刚好有一位。"
         }
       },
       "tasks:9": {
@@ -6658,14 +6658,14 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "找到阿拉贡并与他交谈，因为在你开始旅程之前他有很多话要说。"
+          "desc:8": "找到阿拉贡并与他交谈，因为在你开始旅程之前，他有很多话要说。"
         }
       },
       "tasks:9": {
         "0:10": {
           "visible:1": 0,
           "invertDistance:1": 0,
-          "range:3": 10,
+          "range:3": 30,
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
@@ -6725,7 +6725,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "有些人研究中土世界的历史，因此他们能敏锐地洞察到到底发生了什么。  与NPC交谈，了解他能为你做什么。"
+          "desc:8": "有些人研究中洲的历史，因此他们能敏锐地洞察到这个世界到底发生了什么。 与出生点附近的精灵记录者交谈，了解他能为你做什么。"
         }
       },
       "tasks:9": {
@@ -6740,7 +6740,7 @@
           "posY:3": 143,
           "posZ:3": 5962,
           "biome:8": "",
-          "name:8": "达拉吉(Darage)",
+          "name:8": "达拉吉",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -6800,7 +6800,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在中土世界有多种快速移动的方法，详情请咨询马厩的主人。"
+          "desc:8": "在中洲有多种快速出行的方法，详情请咨询幽谷外面的马厩老板。"
         }
       },
       "tasks:9": {
@@ -6878,7 +6878,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "任务完成！是时候回去再和阿拉贡谈谈了。"
+          "desc:8": "任务完成！是时候回去和阿拉贡再次谈谈了。"
         }
       },
       "tasks:9": {
@@ -6953,7 +6953,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "埃瑞赫路径点已解锁!",
+          "name:8": "埃瑞赫路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -7083,7 +7083,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "许多年过去了，你发现自己又回到了幽谷，遇见了阿拉贡。他眉头紧锁，似乎有很多事情压在心头。\n\n与他交谈，看看你们上次通话后发生了什么。"
+          "desc:8": "许多年过去了，你发现自己又回到了幽谷，遇见了阿拉贡。他眉头紧锁，似乎有很多事情压在心头。\n与他交谈，看看你们上次通话后发生了什么。"
         }
       },
       "tasks:9": {
@@ -7141,7 +7141,7 @@
                 "Z:6": 6081.054822318874,
                 "Dimension:3": 0,
                 "Yaw:5": 180.59984,
-                "DimentionName:8": "§3中土世界 §d(主世界)"
+                "DimentionName:8": "§3中洲 §d(主世界)"
               },
               "OreDict:8": "",
               "Damage:3": 0
@@ -7270,7 +7270,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "欢迎来到中土世界",
+          "name:8": "欢迎来到中洲",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -7444,7 +7444,7 @@
                 "RepairCost:3": 0,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6埃尔拉丹提供的笔记，能帮助你找到洞穴。"
+                    "0:8": "§6埃尔拉丹提供的笔记，帮助你找到洞穴。"
                   },
                   "Name:8": "§3埃尔拉丹的地图"
                 }
@@ -7558,11 +7558,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "隐于黑暗 - 班德瑞特(Bandrith)",
+          "name:8": "隐于黑暗 - 班德瑞特",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "埃尔拉丹已经确定，失踪的黑骑手可能藏身于食人妖森林，在黑骏马(Black Steed)附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿玉(beryl)搜索其中的几个洞穴。"
+          "desc:8": "埃尔拉丹已经确定，失踪的黑骑手可能藏身于黑骏马附近的许多洞穴中的一个，并希望你利用格罗芬德尔的绿玉一起搜索其中的几个洞穴，并杀死其中的食人妖。"
         }
       },
       "tasks:9": {
@@ -7573,11 +7573,11 @@
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 12552,
+          "posX:3": 12561,
           "posY:3": 4,
-          "posZ:3": 6828,
+          "posZ:3": 6892,
           "biome:8": "",
-          "name:8": "班德瑞特(Bandrith)的洞穴",
+          "name:8": "班德瑞特的洞穴深处",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -7648,11 +7648,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "隐于黑暗 - 霍克隆德(Hoklond)",
+          "name:8": "隐于黑暗 - 霍克隆德",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "埃尔拉丹已经确定，失踪的黑骑手可能藏身于食人妖森林，在黑骏马(Black Steed)附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿玉(beryl)搜索其中的几个洞穴。"
+          "desc:8": "埃尔拉丹已经确定，失踪的黑骑手可能藏身于黑骏马附近的许多洞穴中的一个，并希望你利用格罗芬德尔的绿玉一起搜索其中的几个洞穴，并杀死其中的食人妖。"
         }
       },
       "tasks:9": {
@@ -7663,11 +7663,11 @@
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 13270,
-          "posY:3": 5,
-          "posZ:3": 6160,
+          "posX:3": 13228,
+          "posY:3": 6,
+          "posZ:3": 6152,
           "biome:8": "",
-          "name:8": "霍克隆德(Hoklond)的洞穴",
+          "name:8": "霍克隆德的洞穴深处",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -7738,11 +7738,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "隐于黑暗 - 肖德罗特(Sholdroth)",
+          "name:8": "隐于黑暗 - 肖德罗特",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "埃尔拉丹已经确定，失踪的黑骑手可能藏身于食人妖森林，在黑骏马(Black Steed)附近的许多洞穴中的一个，并希望你用格罗芬德尔的绿玉(beryl)搜索其中的几个洞穴。"
+          "desc:8": "埃尔拉丹已经确定，失踪的黑骑手可能藏身于黑骏马附近的许多洞穴中的一个，并希望你利用格罗芬德尔的绿玉一起搜索其中的几个洞穴，并杀死其中的食人妖。"
         }
       },
       "tasks:9": {
@@ -7753,11 +7753,11 @@
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 12745,
-          "posY:3": 4,
-          "posZ:3": 5856,
+          "posX:3": 12697,
+          "posY:3": 6,
+          "posZ:3": 5882,
           "biome:8": "",
-          "name:8": "肖德罗特(Sholdroth)的洞穴",
+          "name:8": "肖德罗特的洞穴深处",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -7833,7 +7833,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "莱戈拉斯认出了你所描述的生物是森林食人妖，并同意带你寻找其余的食人妖。"
+          "desc:8": "莱戈拉斯认出了你所描述的造物是木头食人妖，并同意带你寻找其余的食人妖。"
         }
       },
       "tasks:9": {
@@ -7864,7 +7864,7 @@
           "posY:3": 39,
           "posZ:3": 6808,
           "biome:8": "",
-          "name:8": "马图纳(Matuna)的洞穴",
+          "name:8": "马图纳的洞穴",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -7971,7 +7971,7 @@
                 },
                 "RepairCost:3": 3,
                 "display:10": {
-                  "Name:8": "§5辛德拉尔(Shindrar)"
+                  "Name:8": "§5迅达"
                 }
               },
               "OreDict:8": "",
@@ -7989,7 +7989,7 @@
                 },
                 "RepairCost:3": 3,
                 "display:10": {
-                  "Name:8": "§5马图纳(Matuna)的厄运"
+                  "Name:8": "§5马图纳的厄运"
                 }
               },
               "OreDict:8": "",
@@ -8035,11 +8035,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "重拾足迹",
+          "name:8": "重走小径",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "既然你已经看到了格罗芬德尔领主绿玉的作用，那么是时候收回它了。"
+          "desc:8": "既然你已经看到了格罗芬德尔领主的绿玉作用，那么是时候收回它了。"
         }
       },
       "tasks:9": {
@@ -8054,7 +8054,7 @@
           "posY:3": 205,
           "posZ:3": 5999,
           "biome:8": "",
-          "name:8": "幽谷瀑布",
+          "name:8": "伊姆拉缀斯瀑布",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8192,11 +8192,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "失踪的黑骑手",
+          "name:8": "失踪的骑士",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "精灵们还没有找到失踪的黑骑手，这令人担忧。 希望你能向埃尔隆德的儿子——埃尔拉丹伸出援手。"
+          "desc:8": "精灵们还没有找到失踪的骑士，这令人担忧。 希望你能向埃尔隆德的儿子——埃尔拉丹伸出援手。"
         }
       },
       "tasks:9": {
@@ -8227,7 +8227,7 @@
           "posY:3": 39,
           "posZ:3": 6457,
           "biome:8": "",
-          "name:8": "黑骏马(Black Steed)",
+          "name:8": "黑骏马",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8301,7 +8301,7 @@
           "posY:3": 205,
           "posZ:3": 5999,
           "biome:8": "",
-          "name:8": "幽谷瀑布",
+          "name:8": "伊姆拉缀斯瀑布",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8365,7 +8365,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "与巴拉钦(Barachen)交谈后，是时候去追捕巨人了，希望能得到更多关于戒灵的信息。"
+          "desc:8": "与巴拉钦交谈后，是时候去追捕巨人了，希望能得到更多关于戒灵的信息。"
         }
       },
       "tasks:9": {
@@ -8656,11 +8656,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "幽谷的精灵: 略有名气",
+          "name:8": "幽谷的精灵： 略有名气",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -8844,7 +8844,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "是时候去看看这位名叫巴拉钦(Barachen)的侦察员发现了什么信息了。"
+          "desc:8": "是时候去看看这位名叫巴拉钦的侦察员发现了什么信息了。"
         }
       },
       "tasks:9": {
@@ -8859,7 +8859,7 @@
           "posY:3": 41,
           "posZ:3": 6701,
           "biome:8": "",
-          "name:8": "巴拉钦(Barachen)的营地",
+          "name:8": "巴拉钦的营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8915,14 +8915,14 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "格罗因在幽谷北面的营地。\n\n在击败乌尔穆格(Ulmug)的过程中，你发现他身边还跟着敌对的矮人——杜尔汉德(Dourhand)。应立即让格罗因知道这一进展。"
+          "desc:8": "格罗因在幽谷北面的营地。 在击败乌尔穆格的过程中，你发现他身边还跟着敌对的矮人——杜尔汉德矮人。应立即让格罗因知道这一进展。"
         }
       },
       "tasks:9": {
         "0:10": {
           "visible:1": 0,
           "invertDistance:1": 0,
-          "range:3": 16,
+          "range:3": 50,
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
@@ -8930,7 +8930,7 @@
           "posY:3": 37,
           "posZ:3": 5651,
           "biome:8": "",
-          "name:8": "矮人营地",
+          "name:8": "格罗因的矮人营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -8942,18 +8942,34 @@
           "index:3": 1,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 15407,
-          "posY:3": 119,
-          "posZ:3": 5617,
+          "posX:3": 15416,
+          "posY:3": 121,
+          "posZ:3": 5597,
           "biome:8": "",
-          "name:8": "奥克地穴",
+          "name:8": "奥克地穴入口",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "2:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 20,
+          "index:3": 3,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 15403,
+          "posY:3": 42,
+          "posZ:3": 5301,
+          "biome:8": "",
+          "name:8": "奥克地穴中的乌尔穆格",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "3:10": {
           "npcQuestID:3": 27,
-          "index:3": 2,
+          "index:3": 4,
           "taskID:8": "bq_npc_integration:npc_quest"
         }
       },
@@ -9050,7 +9066,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "拿到钥匙石(Key-stone)后，你就可以进入贡达巴德山的矮人堡垒——杜尔汉德(Dourhands)最后的庇护所，与戒灵和杜戈林(Dugorim)对峙。"
+          "desc:8": "拿到钥匙石后，你就可以进入贡达巴德山的矮人堡垒——杜汉德矮人最后的庇护所，与那兹古尔和杜戈林厮杀。"
         }
       },
       "tasks:9": {
@@ -9061,11 +9077,11 @@
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 15856,
-          "posY:3": 37,
-          "posZ:3": 5651,
+          "posX:3": 14527,
+          "posY:3": 73,
+          "posZ:3": 2686,
           "biome:8": "",
-          "name:8": "返回格罗因",
+          "name:8": "进入后门",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -9198,19 +9214,19 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "卡恩督姆远在幽谷的西北方。\n\n很久以前被留在卡恩督姆不断腐烂的巨龙尸体，埃尔隆德担心它现在可能会被高塔领主用来制造一种可怕的堕落生物——尸龙(Dragon Wight)，所以他希望你去阻止这一切的发生。"
+          "desc:8": "卡恩督姆远在幽谷的西北方。 很久以前被留在卡恩督姆不断腐烂的巨龙尸体，埃尔隆德担心它现在可能会被柴骨领主用来制造一种可怕的堕落生物——尸龙，所以他希望你去阻止这一切的发生。"
         }
       },
       "tasks:9": {
         "0:10": {
           "visible:1": 0,
           "invertDistance:1": 0,
-          "range:3": 16,
+          "range:3": 50,
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
           "posX:3": 12252,
-          "posY:3": 88,
+          "posY:3": 90,
           "posZ:3": 2737,
           "biome:8": "",
           "name:8": "终止祭祀",
@@ -9300,11 +9316,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "埃瑞博山的矮人: 略有名气",
+          "name:8": "埃瑞博山的矮人： 略有名气",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -9384,7 +9400,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"追逐阴影\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"Chasing Shadows\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -9393,7 +9409,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅰ\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 1\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
         }
       }
     },
@@ -9462,7 +9478,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"最后的庇护所\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"Last Refuge\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -9471,7 +9487,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅱ\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 2\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
         }
       }
     },
@@ -9513,14 +9529,14 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "埃尔隆德建议你与格罗因对话，以便你进一步寻找戒灵。"
+          "desc:8": "埃尔隆德建议你与格罗因对话，以便你进一步寻找那兹古尔。"
         }
       },
       "tasks:9": {
         "0:10": {
           "visible:1": 0,
           "invertDistance:1": 0,
-          "range:3": 16,
+          "range:3": 50,
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
@@ -9528,7 +9544,7 @@
           "posY:3": 37,
           "posZ:3": 5651,
           "biome:8": "",
-          "name:8": "矮人营地",
+          "name:8": "格罗因的矮人营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -9646,7 +9662,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "许多中土世界的人正在为他们的各种各样任务寻求帮助。  这可能是赚点外快的好方法！"
+          "desc:8": "许多中洲的人正在为他们的各种各样任务寻求帮助。  这可能是赚点外快的好方法！"
         }
       },
       "tasks:9": {},
@@ -9703,7 +9719,7 @@
           "viaPlayer:1": 0,
           "index:3": 5,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"刚铎任务栏\\\", x:17957, y:37, z:13646]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"刚铎任务栏\\\", x:17962, y:39, z:13673]\"}"
         },
         "6:10": {
           "hideBlockIcon:1": 1,
@@ -9712,7 +9728,7 @@
           "viaPlayer:1": 0,
           "index:3": 6,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"罗瓦尼安任务栏\\\", x:20276, y:64, z:4277]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"罗瓦尼安任务栏\\\", x:20326, y:56, z:4198]\"}"
         },
         "7:10": {
           "hideBlockIcon:1": 1,
@@ -9721,7 +9737,7 @@
           "viaPlayer:1": 0,
           "index:3": 7,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"洛汗任务栏\\\", x:14695, y:51, z:12300]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"洛汗任务栏\\\", x:14691, y:51, z:12281]\"}"
         }
       }
     },
@@ -10001,7 +10017,7 @@
           "posY:3": 40,
           "posZ:3": 7823,
           "biome:8": "",
-          "name:8": "加拉里克·大肚皮(Gararic Rumblebelly)",
+          "name:8": "加拉里克·大肚皮",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10017,7 +10033,7 @@
           "posY:3": 39,
           "posZ:3": 7753,
           "biome:8": "",
-          "name:8": "马库斯·毛脚(Marcus Hairyfoot)",
+          "name:8": "马库斯·毛脚",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10033,7 +10049,7 @@
           "posY:3": 43,
           "posZ:3": 7769,
           "biome:8": "",
-          "name:8": "伊森巴德·地湖(Isembard Underlake)",
+          "name:8": "伊森巴德·地湖",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10049,7 +10065,7 @@
           "posY:3": 41,
           "posZ:3": 7699,
           "biome:8": "",
-          "name:8": "戈多马·群山(Godomar Barrowes)",
+          "name:8": "戈多马·群山",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10065,7 +10081,7 @@
           "posY:3": 48,
           "posZ:3": 7635,
           "biome:8": "",
-          "name:8": "尼克·绿丘(Nick Greenhill)",
+          "name:8": "尼克·绿丘",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10081,7 +10097,7 @@
           "posY:3": 44,
           "posZ:3": 7635,
           "biome:8": "",
-          "name:8": "勒弗罗伊·飞毛腿(Leufroy Swiftfoot)",
+          "name:8": "勒弗罗伊·飞毛腿",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10097,7 +10113,7 @@
           "posY:3": 39,
           "posZ:3": 7727,
           "biome:8": "",
-          "name:8": "阿曼达·布罗克豪斯(Amanda Brockhouse)",
+          "name:8": "阿曼达·獾屋",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10113,7 +10129,7 @@
           "posY:3": 39,
           "posZ:3": 7682,
           "biome:8": "",
-          "name:8": "梅丽莎·刚强(Melissa Headstrong)",
+          "name:8": "梅丽莎·顽固",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10129,7 +10145,7 @@
           "posY:3": 39,
           "posZ:3": 7675,
           "biome:8": "",
-          "name:8": "贝尔巴·屠夫(Belba Butcher)",
+          "name:8": "贝尔巴·屠夫",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10145,7 +10161,7 @@
           "posY:3": 46,
           "posZ:3": 7752,
           "biome:8": "",
-          "name:8": "戈马特鲁迪斯·傲蜜酒(Gomatrudis Proudmead)",
+          "name:8": "戈马特迪·傲蜜酒",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10161,7 +10177,7 @@
           "posY:3": 39,
           "posZ:3": 7967,
           "biome:8": "",
-          "name:8": "英贡德·静步(Ingunde Silentfoot)",
+          "name:8": "英贡德·静步",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10177,7 +10193,7 @@
           "posY:3": 39,
           "posZ:3": 7950,
           "biome:8": "",
-          "name:8": "雷格尼特鲁迪斯·法罗海德(Regnetrudis Fallohide)",
+          "name:8": "雷格特迪·白肤",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10251,7 +10267,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你已经收集了所有的故事，再去看看 老头儿，看他还有什么要说的。"
+          "desc:8": "你已经收集了所有的故事，再去看看老头儿，看他还有什么要说的。"
         }
       },
       "tasks:9": {
@@ -10565,7 +10581,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Journal Updated",
+          "name:8": "日志更新",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -10729,7 +10745,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "米那斯提力斯的卫兵队长吉亚姆·布里昂(Guillame Brion)正在找人帮忙收集大锅所需的物资。 去看看你能否能帮上忙。"
+          "desc:8": "米那斯提力斯的卫兵队长吉亚姆·布里昂正在找人帮忙收集大锅所需的物资。 去看看你能否能帮上忙。"
         }
       },
       "tasks:9": {
@@ -10797,7 +10813,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "苍泉河路径点已解锁!",
+          "name:8": "苍泉河路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -10921,7 +10937,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "格罗因告诉你，你正在追寻的戒灵，可以在古老的贡达巴德山矮人堡垒中找到。他正与杜戈林·杜尔汉德(Dugorim Dourhand)结伴而行。这两人已进入这座几乎坚不可摧的城堡内部。格罗因相信进入城堡内部的唯一方法是找到它的秘密入口。"
+          "desc:8": "格罗因告诉你，你正在追寻的那兹古尔，可以在古老的贡达巴德山矮人堡垒中找到。他正与杜戈林·杜尔汉德结伴而行。这两人已进入这座几乎坚不可摧的城堡内部。格罗因相信进入城堡内部的唯一方法是找到它的秘密入口。"
         }
       },
       "tasks:9": {
@@ -10936,7 +10952,7 @@
           "posY:3": 47,
           "posZ:3": 2570,
           "biome:8": "",
-          "name:8": "墓室(Vault)里的钥匙石(Key-stone)",
+          "name:8": "地下大厅里的钥匙石",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -10984,11 +11000,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "寻找钥匙石(Key-stone)",
+          "name:8": "寻找钥匙石",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "格罗因要求你从一个古老的矮人墓室(Vault)中取回一块钥匙石(Key-stone)。这块钥匙石(Key-stone)将允许你进入被杜尔汉德(Dourhand)占领的矮人堡。"
+          "desc:8": "格罗因要求你从一个古老的矮人地下大厅中取回一块钥匙石。这块钥匙石将允许你进入被杜尔汉德矮人占领的矮人堡。"
         }
       },
       "tasks:9": {
@@ -11003,7 +11019,7 @@
           "posY:3": 39,
           "posZ:3": 6445,
           "biome:8": "",
-          "name:8": "矮人墓室(Vault)废墟",
+          "name:8": "矮人地下大厅的废墟",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -11054,7 +11070,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "拿到钥匙石(Key-stone)后，你就可以进入贡达巴德山的矮人堡垒——杜尔汉德(Dourhands)最后的庇护所，与戒灵和杜戈林(Dugorim)对峙。\n\n吉姆利就位于通往贡达巴德山的秘密入口附近，跟随你任务书中的指南针找到他，以获得进入贡达巴德山的方法。"
+          "desc:8": "拿到钥匙石后，你就可以进入贡达巴德山的矮人堡垒——杜汉德矮人最后的庇护所，与那兹古尔和杜戈林厮杀。 吉姆利就位于通往贡达巴德山的秘密入口附近，跟随你任务书中的指南针找到他，以获得进入贡达巴德山的方法。"
         }
       },
       "tasks:9": {
@@ -11065,11 +11081,11 @@
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 15856,
-          "posY:3": 37,
-          "posZ:3": 5651,
+          "posX:3": 15837,
+          "posY:3": 41,
+          "posZ:3": 5645,
           "biome:8": "",
-          "name:8": "返回格罗因",
+          "name:8": "返回格罗因那里",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -11132,18 +11148,18 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Steps of Evil I",
+          "name:8": "邪恶的步伐 Ⅰ",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "听说戒灵逃往了卡恩督姆，格罗因向你讲述了那座古老堡垒的一些故事。"
+          "desc:8": "听说那兹古尔逃往了卡恩督姆，格罗因向你讲述了那座古老堡垒的一些故事。"
         }
       },
       "tasks:9": {
         "0:10": {
           "visible:1": 0,
           "invertDistance:1": 0,
-          "range:3": 16,
+          "range:3": 60,
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
@@ -11199,18 +11215,18 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Steps of Evil II",
+          "name:8": "邪恶的步伐 Ⅱ",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在卡恩督姆的一个入口附近，你遭遇了尸妖。\n\n杀了几个尸妖之后，你发现了一个§5黑暗徽章(Dark Sigil)§r，所以你应该返回格罗因那里，看看他是怎么想的。"
+          "desc:8": "在卡恩督姆的一个入口附近，你遭遇了尸妖。\n杀了几个尸妖之后，你发现了一个§5黑暗徽章§r。\n所以你应该返回格罗因那里，看看他是怎么想的。"
         }
       },
       "tasks:9": {
         "0:10": {
           "visible:1": 0,
           "invertDistance:1": 0,
-          "range:3": 16,
+          "range:3": 30,
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
@@ -11218,7 +11234,7 @@
           "posY:3": 37,
           "posZ:3": 5651,
           "biome:8": "",
-          "name:8": "返回格罗因",
+          "name:8": "返回格罗因那里",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -11269,7 +11285,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "卡恩督姆的威胁已经解决，现在埃尔隆德想和你讨论其他事情。\n\n与在幽谷的他交谈。"
+          "desc:8": "卡恩督姆的威胁已经解决，现在埃尔隆德想和你讨论其他事情。 与在幽谷的他交谈。"
         }
       },
       "tasks:9": {
@@ -11355,7 +11371,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"南方的战火\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"Fires in the South\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -11364,7 +11380,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅲ\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 3\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
         }
       }
     },
@@ -11406,7 +11422,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "看起来遗忘客栈附近有人在寻求帮助，因为最近一次探险出了岔子。\n\n去找一个名叫蒙斯(Munce)的人，看看他需要什么帮助。"
+          "desc:8": "看起来遗忘客栈附近有人在寻求帮助，因为最近一次探险出了岔子。去找一个名叫蒙斯的人，看看他需要什么帮助。"
         }
       },
       "tasks:9": {
@@ -11428,7 +11444,7 @@
         },
         "1:10": {
           "npcDialogID:3": 174,
-          "description:8": "与对话蒙斯(Munce)",
+          "description:8": "与对话蒙斯",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -11474,7 +11490,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "蒙斯(Munce)指引你前往他们在安德拉斯废墟南部的营地。希望艾杜因(Ayduin)还活着，可以被救回来。"
+          "desc:8": "蒙斯指引你前往他们在安德拉斯废墟南部的营地。希望艾杜因还活着，可以被救回来。"
         }
       },
       "tasks:9": {
@@ -11540,7 +11556,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你找到了艾杜因(Ayduin)，她受了重伤，但还能行动。带她前往西拱门(Western Arch)，让她获得安全。"
+          "desc:8": "你找到了艾杜因，她受了重伤，但还能行动。带她前往西拱门，让她获得安全。"
         }
       },
       "tasks:9": {
@@ -11555,7 +11571,7 @@
           "posY:3": 45,
           "posZ:3": 10837,
           "biome:8": "",
-          "name:8": "西拱门(Western Arch)",
+          "name:8": "西拱门",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -11716,7 +11732,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"幽谷瀑布\\\", x:15046, y:205, z:5999]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"伊姆拉缀斯瀑布\\\", x:15046, y:205, z:5999]\"}"
         }
       }
     },
@@ -11771,7 +11787,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"幽谷瀑布\\\", x:15046, y:205, z:5999]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"伊姆拉缀斯瀑布\\\", x:15046, y:205, z:5999]\"}"
         }
       }
     },
@@ -11953,11 +11969,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "中土世界的人类: 结为朋友",
+          "name:8": "中洲的人类： 结为朋友",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n一旦达到声望要求，你将能够每天赚取派系代币，以帮助你变得更有名，并在派系商人那里使用。"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。一旦达到声望要求，你将能够每天赚取派系代币，以帮助你变得更有名，并在派系商人那里使用。"
         }
       },
       "tasks:9": {
@@ -12028,7 +12044,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
+          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。这项任务会刷新，因此你可以根据需要继续提交。"
         }
       },
       "tasks:9": {
@@ -12096,11 +12112,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "中土世界的人类: 情同亲人",
+          "name:8": "中洲的人类： 情同亲人",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n他们现在把你视为他们的一员。因此，你将能够接触到更棒的派系商人，他们拥有通常只对他们社区成员开放的独特商品。现在，你还可以从派系里的强者那里雇佣一些佣兵。"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。他们现在把你视为他们的一员。因此，你将能够接触到更棒的派系商人，他们拥有通常只对他们社区成员开放的独特商品。现在，你还可以从派系里的强者那里雇佣一些佣兵。"
         }
       },
       "tasks:9": {
@@ -12173,11 +12189,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "无人不晓 - Fellowship",
+          "name:8": "无人不晓 - ",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你的事迹将被载入史册。通过你的不懈努力，中土世界的各族人民团结在一个共同的事业周围……就是你。"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。你的事迹将被载入史册。通过你的不懈努力，中洲的各族人民团结在一个共同的事业周围……就是你。"
         }
       },
       "tasks:9": {},
@@ -12332,11 +12348,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "幽谷的精灵: 结为朋友",
+          "name:8": "幽谷的精灵： 结为朋友",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -12407,7 +12423,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
+          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。这项任务会刷新，因此你可以根据需要继续提交。"
         }
       },
       "tasks:9": {
@@ -12475,11 +12491,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "幽谷的精灵: 情同亲人",
+          "name:8": "幽谷的精灵： 情同亲人",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -12612,11 +12628,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "埃瑞博山的矮人: 泛泛之交",
+          "name:8": "埃瑞博山的矮人： 泛泛之交",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你现在可以与墨瑞亚的派系商人交谈，以帮助提高你的知名度。"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。你现在可以与墨瑞亚(卡扎督姆)的派系商人交谈，以帮助提高你的知名度。"
         }
       },
       "tasks:9": {
@@ -12687,7 +12703,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
+          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。这项任务会刷新，因此你可以根据需要继续提交。"
         }
       },
       "tasks:9": {
@@ -12755,11 +12771,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "埃瑞博山的矮人: 情同亲人",
+          "name:8": "埃瑞博山的矮人： 情同亲人",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -12829,11 +12845,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "夏尔的人类: 略有名气",
+          "name:8": "夏尔的人类： 略有名气",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -12957,11 +12973,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "夏尔的人类: 泛泛之交",
+          "name:8": "夏尔的人类： 泛泛之交",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你现在可以与夏尔的派系商人交谈，以帮助提高你的知名度。"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。你现在可以与夏尔的派系商人交谈，以帮助提高你的知名度。"
         }
       },
       "tasks:9": {
@@ -13026,7 +13042,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n这项任务会刷新，因此你可以根据需要继续提交。"
+          "desc:8": "通过提交特殊代币来提高你在埃瑞博山矮人派系的声望。这项任务会刷新，因此你可以根据需要继续提交。"
         }
       },
       "tasks:9": {
@@ -13094,11 +13110,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "夏尔的人类: 情同亲人",
+          "name:8": "夏尔的人类： 情同亲人",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -13199,7 +13215,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"希望之火\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"Flames of Hope\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -13208,7 +13224,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅳ\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 4\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
         }
       }
     },
@@ -13247,11 +13263,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "克罗米斯(Cromhes) and 墨瑞亚",
+          "name:8": "克罗米斯和墨瑞亚",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "一只训练有素的猎鹰来到了幽谷，从隐蔽在苍泉河的游民营地为游民首领——阿拉贡带来了一个令人不安的消息。"
+          "desc:8": "一只训练有素的猎鹰来到了幽谷，从隐蔽在米斯艾塞尔河岸边的游民营地为游民首领——阿拉贡带来了一个令人不安的消息。"
         }
       },
       "tasks:9": {
@@ -13266,7 +13282,7 @@
           "posY:3": 56,
           "posZ:3": 8040,
           "biome:8": "",
-          "name:8": "与古斯威奈(Guthwine)交谈",
+          "name:8": "与古斯威奈交谈",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -13317,7 +13333,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "古斯威奈(Guthwine)告诉你，一只受伤的猎鹰携带着一条来自曼温(Manwyn)的消息抵达。曼温(Manwyn)是克罗米斯(Cromhes)队伍中的一名游民，他违抗了阿拉贡的命令，进入了墨瑞亚，相信那里再次出现了暗影。"
+          "desc:8": "古斯威奈告诉你，一只受伤的猎鹰携带着一条来自曼温的消息抵达。曼温是克罗米斯队伍中的一名游民，他违抗了阿拉贡的命令，进入了墨瑞亚，相信那里再次出现了邪恶的暗影。"
         }
       },
       "tasks:9": {
@@ -13332,7 +13348,7 @@
           "posY:3": 67,
           "posZ:3": 7686,
           "biome:8": "",
-          "name:8": "与曼温(Manwyn)对话",
+          "name:8": "与曼温对话",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -13384,7 +13400,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn)相信，通过调查监视者所在的一个基座，就能揭开监视者的秘密。他指示您小心翼翼地走近其中一个监视者石像，仔细观察基座上面的符文。他警告你要非常小心那些邪恶而又致命的监视者石像。"
+          "desc:8": "曼温相信，通过调查监视者所在的一个基座，就能揭开监视者的秘密。他指示你小心翼翼地走近其中一个监视者石像，仔细观察基座上面的符文。他警告你要非常小心那些邪恶而又致命的监视者石像。"
         }
       },
       "tasks:9": {
@@ -13455,7 +13471,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你所做的拓印展示了用黑语书写的污秽符文，曼温(Manwyn)并不精通黑语；不过，他还是能看出一些有关石像[心脏]的内容。"
+          "desc:8": "你所做的拓印展示了用黑语书写的污秽符文，曼温并不精通黑语；不过，他还是能看出一些有关石像\"心脏\"的内容。"
         }
       },
       "tasks:9": {
@@ -13466,9 +13482,9 @@
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 17749,
-          "posY:3": 52,
-          "posZ:3": 7872,
+          "posX:3": 17742,
+          "posY:3": 54,
+          "posZ:3": 7878,
           "biome:8": "",
           "name:8": "死气沉沉的雕像",
           "dimension:3": 0,
@@ -13522,11 +13538,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "祭祀的末日",
+          "name:8": "祭司的末日",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你找到的石心已经因为破裂而无法使用，但另一条道路仍然开放。科鲁尼尔(Corunir)得知多古尔都要塞正在举行一场祭祀，如果中断它，你可能会得到一个完好的石心。"
+          "desc:8": "你找到的石心已经因为破裂而无法使用，但另一条大路仍然可以前行。来自安格玛的游民——科鲁尼尔得知多古尔都要塞正在举行一场祭祀，如果中断它，你可能会得到一个完好的石心。"
         }
       },
       "tasks:9": {
@@ -13541,7 +13557,7 @@
           "posY:3": 118,
           "posZ:3": 8134,
           "biome:8": "",
-          "name:8": "找到那位牧师",
+          "name:8": "找到那位巫师",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -13682,7 +13698,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn)嘱咐你穿过监视者石像，因为你不再需要惧怕那些致命石像。他希望你能在另一边的某处找到克罗米斯(Cromhes)带领你穿过石像的残余力量。"
+          "desc:8": "曼温嘱咐你穿过监视者石像，因为你不再需要惧怕那些致命石像。他希望你能在另一边的某处找到一些同伴，即克罗米斯带领穿过石像的残余力量。"
         }
       },
       "tasks:9": {
@@ -13703,8 +13719,24 @@
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 2,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 13480,
+          "posY:3": 54,
+          "posZ:3": 9045,
+          "biome:8": "",
+          "name:8": "游民鲁林",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "2:10": {
           "npcQuestID:3": 69,
-          "index:3": 1,
+          "index:3": 3,
           "taskID:8": "bq_npc_integration:npc_quest"
         }
       },
@@ -13820,7 +13852,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn)相信他施加在你身上的符咒会让你顺利通过监视者石像，但警告说这可能会引出一个古老灵魂，你必须打败它。"
+          "desc:8": "曼温相信他施加在你身上的符咒会让你顺利通过监视者石像，但警告说这可能会引出一个古老灵魂，你必须打败它。"
         }
       },
       "tasks:9": {
@@ -13840,7 +13872,7 @@
           "posY:3": 60,
           "posZ:3": 7678,
           "biome:8": "",
-          "name:8": "返回曼温(Manwyn)",
+          "name:8": "返回曼温那里",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -13917,7 +13949,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "曼温(Manwyn)嘱咐你穿过监视者石像，因为你不再需要惧怕那些致命石像。他希望你能在另一边的某处找到克罗米斯(Cromhes)带领你穿过石头的残余力量。"
+          "desc:8": "曼温嘱咐你穿过监视者石像，因为你不再需要惧怕那些致命石像。他希望你能在另一边的某处找到一些同伴，即克罗米斯带领穿过石像的残余力量。"
         }
       },
       "tasks:9": {
@@ -13932,7 +13964,7 @@
           "posY:3": 54,
           "posZ:3": 9038,
           "biome:8": "",
-          "name:8": "矮人驻地",
+          "name:8": "墨瑞亚的矮人驻地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -13983,7 +14015,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "阿拉贡在幽谷的主屋中等候，沿着这条路蜿蜒而上，沿着幽谷南坡。\n\n埃尔隆德警告你，安格玛内部的邪恶势力在不断壮大，请你与阿拉贡谈谈。"
+          "desc:8": "阿拉贡在幽谷的主屋中等候，沿着这条路蜿蜒而上，沿着幽谷南坡。 埃尔隆德警告你，安格玛王国内部的邪恶势力在不断壮大，请你与阿拉贡谈谈。"
         }
       },
       "tasks:9": {
@@ -14049,13 +14081,13 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "前往斯托尼福德(Stoneyford)"
+          "desc:8": "前往石头渡口"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 209,
-          "description:8": "寻找斯托尼福德(Stoneyford)",
+          "description:8": "寻找石头渡口(坐标：17360 59 7679)",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -14068,7 +14100,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"斯托尼福德(Stoneyford)\\\", x:17360, y:59, z:7679]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"石头渡口\\\", x:17360, y:59, z:7679]\"}"
         }
       }
     },
@@ -14129,7 +14161,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"墨瑞亚: 东门\\\", x:14089, y:41, z:9407]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"墨瑞亚：东门\\\", x:14089, y:41, z:9407]\"}"
         }
       }
     },
@@ -14197,7 +14229,7 @@
     "192:10": {
       "questID:3": 192,
       "preRequisites:11": [
-        107
+        127
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -14252,7 +14284,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"巨人的踪迹\\\", x:13874, y:41, z:7778]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"目击到的巨人\\\", x:13874, y:41, z:7778]\"}"
         }
       }
     },
@@ -14290,7 +14322,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "寻找基石(Cornerstone)",
+          "name:8": "寻找基石",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -14300,7 +14332,7 @@
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 168,
-          "description:8": "寻找基石(Cornerstone)",
+          "description:8": "寻找基石",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -14351,11 +14383,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "中土世界的人类: 歃血为盟",
+          "name:8": "中洲的人类： 歃血为盟",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你已经证明自己在许多人的眼中是值得信赖的，现在你将获得访问派系供货商的权限，以获得更多的派系声望。"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。你已经证明自己在许多人的眼中是值得信赖的，现在你将获得访问派系供货商的权限，以获得更多的派系声望。"
         }
       },
       "tasks:9": {
@@ -14422,11 +14454,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "中土世界的人类: 泛泛之交",
+          "name:8": "中洲的人类： 泛泛之交",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n人们现在认识到你的价值和重要性，在这个级别上，你现在可以访问布理的派系供货商，帮助你更加出名。"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。人们现在认识到你的价值和重要性，在这个级别上，你现在可以访问布理的派系供货商，帮助你更加出名。"
         }
       },
       "tasks:9": {
@@ -14493,11 +14525,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "幽谷的精灵: 泛泛之交",
+          "name:8": "幽谷的精灵： 泛泛之交",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n你现在可以访问幽谷的派系供货商，帮助你更加出名。"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。你现在可以访问幽谷的派系供货商，帮助你更加出名。"
         }
       },
       "tasks:9": {
@@ -14564,11 +14596,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "幽谷的精灵: 歃血为盟",
+          "name:8": "幽谷的精灵： 歃血为盟",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -14635,11 +14667,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "夏尔的人类: 结为朋友",
+          "name:8": "夏尔的人类： 结为朋友",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -14700,11 +14732,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "夏尔的人类: 歃血为盟",
+          "name:8": "夏尔的人类： 歃血为盟",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -14771,11 +14803,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "埃瑞博山的矮人: 结为朋友",
+          "name:8": "埃瑞博山的矮人： 结为朋友",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -14842,11 +14874,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "埃瑞博山的矮人: 歃血为盟",
+          "name:8": "埃瑞博山的矮人： 歃血为盟",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。\n\n~~~~~~~~~~~~~~~~~~~~\n\n"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "tasks:9": {
@@ -14988,15 +15020,31 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "是时候再去办点事了，你得去寻找铁足戴因领主让你采购的所需用品。"
+          "desc:8": "是时候再去办点事了，铁足戴因领主要求你得去寻找锻造钥匙的所需用品。"
         }
       },
       "tasks:9": {
         "0:10": {
           "visible:1": 0,
           "invertDistance:1": 0,
-          "range:3": 16,
+          "range:3": 50,
           "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 20445,
+          "posY:3": 39,
+          "posZ:3": 3771,
+          "biome:8": "",
+          "name:8": "孤山入口",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "1:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 1,
           "structure:8": "",
           "hideInfo:1": 0,
           "posX:3": 20508,
@@ -15008,9 +15056,41 @@
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
-        "1:10": {
+        "2:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 2,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 6244,
+          "posY:3": 65,
+          "posZ:3": 7754,
+          "biome:8": "",
+          "name:8": "袋底洞",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "3:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 5,
+          "index:3": 4,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 9984,
+          "posY:3": 55,
+          "posZ:3": 7300,
+          "biome:8": "",
+          "name:8": "阿特切卫兵所",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "4:10": {
           "npcQuestID:3": 78,
-          "index:3": 1,
+          "index:3": 5,
           "taskID:8": "bq_npc_integration:npc_quest"
         }
       },
@@ -15071,7 +15151,7 @@
           "posY:3": 85,
           "posZ:3": 3391,
           "biome:8": "",
-          "name:8": "矮人铁匠, 埃尔苏利(Elssuli)",
+          "name:8": "矮人铁匠, 埃尔苏利",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -15123,7 +15203,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "埃尔苏利(Elssuli)已经可以开始锻造了，但没有适当的工具，他无法继续进行。回到戴因领主那里，看看他是否有解决办法。"
+          "desc:8": "埃尔苏利已经可以开始锻造了，但没有适当的工具，他无法继续进行。回到戴因领主那里，看看他是否有解决办法。"
         }
       },
       "tasks:9": {
@@ -15185,7 +15265,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "返回埃姆伯(Ember)的营地",
+          "name:8": "返回埃姆伯的营地",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -15246,7 +15326,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "布里米加克(Brimigak)的撤退",
+          "name:8": "布里米加克的撤退",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -15257,7 +15337,7 @@
         "0:10": {
           "visible:1": 0,
           "invertDistance:1": 0,
-          "range:3": 5,
+          "range:3": 16,
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
@@ -15265,7 +15345,7 @@
           "posY:3": 44,
           "posZ:3": 8786,
           "biome:8": "",
-          "name:8": "克罗米斯(Cromhes)的发现",
+          "name:8": "克罗米斯的发现",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -15321,7 +15401,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "是时候回到埃姆伯(Ember)的营地，回顾所发生的事情。"
+          "desc:8": "是时候回到埃姆伯的营地，回顾所发生的事情。"
         }
       },
       "tasks:9": {
@@ -15336,7 +15416,7 @@
           "posY:3": 4,
           "posZ:3": 8415,
           "biome:8": "",
-          "name:8": "克罗米斯(Cromhes)的帐篷",
+          "name:8": "克罗米斯的帐篷",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -15499,7 +15579,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你被派遣前往墨瑞亚更深处的燃烧深渊(Flaming Deeps)地区寻找其他游民。"
+          "desc:8": "你被派遣前往墨瑞亚更深处的烈火深渊地区寻找其他游民。"
         }
       },
       "tasks:9": {
@@ -15510,11 +15590,11 @@
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 12910,
+          "posX:3": 12869,
           "posY:3": 5,
-          "posZ:3": 8451,
+          "posZ:3": 8422,
           "biome:8": "",
-          "name:8": "埃姆伯(Ember)的营地",
+          "name:8": "埃姆伯的营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -15565,7 +15645,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你找到了营地，并与通维德(Tonvid)进行了交谈，但他让你与莱尔斯(Layles)谈谈，因为目前的麻烦对她而言是个人问题。 她就在附近的一个帐篷里。"
+          "desc:8": "你找到了营地，并与通维德进行了交谈，但他让你与莱尔斯谈谈，因为目前的麻烦对她而言是个人问题。 她就在附近的一个帐篷里。"
         }
       },
       "tasks:9": {
@@ -15580,7 +15660,7 @@
           "posY:3": 4,
           "posZ:3": 8415,
           "biome:8": "",
-          "name:8": "莱尔斯(Layles)的帐篷",
+          "name:8": "莱尔斯的帐篷",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -15631,7 +15711,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "显然，游民在敌人派系中有着同情者，特别是其中一个名叫弗里德利(Fridli)的人，决定提供一些潜在的有用信息来帮助他们。"
+          "desc:8": "显然，游民在敌人派系中有着同情者，特别是其中一个名叫弗里德利的人，决定提供一些潜在的有用信息来帮助他们。"
         }
       },
       "tasks:9": {
@@ -15697,7 +15777,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你找到了 弗里德利(Fridli)，并获得了卷轴，是时候把它带回莱尔斯(Layles)，看看这个努力是否值得。"
+          "desc:8": "你找到了弗里德利，并获得了卷轴，是时候把它带回莱尔斯，看看这个努力是否值得。"
         }
       },
       "tasks:9": {
@@ -15712,7 +15792,7 @@
           "posY:3": 4,
           "posZ:3": 8415,
           "biome:8": "",
-          "name:8": "莱尔斯(Layles)的帐篷",
+          "name:8": "莱尔斯的帐篷",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -15763,7 +15843,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "由于卷轴是用一种被称为[黑语]的奇怪语言写成的，莱尔斯(Layles)让你去燃烧深渊(Flaming Deeps)入口附近的旅行商队营地向图尔丹找图尔丹(Thurdan)寻求帮助。"
+          "desc:8": "由于卷轴是用一种被称为[黑语]的奇怪语言写成的，莱尔斯让你去烈火深渊入口附近的旅行商队营地向图尔丹找瑟尔丹寻求帮助。"
         }
       },
       "tasks:9": {
@@ -15829,7 +15909,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "图尔丹(Thurdan)派你去找埃尔隆德，他说埃尔隆德应该可以毫无困难地翻译你找到的卷轴，揭开其秘密。"
+          "desc:8": "瑟尔丹派你去找埃尔隆德，他说埃尔隆德应该可以毫无困难地翻译你找到的卷轴，揭开其秘密。"
         }
       },
       "tasks:9": {
@@ -15961,7 +16041,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你已经收到了翻译后的卷轴，埃尔隆德让你去找铁足戴因领主，看看他的矮人是否能制作所需的钥匙。"
+          "desc:8": "你已经收到了翻译后的卷轴，埃尔隆德让你去找铁足戴因领主，看看他的矮人工匠是否能制作所需的钥匙。"
         }
       },
       "tasks:9": {
@@ -16108,7 +16188,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
-          "desc:8": "据说阿切特(Archet)卫兵队长德温(Derwyn)找到了一把钥匙，可能正是我们制作模具所需的东西。"
+          "desc:8": "据说阿切特卫兵队长德温找到了一把钥匙，可能正是我们制作模具所需的东西。"
         }
       },
       "tasks:9": {
@@ -16123,7 +16203,7 @@
           "posY:3": 54,
           "posZ:3": 7297,
           "biome:8": "",
-          "name:8": "德温·里瑟(Derwyn Rease)",
+          "name:8": "德温·里瑟",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16189,7 +16269,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "是时候取回埃尔苏利(Elssuli)所需要的工具来完成我们的任务了。"
+          "desc:8": "是时候取回埃尔苏利所需要的工具来完成我们的任务了。"
         }
       },
       "tasks:9": {
@@ -16204,7 +16284,7 @@
           "posY:3": 41,
           "posZ:3": 4086,
           "biome:8": "",
-          "name:8": "卡赫格罗克(Khedgroick)的坟墓",
+          "name:8": "卡赫格罗克的坟墓",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16255,7 +16335,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "经过一番艰苦卓绝的努力，你终于拿到了钥匙，是时候返回莱尔斯(Layles)那里，看看接下来会发生什么。"
+          "desc:8": "经过一番艰苦卓绝的努力，你终于拿到了钥匙，是时候返回莱尔斯那里，看看接下来会发生什么。\n§l（译者注：建议在开始下一个任务前做好备份）"
         }
       },
       "tasks:9": {
@@ -16266,11 +16346,11 @@
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 12846,
+          "posX:3": 12861,
           "posY:3": 5,
-          "posZ:3": 8415,
+          "posZ:3": 8413,
           "biome:8": "",
-          "name:8": "莱尔斯(Layles)的帐篷",
+          "name:8": "莱尔斯的帐篷",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16317,7 +16397,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "卡赫格罗克(Khedgroick)的坟墓",
+          "name:8": "卡赫格罗克的坟墓",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -16336,7 +16416,7 @@
           "posY:3": 41,
           "posZ:3": 3866,
           "biome:8": "",
-          "name:8": "卡赫格罗克(Khedgroick)的坟墓",
+          "name:8": "卡赫格罗克的坟墓",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16392,13 +16472,13 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "矿坑入口"
+          "desc:8": "地下城入口"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 296,
-          "description:8": "与莱尔斯(Layles)交谈",
+          "description:8": "与莱尔斯交谈",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -16453,7 +16533,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "前往矿坑入口，与莱尔斯(Layles)会合，最终救出她的父亲克罗米斯(Cromhes)！"
+          "desc:8": "前往地下城入口，与莱尔斯会合，最终救出她的父亲克罗米斯！\n§l（译者注：建议在开始这个任务前做好备份）"
         }
       },
       "tasks:9": {
@@ -16520,7 +16600,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "是时候去寻找克罗米斯(Cromhes)了......如果他还在的话。"
+          "desc:8": "是时候去寻找克罗米斯了……如果他还活着的话。"
         }
       },
       "tasks:9": {
@@ -16566,18 +16646,18 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "伏击!",
+          "name:8": "伏击！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
-          "desc:8": "你遭到了伏击!"
+          "desc:8": "你遭到了伏击！"
         }
       },
       "tasks:9": {
         "0:10": {
           "visible:1": 0,
           "invertDistance:1": 0,
-          "range:3": 6,
+          "range:3": 10,
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
@@ -16585,7 +16665,7 @@
           "posY:3": 39,
           "posZ:3": 8756,
           "biome:8": "",
-          "name:8": "伏击!",
+          "name:8": "伏击！",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -16637,11 +16717,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "保护莱尔斯(Layles)!",
+          "name:8": "保护莱尔斯！",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你遭到了伏击，确保莱尔斯(Layles)幸存！"
+          "desc:8": "你遭到了伏击，保护莱尔斯安全！"
         }
       },
       "tasks:9": {
@@ -16691,7 +16771,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "是时候去狩猎了..."
+          "desc:8": "是时候去狩猎了…"
         }
       },
       "tasks:9": {
@@ -16778,7 +16858,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"南方之祸\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"Scourge of the South\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -16787,7 +16867,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅴ\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 5\",\"bold\":true,\"italic\":true,\"color\":\"dark_purple\"}"
         }
       }
     },
@@ -16830,7 +16910,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "在对墨瑞亚矿坑的突击中，解救了游民克罗米斯(Cromhes)，但又因为莱尔斯(Layles)的牺牲而无功而返，安格玛的副手——布里米加克(Brimigak)则撤退到了矿坑的防御工事后面。"
+          "desc:8": "在对墨瑞亚矿坑的突击中，解救了游民克罗米斯，但又因为莱尔斯的牺牲而无功而返，安格玛的副手——布里米加克则撤退到了矿坑的防御工事后面。"
         }
       },
       "tasks:9": {
@@ -16896,7 +16976,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "阿尔兹·赫德布兰德(Aliz Heudebrand)正在群求帮助，帮忙寻找她害怕疑似失踪了的丈夫。"
+          "desc:8": "阿丽兹·海德布朗正在寻求帮助，帮忙寻找她的丈夫，她害怕他疑似失踪了。"
         }
       },
       "tasks:9": {
@@ -16911,14 +16991,14 @@
           "posY:3": 54,
           "posZ:3": 8193,
           "biome:8": "",
-          "name:8": "赫德布兰德(Heudebrand)的农场",
+          "name:8": "海德布朗的农场",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 302,
-          "description:8": "阿尔兹·赫德布兰德(Aliz Heudebrand)",
+          "description:8": "阿丽兹·海德布朗",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -16959,11 +17039,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "贝坦(Betan)的营救",
+          "name:8": "贝坦的营救",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你已经找到贝坦(Betan)，是时候营救他并返回阿尔兹(Aliz)那里了。"
+          "desc:8": "你已经找到贝坦，是时候营救他并返回阿丽兹那里了。"
         }
       },
       "tasks:9": {
@@ -16994,7 +17074,7 @@
           "posY:3": 54,
           "posZ:3": 8193,
           "biome:8": "",
-          "name:8": "赫德布兰德(Heudebrand)的农场",
+          "name:8": "海德布朗的农场",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17043,7 +17123,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "贝坦(Betan)的复仇",
+          "name:8": "贝坦的复仇",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -17091,7 +17171,7 @@
                 "RepairCost:3": 3,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6击败特里斯坦-风暴(Tristan Storm)后掉落"
+                    "0:8": "§6击败崔斯坦·风暴后掉落"
                   },
                   "Name:8": "§3即将到来的风暴"
                 }
@@ -17402,7 +17482,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "埃多拉斯的卫兵队长艾瑞斯坦(Aeridstan)正在找人帮忙收集大锅所需的物资。 去看看你能不能帮上忙。"
+          "desc:8": "埃多拉斯的卫兵队长艾瑞斯坦正在找人帮忙收集大锅所需的物资。 去看看你能不能帮上忙。"
         }
       },
       "tasks:9": {
@@ -17618,7 +17698,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "河谷城的卫兵队长阿瑟斯拉迪达斯(Archestratidas)正在找人帮忙收集大锅所需的物资。 去看看你能不能帮上忙。"
+          "desc:8": "河谷城的卫兵队长-阿瑟斯拉迪达斯正在找人帮忙收集大锅所需的物资。 去看看你能不能帮上忙。"
         }
       },
       "tasks:9": {
@@ -17690,22 +17770,22 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "[npc]为[mob drop]找到了一个买家，并且正在寻找任何愿意快速赚点小钱和帮助[faction]的人。"
+          "desc:8": "克拉蒙达为怪物毛皮找到了一个买家，并且正在寻找任何愿意快速赚点小钱和帮助罗瓦尼安的人。"
         }
       },
       "tasks:9": {
         "0:10": {
           "visible:1": 0,
           "invertDistance:1": 0,
-          "range:3": -1,
+          "range:3": 16,
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 0,
-          "posY:3": 0,
-          "posZ:3": 0,
+          "posX:3": 20073,
+          "posY:3": 91,
+          "posZ:3": 4267,
           "biome:8": "",
-          "name:8": "新地点",
+          "name:8": "酒馆",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17786,7 +17866,7 @@
                 "RepairCost:3": 0,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6索恩鲁姆(Thonrum)希望修复的物品"
+                    "0:8": "§6索恩鲁姆希望修复的物品"
                   },
                   "Name:8": "§5破碎的头盔"
                 }
@@ -17801,7 +17881,7 @@
                 "RepairCost:3": 0,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6索恩鲁姆(Thonrum)希望修复的物品"
+                    "0:8": "§6索恩鲁姆希望修复的物品"
                   },
                   "Name:8": "§5破旧的镐"
                 }
@@ -17816,7 +17896,7 @@
                 "RepairCost:3": 0,
                 "display:10": {
                   "Lore:9": {
-                    "0:8": "§6索恩鲁姆(Thonrum)希望修复的物品"
+                    "0:8": "§6索恩鲁姆希望修复的物品"
                   },
                   "Name:8": "§5损坏的护盾"
                 }
@@ -17867,7 +17947,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "看来河谷城的一个铁匠正在寻求帮助，追查小偷。"
+          "desc:8": "看来河谷城的一个铁匠正在寻求帮助，追查一位偷剑的小贼。"
         }
       },
       "tasks:9": {
@@ -17882,7 +17962,7 @@
           "posY:3": 88,
           "posZ:3": 4310,
           "biome:8": "",
-          "name:8": "索恩鲁姆(Thonrum)的铁剑",
+          "name:8": "索恩鲁姆的铁剑",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -17929,7 +18009,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "索恩鲁姆(Thonrum)怀疑市场里的其他三个铁匠，想让你去审问他们，看看是否是其中一人干的。"
+          "desc:8": "索恩鲁姆怀疑市场里的其他三个铁匠，想让你去审问他们，看看是否是其中一人干的。"
         }
       },
       "tasks:9": {
@@ -17980,7 +18060,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "卢修斯(Lucious)告诉你吉尔斯(Giles)去了当地的酒馆，他似乎是在庆祝自己恐吓成功了。"
+          "desc:8": "卢修斯告诉你吉尔斯去了当地的客栈，他几乎是在庆祝自己的恐吓能力。"
         }
       },
       "tasks:9": {
@@ -17995,7 +18075,7 @@
           "posY:3": 84,
           "posZ:3": 4273,
           "biome:8": "",
-          "name:8": "吉尔斯(Giles)",
+          "name:8": "吉尔斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -18062,7 +18142,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "哇，卢修斯(Lucious)想让索恩鲁姆(Thonrum)重新锻造他偷来的那把剑......好吧，你有没有想过......"
+          "desc:8": "哇，卢修斯想让索恩鲁姆重新锻造他偷来的那把剑……好吧，你有没有想过……"
         }
       },
       "tasks:9": {
@@ -18112,7 +18192,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "对于矮人来说，索恩鲁姆(Thonrum)比预期的要好......在某种前提条件下的话。"
+          "desc:8": "对比其他矮人来说，索恩鲁姆比预期的要好……有条件的话。"
         }
       },
       "tasks:9": {
@@ -18162,7 +18242,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你现在正忙着收集工作......"
+          "desc:8": "你现在正忙着收集工作……"
         }
       },
       "tasks:9": {
@@ -18212,7 +18292,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "吉尔斯(Giles)的死被归咎于卢修斯(Lucious)，他们绑架了他的女儿，看看索恩鲁姆(Thonrum)是否准备好了宝剑......"
+          "desc:8": "吉尔斯的死被归咎于卢修斯，他们绑架了他的女儿，看看索恩鲁姆是否准备好了新剑……"
         }
       },
       "tasks:9": {
@@ -18262,7 +18342,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "剑还没准备好，是时候直接面对强盗皮尔斯(Pierce)了！"
+          "desc:8": "剑还没准备好，是时候直接面对强盗皮尔斯了！"
         }
       },
       "tasks:9": {
@@ -18277,7 +18357,7 @@
           "posY:3": 41,
           "posZ:3": 3928,
           "biome:8": "",
-          "name:8": "强盗营地",
+          "name:8": "强盗营地(坐标：20087 41 3928)",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -18346,7 +18426,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"旅行商队营地\\\", x:20087, y:41, z:3928]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"土匪营地\\\", x:20087, y:41, z:3928]\"}"
         }
       }
     },
@@ -18389,7 +18469,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你已经收集了图尔丹(Thurdan)所需的物品，是时候该回去了。"
+          "desc:8": "你已经收集了瑟尔丹所需的物品，是时候该回去了。"
         }
       },
       "tasks:9": {
@@ -18551,7 +18631,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "归还克罗米斯(Cromhes)的物品",
+          "name:8": "归还克罗米斯的物品",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
@@ -18599,7 +18679,7 @@
     "256:10": {
       "questID:3": 256,
       "preRequisites:11": [
-        230
+        271
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -18610,14 +18690,15 @@
           "partySingleReward:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
-          "visibility:8": "HIDDEN",
+          "visibility:8": "NORMAL",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
             "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {},
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "minecraft:nether_star",
+            "id:8": "tolkienmobs:item_fancysword2",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18630,11 +18711,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "布里米加克(Brimigak)的陨落-开始",
+          "name:8": "开始挑战布里米加克",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "暂无描述"
+          "desc:8": "布里米加克的陨落-开始"
         }
       },
       "tasks:9": {
@@ -18653,13 +18734,19 @@
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
+        },
+        "1:10": {
+          "npcDialogID:3": 406,
+          "description:8": "与克罗米斯会面",
+          "index:3": 1,
+          "taskID:8": "bq_npc_integration:npc_dialog"
         }
       },
       "rewards:9": {
         "0:10": {
           "hideBlockIcon:1": 1,
           "rewardID:8": "bq_standard:command",
-          "description:8": "运行一个命令脚本",
+          "description:8": "开始挑战的对话",
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
@@ -18668,7 +18755,7 @@
         "1:10": {
           "hideBlockIcon:1": 1,
           "rewardID:8": "bq_standard:command",
-          "description:8": "运行一个命令脚本",
+          "description:8": "开始挑战",
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
@@ -18679,7 +18766,7 @@
     "257:10": {
       "questID:3": 257,
       "preRequisites:11": [
-        230
+        272
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -18710,7 +18797,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "布里米加克(Brimigak)的陨落-结局",
+          "name:8": "布里米加克的陨落-结局",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -18785,7 +18872,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你设法找回了克罗米斯(Cromhes)的装备，但正如图尔丹(Thurdan)向你指出的那样，这些装备已经锈蚀和腐烂到无法使用无法使用的程度。\n\n你必须想办法修复他的装备，让他重获光明。"
+          "desc:8": "你设法找回了克罗米斯的装备，但正如瑟尔丹向你指出的那样，这些装备已经锈蚀和腐烂到无法使用无法使用的程度。 你必须想办法修复他的装备，让他重获希望的光明。"
         }
       },
       "tasks:9": {
@@ -18796,11 +18883,11 @@
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 13146,
-          "posY:3": 43,
-          "posZ:3": 8053,
+          "posX:3": 13012,
+          "posY:3": 59,
+          "posZ:3": 8040,
           "biome:8": "",
-          "name:8": "苍泉河",
+          "name:8": "米斯艾塞尔河营地的古斯威奈",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -18852,7 +18939,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你设法找回了克罗米斯(Cromhes)的装备，但正如图尔丹(Thurdan)向你指出的那样，这些装备已经锈蚀和腐烂到无法使用无法使用的程度。你必须想办法修复他的装备，让他重获光明。"
+          "desc:8": "你设法找回了克罗米斯的装备，但正如瑟尔丹向你指出的那样，这些装备已经锈蚀和腐烂到无法使用无法使用的程度。 你必须想办法修复他的装备，让他重获希望的光明。"
         }
       },
       "tasks:9": {
@@ -18867,7 +18954,7 @@
           "posY:3": 49,
           "posZ:3": 8060,
           "biome:8": "",
-          "name:8": "苍泉河-佩莱亚斯(Pelleas)",
+          "name:8": "米斯艾塞尔河营地-佩利亚斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -18923,7 +19010,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "敌人的使者(emmisaries)已经撤退到南面的前哨站，快去取回克罗米斯(Cromhes)的物品！"
+          "desc:8": "敌人的仆从已经撤退到南面的前哨站，快去取回克罗米斯的物品！"
         }
       },
       "tasks:9": {
@@ -18938,7 +19025,7 @@
           "posY:3": 40,
           "posZ:3": 19670,
           "biome:8": "",
-          "name:8": "沙漠前哨 - 哈勒敦(Khaldoon)",
+          "name:8": "沙漠前哨 - 卡尔多翁",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -18989,7 +19076,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "敌人的使者(emmisaries)已经撤退到南面的前哨，快去取回克罗米斯(Cromhes)的物品！"
+          "desc:8": "敌人的仆从已经撤退到南面的前哨，快去取回克罗米斯的物品！"
         }
       },
       "tasks:9": {
@@ -19004,7 +19091,7 @@
           "posY:3": 41,
           "posZ:3": 18774,
           "biome:8": "",
-          "name:8": "沙漠前哨 - 加桑(Ghasaan)",
+          "name:8": "沙漠前哨 - 加桑",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -19055,7 +19142,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "敌人的使者(emmisaries)已经撤退到南面的前哨，快去取回克罗米斯(Cromhes)的物品！"
+          "desc:8": "敌人的仆从已经撤退到南面的前哨，快去取回克罗米斯的物品！"
         }
       },
       "tasks:9": {
@@ -19070,7 +19157,7 @@
           "posY:3": 39,
           "posZ:3": 18599,
           "biome:8": "",
-          "name:8": "沙漠前哨 - 马津(Maazin)",
+          "name:8": "沙漠前哨 - 马津",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -19122,7 +19209,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你设法找回了克罗米斯(Cromhes)的装备，但正如图尔丹(Thurdan)向你指出的那样，这些装备已经锈蚀和腐烂到无法使用无法使用的程度。你必须想办法修复他的装备，让他重获光明。"
+          "desc:8": "你设法找回了克罗米斯的装备，但正如瑟尔丹向你指出的那样，这些装备已经锈蚀和腐烂到无法使用无法使用的程度。 你必须想办法修复他的装备，让他重获希望的光明。"
         }
       },
       "tasks:9": {
@@ -19137,7 +19224,7 @@
           "posY:3": 56,
           "posZ:3": 8038,
           "biome:8": "",
-          "name:8": "苍泉河-古斯威奈(Guthwine)",
+          "name:8": "米斯艾塞尔河营地-古斯威奈",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -19188,7 +19275,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "苍泉河的游民们能够修复克罗米斯(Cromhes)的盾牌和盔甲，但这把剑是精灵的杰作，他们无法修复。\n\n埃尔隆德在幽谷."
+          "desc:8": "苍泉河的游民们能够修复克罗米斯的盾牌和盔甲，但这把剑是精灵的杰作，他们无法修复。 埃尔隆德就在幽谷。"
         }
       },
       "tasks:9": {
@@ -19219,7 +19306,7 @@
     "265:10": {
       "questID:3": 265,
       "preRequisites:11": [
-        230
+        264
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -19230,14 +19317,15 @@
           "partySingleReward:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
-          "visibility:8": "HIDDEN",
+          "visibility:8": "NORMAL",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
             "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {},
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "minecraft:nether_star",
+            "id:8": "tolkienmobs:item_wornsword",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -19250,26 +19338,42 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "重铸宝剑-铁匠铺",
+          "name:8": "卡西迪恩重铸宝剑",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "暂无描述"
+          "desc:8": "卡西迪恩开始重铸克罗米斯的宝剑"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 394,
-          "description:8": "与一位NPC交谈",
+          "description:8": "与卡西迪恩交谈",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
+        },
+        "1:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 1,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 14860,
+          "posY:3": 121,
+          "posZ:3": 5997,
+          "biome:8": "",
+          "name:8": "卡西迪恩",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
         }
       },
       "rewards:9": {
         "0:10": {
           "hideBlockIcon:1": 1,
           "rewardID:8": "bq_standard:command",
-          "description:8": "运行一个命令脚本",
+          "description:8": "卡西迪恩开始铸剑",
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
@@ -19280,7 +19384,7 @@
     "266:10": {
       "questID:3": 266,
       "preRequisites:11": [
-        230
+        265
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -19323,6 +19427,12 @@
           "npcDialogID:3": 394,
           "description:8": "与一位NPC交谈",
           "index:3": 0,
+          "taskID:8": "bq_npc_integration:npc_dialog"
+        },
+        "1:10": {
+          "npcDialogID:3": 362,
+          "description:8": "完成铸剑",
+          "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
       },
@@ -19376,7 +19486,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "苍泉河的游民们能够修复克罗米斯(Cromhes)的盾牌和盔甲，但这把剑是精灵的杰作，他们无法修复。"
+          "desc:8": "苍泉河的游民们能够修复克罗米斯的盾牌和盔甲，但这把剑是精灵的杰作，他们无法修复。"
         }
       },
       "tasks:9": {
@@ -19449,7 +19559,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "剑被重新锻造后，返回埃尔隆德那里，让他检查一下。"
+          "desc:8": "剑被重铸后，返回埃尔隆德那里，让他检查一下。"
         }
       },
       "tasks:9": {
@@ -19517,7 +19627,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "埃尔隆德将克罗米斯(Cromhes)的剑——使徒改名为复仇的希望，并预言它有一天会为克罗米斯(Cromhes)的女儿——莱尔斯(Layles)复仇。"
+          "desc:8": "埃尔隆德将克罗米斯的剑改名为使徒之剑，意为复仇的希望，并预言它有一天会为克罗米斯的女儿——莱尔斯复仇。"
         }
       },
       "tasks:9": {
@@ -19585,7 +19695,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "图尔丹(Thurdan)指示你将新锻造的物品归还给克罗米斯(Cromhes)。"
+          "desc:8": "瑟尔丹指示你将新锻造的物品归还给克罗米斯。"
         }
       },
       "tasks:9": {
@@ -19600,7 +19710,7 @@
           "posY:3": 4,
           "posZ:3": 8416,
           "biome:8": "",
-          "name:8": "克罗米斯(Cromhes)的帐篷",
+          "name:8": "克罗米斯的帐篷",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -19649,11 +19759,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "布里米加克(Brimigak)的陨落 I",
+          "name:8": "布里米加克的陨落 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你和克罗米斯一起深入了墨瑞亚矿坑，进入了这位伪王的庇护所。在这里，克罗米斯希望能与布里米加克(Brimigak)对抗，并且永远粉碎铁王冠。\n\n他为你提供了在布里米加克(Brimigak)的王座大厅外与他会面的途径。"
+          "desc:8": "你和克罗米斯一起深入了墨瑞亚矿坑，进入了这位伪王的庇护所。在这里，克罗米斯希望能杀死布里米加克，并且永远粉碎铁王冠。 他提供了你在布里米加克的王座大厅外与他会面的地点。\n§l（译者注：建议在开始下一个任务前做好备份）"
         }
       },
       "tasks:9": {
@@ -19668,14 +19778,14 @@
           "posY:3": 4,
           "posZ:3": 8412,
           "biome:8": "",
-          "name:8": "克罗米斯(Cromhes)的帐篷",
+          "name:8": "克罗米斯的帐篷",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 406,
-          "description:8": "与克罗米斯(Cromhes)会面",
+          "description:8": "与克罗米斯会面",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -19688,7 +19798,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tp VAR_NAME 13604 21 8913"
+          "command:8": "/tp VAR_NAME 13603 23 8893"
         }
       }
     },
@@ -19728,11 +19838,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "布里米加克(Brimigak)的陨落 II",
+          "name:8": "布里米加克的陨落 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你希望最终能终结这个伪王，让他为自己的所作所为付出代价。"
+          "desc:8": "你希望最终能终结这个伪王，让他为自己的所作所为付出代价。\n§l（译者注：建议在开始这个任务前做好备份）"
         }
       },
       "tasks:9": {
@@ -19796,11 +19906,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "布里米加克(Brimigak)的陨落 III",
+          "name:8": "布里米加克的陨落 III",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "布里米加克(Brimigak)被打败了，但老妇人的出现......不知道她在这一切中扮演了什么角色。"
+          "desc:8": "伪王布里米加克被打败了，但老妇人的出现……不知道她在这一切中扮演了什么角色。"
         }
       },
       "tasks:9": {
@@ -19815,7 +19925,7 @@
           "posY:3": 4,
           "posZ:3": 8419,
           "biome:8": "",
-          "name:8": "矮人埃姆伯(Ember)的营地",
+          "name:8": "矮人埃姆伯的营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -19867,7 +19977,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "克罗米斯(Cromhes)要求你把所见所闻报告给在幽谷的阿拉贡。"
+          "desc:8": "克罗米斯要求你把所见所闻报告给在幽谷的阿拉贡。"
         }
       },
       "tasks:9": {
@@ -19882,7 +19992,7 @@
           "posY:3": 142,
           "posZ:3": 6083,
           "biome:8": "",
-          "name:8": "最后港湾",
+          "name:8": "最后家园",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -20070,7 +20180,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"佛洛赫尔的寒冷\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"The Cold of Forochel\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -20079,7 +20189,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅵ\",\"bold\":true,\"italic\":true,\"color\":\"dark_blue\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 6\",\"bold\":true,\"italic\":true,\"color\":\"dark_blue\"}"
         }
       }
     },
@@ -20117,11 +20227,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "向德拉库尼斯(Draconis)致敬 I",
+          "name:8": "向天龙致敬 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "佩基拉尔的人民向吉尔莱恩河致敬，感谢它赐予人民以丰盛的恩惠，并向传说中来自德拉库尼斯(Draconis)之地的英雄致敬。"
+          "desc:8": "佩基拉尔的人民向吉尔莱恩河致敬，感谢它赐予人民以丰盛的恩惠，并向传说中来自天龙大地的英雄致敬。"
         }
       },
       "tasks:9": {
@@ -20136,7 +20246,7 @@
           "posY:3": 43,
           "posZ:3": 15706,
           "biome:8": "",
-          "name:8": "佩拉基尔 - 马特纳(Mathena)",
+          "name:8": "佩拉基尔 - 马特纳",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -20178,17 +20288,17 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "向德拉库尼斯(Draconis)致敬 II",
+          "name:8": "向天龙致敬 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "佩基拉尔的人民向吉尔莱恩河致敬，感谢它赐予人民以丰盛的恩惠，并向传说中来自德拉库尼斯(Draconis)之地的英雄致敬。"
+          "desc:8": "佩基拉尔的人民向吉尔莱恩河致敬，感谢它赐予人民以丰盛的恩惠，并向传说中来自天龙大地的英雄致敬。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 422,
-          "description:8": "与马特纳(Mathena)对话",
+          "description:8": "与马特纳对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -20258,11 +20368,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "不为人知的奥贝坦(Aubertin) I",
+          "name:8": "不为人知的奥贝坦 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "必须找到这个神秘人，甘道夫让你去见回到苍泉河的克罗米斯。"
+          "desc:8": "必须找到这个神秘人，甘道夫让你去见回到米斯艾塞尔河营地的克罗米斯。他应该在营地水井南边木屋的二楼等候着你。"
         }
       },
       "tasks:9": {
@@ -20273,18 +20383,34 @@
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 13146,
-          "posY:3": 45,
-          "posZ:3": 8053,
+          "posX:3": 13030,
+          "posY:3": 59,
+          "posZ:3": 8040,
           "biome:8": "",
-          "name:8": "苍泉河",
+          "name:8": "米斯艾塞尔河营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 2,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 13026,
+          "posY:3": 58,
+          "posZ:3": 8054,
+          "biome:8": "",
+          "name:8": "米斯艾塞尔河营地-克罗米斯",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "2:10": {
           "npcQuestID:3": 133,
-          "index:3": 1,
+          "index:3": 3,
           "taskID:8": "bq_npc_integration:npc_quest"
         }
       },
@@ -20331,11 +20457,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "不为人知的奥贝坦(Aubertin) II",
+          "name:8": "不为人知的奥贝坦 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "出乎意料的是，奥贝坦(Aubertin)召见了你。 这是猫捉老鼠，还是老鼠捉猫？"
+          "desc:8": "出乎意料的是，奥贝坦召见了你。 这是猫捉老鼠，还是老鼠捉猫？"
         }
       },
       "tasks:9": {
@@ -20350,7 +20476,7 @@
           "posY:3": 47,
           "posZ:3": 1836,
           "biome:8": "",
-          "name:8": "海湾里的船",
+          "name:8": "海湾里的沉船",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -20400,11 +20526,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "奥贝坦(Aubertin)的威势 I",
+          "name:8": "奥贝坦的威势 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你不禁想知道她可能在计划什么，但你别无选择，只能配合她......暂时如此。"
+          "desc:8": "你不禁想知道她在计划什么，但你别无选择，只能配合她……暂时如此。"
         }
       },
       "tasks:9": {
@@ -20469,11 +20595,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "奥贝坦(Aubertin)的威势 II",
+          "name:8": "奥贝坦的威势 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
-          "desc:8": "是时候回去把这个包裹带给内雷亚(Nerea)了。"
+          "desc:8": "是时候回去把这个包裹带给内雷亚·奥贝坦了。"
         }
       },
       "tasks:9": {
@@ -20488,7 +20614,7 @@
           "posY:3": 46,
           "posZ:3": 1849,
           "biome:8": "",
-          "name:8": "内雷亚(Nerea)",
+          "name:8": "内雷亚·奥贝坦",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -20545,11 +20671,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "克罗米斯(Cromhes)的请求 I",
+          "name:8": "克罗米斯的请求 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "看来这个威胁比预想的要严重得多，是时候向克罗米斯(Cromhes)报告了。"
+          "desc:8": "看来这个威胁比预想的要严重得多，是时候向克罗米斯报告了。"
         }
       },
       "tasks:9": {
@@ -20564,7 +20690,7 @@
           "posY:3": 58,
           "posZ:3": 8058,
           "biome:8": "",
-          "name:8": "克罗米斯(Cromhes)",
+          "name:8": "米斯艾塞尔河营地-克罗米斯",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -20663,11 +20789,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "德鲁哈拉(Dreulhara)的踪迹 I",
+          "name:8": "德鲁哈拉的踪迹 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "骑士们被打败了，是时候寻找真正的对手了。"
+          "desc:8": "骑士们被打败了，是时候寻找真正的目标了。"
         }
       },
       "tasks:9": {
@@ -20682,7 +20808,7 @@
           "posY:3": 6,
           "posZ:3": 8615,
           "biome:8": "",
-          "name:8": "图尔丹(Thurdan)",
+          "name:8": "烈火深渊-瑟尔丹",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -20734,7 +20860,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "德鲁哈拉(Dreulhara)的踪迹 II",
+          "name:8": "德鲁哈拉的踪迹 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -20800,11 +20926,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "德鲁哈拉(Dreulhara)的期望",
+          "name:8": "德鲁哈拉的野望",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你找到了阿尔诺营地，并发现你必须穿越大湖到达安努米那斯古城，才能彻底摆脱这一邪恶！"
+          "desc:8": "你找到了阿尔诺营地，并发现你必须穿越大湖到达安努米那斯古城，才能彻底摆脱这邪恶的追踪！"
         }
       },
       "tasks:9": {
@@ -20813,6 +20939,22 @@
           "invertDistance:1": 0,
           "range:3": 16,
           "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 7868,
+          "posY:3": 39,
+          "posZ:3": 5233,
+          "biome:8": "",
+          "name:8": "乘船出行",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "1:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 3,
           "structure:8": "",
           "hideInfo:1": 0,
           "posX:3": 7503,
@@ -20824,14 +20966,14 @@
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
-        "1:10": {
+        "2:10": {
           "npcQuestID:3": 154,
-          "index:3": 1,
+          "index:3": 4,
           "taskID:8": "bq_npc_integration:npc_quest"
         },
-        "2:10": {
+        "3:10": {
           "npcQuestID:3": 156,
-          "index:3": 2,
+          "index:3": 5,
           "taskID:8": "bq_npc_integration:npc_quest"
         }
       },
@@ -20871,11 +21013,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "克罗米斯(Cromhes)的请求 - 库姆村",
+          "name:8": "克罗米斯的请求 - 库姆村",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "克罗米斯(Cromhes)要求你前往过去曾与内雷亚·奥贝坦(Nerea Aubertin)相遇的三个地方，并与那些地方的盟友交谈。"
+          "desc:8": "克罗米斯要求你前往过去曾与内雷亚·奥贝坦相遇的三个地方，并与那些地方的盟友交谈。"
         }
       },
       "tasks:9": {
@@ -20906,7 +21048,7 @@
           "posY:3": 74,
           "posZ:3": 7318,
           "biome:8": "",
-          "name:8": "邪恶的偶像",
+          "name:8": "邪恶的神像",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -20953,11 +21095,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "克罗米斯(Cromhes)的请求 - 孤土",
+          "name:8": "克罗米斯的请求 - 孤土",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "克罗米斯(Cromhes)要求你前往过去曾与内雷亚·奥贝坦(Nerea Aubertin)相遇的三个地方，并与那些地方的盟友交谈。\n\n§l请务必先与埃斯赫雷斯(Aeschreas)交谈。"
+          "desc:8": "克罗米斯要求你前往过去曾与内雷亚·奥贝坦相遇的三个地方，并与那些地方的盟友交谈。§l 请务必先与埃斯赫雷斯交谈。"
         }
       },
       "tasks:9": {
@@ -20972,7 +21114,7 @@
           "posY:3": 41,
           "posZ:3": 5919,
           "biome:8": "",
-          "name:8": "孤土 - 苍泉河",
+          "name:8": "孤土 - 苍泉河营地",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -21035,11 +21177,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "克罗米斯(Cromhes)的请求 - 苍泉河",
+          "name:8": "克罗米斯的请求 - 苍泉河",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "克罗米斯(Cromhes)要求你前往过去曾与内雷亚·奥贝坦(Nerea Aubertin)相遇的三个地方，并与那些地方的盟友交谈。\n\n§l请务必先与古斯威奈(Guthwine)交谈。"
+          "desc:8": "克罗米斯要求你前往过去曾与内雷亚·奥贝坦相遇的三个地方，并与那些地方的盟友交谈。§l 请务必先与古斯威奈交谈。"
         }
       },
       "tasks:9": {
@@ -21054,7 +21196,7 @@
           "posY:3": 56,
           "posZ:3": 8041,
           "biome:8": "",
-          "name:8": "古斯威奈(Guthwine)",
+          "name:8": "古斯威奈",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -21076,8 +21218,24 @@
           "taskID:8": "bq_standard:location"
         },
         "2:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 3,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 13175,
+          "posY:3": 50,
+          "posZ:3": 9473,
+          "biome:8": "",
+          "name:8": "疑似地点",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "3:10": {
           "npcQuestID:3": 150,
-          "index:3": 2,
+          "index:3": 4,
           "taskID:8": "bq_npc_integration:npc_quest"
         }
       },
@@ -21266,7 +21424,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "一封神秘的信，上面写着危险的任务，听起来有人需要冒险小伙子们！\n\n看来有人给你寄信了，最好去找个邮箱或邮递员看看上面写了什么。"
+          "desc:8": "一封神秘的信，上面写着危险的任务，听起来有人需要冒险小伙子们！看来有人给你寄信了，最好去找个邮箱或邮递员看看上面写了什么。"
         }
       },
       "tasks:9": {
@@ -21328,7 +21486,7 @@
                 "Lore:9": {
                   "0:8": "§6这家伙听起来是不是有点疯狂？"
                 },
-                "Name:8": "§5§o来自梅洛维奇(Merovech)的信"
+                "Name:8": "§5§o来自梅洛维奇的信"
               }
             },
             "Damage:2": 0,
@@ -21346,7 +21504,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "是时候去找这个叫梅洛维奇(Merovech)的家伙了。"
+          "desc:8": "是时候去找这个叫梅洛维奇的家伙了。"
         }
       },
       "tasks:9": {
@@ -21361,14 +21519,14 @@
           "posY:3": 44,
           "posZ:3": 6633,
           "biome:8": "",
-          "name:8": "梅洛维奇·霍恩伍德(Merovech Hornwood)",
+          "name:8": "梅洛维奇·角木",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 471,
-          "description:8": "与梅洛维奇·霍恩伍德(Merovech Hornwood)对话",
+          "description:8": "与梅洛维奇·角木对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -21413,7 +21571,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "是时候去佛诺斯特冒险了，希望能找到一条通往下水道的路。"
+          "desc:8": "是时候去佛诺斯特冒险了，希望能找到一条通往地下水道的路。"
         }
       },
       "tasks:9": {
@@ -21557,7 +21715,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "发现了神器，是时候把它带给梅洛维奇(Merovech)了。"
+          "desc:8": "发现了神器，是时候把它带给梅洛维奇了。"
         }
       },
       "tasks:9": {
@@ -21598,7 +21756,7 @@
           "posY:3": 43,
           "posZ:3": 6646,
           "biome:8": "",
-          "name:8": "梅洛维奇·霍恩伍德(Merovech Hornwood)",
+          "name:8": "梅洛维奇·角木",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -21702,7 +21860,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME subtitle {\"text\":\"安努米那斯之城\"}"
+          "command:8": "/title VAR_NAME subtitle {\"text\":\"City of Annúminas\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
@@ -21711,7 +21869,7 @@
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/title VAR_NAME title {\"text\":\"章节Ⅶ\",\"bold\":true,\"italic\":true,\"color\":\"dark_blue\"}"
+          "command:8": "/title VAR_NAME title {\"text\":\"Chapter 7\",\"bold\":true,\"italic\":true,\"color\":\"dark_blue\"}"
         }
       }
     },
@@ -21749,11 +21907,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "中土世界的英雄 II",
+          "name:8": "中洲的英雄 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
-          "desc:8": "阿尔诺似乎有客人来访，是时候看看他为什么找你了。"
+          "desc:8": "阿尔诺王国似乎有客人来访，是时候看看他为什么找你了。"
         }
       },
       "tasks:9": {
@@ -21775,7 +21933,7 @@
         },
         "1:10": {
           "npcDialogID:3": 481,
-          "description:8": "与图尔丹(Thurdan)对话",
+          "description:8": "与瑟尔丹对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -21829,18 +21987,18 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "中土世界的英雄 I",
+          "name:8": "中洲的英雄 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "是时候向塔拉克南(Talacnun)报告了。"
+          "desc:8": "是时候向塔拉克农报告了。"
         }
       },
       "tasks:9": {
         "0:10": {
           "visible:1": 0,
           "invertDistance:1": 0,
-          "range:3": 16,
+          "range:3": 50,
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
@@ -21855,7 +22013,7 @@
         },
         "1:10": {
           "npcDialogID:3": 468,
-          "description:8": "与塔拉克南(Talacnun)对话",
+          "description:8": "与塔拉克农对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -21900,7 +22058,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "给你的信概述了德鲁哈拉(Dreulhara)有多么邪恶，并记录了她在你认识她之前的所作所为。 你的任务是将它交给塔拉克南(Talacnun)。"
+          "desc:8": "给你的信概述了德鲁哈拉有多么邪恶，并记录了她在你认识她之前的所作所为。 你的任务是将它交给塔拉克农。"
         }
       },
       "tasks:9": {
@@ -21915,14 +22073,14 @@
           "posY:3": 43,
           "posZ:3": 5187,
           "biome:8": "",
-          "name:8": "塔拉克南(Talacnun)",
+          "name:8": "塔拉克农",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 486,
-          "description:8": "与塔拉克南(Talacnun)对话",
+          "description:8": "与塔拉克农对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -21967,7 +22125,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "塔拉克南(Talacnun)似乎下定决心要不惜一切代价夺回安努米那斯城，不管图尔丹(Thurdan)对他说了什么。 他让你去找温顿(Wynton)谈谈，看看你在夺回安努米那斯的过程中能发挥什么作用。"
+          "desc:8": "塔拉克农似乎下定决心要不惜一切代价夺回安努米那斯城，不管瑟尔丹对他说了什么。 他让你去找温顿谈谈，看看你在夺回安努米那斯的过程中能发挥什么作用。"
         }
       },
       "tasks:9": {
@@ -21982,14 +22140,14 @@
           "posY:3": 41,
           "posZ:3": 5221,
           "biome:8": "",
-          "name:8": "温顿(Wynton)",
+          "name:8": "温顿",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 491,
-          "description:8": "与温顿(Wynton)对话",
+          "description:8": "与温顿对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -22034,7 +22192,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 0,
-          "desc:8": "在安努米那斯的游民比塔拉克南(Talacnun)认为的要好得多，帕蓝提尔受到游民的保护，温顿(Wynton)要求你联系埃尔隆德，看看他是否有办法安全地运送帕兰提尔。"
+          "desc:8": "在安努米那斯的游民比塔拉克农认为的要好得多，帕蓝提尔受到游民的保护，温顿要求你联系埃尔隆德，看看他是否有办法安全地运送帕兰提尔。"
         }
       },
       "tasks:9": {
@@ -22114,7 +22272,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你必须把埃尔隆德给你的布还给游民温顿。 看来，温顿(Wynton)可能还有更多消息要告诉你......"
+          "desc:8": "你必须把埃尔隆德给你的布还给游民温顿。 看来，温顿可能还有更多消息要告诉你……"
         }
       },
       "tasks:9": {
@@ -22129,14 +22287,14 @@
           "posY:3": 41,
           "posZ:3": 5224,
           "biome:8": "",
-          "name:8": "温顿(Wynton)",
+          "name:8": "温顿",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 497,
-          "description:8": "与温顿(Wynton)对话",
+          "description:8": "与温顿对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -22181,7 +22339,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你刚从幽谷来，厄尔隆德就召唤你回去了！ 好在我有路径点，这样就好办多了......"
+          "desc:8": "你刚从幽谷来，厄尔隆德就召唤你回去了！ 好在我有快速旅行路径点，这样就好办多了……"
         }
       },
       "tasks:9": {
@@ -22504,9 +22662,25 @@
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 2,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 14682,
+          "posY:3": 91,
+          "posZ:3": 6184,
+          "biome:8": "",
+          "name:8": "幽谷南入口的守卫",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "2:10": {
           "npcDialogID:3": 516,
           "description:8": "与波洛米尔对话",
-          "index:3": 1,
+          "index:3": 3,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
       },
@@ -22737,7 +22911,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "The Perfect Tulip",
+          "name:8": "完美的郁金香",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -22763,7 +22937,7 @@
         },
         "1:10": {
           "npcDialogID:3": 521,
-          "description:8": "与卡西迪恩(Castien)对话",
+          "description:8": "与卡西迪恩对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -22809,11 +22983,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "Perfect Tulip Found",
+          "name:8": "找到完美的郁金香",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "你认为你已经找到了卡西迪恩(Castien)要找的东西，那就把它取回去吧！"
+          "desc:8": "你认为你已经找到了卡西迪恩要找的东西，那就把它取回去吧！"
         }
       },
       "tasks:9": {
@@ -22894,7 +23068,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "辛辣的药草 I",
+          "name:8": "刺鼻的药草 I",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -22920,7 +23094,7 @@
         },
         "1:10": {
           "npcDialogID:3": 523,
-          "description:8": "与秃头布里(Bald-bri)对话",
+          "description:8": "与秃头布里对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -22966,11 +23140,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "辛辣的草药 II",
+          "name:8": "刺鼻的药草 II",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "是时候去寻找秃头布里(Bald-bri)要求的草药并把它们带回来了。 不知道他在制作什么药水？"
+          "desc:8": "是时候去寻找秃头布里要求的草药并把它们带回来了。 不知道他在制作什么药水？"
         }
       },
       "tasks:9": {
@@ -22990,7 +23164,7 @@
           "posY:3": 37,
           "posZ:3": 15867,
           "biome:8": "",
-          "name:8": "秃头布里(Bald-bri)",
+          "name:8": "秃头布里",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -23092,7 +23266,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "你采了一种草药!"
+          "desc:8": "你采了一种草药！"
         }
       },
       "tasks:9": {
@@ -23157,7 +23331,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "你采了一种草药!"
+          "desc:8": "你采了一种草药！"
         }
       },
       "tasks:9": {
@@ -23222,7 +23396,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
-          "desc:8": "你采了一种草药!"
+          "desc:8": "你采了一种草药！"
         }
       },
       "tasks:9": {
@@ -23282,7 +23456,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 1,
-          "name:8": "中土世界的土地已解锁!",
+          "name:8": "中洲的土地已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -23352,7 +23526,7 @@
         },
         "1:10": {
           "npcDialogID:3": 531,
-          "description:8": "与托莱(Tolhe)对话",
+          "description:8": "与托莱对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -23410,11 +23584,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "哈格啤酒花",
+          "name:8": "女巫啤酒花",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "带着他要的啤酒花回到托莱(Tolhe)那里。"
+          "desc:8": "带着他要的啤酒花回到托莱那里。"
         }
       },
       "tasks:9": {
@@ -23501,7 +23675,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "埃蒂尔泷德 路径点已解锁!",
+          "name:8": "埃蒂尔泷德 路径点已解锁！",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -23621,7 +23795,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "克鲁克·马赫尔(Kruk Mahur)",
+          "name:8": "克鲁哈拉城",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -23640,7 +23814,7 @@
           "posY:3": 40,
           "posZ:3": 16262,
           "biome:8": "",
-          "name:8": "克鲁克·马赫尔(Kruk Mahur)",
+          "name:8": "克鲁哈拉城",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
@@ -23682,7 +23856,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "克鲁克·马赫尔(Kruk Mahur)",
+          "name:8": "克鲁哈拉城",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -23744,7 +23918,7 @@
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 348,
-          "description:8": "与索隆鲁姆(Thronrum)对话",
+          "description:8": "与索隆鲁姆对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -23805,8 +23979,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 1,
           "ismain:1": 0,
-          "name:8": "营救贝坦(Betan)",
-          "desc:8": "贝坦(Betan)得到了解救"
+          "name:8": "营救贝坦",
+          "desc:8": "贝坦得到了解救"
         }
       },
       "tasks:9": {
@@ -23862,7 +24036,7 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "ismain:1": 0,
-          "name:8": "布里米加克(Brimigak)的陨落-重置",
+          "name:8": "布里米加克的陨落-重置",
           "lockedProgress:1": 0,
           "autoClaim:1": 1,
           "isSilent:1": 1,
@@ -23918,14 +24092,14 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 1,
           "ismain:1": 0,
-          "name:8": "勇敢营救!",
+          "name:8": "勇敢营救！",
           "desc:8": ""
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 177,
-          "description:8": "营救艾杜因(Ayduin)!",
+          "description:8": "营救艾杜因(Ayduin)！",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -23971,7 +24145,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 1,
           "ismain:1": 0,
-          "name:8": "艾杜因(Ayduin)得到了解救!",
+          "name:8": "艾杜因得到了解救！",
           "desc:8": ""
         }
       },
@@ -24053,29 +24227,47 @@
         "0:10": {
           "hideBlockIcon:1": 1,
           "rewardID:8": "bq_standard:command",
-          "description:8": "运行一个命令脚本",
+          "description:8": "埃利阿多居所坐标",
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"玩家居所: 埃利阿多\\\", x:14432, y:55, z:5907]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"埃利阿多居所入口\\\", x:14432, y:55, z:5907]\"}"
         },
         "1:10": {
           "hideBlockIcon:1": 1,
           "rewardID:8": "bq_standard:command",
-          "description:8": "运行一个命令脚本",
+          "description:8": "刚铎居所坐标",
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"玩家居所: 刚铎\\\", x:17486, y:57, z:13352]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"刚铎居所入口\\\", x:17486, y:57, z:13352]\"}"
         },
         "2:10": {
           "hideBlockIcon:1": 1,
           "rewardID:8": "bq_standard:command",
-          "description:8": "运行一个命令脚本",
+          "description:8": "罗瓦尼安居所坐标",
           "viaPlayer:1": 0,
           "index:3": 2,
           "title:8": "bq_standard.reward.command",
-          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"玩家居所: 罗瓦尼安\\\", x:14343, y:50, z:12640]\"}"
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"罗瓦尼安居所入口\\\", x:14343, y:50, z:12640]\"}"
+        },
+        "3:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "精灵记录者达拉吉坐标",
+          "viaPlayer:1": 0,
+          "index:3": 3,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"精灵记录者达拉吉\\\", x:14920, y:143, z:5962]\"}"
+        },
+        "4:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "幽谷外的马厩坐标",
+          "viaPlayer:1": 0,
+          "index:3": 4,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/tellraw VAR_NAME {\"text\":\"[name:\\\"幽谷外的马厩\\\", x:14508, y:46, z:6297]\"}"
         }
       }
     },
@@ -24113,7 +24305,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "踏上冒险之旅 - 失踪的霍比特人",
-          "desc:8": "看来雄鹿镇的克莱汉格(Clayhanger)家族需要你的帮助，他们有一个霍比特人失踪了。 为什么不去看看你能做些什么呢？"
+          "desc:8": "看来雄鹿镇的克莱汉格家族需要你的帮助，他们有一个霍比特人失踪了。 为什么不去看看你能做些什么呢？"
         }
       },
       "tasks:9": {
@@ -24128,20 +24320,20 @@
           "posY:3": 39,
           "posZ:3": 6899,
           "biome:8": "",
-          "name:8": "克莱汉格(Clayhanger)房屋",
+          "name:8": "克莱汉格家族的房屋",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 533,
-          "description:8": "与交谈阿德尔伯特(Adalbert)",
+          "description:8": "与交谈阿德尔伯特",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
         "2:10": {
           "npcDialogID:3": 537,
-          "description:8": "与厄门加德(Ermengard)对话",
+          "description:8": "与艾门加德对话",
           "index:3": 2,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24156,14 +24348,14 @@
           "posY:3": 40,
           "posZ:3": 7504,
           "biome:8": "",
-          "name:8": "找到佩图妮(Petunia)",
+          "name:8": "找到佩图尼亚",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "4:10": {
           "npcDialogID:3": 541,
-          "description:8": "与佩图妮(Petunia)对话",
+          "description:8": "与佩图尼亚对话",
           "index:3": 4,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24185,7 +24377,7 @@
         },
         "6:10": {
           "npcDialogID:3": 544,
-          "description:8": "与佩图妮(Petunia)对话",
+          "description:8": "与佩图尼亚对话",
           "index:3": 6,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -24222,7 +24414,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "踏上冒险之旅 - 结交新朋友",
-          "desc:8": "这个神秘的家伙——佩图妮(Petunia)是谁？有点奇怪又特别。"
+          "desc:8": "这个神秘的家伙——佩图尼亚是谁？有点奇怪又特别。"
         }
       },
       "tasks:9": {
@@ -24250,7 +24442,7 @@
         },
         "2:10": {
           "npcDialogID:3": 552,
-          "description:8": "与佩图妮(Petunia)对话",
+          "description:8": "与佩图尼亚对话",
           "index:3": 2,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24341,13 +24533,13 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "踏上冒险之旅 - 手稿",
-          "desc:8": "佩图妮(Petunia)对汤姆·邦巴迪尔非常感兴趣，她让你打听一下关于他的事情，这样她就可以把它记录在她的冒险日志中。"
+          "desc:8": "佩图尼亚对汤姆·邦巴迪尔非常感兴趣，她让你打听一下关于他的事情，这样她就可以把它记录在她的冒险日志中。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 559,
-          "description:8": "与佩图妮(Petunia)对话",
+          "description:8": "与佩图尼亚对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24390,14 +24582,14 @@
           "posY:3": 40,
           "posZ:3": 7504,
           "biome:8": "",
-          "name:8": "找到佩图妮(Petunia)",
+          "name:8": "找到佩图尼亚",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "5:10": {
           "npcDialogID:3": 568,
-          "description:8": "与佩图妮(Petunia)对话",
+          "description:8": "与佩图尼亚对话",
           "index:3": 5,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -24434,7 +24626,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "踏上冒险之旅 - 丢失的手稿",
-          "desc:8": "汤姆似乎有点容易分心，现在你必须去寻找佩图妮(Petunia)的日记中所有遗失书页。\n\n§l§n§l在寻找遗失书页时，森林位置只是为你指明方向。 寻找能[引导]你找到书页的粒子效果。"
+          "desc:8": "汤姆似乎有点容易分心，现在你必须去寻找佩图尼亚的日记中所有遗失书页。 §l§n§l在寻找遗失书页时，森林位置只是为你指明方向。 寻找能[引导]你找到书页的粒子效果。"
         }
       },
       "tasks:9": {
@@ -24446,7 +24638,7 @@
         },
         "1:10": {
           "npcDialogID:3": 574,
-          "description:8": "与佩图妮(Petunia)对话",
+          "description:8": "与佩图尼亚对话",
           "index:3": 3,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24468,7 +24660,7 @@
         },
         "3:10": {
           "npcDialogID:3": 572,
-          "description:8": "与佩图妮(Petunia)对话",
+          "description:8": "与佩图尼亚对话",
           "index:3": 6,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24536,32 +24728,32 @@
           "posY:3": 39,
           "posZ:3": 6898,
           "biome:8": "",
-          "name:8": "克莱汉格(Clayhanger)房屋",
+          "name:8": "克莱汉格家族的房屋",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 577,
-          "description:8": "与佩图妮(Petunia)对话",
+          "description:8": "与佩图尼亚对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
         "2:10": {
           "npcDialogID:3": 580,
-          "description:8": "与厄门加德(Ermengard)对话",
+          "description:8": "与艾门加德对话",
           "index:3": 2,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
         "3:10": {
           "npcDialogID:3": 581,
-          "description:8": "与阿德尔伯特(Adalbert)对话",
+          "description:8": "与阿德尔伯特对话",
           "index:3": 3,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
         "4:10": {
           "npcDialogID:3": 584,
-          "description:8": "与阿德尔伯特(Adalbert)对话",
+          "description:8": "与阿德尔伯特对话",
           "index:3": 4,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -24639,14 +24831,14 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 1,
           "ismain:1": 0,
-          "name:8": "收到佩图妮(Petunia)的手稿",
+          "name:8": "收到佩图尼亚的手稿",
           "desc:8": ""
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 559,
-          "description:8": "收到佩图妮(Petunia)的手稿",
+          "description:8": "收到佩图尼亚的手稿",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -24773,7 +24965,7 @@
         },
         "1:10": {
           "npcDialogID:3": 587,
-          "description:8": "与多林(Dolin)对话",
+          "description:8": "与多林对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24947,13 +25139,13 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "恐怖骑士-平原骑手",
-          "desc:8": "对于在墨瑞亚附近安营扎寨的矮人来说，座狼骑士已经成为一个问题。\n\n随着座狼的数量减少，是时候打击骑士了。"
+          "desc:8": "对于在墨瑞亚附近安营扎寨的矮人来说，座狼骑士已经成为一个问题。随着座狼的数量减少，是时候打击座狼骑士了。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 591,
-          "description:8": "与多林(Dolin)对话",
+          "description:8": "与多林对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -24995,13 +25187,13 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "恐怖骑士-战略打击",
-          "desc:8": "对于在墨瑞亚附近安营扎寨的矮人来说，座狼骑士已经成为一个问题。\n\n现在是时候对营地本身发起攻击了！"
+          "desc:8": "对于在墨瑞亚附近安营扎寨的矮人来说，座狼骑士已经成为一个问题。现在是时候对营地本身发起攻击了！"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 594,
-          "description:8": "与多林(Dolin)对话",
+          "description:8": "与多林对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -25012,7 +25204,7 @@
         },
         "2:10": {
           "npcDialogID:3": 595,
-          "description:8": "与多林(Dolin)对话",
+          "description:8": "与多林对话",
           "index:3": 2,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -25251,7 +25443,7 @@
         },
         "1:10": {
           "npcDialogID:3": 598,
-          "description:8": "与德瓦尔萨尔·锤须(Dwalthal Hammerbeard)对话",
+          "description:8": "与德瓦萨·锤须对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -25304,13 +25496,13 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "重夺墨瑞亚-流水",
-          "desc:8": "德瓦尔萨尔·锤须(Dwalthal Hammerbeard)正在寻求与水道功能相关的帮助。"
+          "desc:8": "德瓦萨·锤须正在寻求与水道功能相关的帮助。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 601,
-          "description:8": "与德瓦尔萨尔·锤须(Dwalthal Hammerbeard)对话",
+          "description:8": "与德瓦萨·锤须对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -25364,13 +25556,13 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "重夺墨瑞亚-知识的回归",
-          "desc:8": "当你忙着做杂务时，德瓦尔萨尔·锤须(Dwalthal Hammerbeard)发现了一个倒霉矮人的日记。"
+          "desc:8": "当你忙着做杂务时，德瓦萨·锤须发现了一个倒霉矮人的日记。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 604,
-          "description:8": "与德瓦尔萨尔·锤须(Dwalthal Hammerbeard)对话",
+          "description:8": "与德瓦萨·锤须对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -25385,14 +25577,14 @@
           "posY:3": 59,
           "posZ:3": 8782,
           "biome:8": "",
-          "name:8": "卡图布·扎哈尔(Katub-zahar)",
+          "name:8": "卡图扎哈图书馆",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "2:10": {
           "npcDialogID:3": 606,
-          "description:8": "与德瓦尔萨尔·锤须(Dwalthal Hammerbeard)对话",
+          "description:8": "与德瓦萨·锤须对话",
           "index:3": 2,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -25556,13 +25748,13 @@
         },
         "1:10": {
           "npcDialogID:3": 610,
-          "description:8": "与埃文达尔(Evindal)对话",
+          "description:8": "与埃文达尔对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
         "2:10": {
           "npcDialogID:3": 613,
-          "description:8": "与埃文达尔(Evindal)对话",
+          "description:8": "与埃文达尔对话",
           "index:3": 2,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -25622,7 +25814,7 @@
         },
         "1:10": {
           "npcDialogID:3": 614,
-          "description:8": "与米塔纳尔(Mythanar)对话",
+          "description:8": "与米塔纳尔对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         }
@@ -25923,7 +26115,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "密匙",
-          "desc:8": "戴因二世认为，遗失的书页可能指明了通往秘钥的道路。\n\n书中的诗歌将是你找到书页位置的最佳指南。\n\n捡起的书页会给出额外的线索。\n\n§4这个任务的不同之处在于，你只会得到最笼统的地点，如[搜寻埃瑞博山]。您需要探索任务每一步提到的每个区域。"
+          "desc:8": "戴因二世认为，遗失的书页可能指明了通往秘钥的道路。 书中的诗歌将是你找到书页位置的最佳指南。 捡起的书页会给出额外的线索。 §4这个任务的不同之处在于，你只会得到最笼统的地点，如[搜寻埃瑞博山]。你需要探索任务每一步提到的每个区域。"
         }
       },
       "tasks:9": {
@@ -26073,14 +26265,14 @@
           "posY:3": 42,
           "posZ:3": 14922,
           "biome:8": "",
-          "name:8": "埃瑞赫 - 瓜德尔塔(Guodhelda)",
+          "name:8": "埃瑞赫 - 瓜德尔塔",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 631,
-          "description:8": "与瓜德尔塔(Guodhelda)对话",
+          "description:8": "与瓜德尔塔对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -26180,7 +26372,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "路径开启",
-          "desc:8": "埃瑞赫的一名骑士正在寻找[发现者]，以帮助开启前往亡者之路的探险。"
+          "desc:8": "埃瑞赫的一名骑士正在寻找[初始同伴]，以帮助开启前往亡者之路的探险。"
         }
       },
       "tasks:9": {
@@ -26238,13 +26430,13 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "未被遗忘",
-          "desc:8": "瓜德尔塔(Guodhelda)希望你能帮助安葬一些牺牲的旅行者。"
+          "desc:8": "瓜德尔塔希望你能帮助安葬一些牺牲的旅行者。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 638,
-          "description:8": "与瓜德尔塔(Guodhelda)对话",
+          "description:8": "与瓜德尔塔对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -26290,14 +26482,14 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "伦·杜斯库德(Lenn Duskud)",
+          "name:8": "伦杜斯库德",
           "desc:8": "臭水似乎是从山里流出来的。"
         }
       },
       "tasks:9": {
         "0:10": {
           "npcDialogID:3": 642,
-          "description:8": "与瓜德尔塔(Guodhelda)对话",
+          "description:8": "与瓜德尔塔对话",
           "index:3": 0,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -26315,6 +26507,118 @@
       "rewards:9": {}
     },
     "358:10": {
+      "questID:3": 358,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:command_block",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "观光玩法",
+          "desc:8": "添加各种buff来快速通关"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "迅捷",
+          "viaPlayer:1": 0,
+          "index:3": 0,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/effect @p Minecraft:speed 999999 10"
+        },
+        "1:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "夜视",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/effect @p Minecraft:night_vision 999999"
+        },
+        "2:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "生命恢复",
+          "viaPlayer:1": 0,
+          "index:3": 2,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/effect @p Minecraft:regeneration 999999 255"
+        },
+        "3:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "生命提升",
+          "viaPlayer:1": 0,
+          "index:3": 3,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/effect @p Minecraft:health_boost 999999 255"
+        },
+        "4:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "饱和",
+          "viaPlayer:1": 0,
+          "index:3": 4,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/effect @p Minecraft:saturation 999999 255"
+        },
+        "5:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "力量",
+          "viaPlayer:1": 0,
+          "index:3": 5,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/effect @p Minecraft:strength 999999 255"
+        },
+        "6:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "伤害吸收",
+          "viaPlayer:1": 0,
+          "index:3": 6,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/effect @p Minecraft:Absorption 999999 255"
+        },
+        "7:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "跳跃提升",
+          "viaPlayer:1": 0,
+          "index:3": 7,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/effect @p Minecraft:jump_boost 999999 3"
+        }
+      }
+    },
+    "359:10": {
       "questID:3": 359,
       "preRequisites:11": [
         236,
@@ -26360,14 +26664,14 @@
           "posY:3": 42,
           "posZ:3": 14922,
           "biome:8": "",
-          "name:8": "埃瑞赫 - 瓜德尔塔(Guodhelda)",
+          "name:8": "埃瑞赫 - 瓜德尔塔",
           "dimension:3": 0,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
         },
         "1:10": {
           "npcDialogID:3": 644,
-          "description:8": "与瓜德尔塔(Guodhelda)对话",
+          "description:8": "与瓜德尔塔对话",
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_dialog"
         },
@@ -26379,7 +26683,7 @@
       },
       "rewards:9": {}
     },
-    "359:10": {
+    "360:10": {
       "questID:3": 360,
       "preRequisites:11": [
         359
@@ -26433,6 +26737,736 @@
           "npcQuestID:3": 234,
           "index:3": 1,
           "taskID:8": "bq_npc_integration:npc_quest"
+        }
+      },
+      "rewards:9": {}
+    },
+    "361:10": {
+      "questID:3": 361,
+      "preRequisites:11": [
+        365
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "lockedprogress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 180,
+          "visibility:8": "HIDDEN",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {},
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "tolkienmobs:item_fancysword2",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "name:8": "重置1",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 1,
+          "isSilent:1": 1,
+          "desc:8": "布里米加克的陨落-开始"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 6,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 1,
+          "posX:3": 13604,
+          "posY:3": 21,
+          "posZ:3": 8913,
+          "biome:8": "",
+          "name:8": "王座大厅",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "1:10": {
+          "npcDialogID:3": 406,
+          "description:8": "与克罗米斯会面",
+          "index:3": 1,
+          "taskID:8": "bq_npc_integration:npc_dialog"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "/noppes scene reset BrimigakReset",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/noppes scene reset BrimigakReset"
+        }
+      }
+    },
+    "362:10": {
+      "questID:3": 362,
+      "preRequisites:11": [
+        361
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "lockedprogress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 180,
+          "visibility:8": "HIDDEN",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {},
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "tolkienmobs:item_fancysword2",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "name:8": "重置2",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 1,
+          "isSilent:1": 1,
+          "desc:8": "布里米加克的陨落-开始"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 6,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 1,
+          "posX:3": 13604,
+          "posY:3": 21,
+          "posZ:3": 8913,
+          "biome:8": "",
+          "name:8": "王座大厅",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "1:10": {
+          "npcDialogID:3": 406,
+          "description:8": "与克罗米斯会面",
+          "index:3": 1,
+          "taskID:8": "bq_npc_integration:npc_dialog"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "/noppes scene start BrimigakReset",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/noppes scene start BrimigakReset"
+        }
+      }
+    },
+    "363:10": {
+      "questID:3": 363,
+      "preRequisites:11": [
+        362
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "lockedprogress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 180,
+          "visibility:8": "HIDDEN",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {},
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "tolkienmobs:item_fancysword2",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "name:8": "重置3",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 1,
+          "isSilent:1": 1,
+          "desc:8": "布里米加克的陨落-开始"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 6,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 1,
+          "posX:3": 13604,
+          "posY:3": 21,
+          "posZ:3": 8913,
+          "biome:8": "",
+          "name:8": "王座大厅",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "1:10": {
+          "npcDialogID:3": 406,
+          "description:8": "与克罗米斯会面",
+          "index:3": 1,
+          "taskID:8": "bq_npc_integration:npc_dialog"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "/noppes scene reset BrimigakBattleA",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/noppes scene reset BrimigakBattleA"
+        }
+      }
+    },
+    "364:10": {
+      "questID:3": 364,
+      "preRequisites:11": [
+        363
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "lockedprogress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 180,
+          "visibility:8": "HIDDEN",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {},
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "tolkienmobs:item_fancysword2",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "name:8": "重置4",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 1,
+          "isSilent:1": 1,
+          "desc:8": "布里米加克的陨落-开始"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 6,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 1,
+          "posX:3": 13604,
+          "posY:3": 21,
+          "posZ:3": 8913,
+          "biome:8": "",
+          "name:8": "王座大厅",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "1:10": {
+          "npcDialogID:3": 406,
+          "description:8": "与克罗米斯会面",
+          "index:3": 1,
+          "taskID:8": "bq_npc_integration:npc_dialog"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "/noppes scene start BrimigakBattleA",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/noppes scene start BrimigakBattleA"
+        }
+      }
+    },
+    "365:10": {
+      "questID:3": 365,
+      "preRequisites:11": [
+        271
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 180,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:command_block",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "挑战伪王的场景重置",
+          "desc:8": "用以重置挑战场景播放，勾选复选框然后点击检测/提交。然后静静等待十秒左右。"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        },
+        "1:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 1,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 13603,
+          "posY:3": 21,
+          "posZ:3": 8912,
+          "biome:8": "",
+          "name:8": "克罗米斯",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        }
+      },
+      "rewards:9": {}
+    },
+    "366:10": {
+      "questID:3": 366,
+      "preRequisites:11": [
+        370
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "lockedprogress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 180,
+          "visibility:8": "HIDDEN",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "name:8": "重置为敌方1",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 1,
+          "isSilent:1": 1,
+          "desc:8": "/noppes scene reset WoghuglatStart"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 7445,
+          "posY:3": 51,
+          "posZ:3": 5275,
+          "biome:8": "",
+          "name:8": "德鲁哈拉",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "1:10": {
+          "npcQuestID:3": 153,
+          "index:3": 1,
+          "taskID:8": "bq_npc_integration:npc_quest"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "/noppes scene reset WoghuglatStart",
+          "viaPlayer:1": 0,
+          "index:3": 0,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/noppes scene reset WoghuglatStart"
+        }
+      }
+    },
+    "367:10": {
+      "questID:3": 367,
+      "preRequisites:11": [
+        366
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "lockedprogress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 180,
+          "visibility:8": "HIDDEN",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "name:8": "重置为敌方2",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 1,
+          "isSilent:1": 1,
+          "desc:8": "/noppes scene start WoghuglatStart"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 7445,
+          "posY:3": 51,
+          "posZ:3": 5275,
+          "biome:8": "",
+          "name:8": "德鲁哈拉",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "1:10": {
+          "npcQuestID:3": 153,
+          "index:3": 1,
+          "taskID:8": "bq_npc_integration:npc_quest"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "/noppes scene start WoghuglatStart",
+          "viaPlayer:1": 0,
+          "index:3": 0,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/noppes scene start WoghuglatStart"
+        }
+      }
+    },
+    "368:10": {
+      "questID:3": 368,
+      "preRequisites:11": [
+        367
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "lockedprogress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 180,
+          "visibility:8": "HIDDEN",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "name:8": "重置为友方1",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 1,
+          "isSilent:1": 1,
+          "desc:8": "/noppes scene reset WoghuglatFinish"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 7445,
+          "posY:3": 51,
+          "posZ:3": 5275,
+          "biome:8": "",
+          "name:8": "德鲁哈拉",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "1:10": {
+          "npcQuestID:3": 155,
+          "index:3": 1,
+          "taskID:8": "bq_npc_integration:npc_quest"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "/noppes scene reset WoghuglatFinish",
+          "viaPlayer:1": 0,
+          "index:3": 0,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/noppes scene reset WoghuglatFinish"
+        }
+      }
+    },
+    "369:10": {
+      "questID:3": 369,
+      "preRequisites:11": [
+        368
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "lockedprogress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 180,
+          "visibility:8": "HIDDEN",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "name:8": "重置为友方2",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 1,
+          "isSilent:1": 1,
+          "desc:8": "/noppes scene start WoghuglatFinish"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 7445,
+          "posY:3": 51,
+          "posZ:3": 5275,
+          "biome:8": "",
+          "name:8": "德鲁哈拉",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        },
+        "1:10": {
+          "npcQuestID:3": 155,
+          "index:3": 1,
+          "taskID:8": "bq_npc_integration:npc_quest"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "description:8": "/noppes scene start WoghuglatFinish",
+          "viaPlayer:1": 0,
+          "index:3": 0,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/noppes scene start WoghuglatFinish"
+        }
+      }
+    },
+    "370:10": {
+      "questID:3": 370,
+      "preRequisites:11": [
+        285
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 180,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:command_block",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Waghuglat阵营重置",
+          "desc:8": "改变Waghuglat阵营为敌对方，从而杀死他。\n勾选复选框然后点击检测/提交。然后静静等待几秒左右。"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        },
+        "1:10": {
+          "visible:1": 0,
+          "invertDistance:1": 0,
+          "range:3": 16,
+          "index:3": 1,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": 7445,
+          "posY:3": 51,
+          "posZ:3": 5275,
+          "biome:8": "",
+          "name:8": "德鲁哈拉",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
         }
       },
       "rewards:9": {}
@@ -26627,7 +27661,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "§l曾经.....§r\n\n \n\n人类，矮人与精灵议会成立的30年来，他们齐心协力，试图阻止在安格玛即将到来的黑暗。  与此同时，你们还在努力阻止德拉库尼斯(Draconis)遭到毁灭，并遏制邪恶向整个世界蔓延。\n\n令人感伤的是，与日俱增的邪恶力量超出了任何人的想象，自由的人民一个接一个倒下。大步佬，现在以阿拉贡之名为世人所知，曾说起比尔博与甘道夫搜寻的魔戒的往事。\n\n是你向邪恶发起反击，并协助同盟完成任务的时候了！成为强大的旅者，并懂得如何响应所有人的号召，成为德拉库尼斯(Draconis)的英雄！\n\n \n\n§l...希望永不磨灭！§r§r§r"
+          "desc:8": "§l曾经…..§r 人类，矮人与精灵议会成立的30年来，他们齐心协力，试图阻止在安格玛即将到来的黑暗。  与此同时，你们还在努力阻止天龙镇遭到毁灭，并遏制邪恶向整个世界蔓延。\n令人感伤的是，与日俱增的邪恶力量超出了任何人的想象，自由的人民一个接一个倒下。大步佬，现在以阿拉贡之名为世人所知，曾说起比尔博与甘道夫搜寻的魔戒的往事。现在是时候了！向邪恶发起反击，并协助同盟完成任务！成为强大的旅者，并懂得如何响应所有人的号召，成为天龙大地的英雄！\n…希望永不磨灭！§r§r§r"
         }
       },
       "order:3": 0
@@ -27317,7 +28351,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\maps\\MiddleEarth.png",
           "bg_size:3": 1024,
-          "desc:8": "在中土世界旅行的过程中，你将获得快速旅行的机会..."
+          "desc:8": "在中洲旅行的过程中，你将获得快速旅行的机会…"
         }
       },
       "order:3": 8
@@ -28047,6 +29081,13 @@
           "y:3": 12,
           "id:3": 330,
           "sizeY:3": 24
+        },
+        "8:10": {
+          "sizeX:3": 24,
+          "x:3": 36,
+          "y:3": 36,
+          "id:3": 358,
+          "sizeY:3": 24
         }
       },
       "lineID:3": 3,
@@ -28293,7 +29334,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\factions.png",
           "bg_size:3": 512,
-          "desc:8": "在整个中土世界，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。\n\n声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
+          "desc:8": "在整个中洲，有各种各样的派系，如果你在他们眼中获得足够的声望，他们可能会给予你奖励。 声望可以通过完成任务、击败特定的怪物，或者交出特定的怪物掉落物品来获得。"
         }
       },
       "order:3": 10
@@ -28409,7 +29450,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "埃尔隆德认为到你从食人妖森林驱赶走的那个戒灵已经逃入了迷雾山脉。他请求你在格罗因的帮助下继续追击那个戒灵。"
+          "desc:8": "埃尔隆德认为到你从食人妖森林驱赶走的那兹古尔已经逃入了迷雾山脉。他请求你在格罗因的帮助下继续追击那个那兹古尔。"
         }
       },
       "order:3": 1
@@ -28767,7 +29808,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "章节Ⅳ - 希望之火"
+          "desc:8": "在卡扎督姆附近发现守望者的秘密后，曼温派你进入墨瑞亚的黑暗中，寻找游民们，他们曾出兵击退安格玛崛起的邪恶力量。你在矮人前哨深处找到了游民鲁林。"
         }
       },
       "order:3": 3
@@ -28811,15 +29852,15 @@
         },
         "5:10": {
           "sizeX:3": 24,
-          "x:3": 510,
-          "y:3": 90,
+          "x:3": 216,
+          "y:3": 378,
           "id:3": 256,
           "sizeY:3": 24
         },
         "6:10": {
           "sizeX:3": 24,
-          "x:3": 510,
-          "y:3": 120,
+          "x:3": 276,
+          "y:3": 378,
           "id:3": 257,
           "sizeY:3": 24
         },
@@ -28874,15 +29915,15 @@
         },
         "14:10": {
           "sizeX:3": 24,
-          "x:3": 510,
-          "y:3": 150,
+          "x:3": 216,
+          "y:3": 228,
           "id:3": 265,
           "sizeY:3": 24
         },
         "15:10": {
           "sizeX:3": 24,
-          "x:3": 510,
-          "y:3": 180,
+          "x:3": 180,
+          "y:3": 228,
           "id:3": 266,
           "sizeY:3": 24
         },
@@ -28944,9 +29985,44 @@
         },
         "24:10": {
           "sizeX:3": 24,
-          "x:3": 512,
-          "y:3": 208,
+          "x:3": 276,
+          "y:3": 408,
           "id:3": 327,
+          "sizeY:3": 24
+        },
+        "25:10": {
+          "sizeX:3": 24,
+          "x:3": 192,
+          "y:3": 378,
+          "id:3": 361,
+          "sizeY:3": 24
+        },
+        "26:10": {
+          "sizeX:3": 24,
+          "x:3": 168,
+          "y:3": 378,
+          "id:3": 362,
+          "sizeY:3": 24
+        },
+        "27:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 378,
+          "id:3": 363,
+          "sizeY:3": 24
+        },
+        "28:10": {
+          "sizeX:3": 24,
+          "x:3": 120,
+          "y:3": 378,
+          "id:3": 364,
+          "sizeY:3": 24
+        },
+        "29:10": {
+          "sizeX:3": 24,
+          "x:3": 216,
+          "y:3": 348,
+          "id:3": 365,
           "sizeY:3": 24
         }
       },
@@ -28954,7 +30030,7 @@
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "在墨瑞亚附近发现守望者的秘密后，曼温(Manwyn)派你进入墨瑞亚的黑暗中，寻找游民们，他们曾出兵击退安格玛崛起的力量。你在矮人前哨深处找到了游民鲁林(Rurain)。",
+          "name:8": "章节Ⅴ - 南方之祸",
           "icon:10": {
             "ForgeCaps:10": {
               "astralsorcery:cap_item_amulet_holder:10": {},
@@ -28967,7 +30043,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "章节Ⅴ - 南方之祸"
+          "desc:8": "为了解救克罗米斯付出了沉重的代价，也许代价太高了。现在是时候转向其他问题，而克罗米斯考虑他接下来将要做什么。"
         }
       },
       "order:3": 4
@@ -29085,13 +30161,48 @@
           "y:3": 318,
           "id:3": 299,
           "sizeY:3": 24
+        },
+        "16:10": {
+          "sizeX:3": 24,
+          "x:3": 180,
+          "y:3": 288,
+          "id:3": 366,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 288,
+          "id:3": 367,
+          "sizeY:3": 24
+        },
+        "18:10": {
+          "sizeX:3": 24,
+          "x:3": 180,
+          "y:3": 324,
+          "id:3": 368,
+          "sizeY:3": 24
+        },
+        "19:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 324,
+          "id:3": 369,
+          "sizeY:3": 24
+        },
+        "20:10": {
+          "sizeX:3": 24,
+          "x:3": 216,
+          "y:3": 288,
+          "id:3": 370,
+          "sizeY:3": 24
         }
       },
       "lineID:3": 9,
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "为了解救克罗米斯(Cromhes)付出了沉重的代价，也许代价太高了。现在是时候转向其他问题，而克罗米斯(Cromhes)考虑他接下来将要做什么。",
+          "name:8": "章节Ⅵ - 佛洛赫尔的寒冷",
           "icon:10": {
             "ForgeCaps:10": {
               "astralsorcery:cap_item_amulet_holder:10": {},
@@ -29104,7 +30215,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "章节Ⅵ - 佛洛赫尔的寒冷"
+          "desc:8": "灰袍甘道夫目前位于幽谷中最后家园的楼上，他应该被告知内雷亚·奥贝坦的行动。"
         }
       },
       "order:3": 5
@@ -29207,7 +30318,7 @@
       "properties:10": {
         "betterquesting:10": {
           "visibility:8": "NORMAL",
-          "name:8": "灰袍甘道夫目前位于幽谷中最后港湾的楼上，他应该被告知内雷亚·奥贝坦(Nerea Aubertin)的行动。",
+          "name:8": "章节Ⅶ - 安努米那斯之城",
           "icon:10": {
             "ForgeCaps:10": {
               "astralsorcery:cap_item_amulet_holder:10": {},
@@ -29220,7 +30331,7 @@
           },
           "bg_image:8": "tolkiencraft:textures\\gui\\blankMEmap.png",
           "bg_size:3": 512,
-          "desc:8": "章节Ⅶ - 安努米那斯之城"
+          "desc:8": "这场战斗打得很艰苦，但必须做得更多。 是时候帮助游民夺回他们与生俱来的权利了！"
         }
       },
       "order:3": 6

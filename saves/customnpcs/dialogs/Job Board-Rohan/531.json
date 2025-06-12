@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, I've listened this far, I'll be back!",
+                "Title": "好了，我已经听了这么多，我会回来的！",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "/tellraw @dp {\"text\":\"[name:\\\"Nindalf Swamp\\\", x:17547, y:38, z:12190]\"}",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well, anyways, these hops grow around the Nindalf east of here. I'm not sure what it is, but them old Hags get mean when you pick the hops. Now I'm not one for getting poisoned you know, so I wonder if you'd be so kind as to pick a peck of Hag Hops for me? I'd be much obliged....",
+    "DialogText": "总之，这些啤酒花就生长在宁达尔夫的东边。我不知道是什么原因，但当你采摘 啤酒花时，那些老巫婆就会变得很凶。你知道，我不喜欢被毒死，所以我想知道 你能否好心帮我摘一啄女巫啤酒花？不胜感激….",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

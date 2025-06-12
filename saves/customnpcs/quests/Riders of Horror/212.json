@@ -5,11 +5,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Riders of the Plains",
-    "Text": "The Warg-riders near Khazad Dum have been harassing the Dwarves camped near Moria. With the Wargs thinned, it is now time to strike at the riders.
+    "Text": "卡扎督姆附近的座狼骑手一直在骚扰墨瑞亚 附近的矮人营地。座狼的数量已经减少，现 在是时候对奥克骑手发动进攻了。
 
-Orcs can be found at the edge of the forest, south-east of Lothlorien.
+奥克可以在洛丝罗瑞恩东南方的森林边缘找 到。
 
-Dolin Foebreaker wants you to defeat the orcs training to become new Warg-riders.
+多林·碎敌者希望你打败那些奥克，防止它 们被训练成为新的座狼骑手。
 ",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -55,6 +55,6 @@ Dolin Foebreaker wants you to defeat the orcs training to become new Warg-riders
             }
         ]
     },
-    "CompleteText": "The orcs were defeated before new mounts could arrive. Very good tactical strike. Now there is but one more thing to do.",
+    "CompleteText": "在新的坐骑到达之前，奥克就被击败了。很 好的战术打击。现在还有一件事要做。",
     "NextQuestTitle": ""
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "好了，我们一起来看看吧！",
+                "Title": "好吧，让我看看吧！",
                 "DialogColor": 13689609,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "其实，谢谢你，但是不用了。",
+                "Title": "其实，谢谢你，但是我不用了。",
                 "DialogColor": 16134417,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 1,
-    "DialogTitle": "已知",
+    "DialogTitle": "Known",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": 8,
@@ -50,8 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你好啊 @p!,,
-
+    "DialogText": "你好啊，@p！
 我有一些你可能感兴趣的好东西！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,

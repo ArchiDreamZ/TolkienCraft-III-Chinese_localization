@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Stay safe until then!",
+                "Title": "在此之前，请注意安全！",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Return to the vale of Rivendell that you might speak with Elrond in his house. We will do our best to stand strong here and wait eagerly your return.",
+    "DialogText": "回到幽谷，你可以在埃尔隆德的家中与他交谈。我们将尽全力在这里坚守，热切 地等待你的归来。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

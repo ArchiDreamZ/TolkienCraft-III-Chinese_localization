@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 629,
-                "Title": "The adventure was well worth it!",
+                "Title": "这次冒险非常值得！",
                 "DialogColor": 16579318,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 629,
     "OptionFaction2Points": 100,
-    "DialogText": " I cannot thank you enough for keeping it out of evil's hands!",
+    "DialogText": "感谢你让它远离邪恶之手，我真是感激不尽！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

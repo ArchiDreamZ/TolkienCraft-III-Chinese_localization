@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 196,
-                "Title": "So what does that have to do with what we have found?",
+                "Title": "那么，这与我们的发现有什么关系呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "What the Nazgûl seeks has become apparent to me, @p. He may have told you of the history of Carn Dûm, but there is a darker side to the tale.  Long ago, there was a great dragon that had taken to reside there, but great dwarven forces were able to defeat it after much loss.",
+    "DialogText": "那兹古尔在寻找什么，我已经很清楚了，@p。他可能已经告诉你卡恩督姆的历 史，但这个故事还有更黑暗的一面。很久以前，有一条巨龙栖息在那里，但矮人 的强大军队在付出巨大损失后还是打败了它。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

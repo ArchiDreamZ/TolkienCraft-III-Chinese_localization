@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "加拉里克·大肚皮(Gararic Rumblebelly) II",
+    "DialogTitle": "Gararic Rumblebelly II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "比尔博一直是一个……与众不同的霍比特人，所以我听说他决定给每个人一个惊吓，然后悄悄地溜走！去他家人不在的地方享乐，并且逛遍了所有的酒馆和客栈，品尝他们的酿酒！,,,
-
-据我所听，之后发生了什么事情，没有人完全确定，但我兄弟的儿子的朋友的表弟在绿龙酒馆工作，他发誓说，在第二天装运了一个比其他桶更重的桶，而且它滚动起来的样子很奇怪，像是里面装了什么东西。直到事后才开始怀疑起来！",
+    "DialogText": "比尔博一直是一个……与众不同的霍比特人，所以我听说他决定给每个人一个好 好的惊吓，然后悄悄地溜走！去他家人不在的地方享乐，并且逛遍了所有的酒馆 和客栈，品尝它们的酿酒！
+现在据我所听，之后发生了什么事情，没有人完全确定，但我兄弟的儿子的朋友 的表弟在绿龙酒馆工作，他发誓说，在第二天装运了一个比其他桶更重的桶，而 且它滚动起来的样子很奇怪，像是里面装了什么东西。直到事后才开始怀疑起来！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, at this point, it’s worth a try...",
+                "Title": "好吧，在这一点上，值得一试…",
                 "DialogColor": 16648961,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Perhaps if he were to read some of my account so far he would better understand why we want to know about him? Take my manuscript to him and see if that gets him to open up about himself, if you would!",
+    "DialogText": "也许，如果他能读到我迄今为止的一些叙述，他会更好地理解我们为什么想了解 他？如果你愿意，把我的手稿拿给他，看看能否让他敞开心扉！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 300,
-                "Title": "No, but I...",
+                "Title": "没有，但是我…",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I can see you're busy...",
+                "Title": "我看得出你很忙…",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Betan has gone missing, but how do you know this? Are you one of those Southerners looking to raid this place? You'll find that we're harder than the land we live on!",
+    "DialogText": "贝坦失踪了，你是怎么知道的？你是那些想袭击这里的南方人之一吗？你会发现 我们比我们生活的土地更坚硬！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 91,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, I’ll be on my way then.",
+                "Title": "好吧，那我就走了。",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We Clayhangars have been many things, but heroes? I don't know about that!",
+    "DialogText": "我们克莱汉格家族做过很多事情，但做英雄呢？我没听说过！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

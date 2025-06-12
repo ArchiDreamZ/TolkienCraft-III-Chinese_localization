@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Hope of Vengence II",
-    "Text": "Cromhes is in the Flaming Deeps in Moria near the Ember Camp.
+    "Text": "克罗米斯位于墨瑞亚的烈火深渊，靠近埃姆 伯的营地。
 
-Thurdan instructed you to return Cromhes’ gear to him.",
+瑟尔丹指示你把克罗米斯的装备还给他。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -79,6 +79,6 @@ Thurdan instructed you to return Cromhes’ gear to him.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "What is this?",
+    "CompleteText": "这是什么？",
     "NextQuestTitle": ""
 }

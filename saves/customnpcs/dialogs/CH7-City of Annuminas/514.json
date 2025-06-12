@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, I will relay your message.",
+                "Title": "好吧，我会转达你的信息。",
                 "DialogColor": 16583682,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Thank him for the offer, but tell him his concern is misplaced. The Elves can protect Imladris.",
+    "DialogText": "感谢他的提议，但要告诉他，他的担心是多余的。精灵可以保护伊姆拉缀斯。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

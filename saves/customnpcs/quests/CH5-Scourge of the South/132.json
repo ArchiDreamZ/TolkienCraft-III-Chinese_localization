@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Keeping Watch II",
-    "Text": "Aragorn believes that Gandalf should be informed of the mysterious Nerea Aubertin’s theft of the palantír.
+    "Text": "阿拉贡认为，神秘的内雷亚·奥贝坦盗窃了 帕蓝提尔这一件事应该告知甘道夫。
 ",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -57,7 +57,7 @@
             }
         ]
     },
-    "CompleteText": "Aragorn has sent you? What's this you say? The palantír, stolen?",
+    "CompleteText": "阿拉贡派你来的？你说什么？帕蓝提尔被偷 了？",
     "NextQuestTitle": "",
     "QuestLocation": "Upstairs"
 }

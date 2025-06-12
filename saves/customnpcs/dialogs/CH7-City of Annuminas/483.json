@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 484,
-                "Title": "Wait, I think there is sound judgement there!",
+                "Title": "等等，我觉得瑟尔丹做出了正确的判断！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I see you need some time to cool off.",
+                "Title": "看来你需要时间冷静一下。",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I will not leave Annúminas in the hands of the Enemy! We will save both the city and the Stone, @p, or we will save neither! That is my decision!",
+    "DialogText": "我不会让安努米那斯落入敌人手中！我们既要拯救这座城市，也要夺回帕蓝提尔， 或者我们两个都不救！@p，这就是我的决定！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

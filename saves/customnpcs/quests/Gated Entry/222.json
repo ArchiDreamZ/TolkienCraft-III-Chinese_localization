@@ -6,15 +6,15 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Lost Pages II",
-    "Text": "King Dáin II thinks the lost pages of the tome may point the way to the Secret Key.
+    "Text": "戴因二世国王认为，古籍的遗失书页可能揭 示了寻找秘钥的途径。
 
-The poem in the book will be your best guide to the page locations.
+书中的诗歌将是你了解遗失书页位置的最佳 指南。
 
-Pages picked up will give additional clues.
+拾取的书页会提供更多线索。
 
-Mirrormere points to the lake near Lothlorien.  Perhaps you should search there next?
+镜影湖就是洛丝罗瑞恩附近的湖。也许你下 一步应该搜索那里？
 
-Some things are better seen at night beneath the moon.",
+有些东西在夜晚的月亮下看得更清楚。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -79,6 +79,6 @@ Some things are better seen at night beneath the moon.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "It seems to be part of a larger tome.",
+    "CompleteText": "它似乎是一本大古籍的一部分。",
     "NextQuestTitle": "Lost Pages III"
 }

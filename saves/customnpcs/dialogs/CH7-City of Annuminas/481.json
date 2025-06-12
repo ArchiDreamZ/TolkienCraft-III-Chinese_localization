@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will get this to him!",
+                "Title": "我会把这个交给他的！",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have written down much of the story in this letter. Bring it to Talacnun so he may decide what can be done. You must do this with utmost speed, @p -- more than the city of the Dúnedain rests upon our answer to Dreulhara's challenge.",
+    "DialogText": "我在这封信中写下了很多故事。把它带给塔拉克农，让他决定该怎么做。你必须 以最快的速度完成这件事，@p，比杜内丹人的城市更重要的是我们对德鲁哈拉 挑战的应对措施。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

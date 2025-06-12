@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Knowledge of Giants I",
-    "Text": "Barachen is at his camp south of the Great East Road that runs through the South Trollshaws. Scouts along the road can direct you to him.
+    "Text": "巴拉钦就在他的营地，位于贯穿南食人妖森 林的东大道南侧。沿路的侦察兵可以指引你 找到他。
 
-Elladan told you that Barachen reported seeing one of the Giants somewhere in the wild and wants you to talk to him about it.",
+埃尔拉丹告诉你，巴拉钦报告说他在野外某 处看到了一个巨人，希望你能和他谈谈。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,7 @@ Elladan told you that Barachen reported seeing one of the Giants somewhere in th
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "I have long believed that the Giants of legend have walked among the wooded areas of the Trollshaws, but I have never seen one for myself until now.",
+    "CompleteText": "我一直相信传说中的巨人曾在食人妖森林的 林间漫步，但直到现在我才亲眼看到。",
     "NextQuestTitle": "",
     "QuestLocation": "Barachen’s Camp"
 }

@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Swift Change II",
-    "Text": "Wynton has tasked to you retrieve an item that will allow someone to safely transport the Palantir.
+    "Text": "温顿派你去取回一件物品，以便有人能够安 全地运送帕蓝提尔。
 
-Elrond is in the library of his house in Rivendell to the south east of Annuminas.",
+埃尔隆德在幽谷他房子的图书馆里，位于安 努米那斯东南方。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 150,
@@ -58,7 +58,7 @@ Elrond is in the library of his house in Rivendell to the south east of Annumina
             }
         ]
     },
-    "CompleteText": "Well met @p!",
+    "CompleteText": "很高兴见到你，冒险家!",
     "NextQuestTitle": "",
     "QuestLocation": "Elrond’s Library"
 }

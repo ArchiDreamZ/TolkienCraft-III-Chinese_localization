@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Thrór's Hammer III",
-    "Text": "Defeat Bruabiuth, a fell-spirit who has taken possession of Thrór's Hammer.",
+    "Text": "打败布鲁比乌斯，一个占据着瑟罗尔锤子的 堕落之灵。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -65,6 +65,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "That key should do all that you need, @p. You should return now to your task and make use of it!",
+    "CompleteText": "这把钥匙可以满足你所有的需求，冒险家。 你现在应该回到你的任务中去，然后使用它！",
     "NextQuestTitle": "Thrór's Hammer IV"
 }

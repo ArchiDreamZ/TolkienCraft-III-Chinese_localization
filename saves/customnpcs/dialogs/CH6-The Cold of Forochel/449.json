@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 450,
-                "Title": "Where can I find him?",
+                "Title": "我在哪里可以找到他？",
                 "DialogColor": 3144976,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you, I will go tell him.",
+                "Title": "谢谢，我会去告诉他的。",
                 "DialogColor": 16394760,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are grave dangers about and many have spoken of a new evil from Angmar near the entrance to Khazad-dûm. I am quite certain that this is the Knight you seek.",
+    "DialogText": "这里危险重重，许多人都说卡扎督姆入口附近的安格玛王国又出现了新的恶魔。 我很确定这就是你们要找的骑士。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Missing Hobbit III",
-    "Text": "Search along the banks of the Withywindle, in the Old Forest, for Petunia Clayhanger
+    "Text": "在老林子，沿着柳河岸搜寻佩图尼亚。
 
-The Withywindle River runs through the middle of the Old Forest, and might be a good landmark to use in your search for Petunia Clayhanger.",
+柳条河从老林子中间穿过，可能是你寻找佩 图尼亚·克莱汉格时的一个好地标。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -58,7 +58,7 @@ The Withywindle River runs through the middle of the Old Forest, and might be a 
             }
         ]
     },
-    "CompleteText": "You’ve found Petunia!",
+    "CompleteText": "你找到了佩图尼亚！",
     "NextQuestTitle": "",
     "QuestLocation": "Find Petunia"
 }

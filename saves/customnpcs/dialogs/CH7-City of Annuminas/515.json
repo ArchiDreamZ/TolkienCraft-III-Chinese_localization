@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 516,
-                "Title": "Well, perhaps it best so you can be prepared for the hard battle to come?",
+                "Title": "也许这样最好，你可以为即将到来的艰苦战斗做好准备？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "This is what I expected, though it grieves me to see it so clearly: the Elves believe they have no need for us, @p! They may change their opinion if Gondor falls, and change it quickly -- do they not see that our people are their last real defence?",
+    "DialogText": "这正是我所预料的，我很伤心，因为我把它看得如此明白：精灵认为他们不需要 我们，@p！如果刚铎灭亡，他们可能会改变看法，而且会很快改变——难道他 们不知道我们的人民是他们真正的最后防线吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 173,

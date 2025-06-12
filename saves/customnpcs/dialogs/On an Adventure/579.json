@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 580,
-                "Title": "Oh try not to be too harsh on them.",
+                "Title": "哦，尽量不要对他们太苛刻。",
                 "DialogColor": 16711163,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It was good to see my cousin Adalbert for a short while, but I must ask him to be off as soon as he can. Either he has been a bad influence on Petunia, or she has been a bad influence on him, but either way there is entirely too much adventurous spirit between them!",
+    "DialogText": "很高兴能见到我的表弟阿德尔伯特一会儿，但我必须请他尽快离开。要么是他对 佩图尼亚的影响不好，要么是她对他的影响不好！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

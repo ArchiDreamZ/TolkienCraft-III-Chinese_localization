@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 524,
-                "Title": "What do you need from me?",
+                "Title": "你需要我做什么？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Actually, I think I forgot something.",
+                "Title": "事实上，我想我忘了一些事。",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You have decided to help me? Excellent. There is a potion I know the making of that can heal even the most wounded.",
+    "DialogText": "你决定帮我？好极了，我知道一种药水的制作方法，即使是受最严重伤的人也能 痊愈。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

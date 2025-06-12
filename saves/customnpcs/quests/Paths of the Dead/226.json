@@ -5,9 +5,9 @@
     "QuestRepeat": 2,
     "QuestCompletion": 1,
     "Title": "The Restless Dead I",
-    "Text": "Restless Dead (Oathbreakers) can be found within Kamkhe Mit, in the Paths of the Dead, far to the north of Erech.
+    "Text": "不眠亡者（背誓者）可以在埃瑞赫北面远处 的亡者之路中的卡姆赫·米特找到。
 
-Guodhelda asked you to quiet the Restless Dead (Oathbreakers) within the lower city of the Paths of the Dead.",
+瓜德尔塔让你去亡者之路的下城区安抚不眠 亡者（背誓者）。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -42,6 +42,6 @@ Guodhelda asked you to quiet the Restless Dead (Oathbreakers) within the lower c
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You have quieted the Othbreakers...",
+    "CompleteText": "你让背誓者安静了下来......",
     "NextQuestTitle": "The Restless Dead II"
 }

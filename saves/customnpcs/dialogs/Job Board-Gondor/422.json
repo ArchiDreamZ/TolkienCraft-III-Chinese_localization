@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Consider it done!",
+                "Title": "就这么定了！",
                 "DialogColor": 16538114,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If you would help me craft a few of our traditional baskets from materials in Pelargir, my folk would certainly hold you in high regard.",
+    "DialogText": "如果你能帮我用来自佩拉基尔的材料制作几个我们的传统篮子，我的乡亲们一定 会非常尊敬你。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

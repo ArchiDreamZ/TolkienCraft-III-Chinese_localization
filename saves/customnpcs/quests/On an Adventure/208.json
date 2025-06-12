@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Lost Manuscript VI",
-    "Text": "The wind carried pages of Petunia’s manuscript into the Barrow-downs, and you should search for them. Petunia has also asked you to defeat Barrow-wights while you search in case they picked them up.",
+    "Text": "风把佩图尼亚的几页手稿吹到了古冢岗，你 应该去找找。佩图尼亚还要求你在搜寻时清 理一下古冢尸妖，以防他们捡走这些手稿。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,6 +50,6 @@
             }
         ]
     },
-    "CompleteText": "You have found the pages concerning Petunia’s swimming lesson & departing the Shire.",
+    "CompleteText": "你已找到佩图尼亚记载着游泳课和离开夏尔 内容的书页。",
     "NextQuestTitle": "Lost Manuscript VII"
 }

@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Into the Dungeon I",
-    "Text": "With the key to the dungeons of Moria in hand, the time has come to move against the forces of the False King and try to rescue Cromhes.",
+    "Text": "有了通往墨瑞亚矿坑的钥匙，现在是时候与 伪王的邪恶势力作斗争，设法营救克罗米斯 了。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Are you ready to leave, @p? Who knows how long we have before my father is moved once more.",
+    "CompleteText": "你准备好离开了吗，冒险家？谁知道在我父 亲再次被转移之前，我们还有多长时间。",
     "NextQuestTitle": "Into the Dungeon II",
     "QuestLocation": "Entrance to Dungeon"
 }

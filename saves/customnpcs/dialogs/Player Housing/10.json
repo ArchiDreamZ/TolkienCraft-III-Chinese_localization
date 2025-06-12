@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 7,
-                "Title": "Thank you, I have more questions…",
+                "Title": "谢谢你，我还有更多问题要问……",
                 "DialogColor": 16315365,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Anything.  Each house has a wall defining the property you own with the house.  While there are no set restrictions, we ask each new homeowner to respectfully stay within their own property area when building anything unless your direct neighbor has granted permission otherwise.  With some houses you will not have close neighbors so we ask that you do not go outside your pre-defined property lines.  Within those lines, the sky's the limit!",
+    "DialogText": "做什么都可以。每栋房屋都有一堵墙，划定了你在该房产中所拥有的产权范围。 虽然没有固定的限制，但我们要求每位新房主在建造任何东西时都要看清楚自己 的产权范围，除非你的附近邻居都同意。有些房屋的邻居并不近，因此我们只要 求你不要超出预设的产权范围。在这些范围内，你都可以尽情发挥！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 208,
-                "Title": "Did anyone do something about it?",
+                "Title": "有人对此采取过行动吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "This seems to be rather dangerous at the moment.",
+                "Title": "目前这看起来似乎相当危险。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Perhaps I should start from the beginning. Many years ago, one of our captains -- a man by the name of Cromhes -- desired to enter the realm of Khazad-dûm, for he had heard rumour that the Goblins had made for themselves a home there and began again to multiply. He suspected also that a shadow had come again unto Moria, for fell creatures began to spread westward into the South Downs.",
+    "DialogText": "也许我应该从头说起。许多年前，我们的一位队长——名叫克罗米斯——想要进 入墨瑞亚矿坑，因为他听到传言说，半兽人在那里安了家，并开始重新繁衍。他 还怀疑莫瑞亚又出现了邪恶的阴影，因为那些堕落生物开始向西蔓延，进入了南 岗。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 61,

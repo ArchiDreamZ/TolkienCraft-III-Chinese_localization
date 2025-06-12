@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 220,
-                "Title": "How does that help us?",
+                "Title": "这对我们有什么帮助？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "That’s not a place I think I want to go.",
+                "Title": "那不是我想去的地方。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It is a pity that this heart is broken, but there may yet be another path open to us. While you were away, some of the villagers returned from a hunting expedition and told of a ritual being performed at Dol Guldur, a fortress to the south-east, east of of those lifeless stones you found.",
+    "DialogText": "很遗憾，我们得到的石心碎了，但也许还有另一条路可以走。你不在的时候，一 些村民打猎归来，告诉我们在多古尔都正在举行一个仪式，多古尔都是东南方的 一个要塞，在你发现的那些无生命雕像的东边。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 67,

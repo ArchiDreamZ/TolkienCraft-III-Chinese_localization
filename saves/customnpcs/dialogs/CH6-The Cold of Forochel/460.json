@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 461,
-                "Title": "Wasn’t that a long time ago?",
+                "Title": "那不是很久以前的事了吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "That’s all I wanted to know then.",
+                "Title": "这就是我当时想知道的。",
                 "DialogColor": 16521733,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "...yet still I knew nothing of her secrets as Nerea Aubertin. She has become much more powerful than I had imagined…indeed, I had believed her dead since the Battle of Fornost.",
+    "DialogText": "……然而，我仍然对她作为内雷亚-奥贝坦的秘密一无所知。她变得比我想象的 要强大得多……事实上，自从佛诺斯特之战以来，我一直以为她已经死了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 153,

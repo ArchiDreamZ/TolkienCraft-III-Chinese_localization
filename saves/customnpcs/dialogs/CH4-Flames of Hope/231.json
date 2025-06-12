@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Excellent, patience while I go gather these items.",
+                "Title": "好极了，请耐心等待，我去收集这些物品。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "As for the casting, Lokhem Brickmane sent word that the Archet guards found a ruined key among the bodies of some bandits. Derwyn Rease may still have it. If their leader was from Angmar, as I have heard, it may be that key is just what we need to cast the mould.",
+    "DialogText": "至于模具，洛赫姆·布里克曼传来消息说，阿切特卫兵在一些强盗的尸体中发现 了一把被毁坏的钥匙。德温·里瑟可能还留着它。如果他们的首领是来自安格玛 王国，就像我听说的那样，那把钥匙可能正是我们需要的模具。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

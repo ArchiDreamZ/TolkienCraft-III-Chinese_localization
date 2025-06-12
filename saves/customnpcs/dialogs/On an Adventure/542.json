@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 543,
-                "Title": "They are definitely unusual, I will have to check them out more closely.",
+                "Title": "他们肯定不寻常，我得再仔细看看。",
                 "DialogColor": 16578550,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Probably best to just go home and stay safe.",
+                "Title": "最好还是回家吧，注意安全。",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Have you ever seen such a cozy little cottage, @p? It is the home of my new friend Tom and his wife Goldberry. They are most mysterious, and I want to learn more about them if I can!",
+    "DialogText": "你见过这么舒适的小别墅吗，@p？这是我的新朋友汤姆和他的妻子金莓的家。 他们非常神秘，如果可以的话，我想更多地了解他们！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 192,

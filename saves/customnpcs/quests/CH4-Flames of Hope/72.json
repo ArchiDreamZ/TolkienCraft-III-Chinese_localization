@@ -7,11 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Crossing the Darkness II",
-    "Text": "Layles told you that she believes her father still lives, held captive in the dungeons of Moria. She hopes to find a way inside the terrible place and rescue him.
+    "Text": "莱尔斯告诉你，她相信她的父亲还活着，被 囚禁在墨瑞亚矿坑。她希望能在这个可怕的 地方找到一条路，救出他。
 
-Meet with Fridli near the fast travel point which is close to the 1st Hall.
+在靠近第一大厅的快速旅行传送点附近与弗 里德利会面。
 
-Lorniel told you that she had heard from a Hillman named Fridli who was seeking to leave the service of Angmar and might have information that will allow her to gain access to the dungeons of Moria.",
+洛尼尔告诉你，她从一个名叫弗里德利的山 区人那里听说，这个人正在寻求逃离安格玛 王国，他可能掌握着能让她进入墨瑞亚矿坑 的信息。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -52,7 +52,7 @@ Lorniel told you that she had heard from a Hillman named Fridli who was seeking 
             }
         ]
     },
-    "CompleteText": "You were sent here by the woman from the South. Here...take this scroll. My people are suspicious. I must go at once.",
+    "CompleteText": "你是来自南方的那个女人派来的。给.... ..拿着这个卷轴。我那边的人起疑心了， 我必须马上离开。",
     "NextQuestTitle": "Crossing the Darkness III",
     "QuestLocation": "Meeting Place"
 }

@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "是啊，它还可能吃了我......",
+                "Title": "是啊，它还可能吃了我……",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -48,7 +48,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "巨人的知识 III",
+    "DialogTitle": "Knowledge of the Giants III",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "巴拉钦(Barachen)报告说，他看到了其中一个游荡的巨人。如果真是这样，那么比我们更年长、更睿智的眼睛可能已经看到了戒灵的离去，并能告诉我们很多事情。",
+    "DialogText": "巴拉钦报告说，他看到了其中一个游荡的巨人。如果真是这样，那么比我们更年 长、更睿智的眼睛可能已经看到了那兹古尔的离去，并能告诉我们很多事情。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

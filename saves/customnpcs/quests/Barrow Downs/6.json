@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Forging Anew I",
-    "Text": "Reeve Guibe is in Blacksmith's Row, west of The Prancing Pony and south-west of the stables.
+    "Text": "里夫·吉贝位于铁匠街，在跃马栈客栈的西 面，马厩的西南面。
 
-Falsir told you to bring the key fragments to Reeve Guibe, a blacksmith who has had a recent run of bad luck.",
+法尔西尔让你把钥匙碎片带给里夫·吉贝， 他是个铁匠，但是最近运气不太好。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -53,6 +53,6 @@ Falsir told you to bring the key fragments to Reeve Guibe, a blacksmith who has 
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Falsir sent you, did he?",
+    "CompleteText": "法尔西尔派你来的，是吗？",
     "NextQuestTitle": ""
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 266,
-                "Title": "He will be glad in his heart to hear you survived!",
+                "Title": "他听到你活了下来，心里一定会很高兴！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wait, I think I forgot something somewhere!",
+                "Title": "等等，我好像忘了什么东西！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Manwyn sent you? That is joyous news! Your coming is as a victory to us!",
+    "DialogText": "曼温派你来的？这真是个好消息！你的到来就是我们的胜利！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 70,

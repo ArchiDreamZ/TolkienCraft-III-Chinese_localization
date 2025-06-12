@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 279,
-                "Title": "I shall go retrieve this for you!",
+                "Title": "我去帮你拿回来！",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "This sounds way to dangerous.",
+                "Title": "这听起来太危险了。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "One such ally, a sympathetic Hillman from the hostile eastern tribes named Fridli, claims that he has acquired a scroll from the libraries of Moria that tells how to gain access to the Dungeons. If you would meet Fridli and obtain the scroll from him, it would be a tremendous step towards freeing my father from the clutches of the Enemy.",
+    "DialogText": "其中一位盟友名叫弗里德利，来自东部敌对部落，是富有同情心的山地人。他声 称自己从墨瑞亚的图书馆中得到了一张卷轴，上面记载了如何进入矿坑的方法。 如果你能见到弗里德利并从他那里得到卷轴，这将是把我父亲从敌人的魔掌中解 救出来的重要一步。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

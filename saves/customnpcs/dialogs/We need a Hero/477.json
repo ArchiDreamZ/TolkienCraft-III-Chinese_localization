@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 478,
-                "Title": "Ummm, yes, this is most certainly what was hidden in the sewers.",
+                "Title": "嗯，没错，这肯定就是藏在下水道里的东西。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I guess not, I’ll go back and look again.",
+                "Title": "我想没有，我会回去再看看的。",
                 "DialogColor": 16394760,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 478,
     "OptionFaction2Points": 100,
-    "DialogText": "Wait, are you SURE that is the ancient artifact?",
+    "DialogText": "等等，你§l确定§r那就是古文物吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

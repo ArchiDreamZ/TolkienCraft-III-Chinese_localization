@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will go ask and return.",
+                "Title": "我会去问问，然后再回来。",
                 "DialogColor": 16521733,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Head down the winding road to the south entrance to the valley and ask the guards there if they have need of my vigilance. I will spend the time until we depart guarding the borders, if they have need of my strength.",
+    "DialogText": "沿着蜿蜒曲折的道路前往山谷的南入口，询问那里的守卫是否需要我的警戒。如 果他们需要我的力量，我会一直守卫边境，直到我们出发。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

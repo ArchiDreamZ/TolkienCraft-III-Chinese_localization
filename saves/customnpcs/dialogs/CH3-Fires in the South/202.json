@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will go see him now",
+                "Title": "我现在就去见他。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,11 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I would wish you to remain here away from the troubles of the world. But alas, the Enemy does not rest and so neither can we.
-
-Angmar grows in power with each passing day and without a means to stem its evil, we have no hope of winning this war.
-
-Speak with Aragorn. he waits for you in the main house.",
+    "DialogText": "我希望你们留在这里，远离尘世的烦恼。但可惜，敌人不会善罢甘休，我们也一 样。
+安格玛王国的势力与日俱增，如果没有遏制其邪恶蔓延的手段，我们就没有希望 赢得这场战争。
+与阿拉贡交谈。他在主屋等你。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

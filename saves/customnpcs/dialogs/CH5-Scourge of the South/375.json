@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 376,
-                "Title": "If there is some light left, I want to know what to do!",
+                "Title": "如果还有一丝希望的光亮，我想知道该怎么做！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sadly, I have none for me.",
+                "Title": "遗憾的是，我一点儿也没有。",
                 "DialogColor": 16328453,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Still, there may be some hope left.",
+    "DialogText": "不过，希望还是有的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 119,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let’s hope I don’t get lost.",
+                "Title": "希望我不会迷路。",
                 "DialogColor": 16717312,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "/tellraw @p {\"text\":\"[name:\\\"Katub-zahar\\\", x:13800, y:59, z:8781]\"}",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Let me mark the location I believe the library is at so you can go searching for me...",
+    "DialogText": "让我标出我认为图书馆所在的位置，这样你就可以去找我了……",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

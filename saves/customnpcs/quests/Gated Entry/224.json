@@ -6,13 +6,13 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Lost Pages IV",
-    "Text": "King Dáin II thinks the lost pages of the tome may point the way to the Secret Key.
+    "Text": "戴因二世国王认为，古籍的遗失书页可能揭 示了寻找秘钥的途径。
 
-The poem in the book will be your best guide to the page locations.
+书中的诗歌将是你了解遗失书页位置的最佳 指南。
 
-Pages picked up will give additional clues.
+拾取的书页会提供更多线索。
 
-The runes spelled out Dûrgrimst Knurlcarathn, which means Stoneworkers Clan. Could this be a reference to the ancient halls of Belegost far to the west? Perhaps you should search there next?",
+这些符文拼成了DûrgrimstKnu rlcarathn，意思是石匠族。这会 不会是指远在西边的贝烈戈斯特古代大厅？ 也许你下一步应该去那里找找？",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -751,6 +751,6 @@ The runes spelled out Dûrgrimst Knurlcarathn, which means Stoneworkers Clan. Co
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "You've found another page of the tome.  This one however was laying next to a couple of dropped keys.",
+    "CompleteText": "你又找到了一页书页。不过，这一页旁边还 放着几把掉落的钥匙。",
     "NextQuestTitle": "Lost Pages V"
 }

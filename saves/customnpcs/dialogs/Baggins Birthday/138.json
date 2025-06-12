@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "尼克·绿丘(Nick Greenhill) II",
+    "DialogTitle": "Nick Greenhill II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "但正如我所说的，我听说他财产耗尽后去了一个人类的大城镇，用剩下的钱买了一顶最好的假胡须。好了好了，先别着笑，你还没听完，还记得我说过他聪明得有点不着调吗？,,,
-
-哼！假胡须买好后，他去和矮人们住在一起！是的！矮人们！他悄悄地混进了他们的洞穴和挖掘工作中。据我所知，矮人们并不太聪明，而且那些洞穴肯定因为火把而昏暗并且烟雾缭绕，你不这么认为吗？",
+    "DialogText": "但正如我所说的，我听说他财产耗尽后去了一个人类的大城镇，用剩下的钱买了 一把最好的假胡须。好了好了，先别着笑，你还没听完，还记得我说过他聪明得 有点不着调吗？
+哼！假胡须买好后，他去和矮人们住在一起！是的！矮人们！他悄悄地混进了他 们的洞穴和挖掘工作中。据我所知，矮人们并不太聪明，而且那些洞穴肯定因为 火把而昏暗并且烟雾缭绕，你不这么认为吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

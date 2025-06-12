@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "谢谢，那我就出发了。",
+                "Title": "谢谢，那我现在就出发了。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "巴金斯生日 - 老头儿 IV",
+    "DialogTitle": "Baggins’ Birthday - Gaffer IV",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "如果这给到了你所需的东西，那就走吧。是时候把这些故事带给它们的最终接收者了！它们应该都在一本书里！ ",
+    "DialogText": "如果这给到了你所需的东西，那就走吧。是时候把这些故事带给它们的最终接收 者了！它们应该都在一本书里！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 40,

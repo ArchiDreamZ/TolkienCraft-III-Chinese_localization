@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 205,
-                "Title": "Was it that bad?",
+                "Title": "有那么糟糕吗？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I need to get things prepared.  I’ll come back.",
+                "Title": "我得把东西准备好。我会回来的。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I know little more, for the message to me was brief, but Guthwine has asked me to come at once. My time here is short, and I cannot return now to confer with my people. My path lies to the north and to the east. Will you go to Mitheithel in my stead and learn what tidings have come there? Speak to Guthwine, for it was he who sent the message to me.",
+    "DialogText": "我知道的不多，因为给我的信息很简短，但古斯威奈让我马上过来。我在这里的 时间不多了，现在不能回去与族人商议。我要走的路在北边和东边。你能代替我 去米斯艾塞尔河营地，了解那里有什么消息吗？与古斯威奈谈一谈吧，是他把消 息传给我的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

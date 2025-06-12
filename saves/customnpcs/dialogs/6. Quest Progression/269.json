@@ -28,7 +28,7 @@
     "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "墨瑞亚-完成",
+    "DialogTitle": "Moria-Finished",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
@@ -37,8 +37,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "克罗米斯(Cromhes) 约你在矮人埃姆伯(Ember)的营地见面。,,,
-
+    "DialogText": "克罗米斯约你在矮人埃姆伯的营地见面。
 传送到那里作为你的奖励。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,

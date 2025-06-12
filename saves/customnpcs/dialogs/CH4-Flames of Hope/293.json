@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 294,
-                "Title": "Are you sure about that?",
+                "Title": "你确定吗？",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, not wanting to add grave robbing to my resume.",
+                "Title": "我可不想在我的履历上再加上盗墓这一笔。",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Before most of us moved back to the Lonely Mountain, the hammer got taken, and -- as an insult to us, I'm sure -- the Dourhands took it and placed it in Khedgroick's tomb as tribute to him.",
+    "DialogText": "在我们大多数人搬回孤山之前，那把锤子被拿走了，而且我敢肯定是杜汉德矮人 把它拿走，放在卡赫格罗克的墓里，作为对他的敬意，但这是对我们的侮辱！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

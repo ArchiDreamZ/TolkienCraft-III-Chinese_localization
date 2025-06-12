@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 586,
-                "Title": "So, what do you suggest?",
+                "Title": "那么，你有什么建议？",
                 "DialogColor": 16579318,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Time to beef up your armies then.",
+                "Title": "那么，是时候加强你们的军队了。",
                 "DialogColor": 16521733,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Orcs flowing from Khazad-dûm have found a powerful ally in the Wargs here in the forest. This is a very bad thing for us here, as we cannot match Warg-riders in combat. They are too fast and too strong.",
+    "DialogText": "从卡扎督姆里面涌出的奥克在森林中找到了强大的盟友座狼。这对我们非常不利， 因为我们无法在战斗中与座狼骑手匹敌。他们的速度太快，力量太强。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 211,

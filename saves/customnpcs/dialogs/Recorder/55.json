@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 52,
-                "Title": "Thank you",
+                "Title": "谢谢你！",
                 "DialogColor": 16010050,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "/csg_config give @dp",
     "AvailabilityDialogId": 55,
     "OptionFaction2Points": 100,
-    "DialogText": "Hopefully this will help you along in your adventures.",
+    "DialogText": "希望这些物品对你的探险有所帮助。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

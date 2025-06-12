@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 382,
-                "Title": "And what of the sword?",
+                "Title": "那剑呢？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let me get back to you on this.",
+                "Title": "我回头再跟你说。",
                 "DialogColor": 16390404,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 381,
     "OptionFaction2Points": 100,
-    "DialogText": "Well, the shield was not a problem, although I have never seen one quite like it. This was not Cromhes’ shield, it is much older and bears the markings of the South Kingdom. Very interesting…whatever the case, it will serve him well.",
+    "DialogText": "盾牌不是问题，虽然我从未见过这样的盾牌。这肯定不是克罗米斯的盾牌，它要 古老得多，而且带有南方王国的徽记。非常有趣……但无论如何，这都会对他有 好处。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

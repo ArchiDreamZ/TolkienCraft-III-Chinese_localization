@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 637,
-                "Title": "Then what can we do?",
+                "Title": "那我们能做什么呢？",
                 "DialogColor": 16250871,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 634,
-                "Title": "Maybe something else?",
+                "Title": "也许是别的什么原因？",
                 "DialogColor": 16456454,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Sadly yes, there have been many who have gone there, never to be seen again.",
+    "DialogText": "遗憾的是，有许多人去了那里，再也没有回来过。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

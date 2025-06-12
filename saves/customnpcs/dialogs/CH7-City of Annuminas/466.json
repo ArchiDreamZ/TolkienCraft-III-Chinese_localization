@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 467,
-                "Title": "We were so close!",
+                "Title": "我们差一点就成功了！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Well, you let me know how that goes.",
+                "Title": "好吧，你让我知道结果会怎样。",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I fear that Dreulhara has won this hour. We must plan our next move, and quickly, so her victory will be short-lived.",
+    "DialogText": "我担心德鲁哈拉已经赢下了这个时刻。我们必须计划下一步行动，而且要快！这 样子她的胜利才会只是暂时的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 160,

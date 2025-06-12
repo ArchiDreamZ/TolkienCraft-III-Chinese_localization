@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "哦，你最好相信我会让当局介入此事！",
+                "Title": "哦，你最好相信我会让警长介入此事！",
                 "DialogColor": 16734720,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "卢修斯·沃勒(Lucious Warrer) III",
+    "DialogTitle": "Lucious Warrer III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "请不要告诉警长！我这样做是为了拯救我的家人！你看，一个叫吉尔斯(Giles)的土匪告诉我，除非我为他们的队长皮尔斯(Pierce)打造一把剑，否则他会伤害我的家人。但我没有足够的铁来打造一把剑，我急切地想要拯救我的家人，所以我拿了那把矮人的剑！",
+    "DialogText": "请不要告诉警长！我这样做是为了拯救我的家人！你听着，一个叫吉尔斯的土匪 告诉我，除非我为他们的队长皮尔斯打造一把剑，否则他就会伤害我的家人。但 我没有足够的铁来打造一把剑，我急切地想要拯救我的家人，所以我拿走了矮人 那把剑！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 110,

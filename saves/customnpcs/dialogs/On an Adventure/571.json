@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 574,
-                "Title": "**You seek to console the unhappy hobbit, and soon Petunia is slightly less despondent**",
+                "Title": "**你设法安慰不开心的霍比特人，很快佩图尼亚就不那么沮丧了。**",
                 "DialogColor": 3733019,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will just leave you alone for a bit...",
+                "Title": "我就不打扰你了……",
                 "DialogColor": 16326154,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Oh, bother! I know there wasn't yet much of it, but I still keenly feel its loss! I will not be able to recreate exactly what I wrote the first time! Perhaps I should just abandon this endeavour. I am not a writer, and I am not an adventurer!",
+    "DialogText": "哦，麻烦了！我知道它的内容还不多，但我仍然深切地感受到它的消失！我无法 完全重现我第一次写的东西！也许我应该放弃这项努力。我不是作家，也不是冒 险家！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 206,

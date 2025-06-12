@@ -6,13 +6,13 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Lost Pages III",
-    "Text": "King Dáin II thinks the lost pages of the tome may point the way to the Secret Key.
+    "Text": "戴因二世国王认为，古籍的遗失书页可能揭 示了寻找秘钥的途径。
 
-The poem in the book will be your best guide to the page locations.
+书中的诗歌将是你了解遗失书页位置的最佳 指南。
 
-Pages picked up will give additional clues.
+拾取的书页会提供更多线索。
 
-The runes spelled out Angrenost, also known as Isengard.  Perhaps you should search there next?",
+符文拼成了一个地名——安格瑞诺斯特，又 名为艾森加德。也许你下一步应该搜索那里？",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -77,6 +77,6 @@ The runes spelled out Angrenost, also known as Isengard.  Perhaps you should sea
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "You find anotehr piece of paper, seemingly discarded haphazardly, on it the words Dûrgrimst Knurlcarathn.",
+    "CompleteText": "你发现一张纸，似乎是被随意丢弃的，上面 写着DûrgrimstKnurlcar athn字样。",
     "NextQuestTitle": "Lost Pages IV"
 }

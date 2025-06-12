@@ -6,9 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Waste not, Want not",
-    "Text": "There is an outpost near moria where the battle rages.
+    "Text": "在战火纷飞的墨瑞亚附近有一个前哨站。
 
-Evindal has asked you to deliver arrows to her friend at the outpost near moria.",
+埃文达尔让你去前哨站墨瑞亚附近给她的朋 友送箭。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -73,6 +73,6 @@ Evindal has asked you to deliver arrows to her friend at the outpost near moria.
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "No arrow will be wasted! These will strike fresh orcs!",
+    "CompleteText": "箭无虚发！这些箭将射中新的奥克！",
     "NextQuestTitle": ""
 }

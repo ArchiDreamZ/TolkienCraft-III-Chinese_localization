@@ -6,9 +6,9 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Pungent Herbs I",
-    "Text": "Bald-bri has asked you to collect some herbs for him as part of a potion he is creating that can heal even the most wounded.
+    "Text": "秃头布里让你为他采集一些草药，作为他正 在制作的药水的一部分，这种药水甚至可以 治愈最严重的伤势。
 
-The herbs can be found along the riverside near Edhellond.",
+在埃蒂尔泷德附近的河边可以找到这些草药。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -53,6 +53,6 @@ The herbs can be found along the riverside near Edhellond.",
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "You've collected the herbs.",
+    "CompleteText": "你已经收集了草药。",
     "NextQuestTitle": "Pungent Herbs II"
 }

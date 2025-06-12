@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "戈马特鲁迪斯·傲蜜酒(Gomatrudis Proudmead) II",
+    "DialogTitle": "Gomatrudis Proudmead II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,9 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你看，当他在冒险时，他遇到了一群矮人！是的，矮人！任何了解情况的人都知道，其中一些矮人在很久以前失去了他们在遥远山脉中的家园后，变得非常古怪。,,
-
-据说从那时起，他们中的一些人就成了流浪者，为了勉强度日，几乎什么都干，要我说，这就是道德败坏的表现！假设他们一开始就有道德的话，但不是夏尔的人就不能确定了，是不能确定的！",
+    "DialogText": "你看，当他在冒险时，他遇到了一群矮人！是的，矮人！任何了解情况的人都知 道，其中一些矮人在很久以前失去了他们在遥远山脉中的家园后，变得非常古怪。
+据说从那时起，他们中的一些人就成了流浪者，为了勉强度日，几乎什么都干， 要我说，这就是道德败坏的表现！假设他们一开始就有道德的话，但不是夏尔的 人就不能确定了，是不能够确定的！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

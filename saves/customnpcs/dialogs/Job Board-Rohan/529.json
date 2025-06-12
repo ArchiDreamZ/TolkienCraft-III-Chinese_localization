@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 530,
-                "Title": "Sure, what do I have to do?",
+                "Title": "当然，我该怎么做？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sadly, not right now...",
+                "Title": "遗憾的是，现在不行",
                 "DialogColor": 16720897,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome to The Ancient Diviner! I'm sure you'll be wanting a draught of my Witch's Tongue brew, won't you? Say, you're that one what's been helping folks around here, aren't you? Maybe you can help me out some too.",
+    "DialogText": "欢迎来到古代占卜者这家店，我想你一定想喝我的巫师的舌头酒吧？你就是那个 一直在帮助大家的人，对吧？也许你也能帮帮我。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

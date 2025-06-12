@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Ancient Evil II",
-    "Text": "Falsir has asked you to find two fragments of a key that opens the way into the deepest halls of the Great Barrow from a pair of wights and a creature called a gaunt-man. 
+    "Text": "法尔西尔让你从一对巫师和一个叫柴骨人的 生物身上找到两块钥匙碎片，这两块碎片可 以打开通往大古冢最深处的通道。
 
-Take the fragments you have won to Falsir.",
+把你赢来的碎片交给法尔西尔。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,7 +50,7 @@ Take the fragments you have won to Falsir.",
             }
         ]
     },
-    "CompleteText": "I know that I promised you the story of the Great Barrow, but your tale has not yet ended. We need to finish the final chapter.",
+    "CompleteText": "我知道我答应过你要讲完大古冢的故事，但 你的故事还没有结束。我们需要完成最后的 一个章节。",
     "NextQuestTitle": "",
     "QuestLocation": "The Camp"
 }

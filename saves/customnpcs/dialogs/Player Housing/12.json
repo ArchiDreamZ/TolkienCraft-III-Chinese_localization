@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you for the information and this is going to be great!",
+                "Title": "感谢你提供的信息，这将会很有帮助！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Excellent!  Well, you should be able to enter the area now that we have talked, I’ll let the guards know it is ok for you to go in, just make sure you take a look around as we have tried to provide all the amenities you could need and the area is always daytime and monster free so feel safe and secure in your new purchase and have a great day!",
+    "DialogText": "好极了！好了，既然我们已经谈过了，你应该可以进入玩家居所维度了，我会让 警卫知道你拥有了进入的权限。只要你四处走走就可以看到了，我们已经尽力提 供了你所需要的所有设施。而且这个维度一直都是白天，没有怪物，所以你可以 放心地在你新买的房产中安心生活，祝你拥有美好的一天！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

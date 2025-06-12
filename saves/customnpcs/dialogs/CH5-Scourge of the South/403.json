@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 404,
-                "Title": "So what now?",
+                "Title": "那接下来要怎么做？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Good luck with that battle.",
+                "Title": "祝你在这场战斗中好运。",
                 "DialogColor": 16724737,
                 "OptionType": 0
             }
@@ -50,9 +50,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "But this sword…is this my sword? It was forged long ago by the Elves of Rivendell, an heirloom of my family. I thought it lost forever, but now it is returned as Apostle!
-
-It is well-named Hope of Vengence. Indeed, it will avenge my daughter….",
+    "DialogText": "但这把剑……是我的剑？它是很久以前由幽谷精灵铸造的，是我的传家之宝。我 以为它永远地离我而去了，但现在它又以使徒的身份回来了！
+它有一个好名字，意为复仇的希望。的确，它将为我的女儿复仇….",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

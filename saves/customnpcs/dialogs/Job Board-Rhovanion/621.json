@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Be back soon...I hope!",
+                "Title": "很快就回来……我希望如此！",
                 "DialogColor": 16655618,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Excellent, once you have collected all of the missing pieces, make sure to bring them back to me.",
+    "DialogText": "很好，一旦你收集到了所有遗失的碎片，一定要把它们带回来给我。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

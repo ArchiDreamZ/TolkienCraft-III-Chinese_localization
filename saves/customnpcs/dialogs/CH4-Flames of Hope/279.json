@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I shall be careful, await my return!",
+                "Title": "我会小心的，等我回来！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Be wary, though...he will be waiting just south of the fast travel near the 1st hall. Most of his people are in the service of Angmar so please, be careful. I will mark the meeting place on your map.",
+    "DialogText": "不过要小心……他将在快速旅行点南面的第一大厅附近等候。他的大部分手下都 在为安格玛服务，所以请务必小心。我会在你的地图上标出会面地点。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 73,

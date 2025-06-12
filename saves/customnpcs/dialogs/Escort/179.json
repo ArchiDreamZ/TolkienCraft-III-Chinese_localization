@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 180,
-                "Title": "Don’t mention it.",
+                "Title": "别客气。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "My friend, you cannot understand the joy this brings me. You have given me a gift this day, and I shall never forget what you have done",
+    "DialogText": "我的朋友，你无法理解这给我带来的喜悦。今天你给了我一份礼物，我永远不会 忘记你所做的一切",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

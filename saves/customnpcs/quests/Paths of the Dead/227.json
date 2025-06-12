@@ -7,9 +7,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 0,
     "Title": "The Restless Dead II",
-    "Text": "Guodhelda is in Erech.
+    "Text": "瓜德尔塔就在埃瑞赫。
 
-Guodhelda will be pleased to hear many Restless Dead (Oathbreakers) have been quieted.",
+瓜德尔塔会很高兴听到许多不眠亡者（背誓 者）已经安静下来。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -50,7 +50,7 @@ Guodhelda will be pleased to hear many Restless Dead (Oathbreakers) have been qu
             }
         ]
     },
-    "CompleteText": "I fear we are ultimately fighting a loosing battle, but at this point I do not know what else we could do.",
+    "CompleteText": "我担心我们最终会打一场败仗，但此时此刻， 我不知道我们还能多做点什么。",
     "NextQuestTitle": "",
     "QuestLocation": "Erech"
 }

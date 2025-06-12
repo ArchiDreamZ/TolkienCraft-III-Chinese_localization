@@ -6,13 +6,13 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "The Secret Tome",
-    "Text": "An old tome found in Erebor leads to the mystery of The Secret Stone. What does it mean?
+    "Text": "埃瑞博山发现的一块古老巨著揭开了神秘石 头之谜。它意味着什么？
 
-King Dain II is in the line of Durin. Perhaps he would be willing to share more about this Secret Stone.
+戴因二世国王与都林一脉相承。也许他愿意 分享更多关于这个神秘石头的信息。
 
-King Dain II can be found at his seat in Erebor.
+戴因二世国王可以在埃瑞博山中的王座上被 找到。
 
-You should bring the tome to King Dain II.",
+你应该把这本古籍带到戴因二世国王那里。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -96,6 +96,6 @@ You should bring the tome to King Dain II.",
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "What have you brought me, @p?",
+    "CompleteText": "你给我带来了什么，冒险家？",
     "NextQuestTitle": ""
 }

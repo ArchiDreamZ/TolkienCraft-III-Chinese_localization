@@ -6,7 +6,7 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Lost Manuscript III",
-    "Text": "Tom Bombadil may have set Petunia’s manuscript down outside somewhere near his house, and she has asked you to see if you can find it.",
+    "Text": "汤姆·邦巴迪尔可能把佩图尼亚的手稿放在 了他家附近的某个地方，佩图尼亚让你去看 看能不能找回来。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -53,8 +53,8 @@
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "Several pages of Petunia’s Manuscript describe her plan to host a dinner party for her neighbours, and the discovery of the map that set her on her adventure.
+    "CompleteText": "在佩图尼亚手稿中，有几页描述了她为邻居 举办晚宴的计划，以及发现地图和开始冒险 的经过。
 
-You found some of Petunia’s pages. Did the wind bring others north?",
+你找到了佩图尼亚的一些书页。风把其他书 页带到北方了吗？",
     "NextQuestTitle": "Lost Manuscript IV"
 }

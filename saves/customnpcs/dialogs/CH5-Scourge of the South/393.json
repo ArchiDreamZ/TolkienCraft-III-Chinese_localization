@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 394,
-                "Title": "Is that significant?",
+                "Title": "这重要吗？",
                 "DialogColor": 2093086,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "But what is this? I daresay this shield did not belong to your friend Cromhes. This shield is far older, from near the fall of the North Kingdom. It is also from Gondor, not the North. Indeed, it looks familiar…I seem to recall its like among the royal line of Gondor.",
+    "DialogText": "但这是什么？我敢说，这块盾牌并不属于你的朋友克罗米斯。这块盾牌的年代要 久远得多，制作可以追溯到北方王国陷落的时间点附近。它也来自刚铎，而不是 北方王国。的确，它看起来很眼熟……我似乎记得刚铎的皇室成员中也有这样的 盾牌。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

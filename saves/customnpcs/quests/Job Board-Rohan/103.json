@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "In Need of Supplies",
-    "Text": "You accepted a task with finding Monster Flesh from Orcs making Rohan their home. Sisbert Clevenot awaits the delivery of these items at The Vulgar Warlock Arms Inn in Edoras.",
+    "Text": "你接受了一项任务，要从洛汗的奥克身上搜 寻怪物肉。在埃多拉斯的三流术士手臂旅馆， 西斯贝尔·克莱维诺等待着这些物品的运送。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -131,6 +131,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Thank you @p, as promised here is your payment.  Come back to me if you ever want to help again.",
+    "CompleteText": "谢谢你，冒险家，这是你的报酬。如果你还 想帮忙，请再来找我。",
     "NextQuestTitle": ""
 }

@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Eriador Job Board",
-    "Text": "The people of the Eriador region are looking for hearty adventurers to complete some mundane tasks.  Head to Bree to see what jobs they have to offer.",
+    "Text": "埃利阿多地区的人们正在寻找勇敢的冒险者 来完成一些平凡的任务。前往布理看看他们 提供了哪些工作。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Let's see what jobs are posted!",
+    "CompleteText": "来看看他们都发布了哪些工作！",
     "NextQuestTitle": "",
     "QuestLocation": "Eriador Job Board"
 }

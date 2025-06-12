@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 593,
-                "Title": "How do we accomplish that?",
+                "Title": "我们怎样才能做到这一点呢？",
                 "DialogColor": 16710651,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I’ll get back with you on that.",
+                "Title": "我会再跟你联系的。",
                 "DialogColor": 16189446,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Wargs have been defeated, depriving the goblins of new mounts. The orcs have been defeated, depriving the Wargs of new riders. Now, the time has come to destroy the very training track itself and deprive them of future Warg-riders altogether.",
+    "DialogText": "座狼已经战败了，半兽人失去了新坐骑。奥克已被击败，座狼也失去了新的骑手。 现在，是时候摧毁训练跑道这座建筑，彻底剥夺它们成为未来座狼骑手的机会了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 213,

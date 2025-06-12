@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wish me safe travels then, and I shall return!",
+                "Title": "祝我一路顺风，我会回来的！",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I do not know what the Rider might seek to gain by taking to Carn Dûm. Perhaps he simply wants to fortify it, but I would wager there is more to this deed than we can see. Perhaps by scouting the borders of Angmar we can learn more of his plans. Do not attempt to enter Carn Dûm itself--too many dark things linger there--but instead search any outlying camps.",
+    "DialogText": "我不知道黑骑手前往卡恩督姆的目的是什么。也许他只是想加固卡恩督姆，但我 敢打赌，他的目的远不止于此。也许通过侦查安格玛王国的边界，我们可以了解 到他更多的计划。不要试图进入卡恩督姆区域——那里徘徊着太多黑暗的东西— —而是搜索一些外围的营地。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

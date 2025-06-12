@@ -6,9 +6,9 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "Never Forget I",
-    "Text": "Fallen adventurers can be found within Paths of the Dead, far to the north of Erech.
+    "Text": "堕落的冒险者可以在埃瑞赫北部的亡者之路 找到。
 
-Guodhelda asked you to return any remains of those you found within the Paths of the Dead.",
+瓜德尔塔要求你回收在亡者之路发现的任何 遗骸。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -53,6 +53,6 @@ Guodhelda asked you to return any remains of those you found within the Paths of
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "You've collected the remains.",
+    "CompleteText": "你已经收集了遗骸。",
     "NextQuestTitle": "Never Forget II"
 }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 598,
-                "Title": "That’s it? Goblins?  Piece of cake for me!",
+                "Title": "就这样？半兽人？ 小菜一碟",
                 "DialogColor": 3144975,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Hopefully the fighters in your group can manage it then.",
+                "Title": "希望你团队中的战士能做到这一点。",
                 "DialogColor": 16662528,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It appears that recently a bunch of goblins have tried to set up a blockade in the road between here and the Twenty-first Hall that makes travel difficult, and we need that stretch of the passage cleared if we are to continue to supply the Twenty-first Hall.",
+    "DialogText": "最近似乎有一群半兽人试图在这里和第二十一大厅之间的道路上设置路障，导致 交通不便，如果我们要继续向第二十一大厅提供补给，就必须清理这段通道。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -6,11 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Steps of Evil II",
-    "Text": "Upon hearing that the Nazgûl fled to Carn Dûm, Glóin told you some of the tale of that ancient fortress.
+    "Text": "听说那兹古尔逃到了卡恩督姆，格罗因告诉 了你一些关于那个古老要塞的故事。
 
-Carn Dûm is far to the north-west of Rivendell.
+卡恩督姆远在幽谷的西北方。
 
-Near one of the entrances to Carn Dûm you encountered wights. You should defeat one and search its remains for some clue as to what brought it here.",
+在卡恩督姆的一个入口附近，你能遇到一些 巫师。你应该打败其中一个，然后搜索它的 残骸，寻找一些线索，看看是什么把它带到 这里来的。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -75,6 +75,6 @@ Near one of the entrances to Carn Dûm you encountered wights. You should defeat
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Wights! Surely this is the doing of the Rider! And that sigil you found on one of them...I can tell that it is an artifact of evil, but its true meaning is beyond me. Perhaps it is time we ask for help from master Elrond.",
+    "CompleteText": "巫师！这肯定是黑骑手干的！你在其中一个 人身上发现的徽章……我知道那是一件邪恶 的工艺品，但它的真正含义我却无法理解。 也许是时候向埃尔隆德大人求助了。",
     "NextQuestTitle": ""
 }

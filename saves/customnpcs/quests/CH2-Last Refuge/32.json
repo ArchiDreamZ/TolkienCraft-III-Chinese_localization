@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Last Refuge II",
-    "Text": "With the Key-stone in hand, you can now enter the dwarf-keep in Gundabad, the last refuge of the Dourhands and confront both the Nazgûl and Dugorim.",
+    "Text": "拿到钥匙石后，你就可以进入贡达巴德山的 矮人堡垒——杜汉德矮人最后的庇护所，与 那兹古尔和杜戈林进行对峙。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -60,6 +60,6 @@
             }
         ]
     },
-    "CompleteText": "You saw the Nazgûl was there and ran off? You say a fell spirit left his body as he died?!?!",
+    "CompleteText": "你看到那兹古尔在那里，然后他跑了？你说 他死的时候灵魂离开了他的身体？",
     "NextQuestTitle": ""
 }
